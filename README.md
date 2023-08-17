@@ -9,7 +9,7 @@ The DB is used in Vul to discover information about `jars` without GAV inside th
 Every Thursday in 00:00
 
 ## Download the java indexes database
-You can download the actual compiled database via [Vul](https://khulnasoft-labs.github.io/vul/) or [Oras CLI](https://oras.land/cli/).
+You can download the actual compiled database via [Vul](https://khulnasoft-lab.github.io/vul/) or [Oras CLI](https://oras.land/cli/).
 
 Vul:
 ```sh
@@ -21,11 +21,11 @@ rm -rf $TRIVY_TEMP_DIR
 
 oras >= v0.13.0:
 ```sh
-$ oras pull ghcr.io/khulnasoft-labs/vul-java-db:1
+$ oras pull ghcr.io/khulnasoft-lab/vul-java-db:1
 ```
 
 oras < v0.13.0:
 ```sh
-$ oras pull -a ghcr.io/khulnasoft-labs/vul-java-db:1
+$ oras pull -a ghcr.io/khulnasoft-lab/vul-java-db:1
 ```
-The database can be used for [Air-Gapped Environment](https://khulnasoft-labs.github.io/vul/latest/docs/advanced/air-gap/).
+The database can be used for [Air-Gapped Environment](https://khulnasoft-lab.github.io/vul/latest/docs/advanced/air-gap/).

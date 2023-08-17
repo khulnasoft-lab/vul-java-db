@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/types"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/types"
 )
 
 const (

@@ -1,4 +1,4 @@
-module github.com/khulnasoft-labs/vul-java-db
+module github.com/khulnasoft-lab/vul-java-db
 
 go 1.18
 
@@ -6,6 +6,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/cheggaaa/pb/v3 v3.1.4
 	github.com/hashicorp/go-retryablehttp v0.7.4
+	github.com/khulnasoft-labs/vul-java-db v0.0.0-20230813220031-539e234d4d48
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/sync v0.3.0

@@ -11,10 +11,10 @@ import (
 	"golang.org/x/xerrors"
 	"k8s.io/utils/clock"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/crawler"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/db"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/fileutil"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/types"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/crawler"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/db"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/fileutil"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/types"
 )
 
 const updateInterval = time.Hour * 72 // 3 days

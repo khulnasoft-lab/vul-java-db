@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/dbtest"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/types"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/dbtest"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/types"
 
 	_ "modernc.org/sqlite"
 )

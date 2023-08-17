@@ -1,12 +1,12 @@
 package dbtest
 
 import (
-	"github.com/khulnasoft-labs/vul-java-db/pkg/types"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/types"
 	"testing"
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/db"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/db"
 )
 
 func InitDB(t *testing.T, indexes []types.Index) (db.DB, error) {

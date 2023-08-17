@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/crawler"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/crawler"
 )
 
 func TestCrawl(t *testing.T) {

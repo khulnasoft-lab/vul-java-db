@@ -1,6 +1,6 @@
 package crawler
 
-import "github.com/khulnasoft-labs/vul-java-db/pkg/types"
+import "github.com/khulnasoft-lab/vul-java-db/pkg/types"
 
 type Metadata struct {
 	GroupID    string     `xml:"groupId"`
