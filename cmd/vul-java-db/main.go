@@ -9,9 +9,9 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/xerrors"
 
-	"github.com/khulnasoft-labs/vul-java-db/pkg/builder"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/crawler"
-	"github.com/khulnasoft-labs/vul-java-db/pkg/db"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/builder"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/crawler"
+	"github.com/khulnasoft-lab/vul-java-db/pkg/db"
 
 	_ "modernc.org/sqlite"
 )
