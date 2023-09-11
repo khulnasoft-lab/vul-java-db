@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-chain",
+  "ArtifactID": "commons-chain",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "pCLykYmCj5vAx0hXT9QpFNKSNho="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "MDi9QdzbK2O4xtzIwV8P3z84kBI="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "dEoT6HZuM4vTR7b7woxtsSl50MY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

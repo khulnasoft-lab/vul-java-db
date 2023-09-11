@@ -1,0 +1,11 @@
+{
+  "GroupID": "oness",
+  "ArtifactID": "oness-user-webapp",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "goq0RYTOzsB2puUeU5BAr7IKe00="
+    }
+  ],
+  "ArchiveType": "jar"
+}

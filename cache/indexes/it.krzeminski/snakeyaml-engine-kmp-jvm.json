@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.krzeminski",
+  "ArtifactID": "snakeyaml-engine-kmp-jvm",
+  "Versions": [
+    {
+      "Version": "2.7",
+      "SHA1": "loVPQqn/GeAj4bfwvoQmh6Qs9Js="
+    }
+  ],
+  "ArchiveType": "jar"
+}

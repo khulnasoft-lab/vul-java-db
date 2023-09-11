@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-servlet",
+  "Versions": [
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "xCtn2EL0wvptAxJzzQwh2vOlqeY="
+    },
+    {
+      "Version": "20031030.235416",
+      "SHA1": "tRb+9ZkcDqZpYgBhCyr9R2Yphn4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

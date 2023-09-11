@@ -1,0 +1,39 @@
+{
+  "GroupID": "fr.arakne",
+  "ArtifactID": "arakne-encoding",
+  "Versions": [
+    {
+      "Version": "0.1-alpha",
+      "SHA1": "+YbSPRh3X0100XOyO42XdzrJTxc="
+    },
+    {
+      "Version": "0.2-alpha",
+      "SHA1": "7Y6DyvQPIskx7Poz/D3RbLwdRNg="
+    },
+    {
+      "Version": "0.3-alpha",
+      "SHA1": "a4Kren52cy4H0yCSLD6MFcEH6NU="
+    },
+    {
+      "Version": "0.4-alpha",
+      "SHA1": "nVmvZzMo/W6l45i5+k4curgHhvI="
+    },
+    {
+      "Version": "0.5-alpha",
+      "SHA1": "FP8C1/l3S07qKixfo4+Tgw2qcJ0="
+    },
+    {
+      "Version": "0.6-alpha",
+      "SHA1": "SRIe7gCCXwzaoN4VWM6mU6SVJUU="
+    },
+    {
+      "Version": "0.7-alpha",
+      "SHA1": "Cs65hdNTw7SqQ3ZYTUpV+lGYi1c="
+    },
+    {
+      "Version": "0.8-alpha",
+      "SHA1": "bVqKqtEG3wAZchLNg5/H5QLHkRs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

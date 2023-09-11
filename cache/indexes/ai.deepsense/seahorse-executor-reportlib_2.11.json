@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.deepsense",
+  "ArtifactID": "seahorse-executor-reportlib_2.11",
+  "Versions": [
+    {
+      "Version": "1.4.2",
+      "SHA1": "h7d2HOv3yqaVXUNebQmEwMsRAWM="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "LWuHuR8inxq2oRnShgM3PIkUIyI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

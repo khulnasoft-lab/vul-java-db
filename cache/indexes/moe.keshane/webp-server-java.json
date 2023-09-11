@@ -1,0 +1,19 @@
+{
+  "GroupID": "moe.keshane",
+  "ArtifactID": "webp-server-java",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "az0XKSVhDl59E4+kK3d7nPidmBo="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "5f2cfIlLPp8DCLjBdbhknB6kCW4="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "E0sDnqUiZT/7ytnCZqHBvcVXsrY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

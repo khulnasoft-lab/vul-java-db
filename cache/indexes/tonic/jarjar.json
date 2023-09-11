@@ -1,0 +1,11 @@
+{
+  "GroupID": "tonic",
+  "ArtifactID": "jarjar",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "abf2/LkmhMhSUSNgJD7uTSMzrac="
+    }
+  ],
+  "ArchiveType": "jar"
+}

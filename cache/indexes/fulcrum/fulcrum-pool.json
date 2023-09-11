@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-pool",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "ReKbawM/FsBMxWOiUnh0J472WSQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-naming",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "ujCIZkw7970noTm6+FCEg/gLurA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

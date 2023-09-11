@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.kes",
+  "ArtifactID": "kraftwerk",
+  "Versions": [
+    {
+      "Version": "0.11.0",
+      "SHA1": "77dalgq56+IDmcHTomwcC/Kaw8g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

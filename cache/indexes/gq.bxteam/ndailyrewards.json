@@ -1,0 +1,39 @@
+{
+  "GroupID": "gq.bxteam",
+  "ArtifactID": "ndailyrewards",
+  "Versions": [
+    {
+      "Version": "1.5.4",
+      "SHA1": "nw6fJuO+wfyiixU9yI4W1lg8feE="
+    },
+    {
+      "Version": "1.5.5",
+      "SHA1": "Twfl1cGfbHV27d48sNPpLJq/lAU="
+    },
+    {
+      "Version": "1.5.6",
+      "SHA1": "FiALG/Wnpg+ycoYqkVDd/nsm0NI="
+    },
+    {
+      "Version": "1.5.7",
+      "SHA1": "Itd2arsKI3U9R16/VuqYVEIHxmM="
+    },
+    {
+      "Version": "1.5.8",
+      "SHA1": "scLEzxWMALQDOk00jx1x9NZr/UM="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "h3Um9jap52Kolrls2Km6X145j+A="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "yE/WkGrDqqRKB77P8rEsj0a1Pfs="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "eQReZijfVTXiY4bDgB/ah37JfIo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

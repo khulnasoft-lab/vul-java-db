@@ -1,0 +1,15 @@
+{
+  "GroupID": "hu.gecsevar",
+  "ArtifactID": "hu.gecsevar.openapi",
+  "Versions": [
+    {
+      "Version": "1.0.15",
+      "SHA1": "rCX2/qeIGGi8zbR4RFq1AM+YxdE="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "rFAytu7PN9fyCDNdChF3tfC1kAk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

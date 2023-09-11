@@ -1,0 +1,15 @@
+{
+  "GroupID": "wang.bannong",
+  "ArtifactID": "gk5-mybatis-x",
+  "Versions": [
+    {
+      "Version": "1.1.1-beta",
+      "SHA1": "1EVIfD9b5DWeKozNl/36NKc0j6Y="
+    },
+    {
+      "Version": "1.1.2-beta",
+      "SHA1": "Jpot1cqrQgHEqqTcZ4Vme8wObM8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

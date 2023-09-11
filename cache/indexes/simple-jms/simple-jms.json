@@ -1,0 +1,11 @@
+{
+  "GroupID": "simple-jms",
+  "ArtifactID": "simple-jms",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "+pRslKemIVyT32kRmQx/aaP0hxc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

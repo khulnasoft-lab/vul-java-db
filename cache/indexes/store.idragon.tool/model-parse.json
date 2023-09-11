@@ -1,0 +1,11 @@
+{
+  "GroupID": "store.idragon.tool",
+  "ArtifactID": "model-parse",
+  "Versions": [
+    {
+      "Version": "0.0.6-RELEASE",
+      "SHA1": "u1PT0qSMO/4k7waDUzCVQEb8Vwc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

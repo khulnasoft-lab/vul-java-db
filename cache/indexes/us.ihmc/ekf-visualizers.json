@@ -1,0 +1,27 @@
+{
+  "GroupID": "us.ihmc",
+  "ArtifactID": "ekf-visualizers",
+  "Versions": [
+    {
+      "Version": "0.7.2",
+      "SHA1": "JbLruPxNefuAqg7XkHZFeTknYIg="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "4EpDGJzqd6jRkaOnkeNdjH14uwY="
+    },
+    {
+      "Version": "0.7.4",
+      "SHA1": "zRe8tMrlCPi3b8yINC7PlnAMiMU="
+    },
+    {
+      "Version": "0.7.5",
+      "SHA1": "7CHPMzH0U42FzRXAAeR2uohVdD8="
+    },
+    {
+      "Version": "0.7.6",
+      "SHA1": "qNbZJRRHRnDfcza+d0hvJRWESWI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

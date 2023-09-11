@@ -1,0 +1,15 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-extension",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "rMzU7FRL/Vs3lvkYGvszotCJNss="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "Cnm+8tJNSGuw0Qp5cqntKBNSAXA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "video.api",
+  "ArtifactID": "android-api-client",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "QrXRrasl3B0Ig0XPkMEYhiFFLSw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

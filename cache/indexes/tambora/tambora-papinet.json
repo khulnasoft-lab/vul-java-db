@@ -1,0 +1,11 @@
+{
+  "GroupID": "tambora",
+  "ArtifactID": "tambora-papinet",
+  "Versions": [
+    {
+      "Version": "V2R10",
+      "SHA1": "O26ExJzdbn+8o7a+feZqItLo3Wg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

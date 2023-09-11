@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "daytrader-streamer",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "nYv9SuYJ5T7fO0X5wZfOr+3/Qdk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

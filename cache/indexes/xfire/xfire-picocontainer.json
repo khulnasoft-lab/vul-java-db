@@ -1,0 +1,35 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-picocontainer",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "Eh3eR1nFs/5V+th2phnxCENxQ38="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "Xls9GGwCcEq/S6HxlFKKdmZj03g="
+    },
+    {
+      "Version": "1.0-20050913.005017",
+      "SHA1": "SBzy4nmMaXU0nK4pi8UWkqq73JQ="
+    },
+    {
+      "Version": "1.0-20050917.230959",
+      "SHA1": "ED7karlwAv5IrVtK+5FDycq7zgQ="
+    },
+    {
+      "Version": "1.0-20050920.032323",
+      "SHA1": "hHIoCP+xnNh5DOXyjxqcfukgPmM="
+    },
+    {
+      "Version": "1.0-20050920.034752",
+      "SHA1": "hHIoCP+xnNh5DOXyjxqcfukgPmM="
+    },
+    {
+      "Version": "1.0-20051009.200114",
+      "SHA1": "hHIoCP+xnNh5DOXyjxqcfukgPmM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

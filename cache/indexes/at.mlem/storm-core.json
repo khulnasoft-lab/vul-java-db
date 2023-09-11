@@ -1,0 +1,23 @@
+{
+  "GroupID": "at.mlem",
+  "ArtifactID": "storm-core",
+  "Versions": [
+    {
+      "Version": "0.2.3",
+      "SHA1": "+RUWyV6BoZ/0kdCaPk3Hin70UBM="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "CuVMqFY2ICAgVUaMBqIr0Y2I/Gw="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "/ebybETJ0oGqYBzc4gEicNf0fj0="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "3Ju6B9wrpTH/YHyHPOwlsqgWoD4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

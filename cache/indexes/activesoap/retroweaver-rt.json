@@ -1,0 +1,11 @@
+{
+  "GroupID": "activesoap",
+  "ArtifactID": "retroweaver-rt",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "55a5WcTTLmknHVUW1+XFnkrHxxM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

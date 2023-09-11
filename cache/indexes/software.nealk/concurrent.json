@@ -1,0 +1,19 @@
+{
+  "GroupID": "software.nealk",
+  "ArtifactID": "concurrent",
+  "Versions": [
+    {
+      "Version": "0.2.7",
+      "SHA1": "bVI7f6fCfDuHQ3Fh9DT9GiVjPS0="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "IeXcigGSfUiCse6RWKbryS14Kxs="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "V5rC/vTtg0E2WGRAFw4BlD9KV8U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

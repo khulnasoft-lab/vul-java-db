@@ -1,0 +1,23 @@
+{
+  "GroupID": "wicket",
+  "ArtifactID": "wicket-contrib",
+  "Versions": [
+    {
+      "Version": "0.9.16-beta",
+      "SHA1": "kBlgFUPC0NziPZT0bP7k+WEJ+FM="
+    },
+    {
+      "Version": "0.9.17-beta",
+      "SHA1": "Zu6ePBSOuKbdFRYnJCzIwAHdWt0="
+    },
+    {
+      "Version": "0.9.18-beta",
+      "SHA1": "NV2gg2+iRjZ33Op0vSFOA+HC9ac="
+    },
+    {
+      "Version": "0.9.19-beta",
+      "SHA1": "ZQLZRepQLl1DjavSMzpv5sLu4c0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

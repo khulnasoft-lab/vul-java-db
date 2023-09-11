@@ -1,0 +1,23 @@
+{
+  "GroupID": "pl.pkazenas",
+  "ArtifactID": "jsonschema4s_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.4",
+      "SHA1": "6tsRB/ml2sINQOMVO52JZkdM5Uw="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "IZ8lScVOd3QnEYEKq6p2smHCDtg="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "iP4COMWWQQ1Emr9xESVIeDJBxJg="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "XFJIiD+47w/e33WU784WC3+Le+g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

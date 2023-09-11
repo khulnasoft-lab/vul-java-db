@@ -1,0 +1,11 @@
+{
+  "GroupID": "javancss",
+  "ArtifactID": "ccl",
+  "Versions": [
+    {
+      "Version": "21.41",
+      "SHA1": "Dx1Lb1t2571RlSWb4/gjsxFmCa8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

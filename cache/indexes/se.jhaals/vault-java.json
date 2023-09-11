@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.jhaals",
+  "ArtifactID": "vault-java",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "/5GNhRTybu8JQd+4oGg3N/3cn/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

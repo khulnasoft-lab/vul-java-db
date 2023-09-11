@@ -1,0 +1,27 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-fs2-ce3-interop_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.8",
+      "SHA1": "GlGFgB/S3GH51XaTz+XL3vIzR8g="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "Jhk1SEo+3qLW+tco3zG6R/qu+P8="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "BD1/XOk/uuwumHK2XC5gH8KUg/0="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "cXVpY2JfWZSI4wzpakkAk23NTDo="
+    },
+    {
+      "Version": "0.12.0.1",
+      "SHA1": "0UsKooO9UxvfP7sANeugocLoJjc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

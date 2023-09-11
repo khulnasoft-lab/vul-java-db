@@ -1,0 +1,11 @@
+{
+  "GroupID": "annogen",
+  "ArtifactID": "annogen",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "qN406nqpN2XSTcFuycYa9RYLuJk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

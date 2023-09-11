@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-zlib",
+  "Versions": [
+    {
+      "Version": "1.2.11.0",
+      "SHA1": "Xigp/Cu0OjTGi2XRhPHKUa/SzqY="
+    },
+    {
+      "Version": "1.2.11.1",
+      "SHA1": "fSJEib/k8BfKQgndmQ1fxmqLtK8="
+    },
+    {
+      "Version": "1.2.11.2",
+      "SHA1": "g3sZc3P7rRbi4i85peXSjX2lfSk="
+    },
+    {
+      "Version": "1.2.11.3",
+      "SHA1": "V9cUKzWCoKkwNvXeA8daf5ZL1Rg="
+    },
+    {
+      "Version": "1.2.13.0",
+      "SHA1": "6iJ1XF8h7FuUvrQX9qOzy1F5qws="
+    }
+  ],
+  "ArchiveType": "jar"
+}

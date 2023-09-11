@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.shingle",
+  "ArtifactID": "shingle-annotations",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "cEo8EUBycJnK1JO+qtMyXzfLl2c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

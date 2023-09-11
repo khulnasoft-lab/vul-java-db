@@ -1,0 +1,15 @@
+{
+  "GroupID": "tw.kewang",
+  "ArtifactID": "google-tts",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "VGAJDMG/3kiqXgGfNXMg78W/GKw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "FynVPE3n9NsdYbrx2bC0DOkzed0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-management",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "Ugj3NRBl9Zu250ZspSa5n4Jq3vM="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "1W+qtsXJMqf9p3CugeVrdjLc7U0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

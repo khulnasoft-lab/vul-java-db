@@ -1,0 +1,11 @@
+{
+  "GroupID": "red.htt",
+  "ArtifactID": "excels",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "2sjQjZsLJjOlzdjWgOtbCshSLnM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "space.divergence",
+  "ArtifactID": "hdfs-logger_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "t4DgVL7LLQAtIECqGOyIliA3y2s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

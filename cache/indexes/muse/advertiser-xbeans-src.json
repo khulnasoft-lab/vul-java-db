@@ -1,0 +1,11 @@
+{
+  "GroupID": "muse",
+  "ArtifactID": "advertiser-xbeans-src",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "+n7lJqM4o3CVDONhU8IY46zK/zc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

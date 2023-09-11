@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.shifty",
+  "ArtifactID": "datamask",
+  "Versions": [
+    {
+      "Version": "0.1.10",
+      "SHA1": "wX2jzzOnWDaVcl6fCKm2FmpWkrY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

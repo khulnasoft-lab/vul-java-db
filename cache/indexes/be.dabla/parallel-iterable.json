@@ -1,0 +1,35 @@
+{
+  "GroupID": "be.dabla",
+  "ArtifactID": "parallel-iterable",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "diJUfSGcDuP3FYfo6trWo6Eb9A4="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "lLMWrzRz0VMhhtu477yg0sjZZ6I="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "YU8kF3Gv1v3epk062qNACv48wUA="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "/0VEb5ZBxrzR6Yb0lmEznmq0dAw="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "JZeve4zkeMrTGQv1hGqbTvVGw1Q="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "pJ0uvMWbiAjOGRbm579Gqbl62dc="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "onqWIinDA7XPuOQt4ewa7RmGNks="
+    }
+  ],
+  "ArchiveType": "jar"
+}

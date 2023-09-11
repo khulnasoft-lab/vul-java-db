@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.dokt",
+  "ArtifactID": "dokt-jvm",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "x4/Jjo56mZMhqFhx1ZUVKyiv0zY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

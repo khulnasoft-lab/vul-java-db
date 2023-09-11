@@ -1,0 +1,19 @@
+{
+  "GroupID": "ervacon",
+  "ArtifactID": "webflow",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "5UD9pNxaHbHIDpuuuaT/AbL9AvQ="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "TnODJu5bi32/XU2BevhbfaE2M/A="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "GAgFs77U+FSfUZ+xPuUDeo/vmTs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

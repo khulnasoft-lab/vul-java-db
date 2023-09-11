@@ -1,0 +1,47 @@
+{
+  "GroupID": "systems.uom",
+  "ArtifactID": "systems-unicode-java8",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "q5q961tY2Dw1efn6heekanYOyfQ="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "lmszkHbk/JmYgCRE5P6j2OmP3Go="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "L76H3n8pLxs9GnAAeJDeeIL+Jlk="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "fTIlJtXMBXgStOD1IQyrMpVGCRE="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "OhKqvqr/8lINZiqt0uhZGUw/Ukg="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "sW6oHBos+/FmajoCXmY2I1XJ7Mk="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "v470A8bsDnZ9oNwonDgqrQpClD0="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "0t3gesGWSnspOU2ylGjDKxD1Shs="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "93CkRWp16rK1gZgUQ/bSnt8ve5U="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "eV+JR3dI5F4QCypUIKNlO5gTuXY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

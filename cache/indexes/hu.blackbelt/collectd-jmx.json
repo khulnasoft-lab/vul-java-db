@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.blackbelt",
+  "ArtifactID": "collectd-jmx",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "dHrzBl8UCc5YJxLlnolBcl+rdLc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

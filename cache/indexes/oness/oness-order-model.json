@@ -1,0 +1,11 @@
+{
+  "GroupID": "oness",
+  "ArtifactID": "oness-order-model",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "VbkUM0AQeuXL1h6qpRfdzSCkQAQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jrobin",
+  "ArtifactID": "jrobin",
+  "Versions": [
+    {
+      "Version": "1.4.0",
+      "SHA1": "mWUaBgo1GsEfmqzY+S0La0+hvgE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

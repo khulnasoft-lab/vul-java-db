@@ -1,0 +1,63 @@
+{
+  "GroupID": "systems.manifold",
+  "ArtifactID": "manifold-web-demo",
+  "Versions": [
+    {
+      "Version": "0.19-alpha",
+      "SHA1": "q+tXo/GSWkBVPiKKQkjXeiJqT60="
+    },
+    {
+      "Version": "0.20-alpha",
+      "SHA1": "fCXKwnXScvj5rzi1mBJOpfvt7NQ="
+    },
+    {
+      "Version": "0.21-alpha",
+      "SHA1": "jors6FIisv6HZCQMSrStTS7YgWc="
+    },
+    {
+      "Version": "0.22-alpha",
+      "SHA1": "UId9c/6qmSSqw+9dZ0S1+8/ngZo="
+    },
+    {
+      "Version": "0.23-alpha",
+      "SHA1": "pxgCDzYo+NPJZWE4cvo6nEW+sug="
+    },
+    {
+      "Version": "0.24-alpha",
+      "SHA1": "atqP6blLB0mfSHJ+jgXh3W9F9Bo="
+    },
+    {
+      "Version": "0.25-alpha",
+      "SHA1": "lnfCBVdCqKXPPETu5q1b9cj3wjo="
+    },
+    {
+      "Version": "0.26-alpha",
+      "SHA1": "0T3mqa2xcxFNtib8ITu48v10jww="
+    },
+    {
+      "Version": "0.27-alpha",
+      "SHA1": "s98STszyeDAHFqaJdtQjbPISmGI="
+    },
+    {
+      "Version": "0.28-alpha",
+      "SHA1": "xg+ep/CvxuhvdN1G9C/u5yyIQnE="
+    },
+    {
+      "Version": "0.29-alpha",
+      "SHA1": "kvPOi2SNFCVlyCmYhzNTfKpe+Zk="
+    },
+    {
+      "Version": "0.30-alpha",
+      "SHA1": "3nFlB2ZmZrA/a6t9f7eOsKphjPg="
+    },
+    {
+      "Version": "0.31-alpha",
+      "SHA1": "Cyg8e4EwsXWJ9MXdWyLxrFy4RjU="
+    },
+    {
+      "Version": "0.32-alpha",
+      "SHA1": "LJLi8fvWqjptlhZpLKST1seTAKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,107 @@
+{
+  "GroupID": "us.springett",
+  "ArtifactID": "alpine-executable-war",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "1Ye+DuwF6jxbwhQ9sYslGoiXRVw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "12eW0SWh6omy68le4bmmbUGYtjU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "21tydMNkPM8amurAZrJa+2LN8rg="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "X3p3pa1NE5OQaTPtSAHvI0IQhVU="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "NgqkiYZ6R8WnKIdEVh24RAWc/4A="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "SnVodC+l52mH2W2VEvh7YGxJFaE="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "oJdpjjQyp31XLzDHJJtjpzAObx8="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "QGy/jEuMq3X69aiBOuqQ4VoSnkI="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "NH6BqlxG6YN6ifxd7ArLu0/3NYE="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "HaQ5uCYSKcR1KiZgKNUHzs/xE60="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "3h7vtCWGDG+bYjrwfkU1yrOaD1A="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "c+dny8f+IgD3NjDZX6r0LGICmlY="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "t9cdQ5+Mqaw7ac4iJV/czdNyrbw="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "2H3DaSTInE/7i9Aqog4BfLo2ctM="
+    },
+    {
+      "Version": "1.2.7",
+      "SHA1": "Q4PWK5f2yI9IpY2VQo5HGibv2+4="
+    },
+    {
+      "Version": "1.2.8",
+      "SHA1": "Zm/ZQSFBRj5DsbC+DBTPjHYNj3A="
+    },
+    {
+      "Version": "1.2.9",
+      "SHA1": "Ri/I/O2XQ0/ittOgIkuRLS4ofvs="
+    },
+    {
+      "Version": "1.2.10",
+      "SHA1": "AWV+VYkmB+z/Q1SLKE8vUYJ119s="
+    },
+    {
+      "Version": "1.2.11",
+      "SHA1": "IDskEG78tWiOcTMwuPzhj5PSzVU="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "RqoIQwGdQ+PYG4RFX6UCOpl5WRc="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "LahsFyHblzFk4wkHd1zqAyB0p1M="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "TFELmqndRg/26BEEQ/beWDVwsKE="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "UbsomFQibRHWUGlOUKtgqHp0z6A="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "NYgnvk/cP1RCFsDl0p1kzdqy7oo="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "AOFHoKMQijU17LjcTLqFnwOhXHM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

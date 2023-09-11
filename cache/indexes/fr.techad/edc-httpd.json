@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.techad",
+  "ArtifactID": "edc-httpd",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "6czMPBKQ30Z4kSWagM0+I6kiJjY="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "vHgSAUDLV90x8fs9E8L1bPsp1yA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

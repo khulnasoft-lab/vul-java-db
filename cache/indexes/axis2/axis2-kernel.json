@@ -1,0 +1,15 @@
+{
+  "GroupID": "axis2",
+  "ArtifactID": "axis2-kernel",
+  "Versions": [
+    {
+      "Version": "0.95",
+      "SHA1": "6KLbwZPkRxB9zxfSiNRuRsn9uC8="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "2bLE01+wHqMUnHd9M/aibZm8/Y4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

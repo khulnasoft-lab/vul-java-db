@@ -1,0 +1,59 @@
+{
+  "GroupID": "black.ninia",
+  "ArtifactID": "jep",
+  "Versions": [
+    {
+      "Version": "3.7.0",
+      "SHA1": "5dyM3JZ2SGIerhkbsnpMGTvyBTQ="
+    },
+    {
+      "Version": "3.7.1",
+      "SHA1": "QGMBt1utmoKJAD1M91jr5uD2+dY="
+    },
+    {
+      "Version": "3.8.0",
+      "SHA1": "A0gx7Ki+suPK9aNryquwhp2r+QQ="
+    },
+    {
+      "Version": "3.8.1",
+      "SHA1": "A0gx7Ki+suPK9aNryquwhp2r+QQ="
+    },
+    {
+      "Version": "3.8.2",
+      "SHA1": "A0gx7Ki+suPK9aNryquwhp2r+QQ="
+    },
+    {
+      "Version": "3.9.0",
+      "SHA1": "uy3BPf2Tu3BKeM+k1i2Uln4cZOk="
+    },
+    {
+      "Version": "3.9.1",
+      "SHA1": "yaosygdKCAhPbcugXdIeHJVxc+U="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "PcBJvAdkinIOnBTZNMoRjTjY5sg="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "bve4VnRUuUS6LeSMP4YnK984DJk="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "87pU/wqNZc204cX/8MKTzunroME="
+    },
+    {
+      "Version": "4.0.3",
+      "SHA1": "fe+Fs0C398VW1wdDxERFNUG3BCs="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "RK5gmtR7a4n2jiwWQw+FlGjQPxo="
+    },
+    {
+      "Version": "4.1.1",
+      "SHA1": "+cGf/rsqR/tePRcPzffRvchAIEU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

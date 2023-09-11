@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.samson.daac",
+  "ArtifactID": "daac_2.13",
+  "Versions": [
+    {
+      "Version": "1",
+      "SHA1": "ee120v1jlu4jB3OwtlTPIdIW4/c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

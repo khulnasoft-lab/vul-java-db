@@ -1,0 +1,35 @@
+{
+  "GroupID": "be.personify",
+  "ArtifactID": "ipersonic-generator",
+  "Versions": [
+    {
+      "Version": "1.2.7.RELEASE",
+      "SHA1": "ttq5OTych7NrhIAzkEJbDDMaGKw="
+    },
+    {
+      "Version": "1.2.8.RELEASE",
+      "SHA1": "etKNH/ies6TRlxsimpq5hWtJ8pc="
+    },
+    {
+      "Version": "1.2.9.RELEASE",
+      "SHA1": "BEPqEmD3UpxY23U1jW0OnnGlFvs="
+    },
+    {
+      "Version": "1.2.30.RELEASE",
+      "SHA1": "gOX5oHEIpzNyetjNrgpmBiZJh8s="
+    },
+    {
+      "Version": "1.3.0.RELEASE",
+      "SHA1": "m758ck8r/AVMZdHKcRwPN/5ptuk="
+    },
+    {
+      "Version": "1.3.1.RELEASE",
+      "SHA1": "JAIWF3S1qPruip/8q15Ad9z65mA="
+    },
+    {
+      "Version": "1.3.2.RELEASE",
+      "SHA1": "RFcn/ad9XVdp3HBCEaZiddwgm2c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

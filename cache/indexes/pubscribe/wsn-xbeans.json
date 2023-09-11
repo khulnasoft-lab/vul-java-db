@@ -1,0 +1,11 @@
+{
+  "GroupID": "pubscribe",
+  "ArtifactID": "wsn-xbeans",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "S5a7e6cjt2hilpNQOiHxcKAEtvY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

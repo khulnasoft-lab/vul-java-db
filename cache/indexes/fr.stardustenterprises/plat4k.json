@@ -1,0 +1,51 @@
+{
+  "GroupID": "fr.stardustenterprises",
+  "ArtifactID": "plat4k",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "AyWLsYYFPUuW7qrHamKdqdyqMEM="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "eBdx2mxlSo9emn94txgPytQFJlU="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "CLEcJBwzhH8AHOKKDVW+TfCg+sk="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "025IYIZICAonxVc3uKx3JRjPvA0="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "ujZqZBmc1/ncvsguk9Md2iSo8LQ="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "aPaRl0dB6JUigQZdvOorpDfisow="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "I3aapDn0ov4umJ85wDb7huah/qo="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "e9W2WFG8R5LoeAJF4syOuPVG024="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "sCkczLlP4o4fnC1N/Z21z+k4NuQ="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "SD/HiU98oUF9x3futANV2kB12X8="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "8iItsw0MrZYVEP3A9OseCPKeaac="
+    }
+  ],
+  "ArchiveType": "jar"
+}

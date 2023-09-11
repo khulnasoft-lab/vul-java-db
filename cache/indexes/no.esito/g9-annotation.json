@@ -1,0 +1,27 @@
+{
+  "GroupID": "no.esito",
+  "ArtifactID": "g9-annotation",
+  "Versions": [
+    {
+      "Version": "2.6.1",
+      "SHA1": "8exXLPwBTUD9x0fKMvwpX/wk1Us="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "JePCtUgNUV8vIimg691LNQQ/Nqg="
+    },
+    {
+      "Version": "2.7.1",
+      "SHA1": "PsDQq5SJSaIICbTCB6jkFBIx6ok="
+    },
+    {
+      "Version": "2.8.1",
+      "SHA1": "xbr1DmqEN3Z0Tm86jvfDEdX/uh0="
+    },
+    {
+      "Version": "2.9.0",
+      "SHA1": "+YgS3F/3njkS+ZCBmZ/ap+Txycs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

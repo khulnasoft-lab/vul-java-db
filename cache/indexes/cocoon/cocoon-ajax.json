@@ -1,0 +1,15 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-ajax",
+  "Versions": [
+    {
+      "Version": "2.1.8",
+      "SHA1": "o4k9nQ1RO4y/kKEO5ZIwt4333jI="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "QDesFmdMcWsHw+5qB5THaRXAD5c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

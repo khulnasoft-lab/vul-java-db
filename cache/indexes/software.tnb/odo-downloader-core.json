@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.tnb",
+  "ArtifactID": "odo-downloader-core",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "fL1BdKCmB5AyUYjlmexN1YpJmWI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "easyconfig-liquibase",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "gy4n1R5ouccUwtI1sieudryZKiM="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "IOUOM33Uh2zao97k+OJOoZUTXcc="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "eYih5JyYaHL4H9BhO7SIkWZermQ="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "woeHSuRFH7Q4GQCLWGdlw5MGHxs="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "Dg8OKLsuzn++OsN6/BjcJJqp/1s="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "xN3/u3h5Xw5YCQ60T4dvykn1Zcw="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "jSmqU8Vrd+g0yOVGo3sLPRZnV8s="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "/L+pR8bOfvOohG3YnUsNYdlBuEw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.flowarg",
+  "ArtifactID": "azuljavadownloader",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ErJInaiQ5kKns0ZTMCfR5D9KN2g="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "pzJVpICTJYBD0+gRAB7xxRV+WlI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

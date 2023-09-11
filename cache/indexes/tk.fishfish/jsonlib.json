@@ -1,0 +1,11 @@
+{
+  "GroupID": "tk.fishfish",
+  "ArtifactID": "jsonlib",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "5QDBqoEaJLVUJtAe+FwZT2AfTvQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

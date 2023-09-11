@@ -1,0 +1,11 @@
+{
+  "GroupID": "freebxml",
+  "ArtifactID": "pki",
+  "Versions": [
+    {
+      "Version": "0.9.1.3",
+      "SHA1": "vdQWiuNC//xR+8pFIlSKsy7Zt8k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

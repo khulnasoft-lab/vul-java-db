@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.chenggang",
+  "ArtifactID": "reactive-cache-support",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "GmR25W2Hh42rUSyYLfk32uzzn9A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

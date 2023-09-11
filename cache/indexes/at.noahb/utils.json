@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.noahb",
+  "ArtifactID": "utils",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "vErgYq1k07A4jKw2b6XqBcGwL88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

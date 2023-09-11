@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.rxd",
+  "ArtifactID": "checkstyle-plugins",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "EP1ypfWCJx+Q5Vb25acG9p3yyS8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

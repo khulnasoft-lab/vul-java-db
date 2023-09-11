@@ -1,0 +1,11 @@
+{
+  "GroupID": "moe.maple",
+  "ArtifactID": "miho",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "C2bTRK2XmH204Iw9i6B7F4al8YU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

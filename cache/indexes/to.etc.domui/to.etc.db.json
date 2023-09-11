@@ -1,0 +1,11 @@
+{
+  "GroupID": "to.etc.domui",
+  "ArtifactID": "to.etc.db",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "oD+2mhNuCQXCyEm0Kj8MedSBvq8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

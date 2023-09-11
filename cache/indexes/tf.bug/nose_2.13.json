@@ -1,0 +1,15 @@
+{
+  "GroupID": "tf.bug",
+  "ArtifactID": "nose_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "zmQOcwGGxgtKvfS/q6eW5mbsfbI="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "4cxiZy2IyaEjphQhNQBeHbefDAw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

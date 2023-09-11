@@ -1,0 +1,15 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-svggen",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "EM1o8NOtDGUoAntH3ZDA+JRFup0="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "mDkU1eJ5VxReNLVa1/SN+W620oA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

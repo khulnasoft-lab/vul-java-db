@@ -1,0 +1,11 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "org.apache.cactus.eclipse.webapp",
+  "Versions": [
+    {
+      "Version": "1.8.0",
+      "SHA1": "8Ve8LUy3degXYiuUg0SA1LHbvqk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

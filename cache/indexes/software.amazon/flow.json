@@ -1,0 +1,39 @@
+{
+  "GroupID": "software.amazon",
+  "ArtifactID": "flow",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Tcbzk6KlYuOhuPw3WlebYplz+fs="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "DpoNUa8nlgnKKidldSc3bnvHOyQ="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "cYOdsj245s2W/lhys+vvc8jHd1M="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "VTZL0GSK8ixn4QDiXbtZqxsNvvQ="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "BWs8MEUlSbAkQkVYG1rlhfzhcrQ="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "H8Zuo69KrSfqjlV0qdy5evESc/E="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "f4DNs3EG9zkatSizQInvKQgIhwg="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "a9WNPWFbH84q828e2BuitGcjUEU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.houyi",
+  "ArtifactID": "dorado-swagger-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.47",
+      "SHA1": "iXukmneM97p1R02mNoxF9ID5rnw="
+    },
+    {
+      "Version": "0.0.48",
+      "SHA1": "zlX8kN9ey2siny3fBOEvCrOhwFQ="
+    },
+    {
+      "Version": "0.0.49",
+      "SHA1": "Tg4VIUWH2WaaXdPsX8bccXQXJKs="
+    },
+    {
+      "Version": "0.0.50",
+      "SHA1": "F4N2t48socypUHV8p6tAVTlrHEM="
+    },
+    {
+      "Version": "0.0.51",
+      "SHA1": "YJtDJW73qa21K3Z1iRpDesVFddQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

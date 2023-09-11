@@ -1,0 +1,59 @@
+{
+  "GroupID": "us.jakeabel",
+  "ArtifactID": "mpa",
+  "Versions": [
+    {
+      "Version": "1.2.5",
+      "SHA1": "pd779aP+RfaHqEbN5m2OuzDoN4E="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "XLmrnZubdXEFaYe4Z46y108Kfk8="
+    },
+    {
+      "Version": "1.2.8",
+      "SHA1": "+rKcBUcG/rWwSbx/WdtWiBR/xps="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "Porc+cZrYmPcuUGZL+ZhJcOMH+o="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "fGMiuisjz/GhlgzxYf8RawRXJ48="
+    },
+    {
+      "Version": "1.3.2",
+      "SHA1": "Wa1KDZaon2qyHgjFRTiZQ9zbPXw="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "yoTkmdapC/Ccqma+hKWA2y0JCQM="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "pf8LPAuzixIvCh7xwNnSIEpFeg0="
+    },
+    {
+      "Version": "1.3.7",
+      "SHA1": "FioXnCbx2N+P7N+IV/BtFMc+/ao="
+    },
+    {
+      "Version": "1.3.8",
+      "SHA1": "pdsO3ZW76lfU4SRUqqtyWcoZzAw="
+    },
+    {
+      "Version": "1.3.9",
+      "SHA1": "rD4RnqD4pRoXUqDpD/LdYYaqLbQ="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "zv2x6o6RCFaqZEM3eIejl8gb+vc="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "hfXha31UOGlFEgPmztxodq7llro="
+    }
+  ],
+  "ArchiveType": "jar"
+}

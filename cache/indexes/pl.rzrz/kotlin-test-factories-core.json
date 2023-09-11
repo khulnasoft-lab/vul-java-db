@@ -1,0 +1,27 @@
+{
+  "GroupID": "pl.rzrz",
+  "ArtifactID": "kotlin-test-factories-core",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "iDcXkIFwAA4IhOs4OVFfJMS1zSg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "A36XPghVr00HERvJLh/cBgpwlUE="
+    },
+    {
+      "Version": "1.1.8",
+      "SHA1": "94WjZi3wErr1LrWT7lJGW7AnGfc="
+    },
+    {
+      "Version": "1.1.9",
+      "SHA1": "OWRwIHvq5+oIWE+6m7xAn8P4BfM="
+    },
+    {
+      "Version": "1.1.10",
+      "SHA1": "zBxSQVb0DEK8DaFIKWHcYwXb2LM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

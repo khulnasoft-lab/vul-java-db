@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.ylyue",
+  "ArtifactID": "yue-library-data-mybatis",
+  "Versions": [
+    {
+      "Version": "j11.2.6.2",
+      "SHA1": "wcN/nILeUgFGEF3Rul9Ufbe32iQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

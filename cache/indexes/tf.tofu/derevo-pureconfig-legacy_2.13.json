@@ -1,0 +1,11 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-pureconfig-legacy_2.13",
+  "Versions": [
+    {
+      "Version": "0.12.5",
+      "SHA1": "azEhmzo37qdK+o+5m87+aYlkgOw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

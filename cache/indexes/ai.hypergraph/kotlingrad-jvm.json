@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.hypergraph",
+  "ArtifactID": "kotlingrad-jvm",
+  "Versions": [
+    {
+      "Version": "0.4.7",
+      "SHA1": "SLWZaBWPkgyTLBhrmauwxLg6cxM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

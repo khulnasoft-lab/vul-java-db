@@ -1,0 +1,15 @@
+{
+  "GroupID": "wang.yeting",
+  "ArtifactID": "druid-sql",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "9IekaY9v+1MRDTaI5+Me8O5GeyA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "N86ncLwS+fnS8V1uAmAr+8T4BI8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

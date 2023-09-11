@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.minotaur",
+  "ArtifactID": "hooks_2.9.0",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "XYyhYjtw8hH+7dhssjWPCy/E+Es="
+    }
+  ],
+  "ArchiveType": "jar"
+}

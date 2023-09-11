@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.javatool",
+  "ArtifactID": "canal-example",
+  "Versions": [
+    {
+      "Version": "1.1.0-RELEASE",
+      "SHA1": "8Hx21ref23CTOpOCrgUJsiWWRVM="
+    },
+    {
+      "Version": "1.1.1-RELEASE",
+      "SHA1": "+TBD7/04GBQ6MpUR+yGZkYpSg84="
+    },
+    {
+      "Version": "1.2.0-RELEASE",
+      "SHA1": "rQIG7J4pjTGSsJbZ4J17N9sfXRw="
+    },
+    {
+      "Version": "1.2.1-RELEASE",
+      "SHA1": "D2tJauT2glgMkfsv1LLtERI698o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

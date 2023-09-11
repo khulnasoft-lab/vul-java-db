@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-management",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "8Lnuu5KqjnbhJvcqQR94+uppFik="
+    }
+  ],
+  "ArchiveType": "jar"
+}

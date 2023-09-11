@@ -1,0 +1,19 @@
+{
+  "GroupID": "xalan",
+  "ArtifactID": "xalansamples",
+  "Versions": [
+    {
+      "Version": "2.4.1",
+      "SHA1": "4yb9+Fu+FW+ZzwIVzRjH6bxoWYQ="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "VkT+/cHgBR53pxm75JTAerZ6Sjs="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "/r68g8HffXoNGY2ahP3KE40/Pd8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

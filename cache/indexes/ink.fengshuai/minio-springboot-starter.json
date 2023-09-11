@@ -1,0 +1,15 @@
+{
+  "GroupID": "ink.fengshuai",
+  "ArtifactID": "minio-springboot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "cp8cVx1J3oY6itzaLwZSPt6TOug="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "b9RpAgdnScNEUoESAiGCKwQULgw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

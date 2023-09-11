@@ -1,0 +1,27 @@
+{
+  "GroupID": "struts",
+  "ArtifactID": "struts-el",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "/WcahzyfnJfOpZ2J4NWw/lVf7QY="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "o+sOlHxqiIh9c3nfr8hy4LNtNkQ="
+    },
+    {
+      "Version": "1.2.7",
+      "SHA1": "53mRWIb47S6aun6Cs4tFVDiOP3M="
+    },
+    {
+      "Version": "1.2.8",
+      "SHA1": "3fZyOmX6occ07zz/lNESKv3u4e4="
+    },
+    {
+      "Version": "1.2.9",
+      "SHA1": "B8po1m5fizyOHZ7uPBmLM0TCg10="
+    }
+  ],
+  "ArchiveType": "jar"
+}

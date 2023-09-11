@@ -1,0 +1,27 @@
+{
+  "GroupID": "avalon-framework",
+  "ArtifactID": "avalon-framework-impl",
+  "Versions": [
+    {
+      "Version": "4.1.5",
+      "SHA1": "vCsoJ9gw9BLyJlvvaeJQ/WApra8="
+    },
+    {
+      "Version": "4.1.5-RC2",
+      "SHA1": "7Dza80a07xQXAV1ihMNCKhRg2aE="
+    },
+    {
+      "Version": "4.1.5-RC3",
+      "SHA1": "i052sNR0mqAJwEI35Jr/InIy8j4="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "TaHbGJR+tpUKu3rXklMBG5rsDkg="
+    },
+    {
+      "Version": "4.3",
+      "SHA1": "yAT8C6YP9xh3aes5GK1SioUeKSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "slf4j-format-jdk14",
+  "Versions": [
+    {
+      "Version": "0.2.3",
+      "SHA1": "LUbidh9eWBwmiikGRO1nsnwPdEM="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "QusgRDume2DIy2mWcEBwSp32yno="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "cpCO3X0z3nFbsAEno+/juTS+F2I="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "Tc/tw7pLAH01stxI1uT0ZAeYDzw="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "mhTyp3IzvJm8Qrxw9vfmsjZjPQk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

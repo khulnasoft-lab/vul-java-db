@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-asciiart",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "3E+xFHYFBWioywqkq+PRzmCG+aY="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "X/yI/GzfRt4LqiN3VQg72dK/g+k="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "mDL6XXI4wl+4R2LWyuebVOzrv5A="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "+cX6FIkaSvCzR2X5dYzab82wFdo="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "CXzXpHz2DKpXN1GDpX1NnVVPz4I="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "p64jqY6Z95TpYm34FXxjFwviy6Q="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "LpK3EXC4+s88SgTJF7HE3DwhEn4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

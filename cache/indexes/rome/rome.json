@@ -1,0 +1,15 @@
+{
+  "GroupID": "rome",
+  "ArtifactID": "rome",
+  "Versions": [
+    {
+      "Version": "1.0RC2",
+      "SHA1": "QldU4mBXcSREBhzKcjnt33s8Wu0="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "AiszNH8xWDPpNIzsJ1GvGl1WVuQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

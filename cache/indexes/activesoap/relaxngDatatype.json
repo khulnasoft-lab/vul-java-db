@@ -1,0 +1,15 @@
+{
+  "GroupID": "activesoap",
+  "ArtifactID": "relaxngDatatype",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "b1PxB7whYkkkKBFBfqd8KVEptJk="
+    },
+    {
+      "Version": "20050407",
+      "SHA1": "3nlSzs0Ftl4OQ3DMk/wDA1F17vU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

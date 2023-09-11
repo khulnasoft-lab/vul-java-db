@@ -1,0 +1,63 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-enhancer",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Mo60l7F+rdqRDlZRCq6NjSh1Z7Q="
+    },
+    {
+      "Version": "1.0.0-beta-4",
+      "SHA1": "cjV+VqmnrICXKmT8F4u503VBdHk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "D2A2f013FuQHwuySAproT+xmcB8="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "z0wGqrkZkRE1YhX17XM0e/0SokU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "OJdjK7ChgHpY8leZxMAB8A2ekwQ="
+    },
+    {
+      "Version": "1.1.0-alpha-2",
+      "SHA1": "t0kzlLghnwC9ABLI3K71HWErITM="
+    },
+    {
+      "Version": "1.1.0-alpha-4",
+      "SHA1": "iMJ931cGtMxJ9CbuL+fdwdNMgnE="
+    },
+    {
+      "Version": "1.1.0-beta-1",
+      "SHA1": "B4KgmW2VaA+m/sE8VrDODwh2rlo="
+    },
+    {
+      "Version": "1.1.0-beta-2",
+      "SHA1": "4i3Yx7ZEKFie4w2g19CHt1gz7PI="
+    },
+    {
+      "Version": "1.1.0-beta-3",
+      "SHA1": "FIR3PIdKMrVRkCws3CYkku8s5c4="
+    },
+    {
+      "Version": "1.1.0-beta-4",
+      "SHA1": "qPPHpJPlwaTmaX70lgtvnGkEUaA="
+    },
+    {
+      "Version": "1.1.0-beta-4-c1",
+      "SHA1": "eEUC4+fgm4xBvBzt7aZXj0Xv+FE="
+    },
+    {
+      "Version": "1.1.0-beta-6",
+      "SHA1": "w1b1/RaVyxvEVPpdSfFFezsCbuE="
+    },
+    {
+      "Version": "1.1.0-rc-1",
+      "SHA1": "t5KDcPxaXk4jBxMJrPUcUcu3rWo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "party.52it",
+  "ArtifactID": "ETHLiteForJava",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "RJHFBmSbb6YMJ6wRxKhEQ62o7ME="
+    }
+  ],
+  "ArchiveType": "jar"
+}

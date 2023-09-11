@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.newleaf",
+  "ArtifactID": "mongo-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qbeP+y1g9/Fkh9HQcFKFO8kiKYY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "IiVycnBGqH9iITjXXJQtFl2vdXA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

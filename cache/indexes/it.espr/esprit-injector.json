@@ -1,0 +1,39 @@
+{
+  "GroupID": "it.espr",
+  "ArtifactID": "esprit-injector",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "wy3vMLjzFV5kfq4V7CON/7XwDLA="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "XNjrEn/A+VT2XwE8/6WvWuB8JOU="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "io6Bza1q74SGNmtwNtHAsP1DyUM="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "QZ/3uWsovFUQt5X1Pz2yLbsfyIw="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "es8iRhIZgRJKEMcSaTR9aC21z0w="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "BGJ9rAymwd3lqLNyOLNeRqFAf3g="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "HatSEg7+Y+Fu/HlxJMB7z+nzBkQ="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "7bjKYRmN/4s2GJq0vQ6V9zF4Lkk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

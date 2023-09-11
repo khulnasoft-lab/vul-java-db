@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-docbook-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "0kdgtP974dnimwXTc2MBx5yadkg="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "CUY9f7EvW774S+9K23Bx6FOaOG8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

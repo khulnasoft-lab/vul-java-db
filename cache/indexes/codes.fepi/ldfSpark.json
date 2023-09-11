@@ -1,0 +1,15 @@
+{
+  "GroupID": "codes.fepi",
+  "ArtifactID": "ldfSpark",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "1plDI0K4AZXLxirYYSn39zxMHQw="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "btAU4vwdaFnagr1gtdaQSf8STvU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

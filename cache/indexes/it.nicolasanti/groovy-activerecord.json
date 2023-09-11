@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.nicolasanti",
+  "ArtifactID": "groovy-activerecord",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "4wkN2Aw/jFZWIUv87YEM8vOq3Z0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

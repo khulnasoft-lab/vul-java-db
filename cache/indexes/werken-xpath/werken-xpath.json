@@ -1,0 +1,11 @@
+{
+  "GroupID": "werken-xpath",
+  "ArtifactID": "werken-xpath",
+  "Versions": [
+    {
+      "Version": "0.9.4",
+      "SHA1": "+ciHlR4NOAFMWWsxqHGRc7n9oSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

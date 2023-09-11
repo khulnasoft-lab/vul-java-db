@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.weboys",
+  "ArtifactID": "fileReadertimer",
+  "Versions": [
+    {
+      "Version": "1.0.1-RES",
+      "SHA1": "2FizKcuDD8U90c8/Wrti9ukxZW8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

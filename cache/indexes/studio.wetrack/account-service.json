@@ -1,0 +1,27 @@
+{
+  "GroupID": "studio.wetrack",
+  "ArtifactID": "account-service",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "rVpnmz2CoxUBD5FQlZL5X6w53y8="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "QqmsFfdCy79J5OyU+LCRxROl9Mk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "bhQTXKbs7JQWID9l9guj2Q9/svI="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "jqB81MJgBDRK6s/YEjs0VMze7Fc="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "zA6Nz5KmB6QecWj1pGAAZG6owJc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

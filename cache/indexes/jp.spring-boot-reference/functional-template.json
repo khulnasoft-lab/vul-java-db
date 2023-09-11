@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.spring-boot-reference",
+  "ArtifactID": "functional-template",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "CusXJgDmAL5z8Yh/wsyChYkZ4C8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

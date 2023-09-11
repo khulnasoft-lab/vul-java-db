@@ -1,0 +1,15 @@
+{
+  "GroupID": "cornerstone-datasources",
+  "ArtifactID": "cornerstone-datasources-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "oahdD0VavlDiYS8jU9EI9eXJe88="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "tNfwSsvqDhrchQ2U+nufaOKgZqM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,71 @@
+{
+  "GroupID": "checkstyle",
+  "ArtifactID": "checkstyle",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "aOM3v+4sUTjRqxFDOu8B6bjjVSs="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "5Uzm0yaSunbTk7l1ZK4yHKrUGOk="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "z3snneo6IkAHCCQoD7wqA4h7m3Q="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "Ufvxy4pPyN3DYOoN9k+lWrMkIRk="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "H6xXoGQV2we/ZpdCJQ5WBpMmfHg="
+    },
+    {
+      "Version": "3.1",
+      "SHA1": "zqapCyV2oqiNPmnLojtymYJ9x0Q="
+    },
+    {
+      "Version": "3.2",
+      "SHA1": "yVjK4jG94TUfdUKCGjq93P6cM4I="
+    },
+    {
+      "Version": "3.3",
+      "SHA1": "GosPLgbgwfGsI6dHOlL1AVKcmTM="
+    },
+    {
+      "Version": "3.4",
+      "SHA1": "pl1bIkOkWnBfx7wy9IkW86I7a7Q="
+    },
+    {
+      "Version": "4.0-beta1",
+      "SHA1": "QSizbU2lG2eGly0hLkmedkJdNJw="
+    },
+    {
+      "Version": "4.0-beta3",
+      "SHA1": "ExWfe7gmK4WVgpWJNMsO7hnW9mk="
+    },
+    {
+      "Version": "4.0-beta4",
+      "SHA1": "Khy7F4jEUm4oyXy57W8Ra4jjrQQ="
+    },
+    {
+      "Version": "4.0-beta5",
+      "SHA1": "FoJi9416wkEVHqW76LBaHaUXrO4="
+    },
+    {
+      "Version": "4.0-beta6",
+      "SHA1": "kC6v/O1gp9XIcul0kmO92trQMM8="
+    },
+    {
+      "Version": "4.0",
+      "SHA1": "rlekVjHu6CcmUSvLD2rRzwYXne4="
+    },
+    {
+      "Version": "4.1",
+      "SHA1": "4cZl0zFMyWxEOkNeNp5ObtUimfU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

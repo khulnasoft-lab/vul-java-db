@@ -1,0 +1,11 @@
+{
+  "GroupID": "red.honey",
+  "ArtifactID": "spring-context-config-support",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "gt0D43QnhNotz03u2t2NLV4vYTY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

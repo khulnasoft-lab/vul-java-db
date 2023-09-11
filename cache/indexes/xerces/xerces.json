@@ -1,0 +1,43 @@
+{
+  "GroupID": "xerces",
+  "ArtifactID": "xerces",
+  "Versions": [
+    {
+      "Version": "1.2.3",
+      "SHA1": "NeVyPiqun57Edv5T1ewMVr7MVdo="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "gN5AL/zIbPcIRncZdVxLF465Xj8="
+    },
+    {
+      "Version": "1.4.4",
+      "SHA1": "dhCP4OTN90zFEbQMolfnWkvXogw="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "Oyh5ygVpesE9i++ZTA5DteSX0bo="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "Zftmbl9oO+NNrOFP4HLGKy04+Qs="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "Z/PH3/3E7uaPF+Ybd47etg+DlpA="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "3liniPphO/9WiMurqP5ZV7g1X5M="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "rbsWpNmaSKl0RKCCL3kJMU4cHFs="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "niIFpLEFVP/dxQu8TKir6x1TfhQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

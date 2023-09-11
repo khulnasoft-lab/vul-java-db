@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.wseduc",
+  "ArtifactID": "mod-gridfs-persistor",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "QMio3Elaoz4CpdREOfw77w/hxCI="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "qCAHLln1w4lNbgsX/UQfKwmLqew="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "ToEmUnYhGUGp8zBbuO08nEtd0Qg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

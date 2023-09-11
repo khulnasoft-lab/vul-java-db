@@ -1,0 +1,15 @@
+{
+  "GroupID": "jp.karaden",
+  "ArtifactID": "karaden-prg-java",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qKoS5b6oRrP2Sdz4CTAFUqengyk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "P1g64QEm8EReC96oKBZJj1RXEuI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

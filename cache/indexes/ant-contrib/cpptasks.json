@@ -1,0 +1,11 @@
+{
+  "GroupID": "ant-contrib",
+  "ArtifactID": "cpptasks",
+  "Versions": [
+    {
+      "Version": "1.0b5",
+      "SHA1": "2+0G8vz3Fa0IquJUGUvMBKf992o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

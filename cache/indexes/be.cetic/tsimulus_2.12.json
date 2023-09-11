@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.cetic",
+  "ArtifactID": "tsimulus_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.14",
+      "SHA1": "5Gxpof9ZUmzaim7LhwJB6U/bGTE="
+    },
+    {
+      "Version": "0.1.15",
+      "SHA1": "Iz25CmSYyTgz1vCFmi07LnceN9k="
+    },
+    {
+      "Version": "0.1.16",
+      "SHA1": "o7HJsYKyCN0mkawE2T4QgHXay1A="
+    },
+    {
+      "Version": "0.1.17",
+      "SHA1": "REa68GFHkKmBeFq8Ny9VQ/fo2Z8="
+    },
+    {
+      "Version": "0.1.18",
+      "SHA1": "NOz1LCx48xtVJvM9UYO/Cue7sK0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

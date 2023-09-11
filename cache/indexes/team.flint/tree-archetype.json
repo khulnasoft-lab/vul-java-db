@@ -1,0 +1,11 @@
+{
+  "GroupID": "team.flint",
+  "ArtifactID": "tree-archetype",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5J7x/5PCFMorsOc1E1+us+IOqnw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

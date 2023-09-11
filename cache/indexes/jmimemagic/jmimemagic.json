@@ -1,0 +1,11 @@
+{
+  "GroupID": "jmimemagic",
+  "ArtifactID": "jmimemagic",
+  "Versions": [
+    {
+      "Version": "0.0.4a",
+      "SHA1": "Zc1V6dIVZVHAMRy3T06/OjicqsE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

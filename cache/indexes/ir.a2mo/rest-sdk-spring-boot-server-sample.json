@@ -1,0 +1,11 @@
+{
+  "GroupID": "ir.a2mo",
+  "ArtifactID": "rest-sdk-spring-boot-server-sample",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "0Yu5+Ip7FTJ7s+m/c2IfKY+2JvM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

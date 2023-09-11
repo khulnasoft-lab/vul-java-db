@@ -1,0 +1,55 @@
+{
+  "GroupID": "capital.scalable",
+  "ArtifactID": "spring-auto-restdocs-dokka-json",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "BBE5NsyPdpVCnbJUMBRmXz/9Fhs="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "Rb8ZWznkm0nuYpYxe76lf36Rk1M="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "PyGJ8m4TNG9+XTxAERwjPMOK4Uk="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "tfluAdqeb/S/661uUa/V3QvqwKc="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "oGNW+FfJKUh6764SqfwEmePbKO0="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "z7dXkbPV5BTyk89cGuDu518II8Y="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "Xte+Rj9e/MeaD2dWleZUxlLM/Tg="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "X/hO9oTEV/RE2r9LOBDG5Oh53D0="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "I0RCjMyj87VRkeJz4yErWCEpoHo="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "CE3apHHepPuK7z13937e9+yreOc="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "ynJOc7tCHYPUGzqAXGFXJ9Eol0Y="
+    },
+    {
+      "Version": "2.0.11",
+      "SHA1": "bOFHPQks2HbyKsJjDnWw+luPPyE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

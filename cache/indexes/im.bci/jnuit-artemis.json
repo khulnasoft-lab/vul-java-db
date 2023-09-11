@@ -1,0 +1,27 @@
+{
+  "GroupID": "im.bci",
+  "ArtifactID": "jnuit-artemis",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "dPZVqiBrjFplJoDrvS+L8gRI21c="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "Haq0a2pU4aVpnEdrmbYEtwjCq/k="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "8VuTFZyzBb4PEx3Pf6UyUt/eaY8="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "Km+2YLFeR1mng4Fx2rX0O/bzheo="
+    },
+    {
+      "Version": "0.13",
+      "SHA1": "y5nNlYJ/5rTLnICRppYyVvsZwlM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

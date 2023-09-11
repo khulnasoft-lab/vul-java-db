@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.sagix",
+  "ArtifactID": "executordecorator-compiler",
+  "Versions": [
+    {
+      "Version": "2.3",
+      "SHA1": "8jwNBrHyMYHb70Y91u8A9QJC8j4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

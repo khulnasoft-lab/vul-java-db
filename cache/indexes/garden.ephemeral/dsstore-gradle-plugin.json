@@ -1,0 +1,11 @@
+{
+  "GroupID": "garden.ephemeral",
+  "ArtifactID": "dsstore-gradle-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "TnJ9ji4KP2bwBkBxE60+e3wAYPQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

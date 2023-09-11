@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.shubert",
+  "ArtifactID": "youtubegrabber_2.10",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "Q+aBkFqumPOXzswuU/xEx6fxCWY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

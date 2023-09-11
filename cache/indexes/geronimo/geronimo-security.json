@@ -1,0 +1,31 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-security",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "xOd4jR5AHad15EdBXjuIGDy+geE="
+    },
+    {
+      "Version": "1.0-M2",
+      "SHA1": "/fZr8QXXfjyq0AWtJ9Q5oyYznfs="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "Fi4py0gv0IdIito0m6GPbdJTy7w="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "4R2PBLgFskrq4Tt4zPvN7g/vrzg="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "xlUXOPMWb1oBNg0+33f/Xh45Acg="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "m8X9aoFStdelyEa2aulgCczC/zk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

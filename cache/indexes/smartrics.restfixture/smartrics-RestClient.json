@@ -1,0 +1,19 @@
+{
+  "GroupID": "smartrics.restfixture",
+  "ArtifactID": "smartrics-RestClient",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "1NgFkJDXszqTbSxSgDbFD9GzSGQ="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "9w9wkK+N9K0tz/8kKqbl3MnFR1s="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "3EFtWgAk1ev9/Gi/D43EaIE/JN8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

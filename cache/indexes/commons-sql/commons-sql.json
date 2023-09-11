@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-sql",
+  "ArtifactID": "commons-sql",
+  "Versions": [
+    {
+      "Version": "20030714.162948",
+      "SHA1": "uk8s2tBn8FF7su/4PDaHLTbUagg="
+    },
+    {
+      "Version": "20031222.1101",
+      "SHA1": "+fNlwhXSjam0cDXnOPZ61SjfeLo="
+    },
+    {
+      "Version": "20040118.000852",
+      "SHA1": "2+/vvXFcoQMHnN7JqRFp8EkIaMk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "cash.muro",
+  "ArtifactID": "repeson4bchn",
+  "Versions": [
+    {
+      "Version": "0.1.0-alpha",
+      "SHA1": "PIof/P+HEONe1iaAiSZw+zJ90uo="
+    },
+    {
+      "Version": "0.1.0-alpha2",
+      "SHA1": "iUal9RCfGrUPt7Uz/mkPYo56f4M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

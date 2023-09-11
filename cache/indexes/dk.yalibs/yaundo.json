@@ -1,0 +1,11 @@
+{
+  "GroupID": "dk.yalibs",
+  "ArtifactID": "yaundo",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yzVvK0ctuv4NGJadBxfZUXdbFa4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

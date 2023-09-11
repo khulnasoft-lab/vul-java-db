@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.koc",
+  "ArtifactID": "netty-transport-jserialcomm",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "F9ffNHT3VoJEguKOl1N2qHKPDDU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

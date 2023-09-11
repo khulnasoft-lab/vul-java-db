@@ -1,0 +1,51 @@
+{
+  "GroupID": "mil.nga",
+  "ArtifactID": "tiff",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "sPmdbEnVZK73ll2a906Qn3Ir9ro="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "oE7eKXQLlyzcxja1i8ivxrzpY3E="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "FvHtLONhJc5q1n3okxDfsJju0ro="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "TWXL5oAcLcvXzJZKu6lZPhJsbP4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "rqRNukaA5U2YddRndbR1hD842CU="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "F50CV437+Vi1Zm/vA4+l1N6v6Rc="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "N3WRV5B9hN4o3MQ175h90Ooopjs="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "lK9C70Q9nKMl4itvKxx1wb8e2tU="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "UsabXPDs2ItFq0mXYys9JPfXj+w="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "jiGzlm+DEAOjqePILqCPSNV6tvc="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "jpBMopMBEuwWyNXfEEMjrXQtjIo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

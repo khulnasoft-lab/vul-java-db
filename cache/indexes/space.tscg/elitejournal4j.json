@@ -1,0 +1,11 @@
+{
+  "GroupID": "space.tscg",
+  "ArtifactID": "elitejournal4j",
+  "Versions": [
+    {
+      "Version": "mono",
+      "SHA1": "aGCleBEP+ARTcUDgp8/M67Rdzlo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

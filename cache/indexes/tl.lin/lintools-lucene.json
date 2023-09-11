@@ -1,0 +1,11 @@
+{
+  "GroupID": "tl.lin",
+  "ArtifactID": "lintools-lucene",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "bUDw/0qdwPn+i/Po40cOveiKkKw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

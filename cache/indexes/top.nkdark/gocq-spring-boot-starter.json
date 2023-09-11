@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.nkdark",
+  "ArtifactID": "gocq-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "UqtW4iH2Wi5mmhXn2p6ZSNgmFQ8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

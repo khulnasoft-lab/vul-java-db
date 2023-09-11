@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.masterdocs",
+  "ArtifactID": "masterdoc-entity",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Ysk68jjUZ55cron5alx/HCKR9rw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

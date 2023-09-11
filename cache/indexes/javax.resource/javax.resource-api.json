@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.resource",
+  "ArtifactID": "javax.resource-api",
+  "Versions": [
+    {
+      "Version": "1.7-b01",
+      "SHA1": "K7FfDfwJQ6amWeoaok3fygtDIS8="
+    },
+    {
+      "Version": "1.7-b02",
+      "SHA1": "QOK5dR3LjK3vZWTKFo2b3ui4wic="
+    },
+    {
+      "Version": "1.7-b03",
+      "SHA1": "iGk49I7PTVN3GjJ8ClBNGWBvYpo="
+    },
+    {
+      "Version": "1.7-b04",
+      "SHA1": "SMFSMQ1HAERjkfesLO8L46NrhDE="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "rkDghk6x6SxIv4Kiozmcu/Uj+3k="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "+GtNaX7NmS7GxMYFNzbbFtQdxX8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "azote",
+  "ArtifactID": "xmlstubs",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "pvghOIoyvUZYAJEMV7YDJO6uSjA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

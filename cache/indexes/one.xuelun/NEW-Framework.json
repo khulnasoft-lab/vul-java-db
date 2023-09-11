@@ -1,0 +1,15 @@
+{
+  "GroupID": "one.xuelun",
+  "ArtifactID": "NEW-Framework",
+  "Versions": [
+    {
+      "Version": "V2.0.0.1",
+      "SHA1": "VCMEBHMfHYB331ftj3SXPeMhXz0="
+    },
+    {
+      "Version": "V2.0.0.2",
+      "SHA1": "JaMkiCBtS1G2WtQDo6kcVvh/qPA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

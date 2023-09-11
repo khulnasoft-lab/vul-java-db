@@ -1,0 +1,19 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-activation",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "ihSVsubZ8jSdw3uwm1R0W9uEfbA="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "nVsg6tOnIxQCj0sZg0w2Wj8+8c0="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "zd23jPvsSCH0ZERk7wKneu7ObrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

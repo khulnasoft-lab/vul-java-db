@@ -1,0 +1,11 @@
+{
+  "GroupID": "saxon",
+  "ArtifactID": "saxon-dbxsl-extensions",
+  "Versions": [
+    {
+      "Version": "20040115",
+      "SHA1": "RRi04hPmp9AL7aNKqKAMmGDwr+k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

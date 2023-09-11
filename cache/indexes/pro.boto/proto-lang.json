@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.boto",
+  "ArtifactID": "proto-lang",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "ARscfZMXjt2PTPy/YRSv9TW6kfw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

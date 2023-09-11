@@ -1,0 +1,27 @@
+{
+  "GroupID": "club.easy-utils",
+  "ArtifactID": "easy-weprogram",
+  "Versions": [
+    {
+      "Version": "0.0.1-SNAOSHOT",
+      "SHA1": "G8JELnfGEZWa3LvV1qU0Ih0hAU0="
+    },
+    {
+      "Version": "0.0.2-SNAOSHOT",
+      "SHA1": "fQykCZNR9I9x3mbEvRQKlg19ONc="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "EqKz2lXgwkHPqJLBcdWkW3hXrjg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "1D6FqK7QDB/4CWeEUcyHB6xTIyg="
+    },
+    {
+      "Version": "1.0.2.1",
+      "SHA1": "rH2eJF+HE926VE4/XxUf+Vb8UTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

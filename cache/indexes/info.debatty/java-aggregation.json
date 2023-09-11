@@ -1,0 +1,35 @@
+{
+  "GroupID": "info.debatty",
+  "ArtifactID": "java-aggregation",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "guiKMx8kBEEYhz6VImijkd6AAwQ="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "J4nXeJglBZoTAPJGmxjkRzKmSgI="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "QUbjfWcJ8JEfvW4KfHAhRBS37JM="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "R2lo/Wtf9PI7L1QCOYJYVlZlwy0="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "rOWoVzwVw7BEv8xKN9UZuuGjWM4="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "heoItweDdJ0D0mOMkPS/NoGm+7Y="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "PHxiz7X75es+65eRVgfwJ0Cgr70="
+    }
+  ],
+  "ArchiveType": "jar"
+}

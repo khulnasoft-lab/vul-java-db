@@ -1,0 +1,87 @@
+{
+  "GroupID": "ren.tzcc",
+  "ArtifactID": "commonutils",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "YQASmOtTdXDnBJXJKlL5ZKJWjvk="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "r6AmZl/xDpM8Vic9enIT51yrIBc="
+    },
+    {
+      "Version": "1.0.2.RELEASE",
+      "SHA1": "GnUh4ixm6vEw55CHwCacYFxc87s="
+    },
+    {
+      "Version": "1.0.3.RELEASE",
+      "SHA1": "JVZx940qbW9H80N+xP12RZERM30="
+    },
+    {
+      "Version": "1.0.4.RELEASE",
+      "SHA1": "7kH2FSaSa0n4W/7Xm49aDpeSSL0="
+    },
+    {
+      "Version": "1.0.5.RELEASE",
+      "SHA1": "hR6/arbvCkwVpzpdRz+qxtMvT1Q="
+    },
+    {
+      "Version": "1.0.6.RELEASE",
+      "SHA1": "MDVrmUKTqbI2XoWizjf/HiY8vls="
+    },
+    {
+      "Version": "1.0.7.RELEASE",
+      "SHA1": "FpSecOe3RO/vf+ODTVybbeg5wKo="
+    },
+    {
+      "Version": "1.0.8.RELEASE",
+      "SHA1": "Gha+ZZFbwd1/bHvxujU5pdTjABE="
+    },
+    {
+      "Version": "1.0.9.RELEASE",
+      "SHA1": "ELaCPJfks+fZCTJZlFufwl31xjs="
+    },
+    {
+      "Version": "1.0.10.RELEASE",
+      "SHA1": "ExIms4O0yaVhXU3So4GsmrAs/fY="
+    },
+    {
+      "Version": "1.0.11.RELEASE",
+      "SHA1": "STFEUZ/lE0eT0vBjRgsh/Zpnvpk="
+    },
+    {
+      "Version": "1.0.12.RELEASE",
+      "SHA1": "2adk0GNSMP47thLXChzzQPV5CBQ="
+    },
+    {
+      "Version": "1.0.13.RELEASE",
+      "SHA1": "ncG4VQ7J/GAWXUJ/wuDZ7it4PAY="
+    },
+    {
+      "Version": "1.0.16.RELEASE",
+      "SHA1": "bj1W/SADfj06WLJAl1kbFxMVNGs="
+    },
+    {
+      "Version": "1.0.17.RELEASE",
+      "SHA1": "PR2JXaudhzrKswI7Ph6GvN5G/2s="
+    },
+    {
+      "Version": "1.0.18.RELEASE",
+      "SHA1": "VB+1MtLcbuf3p6YGuhBjs+I+eCI="
+    },
+    {
+      "Version": "1.0.19.RELEASE",
+      "SHA1": "jfmZM7CaJnONesieP2Z8tcAgw70="
+    },
+    {
+      "Version": "1.0.20.RELEASE",
+      "SHA1": "J4AX+oSPkp3ZMkJI3F/vz3wJlQ4="
+    },
+    {
+      "Version": "2.0.1.RELEASE",
+      "SHA1": "ESC4wA2NxM8dOvLOZMKuG4AwSzw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pub.techfun",
+  "ArtifactID": "gradle-docker-plugin-cmd",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "npFeBvD6YdpssnlHR35cCQE15b4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "Z5UeQGgcNGqjDdfooxfoDOaI3P0="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "i9dYGJCT62P0GEB0pJ/Is7sfuOs="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "cWk+jiUrK6tP3Q/ddF+xd+otg3E="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "2abAUYVsNvw4WxY28cnO2yYeTsw="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "4q/UMnM7y1yMBkgGjOrdujyI5qA="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "tZ0537qrtK8AdXNZmVmpXw14MtA="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "Lm0KFZxRRs5I0l++FYEygMsRzBc="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "jpyaMxDakc8byc31zl2P7GTK5zQ="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "Pyz4KrXYSLC2D32WimFmes9aIs8="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "u5r81xPPzkdPKw/1widL38IyZ5I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,63 @@
+{
+  "GroupID": "cglib",
+  "ArtifactID": "cglib-sample",
+  "Versions": [
+    {
+      "Version": "3.2.0",
+      "SHA1": "/rn1Ln56UYHMpn32+fPaH4Oh+Gw="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "ePcYQ406/83TgEzxo7gPBnmDFSA="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "6jbN+dUce8j7IDgSwmKj20G/sSc="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "iZGALF28w+JC/X84c5XkvfDpgos="
+    },
+    {
+      "Version": "3.2.4",
+      "SHA1": "IVz0Y3MGjwGVYGErEfIRFTmfzTs="
+    },
+    {
+      "Version": "3.2.5",
+      "SHA1": "iSCh0kgNUpJbZb4KShEw9AocknQ="
+    },
+    {
+      "Version": "3.2.6",
+      "SHA1": "YjWOoAzNAYTgPmwGe99iTtQtKO4="
+    },
+    {
+      "Version": "3.2.7",
+      "SHA1": "JXnnuIPYcQEzAO2HN+FqRkNKEcE="
+    },
+    {
+      "Version": "3.2.8",
+      "SHA1": "rTeNgUb5E8YKuSCOMlVW1V2pTmM="
+    },
+    {
+      "Version": "3.2.9",
+      "SHA1": "RELgmfofGJLp1d71dVOw3V974JI="
+    },
+    {
+      "Version": "3.2.10",
+      "SHA1": "OMKkMk9517nq9wJOusc/0JHWrqE="
+    },
+    {
+      "Version": "3.2.11",
+      "SHA1": "QLuEvjhPHG7ZMaXzyxo1nd0zjyo="
+    },
+    {
+      "Version": "3.2.12",
+      "SHA1": "RkVF1pDsZHPhOZnaSFfaJKZDqQ4="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "/pD4my1Z52iJABKnbcYgCnp90XQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

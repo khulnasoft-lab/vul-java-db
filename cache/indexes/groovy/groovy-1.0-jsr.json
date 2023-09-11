@@ -1,0 +1,27 @@
+{
+  "GroupID": "groovy",
+  "ArtifactID": "groovy-1.0-jsr",
+  "Versions": [
+    {
+      "Version": "01",
+      "SHA1": "//09CYWnm7ky6TL55J0I6TJJ2ec="
+    },
+    {
+      "Version": "02",
+      "SHA1": "Mg18uq9Spx9iIClCPfGqY3eTas4="
+    },
+    {
+      "Version": "03",
+      "SHA1": "QW1YQWiyJ9v4jiUu5+I/JWz7Qro="
+    },
+    {
+      "Version": "04",
+      "SHA1": "h/WTO+pZHYdpfzgEA5j/2/bpl60="
+    },
+    {
+      "Version": "05",
+      "SHA1": "ipzxRjxlrs56FiuZk2nvgS6R3Oc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

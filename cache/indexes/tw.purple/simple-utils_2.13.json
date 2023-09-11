@@ -1,0 +1,11 @@
+{
+  "GroupID": "tw.purple",
+  "ArtifactID": "simple-utils_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "UzHB2f+lsqJVAToVrdny3e0/yGU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

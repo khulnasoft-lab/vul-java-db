@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "snoozy-starter-resources",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "YhhVCRw7IvvwzdqGBa4YGYKO0mc="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "462SxlLwaG6JU9Cfd+d20tZ6b/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

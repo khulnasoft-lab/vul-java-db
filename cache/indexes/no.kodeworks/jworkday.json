@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.kodeworks",
+  "ArtifactID": "jworkday",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "843Z3riIj3JMjtVFkNxjDxmUkPk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

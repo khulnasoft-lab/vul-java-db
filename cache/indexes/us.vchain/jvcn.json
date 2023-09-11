@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.vchain",
+  "ArtifactID": "jvcn",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "/Ex5usjfWnU2PIV+C6L8Nhn3F3k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "codes.quine",
+  "ArtifactID": "dali-core_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "QxQrOmxenNB9iWUv3U4p422bzXQ="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "ESAK7u9IOSNKx2sQEu0Mb6duEt0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

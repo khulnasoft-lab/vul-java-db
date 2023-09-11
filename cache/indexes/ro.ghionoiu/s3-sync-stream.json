@@ -1,0 +1,39 @@
+{
+  "GroupID": "ro.ghionoiu",
+  "ArtifactID": "s3-sync-stream",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "Irg6D4exieHGkcnBioPf/PuNuH4="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "dvmaq/vF22TG3Nj8zHwumOdDrQw="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "8W+YCK3uK0SGGKoeZ7DkNyXFZ8E="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "SgKY+2Y8+SRDUmVNDHwNg7FLrXI="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "YjYegoRpoIlPixheODJa3LASMRI="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "dv9AV3/cBarNI7M/La8pDDPSkw8="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "lo2GKZK0YFGQZ2dDMbAoeS4b2Js="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "AP4JUFU9/sv3sl1h1xFOCC9JNoM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

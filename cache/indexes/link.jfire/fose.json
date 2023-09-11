@@ -1,0 +1,11 @@
+{
+  "GroupID": "link.jfire",
+  "ArtifactID": "fose",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "BNZB9kaUamHlYf1lP8G6ATEi5ao="
+    }
+  ],
+  "ArchiveType": "jar"
+}

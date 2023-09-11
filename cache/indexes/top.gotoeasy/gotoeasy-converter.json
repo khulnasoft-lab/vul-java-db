@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.gotoeasy",
+  "ArtifactID": "gotoeasy-converter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "dPP1jm3VaMyZ6WLoa4VMUpMyFIA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "YtdrdVcuC6zfkusG+bQ1hE1ujXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

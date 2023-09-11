@@ -1,0 +1,11 @@
+{
+  "GroupID": "digital.junkie",
+  "ArtifactID": "rho-swagger_2.13",
+  "Versions": [
+    {
+      "Version": "1.0.0-M38",
+      "SHA1": "khQ4xe0PmfM2GJnL8uR+Ouav6dU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

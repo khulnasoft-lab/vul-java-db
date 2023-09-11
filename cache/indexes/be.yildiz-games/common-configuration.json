@@ -1,0 +1,83 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-configuration",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "uU98N2m8PFWSF5QWtaYwO4l4qCg="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "KMLlrUI8IJ9fBj5tQyAFmXZpIMY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "4Lc+OJ7pxOo9e0xPxBx3qSTkbv8="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "VHUsFBLNAEEzEDlV7tjlR/oTQNE="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "bCfPAQnYIqtmGnzcBZM5FIxw77M="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "Rk/JIPvC982/15a3i8J9+TeESjA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "w0ku2WnACwI65LILuRkXsroG5Ww="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "NNVDvA+CdRU6Z1hAk1FxFjBMEVc="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "UqN1Zm6Xo8KFT7VVFd3aNVJqCN4="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "FkdFZV23j6Be+UGALoQ/uSVNA2s="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "hYkBeykcubKTTlBMtRgKq/h++lI="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "zsLtP3dVeOXzBYbfFV1y+XQEiNQ="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "w07De1O4Wy09Z2sfU7pfvY1rEj8="
+    },
+    {
+      "Version": "1.3.2",
+      "SHA1": "k3y/i7869mLcWzsuPjwAPzAbczc="
+    },
+    {
+      "Version": "1.3.3",
+      "SHA1": "Q5A3P7KwrdR8wyQv9KcvGCANNJg="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "0bMs5AJcI69WVcISaQDCBA3nroA="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "kPzbaFx97zpHmr4nXUS5A331azo="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "KcXJEl9N/+Yu9xQsb6c5xMC6B/Y="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "szE6YUUekMZBDYo6rkS8GuNKoBY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

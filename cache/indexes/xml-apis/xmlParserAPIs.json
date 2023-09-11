@@ -1,0 +1,15 @@
+{
+  "GroupID": "xml-apis",
+  "ArtifactID": "xmlParserAPIs",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "IhiKRV7ROgdUrq8JtqFs04V7oao="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "10VoeuF2cfZwnAUOSRsWUwdn2Zc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

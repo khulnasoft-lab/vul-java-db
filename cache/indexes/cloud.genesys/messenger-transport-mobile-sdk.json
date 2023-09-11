@@ -1,0 +1,43 @@
+{
+  "GroupID": "cloud.genesys",
+  "ArtifactID": "messenger-transport-mobile-sdk",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "6WrLfIfxTJQmwE3fr7tAhv3vR1I="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "+cG3BUSG+/g4Mqw9385/Ht0pkWI="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "O0QWEkYH8+g6QBdoKi5e3C8JaB8="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "hSUAS9REvLwYAO35hOvkYAWUp1U="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "QWkmhOr4/ScINXDySApRxgCDi9I="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "QWkmhOr4/ScINXDySApRxgCDi9I="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "8VPcwFptGyxmBVDT+31ffp5/GV8="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "bT7iHzYfC7/JMu4sMmk/pOMH/KA="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "Z/sUEdVjWAxtxJ9dMK1mXiid23k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

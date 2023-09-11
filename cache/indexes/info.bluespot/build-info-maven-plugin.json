@@ -1,0 +1,11 @@
+{
+  "GroupID": "info.bluespot",
+  "ArtifactID": "build-info-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HYzIB81O7z1JLMcfSNtbycITV6E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "info.gehrels",
+  "ArtifactID": "FlockDB-Client",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "E2ik6gG3LUcnko7HKFuRvG7qVNI="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "/X7ElWWOcPyCk6T0CLUH1Var7lQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

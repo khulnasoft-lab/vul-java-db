@@ -1,0 +1,51 @@
+{
+  "GroupID": "ru.harati",
+  "ArtifactID": "scavel_2.10",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "uNGr7SL+oJZ5ucsrzfdSh8Li660="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "B0bf5KjV9SPQ9vAbBzxlPE7BLuY="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "Cv4ep91QPHl2VYEJ8c+/c4+Z5J0="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "ePL908U4/n24LnCL40ekpI+4hwE="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "kEUfS2u22q4k1L2v3yi7jl/2/1Y="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "kcsnQPSfZyZ0cVXrJMPGfB0URf0="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "Hygnupy8+g0s3JHv9eblsCgmoiQ="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "dFwfv3ukEvQG9C/v9rydLQ+oG90="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "PmdRrlCWYKKSW+RHHhNRz55vkMw="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "8XcTh65qUs6oZtbi36Uy5baK6vE="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "H7dWh6A0TJmd3B8I9VVhuEF9x5o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "xin.wjtree.qmq",
+  "ArtifactID": "qmq-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Q+eWYkFFObhjTMLegzBE5CQHxZw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "RI5Pok3t/YGBjQxuSwgKGL//jg0="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "QzSF6e9sYoezgZbO02h5fHBIF9o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

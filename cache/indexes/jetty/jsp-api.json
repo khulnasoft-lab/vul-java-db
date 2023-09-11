@@ -1,0 +1,31 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "jsp-api",
+  "Versions": [
+    {
+      "Version": "2.0-6.0.0beta14",
+      "SHA1": "haFuaEYHFSrZbwvE3dDEI1ga8j0="
+    },
+    {
+      "Version": "2.1-6.0.0beta14",
+      "SHA1": "p9qY32DZ+MiGW466e55NsW9ISjw="
+    },
+    {
+      "Version": "2.0-6.0.0beta15",
+      "SHA1": "L/h7qaL/Yq0Y1wj+fCZd+ukWWI8="
+    },
+    {
+      "Version": "2.1-6.0.0beta15",
+      "SHA1": "Mcw2T6QF+6XYqMhrmYaMHUuR3Yw="
+    },
+    {
+      "Version": "2.0-6.0.0beta16",
+      "SHA1": "IdW3j/5LhWzMiheWwr0etq/cTLI="
+    },
+    {
+      "Version": "2.1-6.0.0beta16",
+      "SHA1": "J8E5ZT6yE5Sk4r1ydgmEZv5LmWI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

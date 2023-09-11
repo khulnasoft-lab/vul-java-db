@@ -1,0 +1,11 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "cherry-fix_3",
+  "Versions": [
+    {
+      "Version": "0.0.11",
+      "SHA1": "WIbxbnKxoDQW9aC2sYYi4dTBTe8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

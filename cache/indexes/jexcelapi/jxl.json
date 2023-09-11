@@ -1,0 +1,11 @@
+{
+  "GroupID": "jexcelapi",
+  "ArtifactID": "jxl",
+  "Versions": [
+    {
+      "Version": "2.4.2",
+      "SHA1": "urHE+t2LQ0/AdSco0XJsnSix1CY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

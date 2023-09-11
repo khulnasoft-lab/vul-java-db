@@ -1,0 +1,11 @@
+{
+  "GroupID": "ro.josekibold",
+  "ArtifactID": "css-parser",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "Bwp6delRw1Vq8EFB4NZf6oYjLGg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

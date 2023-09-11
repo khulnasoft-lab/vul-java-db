@@ -1,0 +1,11 @@
+{
+  "GroupID": "servicemix",
+  "ArtifactID": "servicemix-client",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "yC/X9Q/OGEEMoqXRPVWQW3gXm7Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

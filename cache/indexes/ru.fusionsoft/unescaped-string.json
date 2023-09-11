@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.fusionsoft",
+  "ArtifactID": "unescaped-string",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "DEOSomYwhH7OkAhUeaiTwAkF478="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "cUPog8gZf5wiUbsrQmUqAx+rEKQ="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "ThDbyH3M1ufwJvd/bKqTHQKFI+M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "speexx",
+  "ArtifactID": "speexx-util",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "mKg1oBTjY1BI6p8nK1cm3DyD9pE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.rechnerherz",
+  "ArtifactID": "aoprofiling-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "m+61Bs3sxftqLckFTVgTpnl0HVM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

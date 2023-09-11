@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo-spec",
+  "ArtifactID": "geronimo-spec-jaxrpc",
+  "Versions": [
+    {
+      "Version": "1.1-rc4",
+      "SHA1": "/pNx0z3D4WRtTRO94ZYUKD65mLE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "cloud.drakon",
+  "ArtifactID": "ktdiscord-jvm",
+  "Versions": [
+    {
+      "Version": "5.1.0",
+      "SHA1": "350MipTFicgXJGHFaNBOpfpfj24="
+    },
+    {
+      "Version": "5.1.1",
+      "SHA1": "Wnw4GL8T8GovDgDuSTKi/PH31IQ="
+    },
+    {
+      "Version": "5.2.0",
+      "SHA1": "Dym4RPaTfi385oD+G+SkcVH3Xvc="
+    },
+    {
+      "Version": "6.0.0",
+      "SHA1": "UqQ+zmNWGfL3XLK6oHfbl6d13/c="
+    },
+    {
+      "Version": "6.1.0",
+      "SHA1": "Rlg09SFmTQeo48lNz7dQyobBhsM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

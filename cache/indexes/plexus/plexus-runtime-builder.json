@@ -1,0 +1,23 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-runtime-builder",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-4",
+      "SHA1": "JwE066onw1F1z5UAFbYAp0aS3wI="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "/+zqs5+mZvpLPeml4njhWDJaVOk="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "fzcfCzhLRtz4uwC+r+WEib4+Le4="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "qsuVqeifgCARNdZxlHUjTs6KtA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

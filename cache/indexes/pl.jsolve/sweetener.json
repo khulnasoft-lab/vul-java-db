@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.jsolve",
+  "ArtifactID": "sweetener",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "C5G4CaNgeMgmdCVe/uHoq4chW7I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

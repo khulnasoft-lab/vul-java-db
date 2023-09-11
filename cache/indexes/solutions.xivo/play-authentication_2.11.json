@@ -1,0 +1,11 @@
+{
+  "GroupID": "solutions.xivo",
+  "ArtifactID": "play-authentication_2.11",
+  "Versions": [
+    {
+      "Version": "play2.6-2018.03.01",
+      "SHA1": "NC+ywHBTrBTeEzKExu9UfUz3d9w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

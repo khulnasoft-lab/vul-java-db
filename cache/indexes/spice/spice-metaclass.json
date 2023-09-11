@@ -1,0 +1,19 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-metaclass",
+  "Versions": [
+    {
+      "Version": "1.0-rc1",
+      "SHA1": "QCGm+xt5OAjiSg3oOXYX2t2EIjE="
+    },
+    {
+      "Version": "1.0-rc2",
+      "SHA1": "x/6p/2rAlX5PPqGpV4MjiWWqIzo="
+    },
+    {
+      "Version": "20031129.004415",
+      "SHA1": "6juR+NBEsyfuxeD8THgo24gDUkc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

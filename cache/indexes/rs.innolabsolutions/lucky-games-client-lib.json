@@ -1,0 +1,99 @@
+{
+  "GroupID": "rs.innolabsolutions",
+  "ArtifactID": "lucky-games-client-lib",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "IcmOmtX3IHIJWMoErN4sWFPUMpo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "AaqLgL/cM/MiLd9U/GIkDX2KS0o="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "AWwqlIs3eQy86H1NdWDaEF7k5K0="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "j1a7Tg/IxNiwxj2YWrCbULaHLDE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "MKCxUiC5aEjupAPKxtEcqmuZN5g="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "fIUfdeSAeecGJykYhgmttAlNZJI="
+    },
+    {
+      "Version": "1.0.14",
+      "SHA1": "2GEcmDffQ7+Jqi8vCh5Xn/3JLaw="
+    },
+    {
+      "Version": "1.0.15",
+      "SHA1": "6f8mhHb509Cfn9ENrgoPqEmnxnM="
+    },
+    {
+      "Version": "1.0.17",
+      "SHA1": "tCfddolSROaRX2YVNaEPONHikLs="
+    },
+    {
+      "Version": "1.0.18",
+      "SHA1": "t5qyUHsge776tnX+o244ApqE2yo="
+    },
+    {
+      "Version": "1.0.19",
+      "SHA1": "r1YQUCY7+L33lTv6RjaNWBRUBlQ="
+    },
+    {
+      "Version": "1.0.24",
+      "SHA1": "PKGXV7HasR3LonOFZAd5hC3MHAo="
+    },
+    {
+      "Version": "1.0.25",
+      "SHA1": "Rv9rYuw25b7qSBvTIKHyuOdi1D4="
+    },
+    {
+      "Version": "1.0.26",
+      "SHA1": "FhblJs6K6yM00IQ3wEMc7Ji+knk="
+    },
+    {
+      "Version": "1.0.29",
+      "SHA1": "+/T5MDtAxhvasVH9GD2Loa0mqzo="
+    },
+    {
+      "Version": "1.0.31",
+      "SHA1": "0UBpxRso+r9Q/FiLet80bH0pNmI="
+    },
+    {
+      "Version": "1.0.32",
+      "SHA1": "jIhSQHdML696mTQMuz3iOV9SV6Y="
+    },
+    {
+      "Version": "1.0.33",
+      "SHA1": "/MkaXNpe5X+F3LMmKfiCm5FJfCA="
+    },
+    {
+      "Version": "1.0.34",
+      "SHA1": "13jpJMwDnYsB7+dEX1uF5zwiyg0="
+    },
+    {
+      "Version": "1.0.35",
+      "SHA1": "/q+o+RBUhLrZ5/blMEjot+70IoY="
+    },
+    {
+      "Version": "1.0.36",
+      "SHA1": "7YmC43CkSn4H5UnklLMLcnUhPD4="
+    },
+    {
+      "Version": "1.0.37",
+      "SHA1": "wJUzwYlprPnghlv2un+hliWj6ns="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "1klL1RksupF3aAS6jrVc8GxbuP8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "icu.weboys",
+  "ArtifactID": "fileview-springboot",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "VN3pVheIJjz750Rt/GE71j+1P+4="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "ElYvqjzdnZMYbR7RMhce9LB9OJA="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "2tj6aKMHKgVFn0erZy4BoH2GPNQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

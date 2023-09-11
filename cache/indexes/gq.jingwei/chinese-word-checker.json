@@ -1,0 +1,11 @@
+{
+  "GroupID": "gq.jingwei",
+  "ArtifactID": "chinese-word-checker",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "wM8kVKbCxWs7qyDHWd9YPvObKh8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

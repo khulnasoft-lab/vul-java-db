@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.amazon.profiler",
+  "ArtifactID": "codeguru-profiler-for-spark",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "vSghqI0N9sKmlWFOBe/X6wBM9Bg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

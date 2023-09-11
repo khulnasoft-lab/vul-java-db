@@ -1,0 +1,99 @@
+{
+  "GroupID": "be.objectify",
+  "ArtifactID": "deadbolt-java_2.11",
+  "Versions": [
+    {
+      "Version": "2.3.2",
+      "SHA1": "Fu8GKYzgEF4TlU21A8d6K/3qS3s="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "coftGXeQ7YBPfcFY7F6KARIXpwo="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "opPYF5pwVf91dcmSblnMHMXTues="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "NummN7/lFlwQP55mQpaQVp+bpOk="
+    },
+    {
+      "Version": "2.4.2",
+      "SHA1": "sbDa9SqSOrCLX5uIJitcDD6mYnM="
+    },
+    {
+      "Version": "2.4.2.1",
+      "SHA1": "+0TndIX79tCPwxhi753hxO6DZIs="
+    },
+    {
+      "Version": "2.4.3",
+      "SHA1": "weUiApJUrTig5JUdpD98qNAYfFA="
+    },
+    {
+      "Version": "2.4.4",
+      "SHA1": "z0PxpOGkEGLU/n3X7HnozlpAfHQ="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "yHpw3T4MD4rth3+FORzSyG5kFjY="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "t2oaKxkhd3D3WIEpcZsq7jEI4d8="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "OKlWT7TM7uaAEmP4ku+DaacRJ20="
+    },
+    {
+      "Version": "2.5.3",
+      "SHA1": "5LgD0cwjyE+SoaoqByaJlnQlm2o="
+    },
+    {
+      "Version": "2.5.4",
+      "SHA1": "BALknV8QfpgxZRL/rMTPOBLxPo4="
+    },
+    {
+      "Version": "2.5.5",
+      "SHA1": "L0MA5SWsXuHivpahsj9nMOx7l4U="
+    },
+    {
+      "Version": "2.5.6",
+      "SHA1": "Xd9k3Ny3yYioRPTwj5MEo+PVr5Q="
+    },
+    {
+      "Version": "2.5.7",
+      "SHA1": "0XixPEUn6CsDlUPbIesnYFE8GZI="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "rBVzr7GCvzCngfaLYGcgbZbm4FQ="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "mUyd2G4AF/ewHubgOOzKPD1HM/0="
+    },
+    {
+      "Version": "2.6.2",
+      "SHA1": "ki66r6i18+OqjEteBI/d9BoVkq8="
+    },
+    {
+      "Version": "2.6.3",
+      "SHA1": "xLQX8ne/bRNJ0cvbFbKl4CIYOeY="
+    },
+    {
+      "Version": "2.6.4",
+      "SHA1": "8j+RUi15ZcCOdywQm8j/Bi3Qxpk="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "vXDGa0+S8Mohd8xJtk+M1EguATY="
+    },
+    {
+      "Version": "2.7.1",
+      "SHA1": "7ioCntXQn9WKTXG+sb1DVvgSwHc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

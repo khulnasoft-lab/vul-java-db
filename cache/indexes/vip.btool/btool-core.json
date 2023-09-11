@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.btool",
+  "ArtifactID": "btool-core",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "9PSrbvb0PtOCWlW9F84yMJ3lKE8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

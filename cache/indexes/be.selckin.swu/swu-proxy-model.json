@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.selckin.swu",
+  "ArtifactID": "swu-proxy-model",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "g0e6LqMmGYAKXIfgvkThIxLynBM="
+    },
+    {
+      "Version": "4.2",
+      "SHA1": "bVKlRW4heReq5uB5cnmFIyAsidE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

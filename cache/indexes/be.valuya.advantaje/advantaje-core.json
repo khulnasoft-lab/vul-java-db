@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.valuya.advantaje",
+  "ArtifactID": "advantaje-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qL3ZqJmqe/Bk/A2Rahw+k3GvWPs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

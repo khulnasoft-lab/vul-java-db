@@ -1,0 +1,15 @@
+{
+  "GroupID": "online.kakapapa",
+  "ArtifactID": "response-translator",
+  "Versions": [
+    {
+      "Version": "1.0-Release",
+      "SHA1": "E370P4NW6VcU3Rbp86GusGIRydU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "2o3cYiXZL5yEw+PkSdqP+anS8GY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

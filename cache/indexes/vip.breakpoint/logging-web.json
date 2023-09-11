@@ -1,0 +1,47 @@
+{
+  "GroupID": "vip.breakpoint",
+  "ArtifactID": "logging-web",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Mu9brwePZxfkjCYy1J+DOgXXEXs="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "a79eZqsz7tpq9H1iqus55siwT9s="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "uoat7UIxys5fHUgzaOWSxhABjUI="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "nzOprYBAWHjMy/sYqEYgVLlt3Zk="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "zSwb0EqrZEN1BmC2o91pnO5XW0s="
+    },
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "XfXyY6dkF3f3et5aRJQFxL0KjYU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xAZWNUWVcWpsd0HoIi0o3I6AEOY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "PrM9ALLJtBMcVRJ0omARSKDhKqo="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Go6IpH1QyrzpvA9/T527UBdmD8o="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Xhzv3SsFMWMvJdo3xcVDwbVtcMM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

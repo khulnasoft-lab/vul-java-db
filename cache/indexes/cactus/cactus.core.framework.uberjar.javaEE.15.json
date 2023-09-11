@@ -1,0 +1,11 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "cactus.core.framework.uberjar.javaEE.15",
+  "Versions": [
+    {
+      "Version": "1.8.0",
+      "SHA1": "oNvTKzIP4XIbFIAzhmaTK4Hi5mQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "vip.wangjc",
+  "ArtifactID": "wangjc-vip-mq-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "wKoMfr3bM6CGHECPQ2vl2pFMe/c="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "D2eZd/DRy/bj5jCmFs1kKafNPl4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "ds2m58b1x2Tq7yP6iBvLITWoKeg="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "L+M3AjS2puzPo+RZuSB5aAGHewU="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "6PmK5QFYwqyl0B8YieU/Kelbhmo="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2jlBZXGHIQmcsnBrMYn2lwIpvAk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

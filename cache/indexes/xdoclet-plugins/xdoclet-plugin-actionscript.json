@@ -1,0 +1,11 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-actionscript",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "s0A+ZKjw775NPtnbHXD9EQUFNhg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pluto-container",
+  "ArtifactID": "pluto",
+  "Versions": [
+    {
+      "Version": "0.46",
+      "SHA1": "GJjLA3L/kTgERMLigLMykcC6O88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

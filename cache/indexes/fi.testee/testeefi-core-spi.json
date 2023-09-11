@@ -1,0 +1,63 @@
+{
+  "GroupID": "fi.testee",
+  "ArtifactID": "testeefi-core-spi",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "tn/hKrjI+TaWkKe9WWFO5ETOWSU="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "791VFCrfN4PG8+n72dzYwVu5sZk="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "2GLesd1qYF2i+WG0wW+FBqaXsxM="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "NA8BYz8N0eEBDAFUR2+Hm0CWKkk="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "XuDhaakXHB7DRsrNKQt92UM/WkA="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "t5gXqTQfx+8qa188CCLM5+Ct1i0="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "nRo4zeveHdMx10/hoqu1leGqbvc="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "d3ahQl3CqzMzVcWXqNpq61RKUjc="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "mLDMMHniYOcKpnC2SDjTm/FqnYs="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "iAoRhA+Q4SWdVfc7J1c/yXqnkWU="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "DcAnJne+8CW2gD/nKvJFTex8Oeg="
+    },
+    {
+      "Version": "0.5.3",
+      "SHA1": "E2oqAVduFJxkEmFcUM27CuAPY14="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "YyUV7gQvxrYcJtHgXFwLmqIxobA="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "/4pm+rWF0KUAQCMko4z0IZRVj4k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

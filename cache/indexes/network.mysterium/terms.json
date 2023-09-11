@@ -1,0 +1,15 @@
+{
+  "GroupID": "network.mysterium",
+  "ArtifactID": "terms",
+  "Versions": [
+    {
+      "Version": "0.0.49",
+      "SHA1": "Ui3i3nKyDMGfo3r61zpzJlnVVUI="
+    },
+    {
+      "Version": "0.0.50",
+      "SHA1": "7H0hZ7imFKZfho7Eyg0Jq3Yj52s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

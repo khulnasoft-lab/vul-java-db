@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.fessional",
+  "ArtifactID": "kaptcha",
+  "Versions": [
+    {
+      "Version": "2.3.3",
+      "SHA1": "yW2KawxD0SYOt9I3qYC3NvsnH7I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

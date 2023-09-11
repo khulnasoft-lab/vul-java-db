@@ -1,0 +1,19 @@
+{
+  "GroupID": "se.marcuslonnberg",
+  "ArtifactID": "scala-docker_2.10",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "BDZ95I4wnEf+LgpIPU2W7QCxW94="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "8mpGOU884GeVGAW+0momSbby+TU="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "imNLzovfIS8DmKGWhr2rrixVzPg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

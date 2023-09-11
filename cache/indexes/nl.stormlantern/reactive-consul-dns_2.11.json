@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.stormlantern",
+  "ArtifactID": "reactive-consul-dns_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "p+G4UPgsADrfrzddgpVNWJkeRdI="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "YbFX0VPgEjz/xXX0jAuUPUaUgSM="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "T4P6KnZUvLgi8VqEw5vgM7qTooA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

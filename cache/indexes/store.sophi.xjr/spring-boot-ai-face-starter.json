@@ -1,0 +1,31 @@
+{
+  "GroupID": "store.sophi.xjr",
+  "ArtifactID": "spring-boot-ai-face-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "8YIlbTeuD8GGQj+Xjhp5wqhyycM="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "RJSBkGSx1B4wz/1oANH9j7H8vuQ="
+    },
+    {
+      "Version": "1.0.2.RELEASE",
+      "SHA1": "WvPtmnFaxSt2IVFmIL58o/eOmWs="
+    },
+    {
+      "Version": "1.0.3.RELEASE",
+      "SHA1": "T+bnpkE6QrAYEWcntQueLlq3oFw="
+    },
+    {
+      "Version": "1.0.4.RELEASE",
+      "SHA1": "JOnrEb4c4Hdi+qohSXsrOH+oUbM="
+    },
+    {
+      "Version": "1.0.5.RELEASE",
+      "SHA1": "ys3I+CYnJZx6lNg1O0cuqDG4d5Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

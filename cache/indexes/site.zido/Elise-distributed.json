@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.zido",
+  "ArtifactID": "Elise-distributed",
+  "Versions": [
+    {
+      "Version": "0.1.0-release",
+      "SHA1": "78XqqzL0rDFy2hYn3BbPdKEmK2U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

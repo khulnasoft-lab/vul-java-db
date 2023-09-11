@@ -1,0 +1,11 @@
+{
+  "GroupID": "sa.sy",
+  "ArtifactID": "lxd",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Zh8lKo1LLl4oL5bAcIHkxKe89vc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

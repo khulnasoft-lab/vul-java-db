@@ -1,0 +1,11 @@
+{
+  "GroupID": "cool.munsal",
+  "ArtifactID": "kafka-easy-configuration",
+  "Versions": [
+    {
+      "Version": "0.1.6",
+      "SHA1": "vZhpRhdBQ0/8Qfa631JA39cYXvs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

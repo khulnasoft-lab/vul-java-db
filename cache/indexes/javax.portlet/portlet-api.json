@@ -1,0 +1,15 @@
+{
+  "GroupID": "javax.portlet",
+  "ArtifactID": "portlet-api",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "JPjZOUKsNrUMVqWaWU0rX6anmbs="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "cAz3PX/ccXgNrJ7hPg65A+JjY0Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

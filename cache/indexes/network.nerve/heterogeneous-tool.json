@@ -1,0 +1,47 @@
+{
+  "GroupID": "network.nerve",
+  "ArtifactID": "heterogeneous-tool",
+  "Versions": [
+    {
+      "Version": "1.0.8-BETA",
+      "SHA1": "qosnJAsNFlxkuuOwXCzbmEwIaBQ="
+    },
+    {
+      "Version": "1.0.8-android-BETA",
+      "SHA1": "BrLtZI+eKL/AVyf6CG9kc+bmPoc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "FaKhT89avjETKd+9Fxug97nnGxQ="
+    },
+    {
+      "Version": "1.1.0-android",
+      "SHA1": "7V4+A2StvEsqv3B1EkCDOsVKK80="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Tvh2AtB6WLbgtjH8/QTHiXo5C1k="
+    },
+    {
+      "Version": "1.1.1-android",
+      "SHA1": "VIU8cIjqNGkR2wUynUJZQN4Zag4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "35WJ3zncQMIlwTX08EK5BODPx7k="
+    },
+    {
+      "Version": "1.1.2-android",
+      "SHA1": "H8KaAE+1YJm6ihUJhTzR9mcRSBY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "AoWFT+grsxkefQNERuqJ+2uH3Uc="
+    },
+    {
+      "Version": "1.2.0-android",
+      "SHA1": "pRQz7TNDfv7wTWCtzf63u/GIveM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

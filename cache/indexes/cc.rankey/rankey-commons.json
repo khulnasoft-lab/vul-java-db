@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.rankey",
+  "ArtifactID": "rankey-commons",
+  "Versions": [
+    {
+      "Version": "0.1.2.RELEASE",
+      "SHA1": "8ZORYFJXtTJjer8tVI4RRZFE7jo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

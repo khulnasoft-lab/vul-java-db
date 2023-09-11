@@ -1,0 +1,59 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-struts",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Hn+FqNAdh8Z3NBd6meT1SgreNVo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "eN1xnxFtir+lGoYpiGJOjQM7GWU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "H+OoI4oR4X+jXUJxGpWpakre2f8="
+    },
+    {
+      "Version": "20050206.204119",
+      "SHA1": "gTIrQiI/xAJG9OJpTmtjDC27v5o="
+    },
+    {
+      "Version": "20050208.125214",
+      "SHA1": "y3lZ6vi/E69UK6S8ekMKjQMAeoc="
+    },
+    {
+      "Version": "20050221.205457",
+      "SHA1": "pEazTcOUGHYpCa3aairdFuaMaMA="
+    },
+    {
+      "Version": "20050222.202225",
+      "SHA1": "H/g8jH4XwClqWta6Y8l1uNQhI5o="
+    },
+    {
+      "Version": "20050302.194532",
+      "SHA1": "G3HjqqXjpTMZp3zlhmkmtOg/fG0="
+    },
+    {
+      "Version": "20050302.200037",
+      "SHA1": "yZwPzw5C4qy98e7k2CGpIE+/+lY="
+    },
+    {
+      "Version": "20050302.201700",
+      "SHA1": "L38StmkbbfH4oZ5nQuKOBhoSE/c="
+    },
+    {
+      "Version": "20050302.204210",
+      "SHA1": "bpJW0WhjHlpwrAUBuufdbqrU8XQ="
+    },
+    {
+      "Version": "20051012.090319",
+      "SHA1": "GLF1mXynpfufsP85Sxa7gSl7+Uo="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "PaJL/48Fh8RPjSjWlE4Gxrq7GgY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

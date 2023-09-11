@@ -1,0 +1,19 @@
+{
+  "GroupID": "im.actor",
+  "ArtifactID": "actor-api-tor",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NUY5piHt6yrYzeffj4Kz/8SJ8nA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "V2iVGUqdeq/Ez96mdEoTGwy2aTE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "J2NBRUdWt5gqNUbRiHc/4qnDLy0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

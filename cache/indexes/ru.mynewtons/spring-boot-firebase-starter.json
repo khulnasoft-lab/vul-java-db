@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.mynewtons",
+  "ArtifactID": "spring-boot-firebase-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "VL0+gFy8hxWTj+iUYoN6YZpeI38="
+    }
+  ],
+  "ArchiveType": "jar"
+}

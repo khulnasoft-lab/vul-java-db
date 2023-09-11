@@ -1,0 +1,19 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-all",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "PmDFFzQ2+W1WsQN/2F5aCNL6YZc="
+    },
+    {
+      "Version": "1.0-20050921.171342",
+      "SHA1": "TXDSvfRMy+/xKaTHmi6wL7xjAW4="
+    },
+    {
+      "Version": "1.0-M6",
+      "SHA1": "6G5IDftrhRXA1UmbRlDXChZn+sk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "nu.jibe",
+  "ArtifactID": "jibe-tools-fsm",
+  "Versions": [
+    {
+      "Version": "0.9.8",
+      "SHA1": "GSuL+VhcNDzCoDsoxu5GnNmItoM="
+    },
+    {
+      "Version": "0.9.10",
+      "SHA1": "rWBYy60TxCHbVaprVEkFl37Tyfo="
+    },
+    {
+      "Version": "0.9.11",
+      "SHA1": "iNLpU5B8i3C4sG+k8RoJ7UakP24="
+    }
+  ],
+  "ArchiveType": "jar"
+}

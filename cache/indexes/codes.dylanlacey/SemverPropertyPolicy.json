@@ -1,0 +1,31 @@
+{
+  "GroupID": "codes.dylanlacey",
+  "ArtifactID": "SemverPropertyPolicy",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "izWTiCqvGZN+x/gt3dZlB9qAHsM="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "330+BKPU8di5Fvf9OQc5qGDcY+0="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "IETmy7z5g/AHsxruGRN3mkEufZo="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "MkLx+Pj46Cb11fg/PyHP/p7AmmA="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "sLxq9jh1i5STwS0xO6lR5cR8eac="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "PTW+/xivT8sG6ljFykcGtsotZZA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

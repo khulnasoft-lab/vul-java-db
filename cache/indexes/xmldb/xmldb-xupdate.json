@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmldb",
+  "ArtifactID": "xmldb-xupdate",
+  "Versions": [
+    {
+      "Version": "20021220",
+      "SHA1": "n1HZZOh620IdDnaCet4rS2qZmPQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

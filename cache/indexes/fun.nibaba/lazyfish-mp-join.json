@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.nibaba",
+  "ArtifactID": "lazyfish-mp-join",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "cIyQ0ApLp8kWft9RlddDJz7Se6A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

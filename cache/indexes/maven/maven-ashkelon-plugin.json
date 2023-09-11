@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-ashkelon-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "xBVTN9P2h1+KNu9eER0LOq9aAvA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

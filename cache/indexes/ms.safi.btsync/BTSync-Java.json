@@ -1,0 +1,11 @@
+{
+  "GroupID": "ms.safi.btsync",
+  "ArtifactID": "BTSync-Java",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "joBZmgjBsYEOzfgp3oqu+0oXOpo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

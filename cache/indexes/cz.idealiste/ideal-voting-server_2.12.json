@@ -1,0 +1,15 @@
+{
+  "GroupID": "cz.idealiste",
+  "ArtifactID": "ideal-voting-server_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "WTdLmdeZzWFKK+r84vJ3MI2uPcg="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "k6UNeSFDwL/VESW54kcjO5zFJyA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

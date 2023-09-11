@@ -1,0 +1,15 @@
+{
+  "GroupID": "stax",
+  "ArtifactID": "stax",
+  "Versions": [
+    {
+      "Version": "1.1.1-dev",
+      "SHA1": "VqkxaQYZb6ijXYGyr8vg/gcq6yM="
+    },
+    {
+      "Version": "1.1.2-dev",
+      "SHA1": "y7nN/A/WYvwMsvRWTtmUKl9JZzg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

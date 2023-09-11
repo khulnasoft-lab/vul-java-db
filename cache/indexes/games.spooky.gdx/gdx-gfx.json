@@ -1,0 +1,15 @@
+{
+  "GroupID": "games.spooky.gdx",
+  "ArtifactID": "gdx-gfx",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "UHw5v8M+uchm5k+c0SwATZd5O6g="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "k//lFWfOo/Zt0xk8kMjWVVAJXwc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

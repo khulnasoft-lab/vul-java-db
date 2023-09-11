@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-trax",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "BtVzBqW3k10awGxfI5wBjbIBqWg="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "DN3BSN3mYXl4HXeDxa8KvOdrOOA="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "DFdLcIBl9uZ97W1xP4eCLD4GXv8="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "YyYV4BfQNdKC+mHflLxZhCdN5PE="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "rxfIXqELBFr788BfihZA0NzZalI="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "xBEr7UCWBQfOhg3VkYy5gz4EejM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

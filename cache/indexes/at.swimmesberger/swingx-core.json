@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.swimmesberger",
+  "ArtifactID": "swingx-core",
+  "Versions": [
+    {
+      "Version": "1.6.7",
+      "SHA1": "Qb9ELKfIqvM4hGArgiFWYPtn2C8="
+    },
+    {
+      "Version": "1.6.8",
+      "SHA1": "2PlPWbx6iGliZtPidiPjK3NS3eo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

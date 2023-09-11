@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.villepeurala",
+  "ArtifactID": "interfacerunner",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "y8rpERLhsQu9/UXyLgdn6O0kB4Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

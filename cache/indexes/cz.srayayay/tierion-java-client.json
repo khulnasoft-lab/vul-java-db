@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.srayayay",
+  "ArtifactID": "tierion-java-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "pslZQ3b1wornb4H8tFCY0etSS7A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

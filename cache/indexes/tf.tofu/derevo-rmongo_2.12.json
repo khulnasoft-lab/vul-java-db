@@ -1,0 +1,31 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-rmongo_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "b9iwCT6z7S6IgXcI+sIPalw1p88="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "PyC9ReUgcRQB4VkUNqXGtKwG4rM="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "XeDjUulcVYiWBepdFBNMed2rV38="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "j08P3hXnh5hr29lmXiF5sYrpC/8="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "CBebzJyedU0mxM3RhpWc1Z9wilU="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "WxLuJcDqIhsVFqI+BsXyTvkeI+o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

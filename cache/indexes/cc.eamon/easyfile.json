@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.eamon",
+  "ArtifactID": "easyfile",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "jGLmy/AqQWzvxRan8xwi/R4xgaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

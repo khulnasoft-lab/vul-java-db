@@ -1,0 +1,11 @@
+{
+  "GroupID": "sk.teamsoft",
+  "ArtifactID": "autobundler-annotations",
+  "Versions": [
+    {
+      "Version": "0.3.1",
+      "SHA1": "UWYpemMXpVoXxTFzlOv8oZY9G/Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

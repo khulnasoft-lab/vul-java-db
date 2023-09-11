@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.dimsuz",
+  "ArtifactID": "unicorn-coroutines",
+  "Versions": [
+    {
+      "Version": "0.9.1",
+      "SHA1": "PsgiWQnyrJ9HxmAQlc0J0L5hnkE="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "RD4VdHGfSLdLoOerWsAHeOBafeg="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "1I/zXbDDTvtshxaUlbByv1QJZjM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

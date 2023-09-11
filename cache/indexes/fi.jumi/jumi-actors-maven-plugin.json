@@ -1,0 +1,23 @@
+{
+  "GroupID": "fi.jumi",
+  "ArtifactID": "jumi-actors-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.1.46",
+      "SHA1": "qF0B/WtZTZErMpCmXiAGeZaOLs0="
+    },
+    {
+      "Version": "0.1.64",
+      "SHA1": "QDvFTdjt3QFrz/o3lXP+G7hOacE="
+    },
+    {
+      "Version": "0.1.196",
+      "SHA1": "HXRFJ0Oosw+Zd3bo3652aEL+3Eo="
+    },
+    {
+      "Version": "1.0.270",
+      "SHA1": "5noqOjeSjhkkUpKT8rO0B76blSI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

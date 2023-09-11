@@ -1,0 +1,11 @@
+{
+  "GroupID": "studio.wetrack",
+  "ArtifactID": "docGen",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "KOh503+0j/oyYuPv6W5W47PAYPM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

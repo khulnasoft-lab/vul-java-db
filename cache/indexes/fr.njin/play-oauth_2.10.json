@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.njin",
+  "ArtifactID": "play-oauth_2.10",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "GSIOy+lOvCXlNlrOB5Kw+CE4/ng="
+    }
+  ],
+  "ArchiveType": "jar"
+}

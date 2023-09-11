@@ -1,0 +1,11 @@
+{
+  "GroupID": "asia.stampy",
+  "ArtifactID": "stampy-all",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "5BJMWtGFKuquYY9GqnVbcNnb1PA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

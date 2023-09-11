@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.pdok",
+  "ArtifactID": "geoserver-manager",
+  "Versions": [
+    {
+      "Version": "1.7.0+pdok1",
+      "SHA1": "RhFtOvKH8QiiMt+woFoZFut3qik="
+    },
+    {
+      "Version": "1.7.0-pdok1",
+      "SHA1": "E2Mya8bk3OQJba9yHG3DtDGPUo0="
+    },
+    {
+      "Version": "1.7.0-pdok2",
+      "SHA1": "+mLPvdxkUZOFO6NhlOV+aiwPuYk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

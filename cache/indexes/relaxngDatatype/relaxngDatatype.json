@@ -1,0 +1,11 @@
+{
+  "GroupID": "relaxngDatatype",
+  "ArtifactID": "relaxngDatatype",
+  "Versions": [
+    {
+      "Version": "20020414",
+      "SHA1": "3nlSzs0Ftl4OQ3DMk/wDA1F17vU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

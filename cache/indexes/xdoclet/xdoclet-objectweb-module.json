@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-objectweb-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "W+8SD2bdeHHBbfS+zuoImwcQLeo="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "hkz1q3yi2JoG70lqAdR27dg+CjI="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "Ff/dR6Bla5IsOASyIWYhJbiS4uY="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "MgHPunpZkTE++ZKkqVuUUshUHe4="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "RP8TcBwsV22Vn+c8XEW+KSBQq5w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

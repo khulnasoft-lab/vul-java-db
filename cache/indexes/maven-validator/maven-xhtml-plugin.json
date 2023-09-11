@@ -1,0 +1,19 @@
+{
+  "GroupID": "maven-validator",
+  "ArtifactID": "maven-xhtml-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AxHjjRJ6RnDYl+JRbK0dtpaTISI="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "Bphmh0q70Ivw9BkMpY+kWp3P/dk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "iqJ2AdLezAiUYxabPG281J96O6c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-castor",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "VActuZxItDMeDn93+OtfBUcxy0g="
+    },
+    {
+      "Version": "20051012.090007",
+      "SHA1": "2agS16t6BhN0RY3aF5ZXZfwvcSA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "AcBsyBjoLDX5g+VqDm2HV98FJAo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

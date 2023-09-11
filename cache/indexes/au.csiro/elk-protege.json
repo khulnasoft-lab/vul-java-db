@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-protege",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "FYcF0xkHgevgd1sPvXmhh6FOjNI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

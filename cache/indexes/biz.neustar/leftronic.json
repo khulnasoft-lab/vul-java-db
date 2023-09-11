@@ -1,0 +1,15 @@
+{
+  "GroupID": "biz.neustar",
+  "ArtifactID": "leftronic",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "s6Ahh0AxtiV8EJljKoqkK92ar0U="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "+oEgbhgjW7bDAtoG5K5rcqBLAbk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

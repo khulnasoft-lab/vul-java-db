@@ -1,0 +1,11 @@
+{
+  "GroupID": "dom4j",
+  "ArtifactID": "dom4j-core",
+  "Versions": [
+    {
+      "Version": "1.4-dev-8",
+      "SHA1": "1wvLH7PQxEVP9mmLD+479mKbmGw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

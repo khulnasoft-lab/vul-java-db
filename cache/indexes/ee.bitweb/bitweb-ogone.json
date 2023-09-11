@@ -1,0 +1,11 @@
+{
+  "GroupID": "ee.bitweb",
+  "ArtifactID": "bitweb-ogone",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "1hEo+vCesUQrEDBbf9fys7Dd2Vs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

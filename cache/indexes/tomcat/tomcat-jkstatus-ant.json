@@ -1,0 +1,11 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "tomcat-jkstatus-ant",
+  "Versions": [
+    {
+      "Version": "5.5.23",
+      "SHA1": "nw2FmP7dbjkghiK6TqEGRSm5kgY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

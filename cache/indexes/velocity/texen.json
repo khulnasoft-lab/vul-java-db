@@ -1,0 +1,11 @@
+{
+  "GroupID": "velocity",
+  "ArtifactID": "texen",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "bchpY70SN876QYEAHbKN/jD4BB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

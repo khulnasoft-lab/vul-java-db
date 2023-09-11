@@ -1,0 +1,11 @@
+{
+  "GroupID": "quilt",
+  "ArtifactID": "quilt-0.6-a",
+  "Versions": [
+    {
+      "Version": "5",
+      "SHA1": "HKIEm4MpCTLzbEH/2ZG3cn5BPJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

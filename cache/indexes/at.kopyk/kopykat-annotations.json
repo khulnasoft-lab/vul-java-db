@@ -1,0 +1,31 @@
+{
+  "GroupID": "at.kopyk",
+  "ArtifactID": "kopykat-annotations",
+  "Versions": [
+    {
+      "Version": "1.0-rc6",
+      "SHA1": "E9JBFo/vqsMLUD+uZjKyjvwrm7E="
+    },
+    {
+      "Version": "1.0-rc7",
+      "SHA1": "1393jvlWKxQUp8PoL4P1qkLnBro="
+    },
+    {
+      "Version": "1.0-rc8",
+      "SHA1": "XQ0HCMiENR18BXy/ZmHVHSbkHYs="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "Z1B5F3Glr07NoyOHAkLSddhnpig="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "hSrOfhwe6j681XGtN0csn8w0d1o="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "/0qqL6iHcKkKHLxPc7990lJmSYs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

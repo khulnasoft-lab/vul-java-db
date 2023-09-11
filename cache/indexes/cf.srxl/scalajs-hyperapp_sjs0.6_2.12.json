@@ -1,0 +1,11 @@
+{
+  "GroupID": "cf.srxl",
+  "ArtifactID": "scalajs-hyperapp_sjs0.6_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "3x//gkf7A27xZU9osfOQd0JLFzs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

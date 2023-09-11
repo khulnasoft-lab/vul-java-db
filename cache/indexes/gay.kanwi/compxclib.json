@@ -1,0 +1,19 @@
+{
+  "GroupID": "gay.kanwi",
+  "ArtifactID": "compxclib",
+  "Versions": [
+    {
+      "Version": "v0.1-beta",
+      "SHA1": "oseioQl5UoFQGriBEH71CMs8VZs="
+    },
+    {
+      "Version": "v0.2-beta",
+      "SHA1": "ma8xQwJLuygeK6GD+GrjD5W5m/w="
+    },
+    {
+      "Version": "v1.0",
+      "SHA1": "qjjKwcctIpMobQ3ScFTs+opMHfo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

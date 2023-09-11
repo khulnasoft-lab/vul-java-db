@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.cloudway",
+  "ArtifactID": "gramba-aws-lambda-archetype",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "F1GI1h3gp8hGJEwKtp6ut+q6O2Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

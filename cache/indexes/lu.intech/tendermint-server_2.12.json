@@ -1,0 +1,11 @@
+{
+  "GroupID": "lu.intech",
+  "ArtifactID": "tendermint-server_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "tQLFbib5rOhvMl81z8ua1wCaGig="
+    }
+  ],
+  "ArchiveType": "jar"
+}

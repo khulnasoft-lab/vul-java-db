@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.eloquent",
+  "ArtifactID": "theseus",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "I+Qe22+dXFHUVy/6hPlfbLkOFSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "tapestry",
+  "ArtifactID": "vlibbeans",
+  "Versions": [
+    {
+      "Version": "4.0-beta-4",
+      "SHA1": "BNlP6KYHd5M38nX2bxiU9OZ+kVA="
+    },
+    {
+      "Version": "4.0-beta-5",
+      "SHA1": "f+9aOgY5QFyIP9LDeNBIDGisjZE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

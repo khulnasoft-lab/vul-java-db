@@ -1,0 +1,11 @@
+{
+  "GroupID": "studio.wetrack",
+  "ArtifactID": "message-service",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "oB/MqJGI1NhZ8jMabhgkE0EegKs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

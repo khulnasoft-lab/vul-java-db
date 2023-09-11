@@ -1,0 +1,23 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "servlet-api",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "i5+MGlhiADNB5j9qvyZMDoepN0o="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "xIw72hFt5L7oAriqVAtPSB4+XRs="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "c6uHNO77Odh519q8DBG0nH0BGE8="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "K9u0+v81kI63EhiEiGqBAY2OIeI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

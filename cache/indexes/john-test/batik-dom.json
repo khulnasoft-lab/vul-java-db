@@ -1,0 +1,15 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-dom",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "4lzkmyovoM36JOPUwEMJlpSMRes="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "J5g0BfCHHyjTuas1tE5iYQpgVko="
+    }
+  ],
+  "ArchiveType": "jar"
+}

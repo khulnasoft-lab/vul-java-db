@@ -1,0 +1,31 @@
+{
+  "GroupID": "nl.vroste",
+  "ArtifactID": "rezilience-config_2.12",
+  "Versions": [
+    {
+      "Version": "0.8.1-1",
+      "SHA1": "50mas+w0VZNCIDEh4FfQflLrs+g="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "n7ynxh6uRoQxVMDJvkwUJ2LXSt8="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "nJBPWOV5YtFCmnxoYuG7+Ut4saI="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "Gzkl9+HegokOGm/qZoqu+2LovKw="
+    },
+    {
+      "Version": "0.8.5",
+      "SHA1": "S6y8lDWzZtm5eN3l2N7c4pAyTaw="
+    },
+    {
+      "Version": "0.8.6",
+      "SHA1": "4atwiolQ5rzPinDe9fI0yCQoyCw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

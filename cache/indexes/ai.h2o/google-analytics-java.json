@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.h2o",
+  "ArtifactID": "google-analytics-java",
+  "Versions": [
+    {
+      "Version": "1.1.2-H2O-CUSTOM",
+      "SHA1": "FC34yeQZt9mlMvGL/j9VvciAG+g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

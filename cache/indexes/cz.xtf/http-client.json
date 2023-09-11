@@ -1,0 +1,47 @@
+{
+  "GroupID": "cz.xtf",
+  "ArtifactID": "http-client",
+  "Versions": [
+    {
+      "Version": "0.21",
+      "SHA1": "WyQRs+D2LsF4ZtHez8KyJsW9PU4="
+    },
+    {
+      "Version": "0.22",
+      "SHA1": "Le4MbN81N/FjpcEHMBvMnMXAyog="
+    },
+    {
+      "Version": "0.23",
+      "SHA1": "3dAWJ6/75y/8RLHmrqEhq1Mnm1k="
+    },
+    {
+      "Version": "0.24",
+      "SHA1": "QDK6Y97lyzIw8u08WjszHOilTeM="
+    },
+    {
+      "Version": "0.25",
+      "SHA1": "Qpq/i52905+j+DBBp1w0vMTxij0="
+    },
+    {
+      "Version": "0.26",
+      "SHA1": "QyH9GTTwms3NmNi8C94/dVspmUw="
+    },
+    {
+      "Version": "0.27",
+      "SHA1": "N8+/ZJAvWI8NzmPEC7P4GRPajZU="
+    },
+    {
+      "Version": "0.28",
+      "SHA1": "JQXPIJ4c0tpC8ikQ7W5B5AuqPpI="
+    },
+    {
+      "Version": "0.29",
+      "SHA1": "gekE4kT4tCdTJldcIagd1/uqGig="
+    },
+    {
+      "Version": "0.30",
+      "SHA1": "doL2w3J/4D1SZDM/eTPe5X5wAkI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

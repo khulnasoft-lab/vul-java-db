@@ -1,0 +1,19 @@
+{
+  "GroupID": "tech.ynfy",
+  "ArtifactID": "http-util-java",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "L5CeG4cBmnGleqXuArK5sx9E1EE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "BDRrAqVOZ9FH7XqCrU7oOskwZ38="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "8UAOdd2prKQThkb4PasdfB1Nb4c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

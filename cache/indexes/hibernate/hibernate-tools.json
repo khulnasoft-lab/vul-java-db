@@ -1,0 +1,15 @@
+{
+  "GroupID": "hibernate",
+  "ArtifactID": "hibernate-tools",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "rA3wytfTCuWE+njhbg6ozAX47BY="
+    },
+    {
+      "Version": "3.0.0.alpha4a",
+      "SHA1": "VH8hCWfHk+bah2g0vi8ZmDYtCRw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

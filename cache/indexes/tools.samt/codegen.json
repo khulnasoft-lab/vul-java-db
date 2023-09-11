@@ -1,0 +1,23 @@
+{
+  "GroupID": "tools.samt",
+  "ArtifactID": "codegen",
+  "Versions": [
+    {
+      "Version": "0.0.8",
+      "SHA1": "h29IHC8Q+SQjmGYGosB0erq56yw="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "drwlngDa2ztANDpYb3/QXcmVygI="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "3NvMx4fGcZIj1agTgM00cqJDd1A="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "IQexXWHC73xHfzDBnzPMGtFEmIU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

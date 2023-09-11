@@ -1,0 +1,43 @@
+{
+  "GroupID": "ru.d10xa",
+  "ArtifactID": "jadd_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.19-RC4",
+      "SHA1": "kW+WYbDpiPLF5yC26GUXqjjdcig="
+    },
+    {
+      "Version": "0.1.19",
+      "SHA1": "8//WqB9vD3+wynCpndNZm/YjrAc="
+    },
+    {
+      "Version": "0.1.20",
+      "SHA1": "n97CgEbnEv/FEltVPjGWkf6xLLE="
+    },
+    {
+      "Version": "0.1.22",
+      "SHA1": "JHDoqx4dwXpMVgSmEdKVkX2Gqj4="
+    },
+    {
+      "Version": "0.1.23",
+      "SHA1": "i2kJstKWxontkayiPgDjyJYZQck="
+    },
+    {
+      "Version": "0.1.24",
+      "SHA1": "jnUtwFbRoTEZQRf75C8qF5dcVQg="
+    },
+    {
+      "Version": "0.1.25",
+      "SHA1": "9HxsJF4MSJZLOP9xkghPeTjLq4Q="
+    },
+    {
+      "Version": "0.1.26",
+      "SHA1": "OuyIFzPDP/Of1Y/iw6MrH80kxgc="
+    },
+    {
+      "Version": "0.1.27-RC3",
+      "SHA1": "9N3UdN/u6tEo9wJt6QAbxaBQH1U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

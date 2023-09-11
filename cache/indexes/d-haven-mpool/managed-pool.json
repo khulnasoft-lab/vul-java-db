@@ -1,0 +1,11 @@
+{
+  "GroupID": "d-haven-mpool",
+  "ArtifactID": "managed-pool",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "g32a/yXVQAbN/6v75xvgOMhKa20="
+    }
+  ],
+  "ArchiveType": "jar"
+}

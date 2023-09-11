@@ -1,0 +1,51 @@
+{
+  "GroupID": "be.intersentia.elasticsearch",
+  "ArtifactID": "mapping_annotations",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "uWip+3XMrJCspIy+R6I6QR/9KYo="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "nx6WIJBKGUsXt3VKbGuZq9S2Uk8="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "MCKwqbBEIqEHHrS3WnIQbOLZsv0="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "sLLeSEyM5b7EqV8agzdp61VrOGA="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "B1nfu2cOVNzC2jMdUOTW0rhgKWI="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "jHatStLL9dZufhpPwPlYLgBDhho="
+    },
+    {
+      "Version": "0.7.4",
+      "SHA1": "aT0kIqiPLcVcS6JcenLKLjO7qa8="
+    },
+    {
+      "Version": "0.7.5",
+      "SHA1": "QeTe63tSSrk/F0W6DOWZxnK1OQw="
+    },
+    {
+      "Version": "0.7.6",
+      "SHA1": "yJXUUtC0XMUaosgIhHuqFD/X5sM="
+    },
+    {
+      "Version": "0.7.7",
+      "SHA1": "agNXSiG6dq/KQ5Qb+PXUeQzay2c="
+    },
+    {
+      "Version": "0.7.8",
+      "SHA1": "+zGd+FMBbe/Rlh56KtvRhT1xeFU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

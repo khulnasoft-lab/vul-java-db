@@ -1,0 +1,31 @@
+{
+  "GroupID": "club.spreadme",
+  "ArtifactID": "spreaddatabase",
+  "Versions": [
+    {
+      "Version": "1.4.0",
+      "SHA1": "Qw1qttYg9oEzk/8QmrpUyKNXLdE="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "DbICZQt6t1yTsmLK+9mgkfaeUC4="
+    },
+    {
+      "Version": "1.4.2",
+      "SHA1": "CTB78YTmLlvoeTKTWchzv7y8aPs="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "z647A0f9DfpvnvRybpOT+bJOMOg="
+    },
+    {
+      "Version": "1.4.6",
+      "SHA1": "oFfis5/+reHVa7mBbg31Gzi0dAU="
+    },
+    {
+      "Version": "1.4.7",
+      "SHA1": "bq57YdwBiD99bzXmJjZAl9ssxSw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

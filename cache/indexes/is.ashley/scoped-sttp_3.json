@@ -1,0 +1,11 @@
+{
+  "GroupID": "is.ashley",
+  "ArtifactID": "scoped-sttp_3",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "YFmcMc+Q4Ojy3N6GNS9R65A3JIk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

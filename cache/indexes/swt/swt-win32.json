@@ -1,0 +1,19 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "swt-win32",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "iadgc4jITdB/AWpuhRUtRZ/Ip8U="
+    },
+    {
+      "Version": "3.0m7",
+      "SHA1": "X8mTwWKZOCAWXzxbOJLiEdsed3E="
+    },
+    {
+      "Version": "3.0m8",
+      "SHA1": "g1dAia+bGllUOMriiLzXwme7xX4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

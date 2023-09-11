@@ -1,0 +1,19 @@
+{
+  "GroupID": "ren.crux",
+  "ArtifactID": "crux-common",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "kR7ChbxQ46ewvvubdI02u7UDCoE="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "PS2fTsiGv3kC65q467iyZgEGhoU="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "YrnZyXZy5yUTVO7vhl5xvSMfYes="
+    }
+  ],
+  "ArchiveType": "jar"
+}

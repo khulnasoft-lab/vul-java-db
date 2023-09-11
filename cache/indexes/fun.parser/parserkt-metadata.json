@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.parser",
+  "ArtifactID": "parserkt-metadata",
+  "Versions": [
+    {
+      "Version": "2.6",
+      "SHA1": "Y0/OnWp1OkX47OG6G2e1tIInPVM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.samson.pmgy",
+  "ArtifactID": "pmgy_2.12",
+  "Versions": [
+    {
+      "Version": "1",
+      "SHA1": "dB81B9Xp77Mkse5O33E/GGm6bxw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

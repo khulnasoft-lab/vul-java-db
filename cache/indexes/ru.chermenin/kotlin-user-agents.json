@@ -1,0 +1,23 @@
+{
+  "GroupID": "ru.chermenin",
+  "ArtifactID": "kotlin-user-agents",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "XhWE9U8ZBlkt3Htl4DYJXXh7qH0="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "QHk1ANUOxaMX+4qlOTSoI87Yo+g="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "z1qdBweF1Dxm6rPnyAUWe2/omeM="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "VgV6Fa2ot/OwLQEudLC6QFORbu8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

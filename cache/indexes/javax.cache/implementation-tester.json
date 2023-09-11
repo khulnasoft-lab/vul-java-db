@@ -1,0 +1,51 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "implementation-tester",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "elhMPBbvOfZ8bY2uHi1tl19gD5w="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "D7mnQwbAd0lkCsx8ggeUc21nsxM="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "F4SCW4VqlsIEGD9DZIQEAVPGHCQ="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "mjPh7xd2+cRi54AA8OTo1XDIP2A="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "h9ptQ+CSpczpnqjZTegrmsI+CzI="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "Do5KVlfCkL1ToCPaeRIBQr0jBr0="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "pL1pWEodDnfpobIy3tDqXDeDJAM="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "MpRg6THhNuTX5sK4SGztWTnkQEA="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "Yu0nFXpPBtVRrXTSS8cP43dX4Kw="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "Qf6XoMzU9zKQ+ICP6AKUsyvVA94="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "DmJX0Wm1yCaFU8vuNAT6NQ5eH+Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

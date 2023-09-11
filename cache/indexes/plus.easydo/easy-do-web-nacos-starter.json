@@ -1,0 +1,11 @@
+{
+  "GroupID": "plus.easydo",
+  "ArtifactID": "easy-do-web-nacos-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "yqtsKkN099zYx/JUrffH7SVpytg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

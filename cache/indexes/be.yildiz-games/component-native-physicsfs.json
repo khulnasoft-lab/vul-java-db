@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-physicsfs",
+  "Versions": [
+    {
+      "Version": "2.0.3.0",
+      "SHA1": "P1R+SJB7pdjXX5XR5reqR9jQgn0="
+    },
+    {
+      "Version": "2.0.3.1",
+      "SHA1": "3luqgvgQtmoT1FLT/kChXSbk6HE="
+    },
+    {
+      "Version": "2.0.3.2",
+      "SHA1": "g91EDSUqcl+jbvqZW0Je+TeoqVw="
+    },
+    {
+      "Version": "2.0.3.3",
+      "SHA1": "cUhOl1Z6b0uEnjf841J7s6Ag5RM="
+    },
+    {
+      "Version": "3.0.1.0",
+      "SHA1": "IjP0PtYSKWG9Yi4GbvYKS8cxHJ8="
+    },
+    {
+      "Version": "3.0.1.1",
+      "SHA1": "dIXcDqP6dfYF23eLFDZe8XkxkWw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.theretiredprogrammer",
+  "ArtifactID": "createmesh",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "zcBlc1kI1qu5u51MYiJMLM1C0cA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

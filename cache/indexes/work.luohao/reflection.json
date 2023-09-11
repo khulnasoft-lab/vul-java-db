@@ -1,0 +1,15 @@
+{
+  "GroupID": "work.luohao",
+  "ArtifactID": "reflection",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "oQkbVvBhGi6FsKeLrUu7AjMjvEI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "JO10tfaefJ6TWdJmU12bN0+gsrs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

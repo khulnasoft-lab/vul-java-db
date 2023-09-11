@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.rosenbaum",
+  "ArtifactID": "jpop",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "2iM8BcSsuLqbI/vwCi+V/M60pZs="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "8ErVVPozuEZnktGxgbn6LG/sH6w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

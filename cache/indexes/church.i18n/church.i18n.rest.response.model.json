@@ -1,0 +1,11 @@
+{
+  "GroupID": "church.i18n",
+  "ArtifactID": "church.i18n.rest.response.model",
+  "Versions": [
+    {
+      "Version": "2019.0",
+      "SHA1": "T1sDBi68VruEaiXrOUAXEr5/yMY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

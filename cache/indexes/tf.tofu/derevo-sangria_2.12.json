@@ -1,0 +1,11 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-sangria_2.12",
+  "Versions": [
+    {
+      "Version": "0.13.0",
+      "SHA1": "Yi8A5oNJPdEOPaqiUvP2pYXR3Lk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

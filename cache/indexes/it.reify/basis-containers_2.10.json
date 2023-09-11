@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.reify",
+  "ArtifactID": "basis-containers_2.10",
+  "Versions": [
+    {
+      "Version": "0.0",
+      "SHA1": "ETdSWH5bEmA1q+tqz20clJXpnjM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

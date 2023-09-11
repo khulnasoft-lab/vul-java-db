@@ -1,0 +1,27 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-spatialoracle",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "f4NCjdIIC1t294xON9pK9bFZMNg="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "0vDbjB8L/FHSCPWJvznTEu+bedI="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "oiYsnGCnN8KsNOaV0W/eynOpuuc="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "6CFGgu99ixvDevHCEJJ/FVO4x2Q="
+    },
+    {
+      "Version": "1.1.0-beta-6",
+      "SHA1": "Rr8KudiiiI8hz2QTLer6zD4GRuQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

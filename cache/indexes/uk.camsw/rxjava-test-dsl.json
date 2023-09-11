@@ -1,0 +1,31 @@
+{
+  "GroupID": "uk.camsw",
+  "ArtifactID": "rxjava-test-dsl",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "VO4S6Ijo0icEmp3jllnvfO1WF0U="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "DDnNg2FhfPvOKOquLsgsoWulmTw="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "I5z8/SscQ/KDadZnMXDyFPEIreQ="
+    },
+    {
+      "Version": "4.1.1",
+      "SHA1": "WgByU8Nm5UI6Ito9CX70zYOq+r4="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "dhjLpoqkyYFVnkeG/l/1KD01Ptg="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "evO7pqXB0F/L67v4F8+5A7nXBS0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

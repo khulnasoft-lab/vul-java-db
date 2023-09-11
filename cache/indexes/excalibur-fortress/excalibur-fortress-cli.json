@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur-fortress",
+  "ArtifactID": "excalibur-fortress-cli",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "xFTtfaHOC6b8bJHDz5K7h7wd8jQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

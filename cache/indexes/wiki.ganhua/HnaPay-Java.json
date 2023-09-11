@@ -1,0 +1,11 @@
+{
+  "GroupID": "wiki.ganhua",
+  "ArtifactID": "HnaPay-Java",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OdO/OEHjnJKi8CSNYD4X6XQnsqA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

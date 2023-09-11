@@ -1,0 +1,11 @@
+{
+  "GroupID": "hibernate",
+  "ArtifactID": "antlr",
+  "Versions": [
+    {
+      "Version": "2.7.5H3",
+      "SHA1": "qGPjILKflHddNtp1YIc6uZYICWA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

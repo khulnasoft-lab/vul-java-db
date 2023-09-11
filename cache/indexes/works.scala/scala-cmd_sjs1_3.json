@@ -1,0 +1,15 @@
+{
+  "GroupID": "works.scala",
+  "ArtifactID": "scala-cmd_sjs1_3",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "Vd/D1ArIlbtiyCX9iehQksgsuY0="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "O1R/BCevumkEsBowu+yFp/k8zhc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

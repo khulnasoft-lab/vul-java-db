@@ -1,0 +1,15 @@
+{
+  "GroupID": "javax.transaction",
+  "ArtifactID": "transaction-api",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "LKCfCzbKfXG3YuFOov8J1erFdVg="
+    },
+    {
+      "Version": "1.1-rev-1",
+      "SHA1": "XQExkFEjgBn9K2kMS+ikazMOaNI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

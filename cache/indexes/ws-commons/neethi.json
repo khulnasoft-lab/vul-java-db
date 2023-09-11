@@ -1,0 +1,11 @@
+{
+  "GroupID": "ws-commons",
+  "ArtifactID": "neethi",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "F+skS3EsMxwzyE+wz8DyeK4OsRI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

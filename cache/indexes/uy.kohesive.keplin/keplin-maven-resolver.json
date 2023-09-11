@@ -1,0 +1,27 @@
+{
+  "GroupID": "uy.kohesive.keplin",
+  "ArtifactID": "keplin-maven-resolver",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA-11",
+      "SHA1": "GD3A9I0CYKFlxhfu5WWnHrEJG0o="
+    },
+    {
+      "Version": "1.0.0-BETA-12",
+      "SHA1": "LAz6y8PcU2lF4AVyfHvhqUSeG1c="
+    },
+    {
+      "Version": "1.0.0-BETA-14",
+      "SHA1": "vWc5eWRoa7pMCezreskR6Jd6ubQ="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "pOrODNbcQGYt4oDw2LcEI04X50k="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "yH1qZAdCg50uVlBGBGfBFqFfTGk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

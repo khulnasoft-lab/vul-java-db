@@ -1,0 +1,87 @@
+{
+  "GroupID": "xerces",
+  "ArtifactID": "xercesImpl",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "Oyh5ygVpesE9i++ZTA5DteSX0bo="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "Z/PH3/3E7uaPF+Ybd47etg+DlpA="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "ptdlNO8FxfGm7Y7XVWAQ4MtBJE4="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "rbsWpNmaSKl0RKCCL3kJMU4cHFs="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "niIFpLEFVP/dxQu8TKir6x1TfhQ="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "wEaLrG0RoH/8aVBgA8/twM5U4XI="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "f4UBj3x5WRXWsC5UldinWdbYq18="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "m5linjwPGjrbZu6Xlakr7i4CpGs="
+    },
+    {
+      "Version": "2.6.2",
+      "SHA1": "iXvLVta3/iBwpfVhv8eJaOzdOFE="
+    },
+    {
+      "Version": "2.6.2-jaxb-1.0.6",
+      "SHA1": "AGiY8r3+ylrJls//G3bvmK9apvI="
+    },
+    {
+      "Version": "2.7.1",
+      "SHA1": "gV1lK3m3G3yCpxEm09fOj8i8ze8="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "z9Pr4vgDTmYDRPkQjD4tr3jCnMM="
+    },
+    {
+      "Version": "2.8.1",
+      "SHA1": "JRAeN+wMkH228GEsvxBu5RnBrvE="
+    },
+    {
+      "Version": "2.9.0",
+      "SHA1": "howHkiM/x42Mm6wprHmt6YgwExg="
+    },
+    {
+      "Version": "2.9.1",
+      "SHA1": "e8fknd/k+18ZPtN+zJbBIpLIzrY="
+    },
+    {
+      "Version": "2.10.0",
+      "SHA1": "kWFlTSr+f5BjRV8CzMqOTsJ4ciI="
+    },
+    {
+      "Version": "2.11.0",
+      "SHA1": "m7Mp2xz8TiJGLJ1rQ6hDL1hQ6Sw="
+    },
+    {
+      "Version": "2.12.0",
+      "SHA1": "8CyEQUn9MGYB8g4LNIU6Zwvvf6I="
+    },
+    {
+      "Version": "2.12.1",
+      "SHA1": "OiBrJWefWYoDN0r9TgQQ2ISbCIs="
+    },
+    {
+      "Version": "2.12.2",
+      "SHA1": "8FH5iKosm00l0F+VdCqwzD7XieI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

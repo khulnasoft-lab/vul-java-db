@@ -1,0 +1,47 @@
+{
+  "GroupID": "ga.babababa",
+  "ArtifactID": "booster-core-model",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "n81VI93pzvQ+PRGpEVg8FoNlSwc="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "38zY+KgAFkZoJaF6nvTtCItQSU8="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "tW/Dkay4pTNAJTrIzoDWF8KmZeg="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "82I6dojbCbClkOryu3xQ48c5HSI="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "3SBCAJK7O4jqgA+4ippR6vJLUzM="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "LVy+ppKto7OUD6DrbZf7+PHvPZc="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "VAXjfyC13HMrcAcS9Fk3rfX8g8I="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "9nZg9UxBboYbmQW69XqHI1VSWpQ="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "04zIm7Z3O+EqkFKmlBQhlfZpfog="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "0jZNM2s+5vDXc3fJ/lqsB9VKWmc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

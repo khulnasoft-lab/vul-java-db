@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-osworkflow",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "Bt78JngWlnoVZKRV8xYN6ymi5x4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

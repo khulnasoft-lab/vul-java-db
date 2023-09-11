@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.ivonet",
+  "ArtifactID": "jakartaee8-essentials-archetype",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "U0y4QhVvlBcWEKCsyfUs3If8QHY="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "reUgIpRcJAvkXAm/wQnc0mvAO6I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

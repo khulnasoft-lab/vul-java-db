@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.salmonbrain",
+  "ArtifactID": "ruleofthumb_2.4.3_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "FhgEZxzAOfCGl3OMP0Fvmyv9ll4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

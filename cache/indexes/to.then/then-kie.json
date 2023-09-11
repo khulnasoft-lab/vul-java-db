@@ -1,0 +1,11 @@
+{
+  "GroupID": "to.then",
+  "ArtifactID": "then-kie",
+  "Versions": [
+    {
+      "Version": "0.1.4",
+      "SHA1": "voE/eseoSAGUnlpHrsIBNskqnpI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

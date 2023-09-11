@@ -1,0 +1,31 @@
+{
+  "GroupID": "avalon-composition",
+  "ArtifactID": "avalon-composition-api",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1-RC1",
+      "SHA1": "e1l1FMGesu/6ZzoyuvMFFh4PnEw="
+    },
+    {
+      "Version": "1.0b1",
+      "SHA1": "ecovr2wNsJsQ1HPxI9GxMz4napo="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "SquRc5oEIQSHb4sq8uZHjAX5s24="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "14Bz7TgkV3afAdFgaL/vdTJqY/I="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "cXQstnCACxH4f2FMZM9ozrt7h10="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "HNDdJpJq1Yz3VsyD/xiku19cH88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

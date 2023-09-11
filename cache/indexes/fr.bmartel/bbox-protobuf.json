@@ -1,0 +1,91 @@
+{
+  "GroupID": "fr.bmartel",
+  "ArtifactID": "bbox-protobuf",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "9S+s/1v/Vt5Gm0phknBGEeM0O8g="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "tXPcU2nKJuDrxJdMPxx1sm5HUm0="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "dPR1oxEcH6QjeAwW1dY496w/59U="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "P0cIq5f5FFEpJGA7+r0+9KH6ifk="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "SvlyPlUm/Y3xiDM1ZpyrJ4v5vX8="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "zPcOMaBvihQmH0U8G+zxY0WAM04="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "ChltK+DI1nPn0kMYVXRDixjVaa4="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "MoVKViNvphiiGby75nCP1Hfd8vA="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "oxqJ1gJ0619ce8DCGQSKNVSPwI4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "w5A8FBa6i0kjMmiG2b1927DW9xM="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "TuvWuNiyelxsCiTuDaP2CT7t7o4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "ytEViedq8cJy1YvZUasgal5ci5Q="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "wTVYTXyIe/6LB4dEO+oeP8yRTQo="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "a/WJzbq8oIWR0pLYLApSnEj5ySU="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "W5zLeTnu6fO1jWtyIJPmVPN1q7c="
+    },
+    {
+      "Version": "1.1.6",
+      "SHA1": "GiFMnTiYF7bWML3EhuTlL9WzNzg="
+    },
+    {
+      "Version": "1.1.7",
+      "SHA1": "pJanGJnXJ4Y7+juS/WerMFhffOs="
+    },
+    {
+      "Version": "1.1.8",
+      "SHA1": "5jBZhe9z++P3mCxXt5Hm41L+C5k="
+    },
+    {
+      "Version": "1.1.9",
+      "SHA1": "zyVnyR8xWbTEvElkX6dcXcqvuqU="
+    },
+    {
+      "Version": "1.1.10",
+      "SHA1": "S/OOCHaLJco3I6OJwGptRp6Vnv4="
+    },
+    {
+      "Version": "1.1.11",
+      "SHA1": "6z0VZGL2joj8Oo2m3U90sgcBOiU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

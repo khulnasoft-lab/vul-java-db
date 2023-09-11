@@ -1,0 +1,43 @@
+{
+  "GroupID": "ai.dev-tools",
+  "ArtifactID": "ai-devtools-selenium",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "+xMCTCOEdsJIUoTSnEULaOrcl04="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "LJJtmWsA+F9MU7Qnx5qcaPGkJNo="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "+fzAwuLenLdUDJZnQc+FOcMG8Fo="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "DX8lreGsnS8hI64GsjLv2ba1MCE="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "Cn45ifKN8moooodfoq4y+iGjcpQ="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "rDpgmci/mZU87EHuXYfjlcXMZtU="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "XSNsWzsOXkDIwIIb3GBp4IHJctg="
+    },
+    {
+      "Version": "0.1.10",
+      "SHA1": "MFOzlrxvpjOOmMAA8mfWGpzWwhQ="
+    },
+    {
+      "Version": "0.1.11",
+      "SHA1": "vDmprHAbhX4qZgZapOEawZY6miw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

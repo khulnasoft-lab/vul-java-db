@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.rinu",
+  "ArtifactID": "sdb_2.10",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "fY6KD01a1ckXPDaz+LktxQzFhug="
+    }
+  ],
+  "ArchiveType": "jar"
+}

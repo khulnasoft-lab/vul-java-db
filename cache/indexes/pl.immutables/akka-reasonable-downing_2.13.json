@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.immutables",
+  "ArtifactID": "akka-reasonable-downing_2.13",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "c83djJxoO/yewVd9Eb8XLmqS4gQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

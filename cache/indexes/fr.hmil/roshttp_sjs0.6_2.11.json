@@ -1,0 +1,39 @@
+{
+  "GroupID": "fr.hmil",
+  "ArtifactID": "roshttp_sjs0.6_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lCpBHhc66GeIGyKyRJ8oqxy+36Y="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "EH8qxoOIIE2nUojbYft3xjNpFbw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Men53zzC4AroO6nXjzYECnvWsKM="
+    },
+    {
+      "Version": "2.0.0-RC1",
+      "SHA1": "4owLD7eB1NHF8Slj+544vJx716A="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "ScfQBG7ZtCt76Ie67sWI13jeeTg="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "CvQekJDH/5vYu62fXFVm8OaqhJg="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "XQP44xkh2BfRZIKQxdlQoyD2l2o="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "higeSKmJmzhfQZlE5JUZjJcEybE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

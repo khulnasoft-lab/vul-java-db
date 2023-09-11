@@ -1,0 +1,35 @@
+{
+  "GroupID": "club.moonlink",
+  "ArtifactID": "tools",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LMAbsoMeek7nsp4t1VpuGaeFxDU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gReElq8dRO71XS7RsvAHsajMY7Y="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "tpKGdrRRZ1rKpZTwpmCbTfKmV+M="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "AV/hLv3OHAtomxJiEYpxCOP5UH4="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Q8tzy4QhJesc44YEvQvvwDdZZ8Y="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "OmGyZ698jf47DJvIPUHyvqAJMBQ="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "OAbbvCpgJ4C1XLqUqgq1+o2P5ys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

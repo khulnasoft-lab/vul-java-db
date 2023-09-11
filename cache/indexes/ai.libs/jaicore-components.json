@@ -1,0 +1,31 @@
+{
+  "GroupID": "ai.libs",
+  "ArtifactID": "jaicore-components",
+  "Versions": [
+    {
+      "Version": "0.2.2",
+      "SHA1": "1pPnVL0yP/rCOVP3l7G89LntPWQ="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "BG00e/hwg/UzxZagsUTQzefGdvg="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "lctiRzdP/9pNhpqP1BkEUW//5P8="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "9uqNYjGJl78yUHGQJNq6q48OyW0="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "z/q5YUazLNPJb/epNst7bZYaulo="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "8fjAwdAEG4UTbLKJmBcNLZOLM0M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

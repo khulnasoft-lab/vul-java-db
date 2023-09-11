@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.matsuo",
+  "ArtifactID": "accounting-core",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "niQL+ncAy/DyiCGfBQp32N13e+M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

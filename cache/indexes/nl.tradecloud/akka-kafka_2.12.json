@@ -1,0 +1,31 @@
+{
+  "GroupID": "nl.tradecloud",
+  "ArtifactID": "akka-kafka_2.12",
+  "Versions": [
+    {
+      "Version": "0.65",
+      "SHA1": "Vj1Gk9btDOBoiqo6ybammbqQ9q0="
+    },
+    {
+      "Version": "0.66",
+      "SHA1": "nzeYqKeCgfu64htH0FD/8dsfyNY="
+    },
+    {
+      "Version": "0.67",
+      "SHA1": "31mNWRspZnKBfWUm1khkgIzrtrA="
+    },
+    {
+      "Version": "0.68",
+      "SHA1": "9m6sBwGe7KOprCjDHmMM/1tVIlo="
+    },
+    {
+      "Version": "0.68.1",
+      "SHA1": "LPpeyQyJPfs76FJ6cI5UWPFm+oY="
+    },
+    {
+      "Version": "0.69",
+      "SHA1": "RHmJqe4JCKcOacWl/kOQbV9M/Xo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

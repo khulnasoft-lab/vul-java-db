@@ -1,0 +1,27 @@
+{
+  "GroupID": "top.mrxiaom",
+  "ArtifactID": "qsign",
+  "Versions": [
+    {
+      "Version": "1.0.6",
+      "SHA1": "w69DLsAm7nAsLGq8Aer27HYHgGo="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "VgK2xALFSpFAT14c8uUn9v2dPdU="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "sGvl5noq73nfvI+7MKNGfZtljLA="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "SDRglJiaaM9ihxUob8ulRAH3O18="
+    },
+    {
+      "Version": "1.1.0-beta",
+      "SHA1": "PP+G2mkJyEYns80aVqkQ7yvlJC4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

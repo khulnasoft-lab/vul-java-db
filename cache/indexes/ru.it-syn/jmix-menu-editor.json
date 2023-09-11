@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.it-syn",
+  "ArtifactID": "jmix-menu-editor",
+  "Versions": [
+    {
+      "Version": "0.8.4",
+      "SHA1": "HwVPx+5Xp5gDTtGIVTrhFtq6Mww="
+    },
+    {
+      "Version": "0.8.5",
+      "SHA1": "cvaIjtc5y88RJDB1G+DFCgr6+Ec="
+    }
+  ],
+  "ArchiveType": "jar"
+}

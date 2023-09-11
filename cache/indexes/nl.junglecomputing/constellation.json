@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.junglecomputing",
+  "ArtifactID": "constellation",
+  "Versions": [
+    {
+      "Version": "2.0.1",
+      "SHA1": "3knbVJ+j7ByEzVXyWiFjr9POYik="
+    }
+  ],
+  "ArchiveType": "jar"
+}

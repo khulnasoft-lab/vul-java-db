@@ -1,0 +1,11 @@
+{
+  "GroupID": "cafe.cryptography",
+  "ArtifactID": "ed25519-elisabeth",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "U0xw9KUvjBNPw/hOlv5SU5DuwnA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

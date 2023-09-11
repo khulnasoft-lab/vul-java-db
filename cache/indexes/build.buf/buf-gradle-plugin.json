@@ -1,0 +1,23 @@
+{
+  "GroupID": "build.buf",
+  "ArtifactID": "buf-gradle-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1-test",
+      "SHA1": "60rce1z1uGFGO2Fz1D5D3y6RViw="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "RBao7cRF/PKr5CF36GyjL2CqOUs="
+    },
+    {
+      "Version": "0.8.5",
+      "SHA1": "T6qM7usKbXO/lFjn7E2MtqA51C4="
+    },
+    {
+      "Version": "0.8.6",
+      "SHA1": "6XFMLApHDrvoG8WixpiXVvPNNz0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

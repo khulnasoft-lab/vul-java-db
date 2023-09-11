@@ -1,0 +1,11 @@
+{
+  "GroupID": "controlhaus",
+  "ArtifactID": "beehive-netui-pageflow",
+  "Versions": [
+    {
+      "Version": "unofficial-1",
+      "SHA1": "1zdRecSEPax66bH8ZDl4HJaiXos="
+    }
+  ],
+  "ArchiveType": "jar"
+}

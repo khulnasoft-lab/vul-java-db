@@ -1,0 +1,27 @@
+{
+  "GroupID": "scraping-engine",
+  "ArtifactID": "scraping-engine",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "5O0Xe+M6HFfM8bt0pwvsf/h9oUI="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "LQt4jydtb9OkcpFvMsmIMnR4shE="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "L+AzGc5SpWvkplAbYeL9GMCdFFE="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "tRlPX/cHAw4PGuFQH9L2ctwYdYA="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "SJOwgdZFVg6FoVbSq7wziybfpaU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "glass-core_3",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "1TefbwxpflaD6ILsmeea2Srfwqc="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "448TNxmgwBvKGNsOTe3qmXrmz0E="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "8fsXo63fRcNQ0mc7HYfL9XBJE0Y="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "HrmonMBALzKjgu88RsAz/u6B+v0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

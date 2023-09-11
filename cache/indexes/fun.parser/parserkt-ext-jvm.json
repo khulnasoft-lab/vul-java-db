@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.parser",
+  "ArtifactID": "parserkt-ext-jvm",
+  "Versions": [
+    {
+      "Version": "2.6",
+      "SHA1": "ZiAy0Ixey/8KboW7abfZjdZGoyY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

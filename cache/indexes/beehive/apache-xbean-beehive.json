@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "apache-xbean-beehive",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "g7rVDyz8WihI89WxZCjWeGzOtPw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

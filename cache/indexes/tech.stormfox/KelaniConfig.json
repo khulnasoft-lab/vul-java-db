@@ -1,0 +1,15 @@
+{
+  "GroupID": "tech.stormfox",
+  "ArtifactID": "KelaniConfig",
+  "Versions": [
+    {
+      "Version": "2.3.2",
+      "SHA1": "zqyIJOE3zfD2z/mradicKKxbuhw="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "GnWdYU8JhjlsA44ySPi2UYHhl9w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

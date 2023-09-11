@@ -1,0 +1,39 @@
+{
+  "GroupID": "pl.tkowalcz",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "LcyWKJt14KLqj74skDsBDT8qlIY="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "SiLhNjD+vMTPl3wi+oPQ+tsdeBg="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "nm7FxhmytnxxFThl0aUph/YXBp4="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "VCYZvSU+O2yViTgjViqT7CTrrKI="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "/AZrSpM3Z7zG4jVzLF0wimFou3Y="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "VOufA3YTnZq7poIyGiT+t1D1kFc="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "ibEZrshRUUSeL8AHk7yxTpQn1hU="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "SsIELbwlemud/i9BTXsves1Z/XA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

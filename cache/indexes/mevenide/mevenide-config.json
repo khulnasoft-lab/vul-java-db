@@ -1,0 +1,19 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "mevenide-config",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "6U41myEqzA4aoh55zpmPubKiEAk="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "iWhIcw6Qj9y2QHDkgkdBckVIOCY="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "tFK1IMreLUhBscy0JVD/gtQFLsg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

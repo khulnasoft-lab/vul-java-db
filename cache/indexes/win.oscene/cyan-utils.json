@@ -1,0 +1,11 @@
+{
+  "GroupID": "win.oscene",
+  "ArtifactID": "cyan-utils",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "vvBt4RZhaxhEOW9tFmt0/jzFqdg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

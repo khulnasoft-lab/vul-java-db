@@ -1,0 +1,15 @@
+{
+  "GroupID": "trail-taglib",
+  "ArtifactID": "trail-taglib",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "j2HD7IO4VgclKdu7G+8eXaGiJyI="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "g9PzjG4hEzZEXqc19QIrZlETcJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.sorghum",
+  "ArtifactID": "easy-join-anno",
+  "Versions": [
+    {
+      "Version": "0.0.1.M1",
+      "SHA1": "dUpLgLcJjHESVqtTxve1Jr85pAc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

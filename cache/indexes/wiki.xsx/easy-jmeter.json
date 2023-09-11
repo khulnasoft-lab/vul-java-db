@@ -1,0 +1,11 @@
+{
+  "GroupID": "wiki.xsx",
+  "ArtifactID": "easy-jmeter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Mrfib4u48H2i5zj32qGkUq2ykSk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "solar.squares",
+  "ArtifactID": "pixel-width-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ypirqs1WemiO39b9QxXaM/OZw2M="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "LAxmjwS1VbLYssi4l6zkEwF82ao="
+    }
+  ],
+  "ArchiveType": "jar"
+}

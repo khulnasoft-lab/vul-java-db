@@ -1,0 +1,15 @@
+{
+  "GroupID": "james",
+  "ArtifactID": "mailet",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "b9qVV5vkmHq4v8aN5aZDXmOFFHI="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "IbVxKlpO5upkD+3+nf5IAOkDLWI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

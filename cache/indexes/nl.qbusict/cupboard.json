@@ -1,0 +1,63 @@
+{
+  "GroupID": "nl.qbusict",
+  "ArtifactID": "cupboard",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "JGxjPyjjoa7+1ZvAmutm8iSdVzE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xz7DBoAP4s5+0mkJzwJc2eZ4DkY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "DUtQoI0+79ifb07mWQFrxUjvStU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "G/THkhRJwqfUmWt4ComCe9MuqJk="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "gjOQuql3dJKFpPWNfB7LYLxC5cI="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "VnkPFUSGwPHCPtsxgUfw1fQlCNM="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "gQ48nqWzfPn0gyniA+dXYapMz2k="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "o51CCScIArxay6mWnU8AHijw9rs="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "sBaVl+4nH8E/y+DelIF+gM6iphQ="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "MpefErH3oVV9+eNjTCeLMWhgvXw="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "OVlWpeET5etLxGGCMtcGiAxREPo="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "HIMOBwN56AQcGova0IL8R/I+vF0="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "ulvGb60fwgrrinTwATsEGF/Zo6k="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "3G94/JUcW97sksFMbdatyc5hldA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

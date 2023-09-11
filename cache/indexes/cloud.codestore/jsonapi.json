@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.codestore",
+  "ArtifactID": "jsonapi",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "415G48SVCES0tFWGjYfXKFsrPNo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.mallet",
+  "ArtifactID": "mallet",
+  "Versions": [
+    {
+      "Version": "2.0.8",
+      "SHA1": "mOVOdzz/W9k+qXGskzGlxcxn3Es="
+    }
+  ],
+  "ArchiveType": "jar"
+}

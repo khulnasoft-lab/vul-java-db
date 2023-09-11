@@ -1,0 +1,11 @@
+{
+  "GroupID": "eclipse",
+  "ArtifactID": "eclipse-ui",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "T3J4EPBn/1eNxrrtoL3/Wc+3mWc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

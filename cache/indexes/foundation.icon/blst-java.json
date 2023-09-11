@@ -1,0 +1,19 @@
+{
+  "GroupID": "foundation.icon",
+  "ArtifactID": "blst-java",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "tKlzz+PMB808iokDEc1HXBnAyag="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "PU60z7GZ7RiZA3HpBRFYiuyr8ZE="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "vAPxydUMKFTKDfeseZHseldPa/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

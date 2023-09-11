@@ -1,0 +1,55 @@
+{
+  "GroupID": "win.doyto",
+  "ArtifactID": "doyto-query",
+  "Versions": [
+    {
+      "Version": "0.1.0-RELEASE",
+      "SHA1": "T6gIqMypXnd+YAyN/wVz4Zi9AQg="
+    },
+    {
+      "Version": "0.1.1-RELEASE",
+      "SHA1": "EbE/s1wRDN/SYchqSKnI6ZwANDw="
+    },
+    {
+      "Version": "0.1.2-RELEASE",
+      "SHA1": "dFHF0gfRIHj1z+lPpIQhnzMKGAM="
+    },
+    {
+      "Version": "0.1.3-RELEASE",
+      "SHA1": "mkeIHcpXlkepeYRVASuNmgtizsI="
+    },
+    {
+      "Version": "0.1.4-RELEASE",
+      "SHA1": "RO38qqUsgyliBuOeJDvo+HDY9CQ="
+    },
+    {
+      "Version": "0.1.5-RELEASE",
+      "SHA1": "kc29LiQ+oYyfjULvGKJN2vizhH0="
+    },
+    {
+      "Version": "0.1.6-RELEASE",
+      "SHA1": "Ec2gAcF0dXDRJlkNGC1UPzxX5bo="
+    },
+    {
+      "Version": "0.1.7-RELEASE",
+      "SHA1": "ikIWGnXXxuYLEY8SeeAUiYLRdi0="
+    },
+    {
+      "Version": "0.2.0-RELEASE",
+      "SHA1": "uZkVINL6p9CzwUHE+JbuC4Mj9oQ="
+    },
+    {
+      "Version": "0.2.1-RELEASE",
+      "SHA1": "CjICTURgRSEZKzfvV8kSn42pyJI="
+    },
+    {
+      "Version": "0.2.2-RELEASE",
+      "SHA1": "tWgZ30fnhuLk2ZjmX0YRgf2XbKU="
+    },
+    {
+      "Version": "0.2.2.1-RELEASE",
+      "SHA1": "kojFD/ZgWPAXlaayEE6GnWgQSxc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

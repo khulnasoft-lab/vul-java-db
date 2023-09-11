@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.selckin.swu",
+  "ArtifactID": "swu-base",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "bMEQDm0igy+pZh6lvslJNMOBcls="
+    },
+    {
+      "Version": "4.2",
+      "SHA1": "Vz99xMheA2OixvkbBDvjLWCRfr0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

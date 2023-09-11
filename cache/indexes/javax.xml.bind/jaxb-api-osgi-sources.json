@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.xml.bind",
+  "ArtifactID": "jaxb-api-osgi-sources",
+  "Versions": [
+    {
+      "Version": "2.2",
+      "SHA1": "vPI7HYWMb2nWfIUdSXmE0lNF0LE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

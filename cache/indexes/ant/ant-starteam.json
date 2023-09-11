@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-starteam",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "a9LzmkAVsSqqDb2DBmtZG9HsuE8="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "8SdESy5sxxbwhllZLGny07rgMnM="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "Psr9V4nr+sbZTMxqS8roJ1ev6U4="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "pV7KQTv0fwsJsqim4drCATrScGw="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "tPMpnKpZdEOLW3ry8xRQS6CqgjA="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "Q0jFfGaKrzveXBK5F8Q+Tr0XJXY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

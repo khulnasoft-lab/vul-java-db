@@ -1,0 +1,27 @@
+{
+  "GroupID": "cz.martlin",
+  "ArtifactID": "xspf-playlist",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "WX0Y0mzNMnqnZOsOcVvHliapkI8="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "CwwkIM3aoIKKqnDWPQstK3uCTis="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "hiwk9D8/STuGMetNFeLFN3ARa2g="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "0gQX7ZMr1O93gb4iQlSKUiaDO4s="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "kSFXbgxu4orsjqELDE3ZP21JNLk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

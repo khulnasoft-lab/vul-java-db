@@ -1,0 +1,35 @@
+{
+  "GroupID": "garden.ephemeral.dsstore",
+  "ArtifactID": "macfiles-native",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "U4SOpe70zkoPpCSkHA+3snno9Sw="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "lUKaEbRmskkUdeq0O3qfApnHe+M="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "NWpDoJ9WJxxPLJ7HpkvgDauoprk="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "a7dmR8gt9qYIW5onF17rGTh6138="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "4rlTvPxAZ+ezPsrZQZ7+13a+vHQ="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "7wHqd57dN0fT2x+zmDldB3YKUSU="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "jXL0jVpKTjFMUi7TvnIKrBPyG4A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

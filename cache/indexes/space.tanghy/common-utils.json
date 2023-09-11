@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.tanghy",
+  "ArtifactID": "common-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "46y2zVu4PDI1sIX92AUuE64gz+A="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "W93bxqpEqvIp4NHIwn9t7spbkEc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

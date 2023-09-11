@@ -1,0 +1,15 @@
+{
+  "GroupID": "cz.tvrzna",
+  "ArtifactID": "pointy",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "JfLTqvXpqVcoxL2JI3lKGY3DOAk="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "3y5Ct1ImBj1Dw65AsP45fwX97/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

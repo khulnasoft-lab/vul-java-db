@@ -1,0 +1,79 @@
+{
+  "GroupID": "it.fattureincloud",
+  "ArtifactID": "fattureincloud-java-sdk",
+  "Versions": [
+    {
+      "Version": "2.0.1",
+      "SHA1": "K13BdgKMejRWyTxtXzlEWzWPQBU="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "QinZuTO1F2DEDAr1GNWmvU6iNXM="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "I80bquXmasMzwJE4nedTQrG5Pmg="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "yCILRmeNJAK+vGcfI2T2HKNXzZw="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "5XPP8TH4Fo9FZkbDzydbnxB7rf8="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "jc7LcIrz8nsrsaukAGFPtAWkdxQ="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "RM33tIxZzQ6UzVE24IOT79zAw10="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "kfoV2YU7TXJHp4F7ecWkk8+6fa8="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "vOWXpOg168DBn/XnWJbJZ1VAat0="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "CCn+Kvp6ICtARaDZM+AzWSAlRAo="
+    },
+    {
+      "Version": "2.0.11",
+      "SHA1": "06cbd1AVuvm0fqUjbIWUucnCrY4="
+    },
+    {
+      "Version": "2.0.12",
+      "SHA1": "yQ+rMwjK7oGytVqq5CLB+nV1/i0="
+    },
+    {
+      "Version": "2.0.13",
+      "SHA1": "+Zt1/8/AOGBjWmLIsMmJ8T2SRmU="
+    },
+    {
+      "Version": "2.0.14",
+      "SHA1": "R0QAcUj3Gf55R3lT4WXYDvTCfns="
+    },
+    {
+      "Version": "2.0.15",
+      "SHA1": "XWkvTAjtdECut8AfZRx29Xxn+kM="
+    },
+    {
+      "Version": "2.0.16",
+      "SHA1": "OZ+buiaNgeKC5x7cQgppoLAUvsk="
+    },
+    {
+      "Version": "2.0.17",
+      "SHA1": "GqJEnYzOgBh8x/P3eB1EvoeNkRA="
+    },
+    {
+      "Version": "2.0.18",
+      "SHA1": "A4FjQcyHK6vQFY3fs4e8x1nmz50="
+    }
+  ],
+  "ArchiveType": "jar"
+}

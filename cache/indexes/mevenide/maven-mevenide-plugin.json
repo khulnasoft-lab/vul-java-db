@@ -1,0 +1,27 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "maven-mevenide-plugin",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "GhCNfFUHlnU3mI24EAcliqailqY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "B6dquNtIPnlSsOlgQzKd3zZ6w8I="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "mdGo+obs89DQn7H0J9gJCDkh9cE="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "4/KfVsVoXinQOli99Wozn+5N0GQ="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "CU97h2AmZX4h7y3gvpVjhqRO4B8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

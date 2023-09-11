@@ -1,0 +1,19 @@
+{
+  "GroupID": "moe.icyr",
+  "ArtifactID": "filesystem-spring-boot-sftp",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "DbUe4F7YA3U6MBBK09JU1MBzdAQ="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "VT6AHh4ZuugmLJZZnwQhPA9txsk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "ytqR8mMRfZsx32PuIp3Y3r4R1Y8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

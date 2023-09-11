@@ -1,0 +1,11 @@
+{
+  "GroupID": "merlin-tutorial",
+  "ArtifactID": "publisher-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Jgu1WhZ+U3XFNSY3LH40lVWd4Tw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

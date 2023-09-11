@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-spring",
+  "Versions": [
+    {
+      "Version": "1.0-M2",
+      "SHA1": "eAvlpRAasJnXYhl/Pg7RPa1mAFk="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "3LGZ+2dzqE4zBB8DtY9kAYn1Pd8="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "3aXmyZvXOhbqJ15BaLJ0sybXQQA="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "+lMPkf7pdUg6cDKU0PKQOsdkt+0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

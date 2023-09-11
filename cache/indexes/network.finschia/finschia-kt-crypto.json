@@ -1,0 +1,15 @@
+{
+  "GroupID": "network.finschia",
+  "ArtifactID": "finschia-kt-crypto",
+  "Versions": [
+    {
+      "Version": "0.2.1",
+      "SHA1": "0v+A/z5kezp+5+Cu8jXQeM0C1b8="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "Btq7yqFm6V/bd7UaZGO/wNMVcV4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

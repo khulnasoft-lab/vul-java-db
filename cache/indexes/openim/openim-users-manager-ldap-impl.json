@@ -1,0 +1,15 @@
+{
+  "GroupID": "openim",
+  "ArtifactID": "openim-users-manager-ldap-impl",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "5tppIpkVOyYZ5rpZ/5vDrg4gLao="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "8AwInYHP8clpKb69o/KC7fcrAXM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

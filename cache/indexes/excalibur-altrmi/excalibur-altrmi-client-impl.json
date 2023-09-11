@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur-altrmi",
+  "ArtifactID": "excalibur-altrmi-client-impl",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "dExQhC3OqhiM1T8pNn7oYJTCNGE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.samson.japper",
+  "ArtifactID": "daac_2.13",
+  "Versions": [
+    {
+      "Version": "1",
+      "SHA1": "GwGzsW89kWohP9IXkploSmsvZPs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

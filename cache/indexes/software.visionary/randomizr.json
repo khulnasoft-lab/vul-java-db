@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.visionary",
+  "ArtifactID": "randomizr",
+  "Versions": [
+    {
+      "Version": "2023.02.27",
+      "SHA1": "95/IvWUcWNqLi05d7lY8dt7+54A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

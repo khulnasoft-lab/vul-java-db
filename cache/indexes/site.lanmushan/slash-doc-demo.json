@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.lanmushan",
+  "ArtifactID": "slash-doc-demo",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "qeiHwzHVpTZ1gnW0084JYWUx/r8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "vyd91PVRb+IUA9Ekfj2cVtm5pFQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

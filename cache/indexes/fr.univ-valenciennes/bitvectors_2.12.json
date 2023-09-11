@@ -1,0 +1,23 @@
+{
+  "GroupID": "fr.univ-valenciennes",
+  "ArtifactID": "bitvectors_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Gd3G2IedgKKXTPTwiutXltxOvWE="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "dW56M0zCtveJ1M6t6vzVGtapCXU="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "R+czyotIkPiW4iUBJyt8eJB/3/o="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "vnosO40sA9dnLxk7kk5yVhMBB64="
+    }
+  ],
+  "ArchiveType": "jar"
+}

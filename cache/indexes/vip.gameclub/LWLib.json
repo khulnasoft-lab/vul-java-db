@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.gameclub",
+  "ArtifactID": "LWLib",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "+3zNvMn5TkB9A+GSbCu1rDMr2VQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

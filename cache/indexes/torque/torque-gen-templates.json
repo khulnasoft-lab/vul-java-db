@@ -1,0 +1,23 @@
+{
+  "GroupID": "torque",
+  "ArtifactID": "torque-gen-templates",
+  "Versions": [
+    {
+      "Version": "3.2-rc1",
+      "SHA1": "JWF6ZvHSLYhefdukE6kRDOgGwso="
+    },
+    {
+      "Version": "3.2-rc2",
+      "SHA1": "QtRGGm5X41JwKcyYOtvWkbW9oBw="
+    },
+    {
+      "Version": "3.2-rc3",
+      "SHA1": "0ENs1Muxh5H6xSg/Y5ZV0IQuQ5o="
+    },
+    {
+      "Version": "3.2",
+      "SHA1": "Sc3k5n7JhA9oPhx5CWzz4fbMLbo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

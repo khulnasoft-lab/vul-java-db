@@ -1,0 +1,19 @@
+{
+  "GroupID": "servicemix",
+  "ArtifactID": "servicemix-jbi",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "ncNg0JJDJG97icFagT0yojZFrxU="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "U5yRrDTrVy8aRabZAm6juaNpARs="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "Ygawr2RlB6WCHDs4gMu0eI1/AYo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

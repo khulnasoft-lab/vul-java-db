@@ -1,0 +1,59 @@
+{
+  "GroupID": "software.tnb",
+  "ArtifactID": "system-x-aws-cloudwatch",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "i0fBprtXs0NQ4QcSHaqcTSqN+s8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "jAQpn6JPTV9IHqIVUaxNakuERFk="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "hKrtkNX8IIlVUK/olNzXxUR0rrA="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "gWj29ImnrGBkoFz65gJHHhaEf1w="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "v8REc4T2fwshqjXSesYN2RurfW4="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "q7pZyj9qi+JgOtrSZ27PqUZLXrw="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "Vy1sj7TxFl1ao6PLGI1mp+oUvCk="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "jG4lZopVJOVTuDFd5JkL3SEtOuo="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "r6DwgHN4kt1qur20rS5648MOUnM="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "+dqUsHkQsQEPQRhqf7W1FgiKpUM="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "c//ymhOiKuz72FK2f5NiHk5WVm8="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "9i5rH1x5h3JgKSSuXVys/PgGLbg="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "po7OA3Fa3AuagAiVhIAwwnVakxY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "studio.raptor",
+  "ArtifactID": "ddal-config",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "OCK/UoG4ELwC77PsZVnRAyOkGBw="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "IvF0MILG7IABtobyhpxIeFBvSNg="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "4S69f5vVllZBaZttyo3ui/Eive8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

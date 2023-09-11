@@ -1,0 +1,59 @@
+{
+  "GroupID": "nl.praegus",
+  "ArtifactID": "fitnesse-bootstrap-plus-theme",
+  "Versions": [
+    {
+      "Version": "2.0.3",
+      "SHA1": "sCd+kjHVYcMpl4YFnMFz1km6//Y="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "4jD81eGgtQujttVxLZnQot3wXNg="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "6qvtEbU9hxD/OtH5XhS6F1hDTj0="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "/+pyqn+txP3b1d0j5hUCUU59bNo="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "4ivamG5mC2PY1DQXm3PxU20kStQ="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "SFFxkv47At1qY2ctKp25JM8Q1Pg="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "vuaa/MzcmqlF3+pqMoBi67Ufnpw="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "MIBTBscC48erkWCVZaOKjAhDkyg="
+    },
+    {
+      "Version": "2.0.11",
+      "SHA1": "s/1MUAC5LBY5tMmEI7SMSqXn5Lg="
+    },
+    {
+      "Version": "2.0.12",
+      "SHA1": "+3eGx2q3OJSAZjGRxyYy7WFoou8="
+    },
+    {
+      "Version": "2.0.13",
+      "SHA1": "kGManZHpchlUTG0iZt6y9RqDii8="
+    },
+    {
+      "Version": "2.0.14",
+      "SHA1": "9tkzV8QfAEcZG7gmd51johzdQJs="
+    },
+    {
+      "Version": "2.0.15",
+      "SHA1": "3r3tgc1s/B5LUFq/orO1R+R1hGQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

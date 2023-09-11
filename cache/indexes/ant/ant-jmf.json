@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-jmf",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "tQMSDMfWEcWTMFB01/xUTKpJIbQ="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "dZC7lCwvZMMihpY3p073O1ZTU60="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "51RtgtECnGqGUs6M5SvynHHjw/Y="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "f8OUwgPmGnmBz8cYKcLmXFkilHc="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "WBoFVQgpQS+V4o2nVNlkSJ/7RRg="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "rvIvN0Z6HM1lXmPPTStFkO+0t1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

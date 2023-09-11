@@ -1,0 +1,91 @@
+{
+  "GroupID": "ai.stapi",
+  "ArtifactID": "axon-system-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.10",
+      "SHA1": "w3edxRQsNewpDPGcsD8/q8VBIWg="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "2jeauiGwAb4MkgCUTbKvNnKmRQs="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "Z9oBzUK7ovKsSvHFV7ZoD0zEzfI="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "GyTksRr6n2lmjo6Gi526YdcA+Ls="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "bHYNjn7F6RdUshgpNly/kEP1fCU="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "HBcH1iRnSD/I9TLU8io3vru7enE="
+    },
+    {
+      "Version": "0.0.16",
+      "SHA1": "M+5132GpaeiT1EqVsOSSvix/ADY="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "y/NCliM/3qIZbPMD94SlCVh8Fu0="
+    },
+    {
+      "Version": "0.0.18",
+      "SHA1": "DAaT+sPNY9kegv+m8Ve2GAEt+SE="
+    },
+    {
+      "Version": "0.0.19",
+      "SHA1": "qlM4XF33fRv8dhD4V2AEVJd01TE="
+    },
+    {
+      "Version": "0.0.20",
+      "SHA1": "GrtVGJiTqGgS81/IYFsD0MGXyhk="
+    },
+    {
+      "Version": "0.0.21",
+      "SHA1": "nM3bbSSuM38B473I4kEXFOBMMNk="
+    },
+    {
+      "Version": "0.0.22",
+      "SHA1": "9AEWaMfkMEEpzI3b5fe4kQ39fMw="
+    },
+    {
+      "Version": "0.0.23",
+      "SHA1": "mQEUXxvXkeqnOyMv7vH95ZzmA/8="
+    },
+    {
+      "Version": "0.0.24",
+      "SHA1": "fQ5b/3nPenD6wR9ojJlxxMPPHMc="
+    },
+    {
+      "Version": "0.0.25",
+      "SHA1": "nRdyp1dFFMTCMN9vgUtJAe/O6KI="
+    },
+    {
+      "Version": "0.0.26",
+      "SHA1": "vuiOdT9qCLwiuTI2ttIFJgf3NvI="
+    },
+    {
+      "Version": "0.0.27",
+      "SHA1": "1rNyjun7frPI6eJqW4HWjEOj2uk="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "n2iMormeFfwfgjhXzzAPKRRHZGE="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "eZqnP0TEnoHBRXmU4Yb01VUkcuw="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "EanQteQOAL5mWipXCcA4/lNpZ+s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

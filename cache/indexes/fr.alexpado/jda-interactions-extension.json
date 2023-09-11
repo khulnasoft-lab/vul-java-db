@@ -1,0 +1,91 @@
+{
+  "GroupID": "fr.alexpado",
+  "ArtifactID": "jda-interactions-extension",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "ZOzk4GNep4ntrpKD4LUP9viOsQk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "94I2rTTNMCY/7UZc9vbzLuuiDFQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "6I1tgfSid0UFRVLZowhvjSmXiCI="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "uE7WogwDlUqePUya4fseU27nwz8="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "FGg/d4z82S/bg9vMaBLRNZZ+DNo="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "p/lYj79jJ8lT2HBzMJyvnVUDE5s="
+    },
+    {
+      "Version": "0.0.7-beta.2",
+      "SHA1": "TSAPb/EN38FDkl9yKkhcIUkK9As="
+    },
+    {
+      "Version": "0.0.7-beta.4",
+      "SHA1": "t10Wpi9zOhFd1P6tobLj1NPMTVQ="
+    },
+    {
+      "Version": "0.0.7-beta.5",
+      "SHA1": "FFyiGQ0GZXlCbeFiM6FwOfeEwdQ="
+    },
+    {
+      "Version": "0.1.0-rc.1",
+      "SHA1": "uRrxx/nMK3U2IC1HQUzuf4t5khs="
+    },
+    {
+      "Version": "0.1.0-rc.2",
+      "SHA1": "7uFXItpBoI8RABgMEj+n/xoXAOA="
+    },
+    {
+      "Version": "0.1.0-rc.3",
+      "SHA1": "MRIliw8ZFUiKdMNFHzgt55cYN6U="
+    },
+    {
+      "Version": "0.1.0-rc.5",
+      "SHA1": "PVzbUYJEeVMgA4J9+tza73t0WPs="
+    },
+    {
+      "Version": "0.1.0-rc.6",
+      "SHA1": "wCETABWPsvWfcq0Mj9YsYodBgHk="
+    },
+    {
+      "Version": "0.1.0-rc.7",
+      "SHA1": "z0wjDzuKfH5v3PsTf1MRULoWbYw="
+    },
+    {
+      "Version": "0.1.0-rc.8",
+      "SHA1": "bDhcLedWx5pAY6hveLSvdzOGUoI="
+    },
+    {
+      "Version": "0.1.0-rc.11",
+      "SHA1": "hZxf1a5T40VrLAZZXkyBamGysuY="
+    },
+    {
+      "Version": "0.1.0-rc.12",
+      "SHA1": "5sCvrLIKVIWJXT67Juc0iXR1YpM="
+    },
+    {
+      "Version": "0.1.0-rc.13",
+      "SHA1": "LQMAMR0Z4fMe9SMCoA1PW5Bx6ZA="
+    },
+    {
+      "Version": "0.1.0-rc.14",
+      "SHA1": "AG8pnMDBNpaJju4iz0DT7LXH8bM="
+    },
+    {
+      "Version": "0.1.0-rc.15",
+      "SHA1": "aGbBTZyOsHgR5HGtyS6n5kvF8N0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "javassist",
+  "Versions": [
+    {
+      "Version": "3.3.ga",
+      "SHA1": "bvxGXO+UnKPjNVooVVzeq80XEkQ="
+    },
+    {
+      "Version": "3.8.0.GA",
+      "SHA1": "1Btb5dJtTe8uJvmWM31RLYZQneg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

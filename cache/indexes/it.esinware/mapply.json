@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.esinware",
+  "ArtifactID": "mapply",
+  "Versions": [
+    {
+      "Version": "0.0.1.jdk8",
+      "SHA1": "pcGkRg9xZZep+moFv3Bp+7zznaI="
+    },
+    {
+      "Version": "0.0.1.jdk11",
+      "SHA1": "QBt9WlGzi+iXKDf+fSJn/mb/dpo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

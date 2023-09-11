@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.stokpop",
+  "ArtifactID": "events-jmeter-maven-plugin",
+  "Versions": [
+    {
+      "Version": "3.1.2-events-1",
+      "SHA1": "eSXeVaEEDxUw+4WR6+kY2904MxE="
+    },
+    {
+      "Version": "3.1.2-events-2",
+      "SHA1": "ars01Pu8LQhpGW+A2aC0pHM+vbg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

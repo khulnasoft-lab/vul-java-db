@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.wsrp.api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xwL+xqdIdvcYWlym7VVWqRb7xHU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

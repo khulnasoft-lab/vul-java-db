@@ -1,0 +1,11 @@
+{
+  "GroupID": "wadi",
+  "ArtifactID": "wadi-tomcat55",
+  "Versions": [
+    {
+      "Version": "2.0M1",
+      "SHA1": "dCG3st/yL3sWecndmf+ngk59m0k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

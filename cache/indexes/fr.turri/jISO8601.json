@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.turri",
+  "ArtifactID": "jISO8601",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "S2MqgyB8xGGled12H/heDlFlI3A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

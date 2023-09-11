@@ -1,0 +1,71 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-testapp-pojo",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2MWH7BfJwiYDzhMISQJ7pEKPEQU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "fvccSx9Y+1cDDdeBYgOV+PFBQ3Y="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "eyd16YLpzS0s0zDxesYlSxyDQZw="
+    },
+    {
+      "Version": "20050206.203951",
+      "SHA1": "FDuxqNa2Qed3IqfXIGstqk9HrM4="
+    },
+    {
+      "Version": "20050208.124907",
+      "SHA1": "3VgWHFsib199Kq7KgwQu+NoXpx8="
+    },
+    {
+      "Version": "20050221.200355",
+      "SHA1": "j2IAr7XezEiBO5uxcV8bdXb7FpI="
+    },
+    {
+      "Version": "20050221.204948",
+      "SHA1": "j2IAr7XezEiBO5uxcV8bdXb7FpI="
+    },
+    {
+      "Version": "20050222.201754",
+      "SHA1": "kOGhzD4b3RzW6Lq0mmYw238tuTU="
+    },
+    {
+      "Version": "20050302.192550",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20050302.193102",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20050302.193933",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20050302.195456",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20050302.200927",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20050302.203507",
+      "SHA1": "mpYn+kIYxwwhf4RR2OZchYeDx2g="
+    },
+    {
+      "Version": "20051012.090027",
+      "SHA1": "vaL29EnopZKV5cwzMSRA5xli2yg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "JLM4LNauv1QN9aNIT5aB8Rbqewc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

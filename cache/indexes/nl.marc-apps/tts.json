@@ -1,0 +1,75 @@
+{
+  "GroupID": "nl.marc-apps",
+  "ArtifactID": "tts",
+  "Versions": [
+    {
+      "Version": "0.7.1",
+      "SHA1": "BhkueJtqNZ9fYXGV2qFib5KBReI="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "Gn9ZzF/81uQSrMXRDl5DiFYCj00="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "+lKVF8LJGPpfuFXweUgy3ISAUPo="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "fQnqT+nYPcO46ZeW1HqxilVHqiQ="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "T23mpQGqD0Hp8hItV0yexNCcTiY="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "hE9tMmAwDu8szzXQI+N/enw3mvU="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "AV0nLhzkTBu0tct7xkSdtvWaUsk="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "DGG7RA6qXxn8/DPBHZAx7+/9iZQ="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "GRKUXjmBy+7PU5mMEXGntufUcfQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "bIkZj96+waZOm8p4EFvgXZiJjQM="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "KQzrIVy04zDOenp+6KpyTNSxZL0="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "rQw4U9Hxk/ALx2wqwg5mcJXeMdM="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "MDABtRAD4ZPRPFSte2SQOXl7Nw0="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "0nBZZFZk3SYeZPse5g/kk9lMjZE="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "w3Z61uvSkc7NlL2uvcvO5we0vN8="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "Y8j9J1rnrotvBqB5L5G3tsT4BEE="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "/jUoE+iRah422OdHvBLIZxHj81I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "bouncycastle",
+  "ArtifactID": "bcprov-jdk16",
+  "Versions": [
+    {
+      "Version": "136",
+      "SHA1": "FFjKZL/gdrjCjM8h1ZJ106zZfYw="
+    },
+    {
+      "Version": "140",
+      "SHA1": "Qe+yqUBB3c7W0rPy+A0hiFOqxsk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

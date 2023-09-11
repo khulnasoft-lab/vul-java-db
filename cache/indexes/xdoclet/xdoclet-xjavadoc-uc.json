@@ -1,0 +1,11 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-xjavadoc-uc",
+  "Versions": [
+    {
+      "Version": "1.2b2",
+      "SHA1": "kZE2xkc+CtpaTeWLyX1nOX0fGbI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

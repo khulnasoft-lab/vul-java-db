@@ -1,0 +1,19 @@
+{
+  "GroupID": "it.rebirthproject",
+  "ArtifactID": "ufo-event-bus",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Xm9d0Bib/CI15Y1WgZH+rJxAo+E="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "6hKm4KQyp4rUcviYQBg3tnj8Npo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "9ud47vM8NwXcuSFbbWJLDX3gVOU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

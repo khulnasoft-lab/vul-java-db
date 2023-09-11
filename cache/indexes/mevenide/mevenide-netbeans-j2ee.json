@@ -1,0 +1,23 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "mevenide-netbeans-j2ee",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "W2mL9M8SM8KddD53wy3lbt3C+DA="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "u5MTDKsC1bkbx8o6Mdr4xEXK6Gk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "YiYm7aEq3KyusQ9k+Bf/3+QSI0U="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "P9bagfsxjztBkOJonh/MoiBl3b4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

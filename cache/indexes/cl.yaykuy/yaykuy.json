@@ -1,0 +1,11 @@
+{
+  "GroupID": "cl.yaykuy",
+  "ArtifactID": "yaykuy",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "zvoK9ZVf1B2WhMyiVfWI1YULAUc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-ibm-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "50/KTF1Xtbg+MFSBRkSdGcZ54hw="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "BDIpmCUE/1Bmvj3rdbS98vBdGnw="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "cT4cWS+2G7RfALynWI8YemDa4Nc="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "DAyt5UTu1UuhTpVi/VXo/BBv0sc="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "hsb/2TUMYdxGU+qinxF7qfZtbi0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

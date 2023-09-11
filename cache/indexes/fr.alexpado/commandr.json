@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.alexpado",
+  "ArtifactID": "commandr",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "0vltoW2N93ddHXAORZ7/Qevt/g4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gVx0gn9ETPJJGHciDd2YpVf1o30="
+    },
+    {
+      "Version": "1.0.1.1",
+      "SHA1": "+sXUEinjPUbM4Dvi8i3x9/wlMnk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

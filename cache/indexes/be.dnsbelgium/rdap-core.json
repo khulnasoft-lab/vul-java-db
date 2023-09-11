@@ -1,0 +1,83 @@
+{
+  "GroupID": "be.dnsbelgium",
+  "ArtifactID": "rdap-core",
+  "Versions": [
+    {
+      "Version": "0.3.3",
+      "SHA1": "f8ES5C3T6PirYmKz6WdydS7G0LE="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "XFjnyjoeQ1KYR/sB6Qdn4qsDeeU="
+    },
+    {
+      "Version": "0.3.5",
+      "SHA1": "fMTJFaqxnkfAld0Hon+khFNJ4DA="
+    },
+    {
+      "Version": "0.3.6",
+      "SHA1": "aVhj41l9OQyLGJsdPAk55oz/SMY="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "YcWS9sT18YKDrzukk026HWUInrA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "yx73iWnBVcGPDnw+VYLY7t5FvAE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "tZ+bAsQHlRoYLyr8pJE/qwFxSCI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "xXExiJbpWdurw61L3lDb8fhiei0="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "2TPof7bBmjMNbT9YMP6vEzpbcdg="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "5whKEGL0UuLlNuOFX0GKzEp8+R4="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "dMPDpSdaYPcZj1Ehfi0I4Mjo40w="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "UwA0e2xjpVpVw2d+ZM/U5Beabe0="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "o+o4mD2BDjGfbFxAr80WsQlJojw="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "spit+lvuRYI7d0brsa2oP6tGtx4="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "kTVhJCkcRs+IZ+OZNs9br4bYBU8="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "5xbzRn2EcMnYV+xSh5KRpo++MkY="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "BPG4L0Qd4qUIxkKiAL+tQaD/9O0="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "TrtM8UMFggN+DTFvfXR/mhLITFI="
+    },
+    {
+      "Version": "2.0.11",
+      "SHA1": "pdjGTu7ddDxJo5+asXG++ho27Ww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

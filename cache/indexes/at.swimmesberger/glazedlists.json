@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.swimmesberger",
+  "ArtifactID": "glazedlists",
+  "Versions": [
+    {
+      "Version": "1.12.0",
+      "SHA1": "vstu0ANyf4gaHRI0L13yMf33ypI="
+    },
+    {
+      "Version": "1.13.0",
+      "SHA1": "9OxW7+rHGAwOHbz2IUIYbaW9cd0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

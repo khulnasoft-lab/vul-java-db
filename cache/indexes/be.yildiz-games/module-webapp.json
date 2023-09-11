@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-webapp",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "N47dO0xwOQCi71RJL3Q0dqw9viA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "HDLw7WMoua+v0QoMIyAmDjhwKiQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "fHDOYK4CG8+My9sPDJRgDk8HrHI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

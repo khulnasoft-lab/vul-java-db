@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.mickey",
+  "ArtifactID": "logically-deleted",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ALJKQYnJFYPeqi1cKqMpW8i6W7o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

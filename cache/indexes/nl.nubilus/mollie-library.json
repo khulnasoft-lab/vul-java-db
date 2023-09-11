@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.nubilus",
+  "ArtifactID": "mollie-library",
+  "Versions": [
+    {
+      "Version": "0.2.3",
+      "SHA1": "FjzBQVOUgMwDtCYtXVOTdw6a4lk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

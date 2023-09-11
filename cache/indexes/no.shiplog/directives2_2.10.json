@@ -1,0 +1,23 @@
+{
+  "GroupID": "no.shiplog",
+  "ArtifactID": "directives2_2.10",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "Bhed08CfQs0nogizNKiISQ6Nw84="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "LamZFuP89ZCBWYX67NyWBln72JI="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "jxV3KkroZWMmZZjEu4GHLe7p0Ho="
+    },
+    {
+      "Version": "0.10.1a",
+      "SHA1": "0bmO/RDvAoB/o4ESKO2XgyEps3c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,95 @@
+{
+  "GroupID": "pl.maciejkopec",
+  "ArtifactID": "offline-mode-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "a5FxP6w4LAY+hexvmb9UE5SYY0s="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "RSfnAwma98HfqA6bIzt4qWknOYo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "h54fCkMAKpcL8cZoJpIInd25jb4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "/x5wS5qI9L4xIRjrEn08M2lHytE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "9Zfukp8SvCkHNrHuA0UoCXhuI+c="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "iZKrofyusEcTl9/VNiE4xEY1Tl0="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "cnEfhBFq7Y3npGly4C78GFGKvtg="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "xH6EVVePoMxaOOW1rbb1IRLAsdY="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "S0BsSPUUwQMSYz0zDCUcYT/7/Ew="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "XHHSOHPOx2CKqg4uzYhyGipBobQ="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "/Y1Nrg+C2SFCkGfBMwhMBg2xLqw="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "gHd2xErACrsZbAoqbGWG3Zpnejc="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "P7FcMyHS23vEgJP2YNMTm4II+Ng="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "u3PTf1NJptPL35v+xNsvFOfxIZg="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "5Cq4EEanamU64RSrEMdD/7VQ94I="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "IbAYDRuBKZgEyWOKn00nJGocCzg="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "no0kkK2k8jv3chSO6nu3Nolzpug="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "kbGpw7I85qeCZpr+BZis8uCEO9s="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "bma5w+itVuaG7Lx1f9MRCQWF+Yk="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "j+C1GNo+ofJoIoeMOfJZckLkJ2I="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "2vXem5j1zLAOWyNgHabKd9jHZr0="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "3piQwX/BQp36WfkW6ykG7WRQuS0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

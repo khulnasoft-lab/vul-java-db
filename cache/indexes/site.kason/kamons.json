@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.kason",
+  "ArtifactID": "kamons",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "eKw8rlpiLwh/OzG+YsuY+vgL06M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "64b5qS8B/mzs9zD5wf2inI6wzWU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

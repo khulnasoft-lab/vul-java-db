@@ -1,0 +1,43 @@
+{
+  "GroupID": "javax.xml.ws",
+  "ArtifactID": "jaxws-api",
+  "Versions": [
+    {
+      "Version": "2.2.6",
+      "SHA1": "eM1iezjTHuX+4fw4FRIhbKqtoFs="
+    },
+    {
+      "Version": "2.2.7",
+      "SHA1": "bsxjhggeQ66gduUv5nLcjYtZHiE="
+    },
+    {
+      "Version": "2.2.8",
+      "SHA1": "1Mltlo+Hsb/vE46R4GyP1KGQQgg="
+    },
+    {
+      "Version": "2.2.9",
+      "SHA1": "9IPfzNauK103Gt9mzXANsh5B4c8="
+    },
+    {
+      "Version": "2.2.10",
+      "SHA1": "faCOMw18VX2P7dJWCHWvVqLsIFg="
+    },
+    {
+      "Version": "2.2.11",
+      "SHA1": "wigco6f17DMky8jGzyZxwA23y6M="
+    },
+    {
+      "Version": "2.2.12",
+      "SHA1": "qZ3e45QcYNSTqhJWF8ATRGmLQw8="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "gtst/nBiTW7R6Tc3q/uwpN8ISok="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "FeRtuiWx92ej9RdyG632zOjbsT0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

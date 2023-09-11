@@ -1,0 +1,35 @@
+{
+  "GroupID": "cc.freiberg",
+  "ArtifactID": "paapi-client",
+  "Versions": [
+    {
+      "Version": "0.9.4",
+      "SHA1": "ZLuxcQcjKCf+06H52u3sRlg2Qvw="
+    },
+    {
+      "Version": "0.9.5",
+      "SHA1": "InHDr3PvcJOr/0BXVQQ86qMxnUw="
+    },
+    {
+      "Version": "0.9.6",
+      "SHA1": "HbLknntJgz6RlXOfLH04kaKMiVE="
+    },
+    {
+      "Version": "0.9.7",
+      "SHA1": "8zpsu/8bgskyWtesnxJ3wZu7prs="
+    },
+    {
+      "Version": "0.9.8",
+      "SHA1": "I8OEC7kZi3GjFOAP4MaiFehoP0A="
+    },
+    {
+      "Version": "0.9.9",
+      "SHA1": "NzesEN25qy9W5gpNSYhWs+duiks="
+    },
+    {
+      "Version": "0.9.10",
+      "SHA1": "g9HKmM2sEdZY8nfgDTHfj5W0J88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

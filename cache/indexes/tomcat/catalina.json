@@ -1,0 +1,67 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina",
+  "Versions": [
+    {
+      "Version": "4.0.4",
+      "SHA1": "X7JNQU2SidB5XMZUc2LbhWdkWwI="
+    },
+    {
+      "Version": "4.1.9",
+      "SHA1": "OTRmRSMBpMwCa0O/Ww+t1+JESIY="
+    },
+    {
+      "Version": "5.0.16",
+      "SHA1": "SMwVvYJbgeixUOsbunVmk6VniM4="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "5BDV4ltaPsMuhBs37MhMgxyXeJI="
+    },
+    {
+      "Version": "5.5.4",
+      "SHA1": "kUlxT4KtH43l/Ly/o+4L/qLQEv4="
+    },
+    {
+      "Version": "5.5.7",
+      "SHA1": "JDHojeaNIiM0/xVpJ07ds2yyV08="
+    },
+    {
+      "Version": "5.5.7-alpha",
+      "SHA1": "JDHojeaNIiM0/xVpJ07ds2yyV08="
+    },
+    {
+      "Version": "5.5.8-alpha",
+      "SHA1": "zkL4LVeXZkfnLuILc7Q4ALFO7iQ="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "t+1+bLuRngQ3MNMCXsm6A9cMCt4="
+    },
+    {
+      "Version": "5.5.9-alpha",
+      "SHA1": "t+1+bLuRngQ3MNMCXsm6A9cMCt4="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "1i5amAK69Notmi/ASp2AxqugXGY="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "dZJXdjFdXm/O5gQQwckVSXyv4/k="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "yu6bGGb3NDc723ewLRLN/1Gnwzs="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "tdGmF34vMmftKX9jVq5mDlZFxDY="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "Fzc2Vuhm0yhTRm9yDqXuJtmMcfQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

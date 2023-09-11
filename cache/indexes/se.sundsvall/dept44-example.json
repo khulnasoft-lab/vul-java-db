@@ -1,0 +1,47 @@
+{
+  "GroupID": "se.sundsvall",
+  "ArtifactID": "dept44-example",
+  "Versions": [
+    {
+      "Version": "1.35",
+      "SHA1": "zTSS0zlfcDPoO4oSxXEr+9lmtYs="
+    },
+    {
+      "Version": "1.36",
+      "SHA1": "DbH73PW2d1pLKmQEtioftyLIl7s="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "9/gMcfHnE7Rer4V1X0d3u1sR6SI="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "5c3zk0U/JJiP3BeRZMa/Pql34q0="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "+tP82sR82hu32NbygaQ/po8mpMg="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "BB9jCp1oNSPes9ZxqPexjBVf5c4="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "ZJ0FAzks7sPl2WK7mF4Po98t88A="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "miWqE7yDgGdSaWIS5ZTaDA0N3kg="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "6KRVtOr64AL64nMbe4OvWkt4+q0="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "jtnVn9BSfUfrE9eWgTQweBmV/0g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

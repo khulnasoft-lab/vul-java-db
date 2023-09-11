@@ -1,0 +1,11 @@
+{
+  "GroupID": "controlhaus",
+  "ArtifactID": "controlhaus-jms",
+  "Versions": [
+    {
+      "Version": "alpha",
+      "SHA1": "b3XFIi3d+voCKB1gycm0KxLji6c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "payload",
+  "ArtifactID": "payload",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "KvEzkS+nlCzHwjjyCY+dpAd7FYA="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "Sy3ahHEP4L76IlItRLIt959aLXk="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "rIv1KWydkJ11qnr2fgHiJ+DMSfQ="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "FWmJJjok3+iLLfNqBVeDsvAaQao="
+    }
+  ],
+  "ArchiveType": "jar"
+}

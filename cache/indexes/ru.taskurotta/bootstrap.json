@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.taskurotta",
+  "ArtifactID": "bootstrap",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "ITArPqUAXHwcOtxjzsZqtVHMWP8="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "Zg7V8DUvvJVhvVFZEDWHyBExYzE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

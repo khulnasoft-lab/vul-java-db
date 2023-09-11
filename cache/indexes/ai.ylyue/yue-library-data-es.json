@@ -1,0 +1,67 @@
+{
+  "GroupID": "ai.ylyue",
+  "ArtifactID": "yue-library-data-es",
+  "Versions": [
+    {
+      "Version": "j8.2.2.0",
+      "SHA1": "nM/sga/+Imkrjjn8u5OHe75FFLM="
+    },
+    {
+      "Version": "j8.2.3.0",
+      "SHA1": "6jOBSgSOAxh6MJe7UMBjEKN31GA="
+    },
+    {
+      "Version": "j8.2.3.1",
+      "SHA1": "i31qqO0r4s9kBJutwRWFcbCcq4A="
+    },
+    {
+      "Version": "j8.2.3.2",
+      "SHA1": "KOPVqdSwVYTanPnb/5il+qsxooU="
+    },
+    {
+      "Version": "j8.2.3.3",
+      "SHA1": "rRwRNRHV9SLFZ9EYoXXJHn3BFvo="
+    },
+    {
+      "Version": "j8.2.4.0",
+      "SHA1": "/cHZFXumHXgOFE3p9gB9kv7RzXA="
+    },
+    {
+      "Version": "j11.2.2.0",
+      "SHA1": "Imfnsieod4z58fw82h77cLU7ZYg="
+    },
+    {
+      "Version": "j11.2.3.0",
+      "SHA1": "DaBlN6BFuU/c0er1igebKeBbMiI="
+    },
+    {
+      "Version": "j11.2.3.1",
+      "SHA1": "cXZYyYqrtDwcoCZoDD3j3M0hsB0="
+    },
+    {
+      "Version": "j11.2.3.2",
+      "SHA1": "fkzhDK5LGauweMCvBhiiZsLX4bU="
+    },
+    {
+      "Version": "j11.2.3.3",
+      "SHA1": "NtOHvFrFufDsAIV4nFNs5ZM5a7Q="
+    },
+    {
+      "Version": "j11.2.4.0",
+      "SHA1": "u6BIZhIiUv83++grsVU5kVzt1j8="
+    },
+    {
+      "Version": "j11.2.6.0",
+      "SHA1": "2ZddYYHE3cVQsEx/CQzNTEqkAgI="
+    },
+    {
+      "Version": "j11.2.6.1",
+      "SHA1": "lxDnkWW1NpuOjy63pdMVa7UxfRs="
+    },
+    {
+      "Version": "j11.2.6.2",
+      "SHA1": "qItvJR+u3WZnn9TrvUFKFFIi6jM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

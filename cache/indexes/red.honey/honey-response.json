@@ -1,0 +1,11 @@
+{
+  "GroupID": "red.honey",
+  "ArtifactID": "honey-response",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "eGAV/1nQEtsUqpDOLG7Dqm72zJE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

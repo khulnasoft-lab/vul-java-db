@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.meethigher",
+  "ArtifactID": "object-converter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AejC3nDGkiP4GP5Vpby3a+qhDUM="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "oU1iJb5Y+Y3/Bm/hqsnYETkhthc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

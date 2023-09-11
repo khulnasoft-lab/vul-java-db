@@ -1,0 +1,19 @@
+{
+  "GroupID": "network.quant",
+  "ArtifactID": "overledger-sdk-ethereum",
+  "Versions": [
+    {
+      "Version": "1.0.0-alpha",
+      "SHA1": "frn9M9FFBY+3iZ/bHbafRpxjgZk="
+    },
+    {
+      "Version": "1.0.0-alpha.1",
+      "SHA1": "oh7kixgP+q5DK7zeXoLKXwfSnsM="
+    },
+    {
+      "Version": "1.0.0-alpha.2",
+      "SHA1": "WJ5zZW9d5bGPmy5FDcvmE7rvGSk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

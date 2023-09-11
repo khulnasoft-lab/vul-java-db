@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-database-mapping-jooq",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "wcT5k/5RjitIiZzBMgm6hDS9s3k="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xNZFKkFljgib+qAZjm5U6dmfJko="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "t3givOPGwNGxNUYBg0jdLwyEv1g="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "g2oXEI1ulmR9toB3vPoKQa0IxAk="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "reo5/ELwsziWGnLsTjUdbV4T8eI="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "En4+NvgFZPDGOYZAUp6KlHORdNk="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "36/wEZHbSXtf9mDRkNCYKLxxhdI="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "X0Zf9qIiVzbAXCB7KOZhqpnDh6U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "ai.tripl",
+  "ArtifactID": "arc-graph-pipeline-plugin_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "8vAaj0BpURXjhG+z+f4Q3TGzX9w="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "b3HaZBixdZAO6UJRWX2/f6WgNqo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "as4hV/X0sTjwcRAvLLdibmAUwXM="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "OBwufJTP8B9yGySjpLPLprZfwBI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

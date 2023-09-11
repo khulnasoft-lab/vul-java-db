@@ -1,0 +1,19 @@
+{
+  "GroupID": "is.hth",
+  "ArtifactID": "opengrapher",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "4ERtZQk4OlJ4dhU8yhpAjjiKTVQ="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "eVJuAevwhWlMuJYjvZbJTeZZssQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "Zi4+vVr3UqbtTm14EmMPQ8PhoTM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-topicmaps",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "jafiel0apsraBKhbBmRUcViZpBE="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "sbzHz061QSnKMUSPAdrNo+v75VA="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "bU9EEbFwZ5MPsHynAQoOJWw4+mo="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "6mV61f05rQNyIGWkq7f7dMaZ/mE="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "NANr7w4yM3g6koeLiD6fdfovulM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

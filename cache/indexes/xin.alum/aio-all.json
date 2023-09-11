@@ -1,0 +1,31 @@
+{
+  "GroupID": "xin.alum",
+  "ArtifactID": "aio-all",
+  "Versions": [
+    {
+      "Version": "1.6.8",
+      "SHA1": "tTZX0Z4v01oNbDak81DfxrS3QP8="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "g3QjrmQTpx02lx9rS/bqbPAerAE="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "cZZiM9JKDpu7NspDnvC71Nwyc4w="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "X/so1120ISDv5iuO+PG4LMnCyLw="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "szknBpTC5AH0jHWzVYuPFETHG6g="
+    },
+    {
+      "Version": "1.9.3",
+      "SHA1": "QE4Ocbu8G1djs52E4KYX9LJCVO8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

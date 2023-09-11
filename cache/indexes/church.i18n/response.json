@@ -1,0 +1,15 @@
+{
+  "GroupID": "church.i18n",
+  "ArtifactID": "response",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "jCa6JadYmALknoEDX1vrqaTJETc="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "2Kix4w9s2WaNcVFf6NWPozZTjrw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

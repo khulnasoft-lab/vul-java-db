@@ -1,0 +1,63 @@
+{
+  "GroupID": "global.maplink",
+  "ArtifactID": "restriction-zone-schema",
+  "Versions": [
+    {
+      "Version": "1.4.9",
+      "SHA1": "sEk/TZAH7sCM/qBoQu+XmAbshJI="
+    },
+    {
+      "Version": "1.4.10",
+      "SHA1": "17NTU+02ixYAWA1LWd9ca/KxAWU="
+    },
+    {
+      "Version": "1.4.11",
+      "SHA1": "mGr4fSOmM9dWUcRLwgYwWxz19Ag="
+    },
+    {
+      "Version": "1.4.12",
+      "SHA1": "siowPawTP3akiEHQ6EVAyWTSyZY="
+    },
+    {
+      "Version": "1.4.13",
+      "SHA1": "J2TYpCvddH8/XLfKjt7bVwmPCFI="
+    },
+    {
+      "Version": "1.4.14",
+      "SHA1": "cNoh50HPpR2FLm1UREALZKIMxd0="
+    },
+    {
+      "Version": "1.4.15",
+      "SHA1": "FEsrl5yjB60JknS//GjQr2KGZ7o="
+    },
+    {
+      "Version": "1.4.16",
+      "SHA1": "A1L5B5x+I5Di7E2Y3qF9m8+XAtk="
+    },
+    {
+      "Version": "1.4.17",
+      "SHA1": "PoarWxUTeWFmeoZy6ZHaHj42avs="
+    },
+    {
+      "Version": "1.4.18",
+      "SHA1": "5lQtWP3kh1M/SagYdXRfzRJs/14="
+    },
+    {
+      "Version": "1.4.19",
+      "SHA1": "KQ5NVryNiGzhnTRJC6a7ydMdDNI="
+    },
+    {
+      "Version": "1.4.20",
+      "SHA1": "1KaSenVwPK6UTDWZb8FWTjoTgj0="
+    },
+    {
+      "Version": "1.4.21",
+      "SHA1": "gFZA0wqOMyCmZfF27gkmq6ywnIc="
+    },
+    {
+      "Version": "1.4.22",
+      "SHA1": "9PowH1QNoDNALS4Ok0sXmS3uXDI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

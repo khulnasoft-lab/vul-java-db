@@ -1,0 +1,11 @@
+{
+  "GroupID": "ky.korins",
+  "ArtifactID": "blake3-bench_0.27",
+  "Versions": [
+    {
+      "Version": "1.6.0",
+      "SHA1": "aj+ev8ukNNzxWraB2JNyMfzVoIk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

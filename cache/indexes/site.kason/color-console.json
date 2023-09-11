@@ -1,0 +1,19 @@
+{
+  "GroupID": "site.kason",
+  "ArtifactID": "color-console",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "AfTlp0RPusd5xe+nDgEeDhex8mM="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "yNvZDWB8Db1RkJlGv3AXtpIaSBA="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "hmKThPWy5EwmcyWmR4Txh0Igxlg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

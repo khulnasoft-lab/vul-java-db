@@ -1,0 +1,15 @@
+{
+  "GroupID": "wsrf",
+  "ArtifactID": "wsrf",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "PwUhH0xVbdUCqfi47Bxwgtb11n0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "/ItF+/RoA0YMfEnR64+ish3Qm/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

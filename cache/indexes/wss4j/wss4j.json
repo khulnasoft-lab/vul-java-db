@@ -1,0 +1,11 @@
+{
+  "GroupID": "wss4j",
+  "ArtifactID": "wss4j",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "orNmlzzhMHTm48M3jDbi4Un94ys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

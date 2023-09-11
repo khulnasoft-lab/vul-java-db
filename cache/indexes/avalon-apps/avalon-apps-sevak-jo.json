@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon-apps",
+  "ArtifactID": "avalon-apps-sevak-jo",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "t0aDxyv3lwNd5RQyiTWvGYzzGN8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

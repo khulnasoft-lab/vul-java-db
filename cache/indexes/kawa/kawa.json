@@ -1,0 +1,11 @@
+{
+  "GroupID": "kawa",
+  "ArtifactID": "kawa",
+  "Versions": [
+    {
+      "Version": "1.7",
+      "SHA1": "NY+34njJvQWVEiqoONG+t0XcKL0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

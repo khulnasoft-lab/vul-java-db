@@ -1,0 +1,11 @@
+{
+  "GroupID": "win.doyto",
+  "ArtifactID": "doyto-query-mongodb-spring-tx",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "n89sGTw29thqpPxwD2KpfWCwHdg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-metaclass-jmx",
+  "Versions": [
+    {
+      "Version": "20031205.062616",
+      "SHA1": "hcxK7cRw/xVvpZI2GPl4gPxYUX4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

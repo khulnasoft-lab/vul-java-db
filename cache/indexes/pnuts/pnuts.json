@@ -1,0 +1,11 @@
+{
+  "GroupID": "pnuts",
+  "ArtifactID": "pnuts",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "NEQhgymLDsiTKlLbRxUUEBlqHb0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

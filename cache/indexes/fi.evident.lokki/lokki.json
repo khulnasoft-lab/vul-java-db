@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.evident.lokki",
+  "ArtifactID": "lokki",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "5eQl5nNV+4UDyyu9jsRbF/toPJ0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

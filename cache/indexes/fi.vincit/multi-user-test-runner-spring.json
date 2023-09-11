@@ -1,0 +1,47 @@
+{
+  "GroupID": "fi.vincit",
+  "ArtifactID": "multi-user-test-runner-spring",
+  "Versions": [
+    {
+      "Version": "0.3.0-RC1",
+      "SHA1": "rHi+/pyckXQvenemxYHJXfV7yGY="
+    },
+    {
+      "Version": "0.3.0-RC2",
+      "SHA1": "asv3Oxub3cIMMidzJuF2o5Nu/SQ="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "r+WLLleVT0wTHp41aebCjFnCYOY="
+    },
+    {
+      "Version": "0.4.0-RC1",
+      "SHA1": "MM0tgU6n7TCGzkG0fp6cwkXna98="
+    },
+    {
+      "Version": "0.4.0-RC2",
+      "SHA1": "UlArbWCzyE7tyIuEFaLx3rwIZVQ="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "cj9lxPFl0IUaTx+Ho5ltivdAPio="
+    },
+    {
+      "Version": "0.5.0-beta1",
+      "SHA1": "+h7R13NsYBkR0L5BKYNcrjCPyWM="
+    },
+    {
+      "Version": "0.5.0-beta2",
+      "SHA1": "Xin9a82JKVDtLh2BBp8mCaw1VJs="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "5C0TgeT3wuLZxQS6mtwdT858jaM="
+    },
+    {
+      "Version": "1.0.0-beta1",
+      "SHA1": "Z07mEegoz87fDPHRHzpECb4X+4s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

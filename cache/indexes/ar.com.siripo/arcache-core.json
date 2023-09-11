@@ -1,0 +1,31 @@
+{
+  "GroupID": "ar.com.siripo",
+  "ArtifactID": "arcache-core",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "oamPIkKZcP4naZRzLW5TG1/BT/M="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "ZIwtawnmMJ7v8cLNXQvrmWSobJ4="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "f5ciR9ZNA+CbKk6Hxy2ZLHpHOj8="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "qeNoYGu19fHD2E+gwvtJx+kadsU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "XUCK9KYo9O20k1Zfjh9KeQlCUuY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "hSQ+I9fF2tySTD3ID6d8iMJJoTk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

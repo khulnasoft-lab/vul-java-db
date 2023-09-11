@@ -1,0 +1,31 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-testapp-web",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "bf0kFRlP7J4BmfRdN8AWYFO8e00="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "zqHVzMBuZjWxW8+LAyDNZCg2n+E="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "22auM/xKoMhcbgOzr1snY/m4Ufs="
+    },
+    {
+      "Version": "20050206.203941",
+      "SHA1": "WFhPtWv4hTW4CT2V6IWFIYwIbSI="
+    },
+    {
+      "Version": "20050208.124845",
+      "SHA1": "wEfiscPGToIaMFP4/i4mex20ODs="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "yElGvPX5ist4caM/adJdGP1N/vc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

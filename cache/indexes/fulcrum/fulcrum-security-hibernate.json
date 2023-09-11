@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-security-hibernate",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "3oafCKJhHHArjMeh9egTU9CQxb8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

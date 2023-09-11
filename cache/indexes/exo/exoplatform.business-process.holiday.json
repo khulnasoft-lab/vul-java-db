@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.business-process.holiday",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "wAgJ2Q9aG1mEGJIwpK5gDJ/imxE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

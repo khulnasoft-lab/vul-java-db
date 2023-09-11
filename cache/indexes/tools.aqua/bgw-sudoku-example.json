@@ -1,0 +1,35 @@
+{
+  "GroupID": "tools.aqua",
+  "ArtifactID": "bgw-sudoku-example",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "/qtpddixnG+2XWx2tkx5qlB07oo="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "hc3hOmhlfgZCL0Mf1WUMfUJWcv4="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "F7Css/pYnLsQUE36Dihjx2/h+jg="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "P3bKWN/uclrNztVX4MULYBhAppk="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "Q3mRPs1klQEMINEI8PGPhfxVImI="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "/u9YuSozNFZewm3dECKInO8DLzw="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "ieLZhQa1zy+efIfBkZ3h39FQjdU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

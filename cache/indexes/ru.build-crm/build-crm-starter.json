@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.build-crm",
+  "ArtifactID": "build-crm-starter",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "Qje7ZenkuaITwUfY+jgUYGhiWko="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "CpE59Kj6gj/Rectyct/3eR6Uwdc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

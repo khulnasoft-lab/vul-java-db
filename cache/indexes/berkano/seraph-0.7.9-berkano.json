@@ -1,0 +1,11 @@
+{
+  "GroupID": "berkano",
+  "ArtifactID": "seraph-0.7.9-berkano",
+  "Versions": [
+    {
+      "Version": "20050805.013448",
+      "SHA1": "hE7gAhNWb8VsltMnC22RFjliub4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-annotations",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "7fmPWpehklU4ENS48vMqTlVU6WU="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "UAU8KrgxqZeZdIvkOBKCJ923bcM="
+    },
+    {
+      "Version": "1.0-20050913.004926",
+      "SHA1": "zbB2NUe2JTnixywxsU2mf1h7i2c="
+    },
+    {
+      "Version": "1.0-20050917.230819",
+      "SHA1": "xOHQsW/slwXVbEAfb/7sJTKk7Io="
+    },
+    {
+      "Version": "1.0-20050920.032215",
+      "SHA1": "F4wLNh0MUQKTJb2Va1SReObjJzs="
+    },
+    {
+      "Version": "1.0-20050920.034640",
+      "SHA1": "W8jJ1LIITjEgjhXEHKAhQy42vuw="
+    },
+    {
+      "Version": "1.0-20051009.195930",
+      "SHA1": "vF7Sv4CaSI5R/yOxuL4z1f2SH0U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

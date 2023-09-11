@@ -1,0 +1,23 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "NativePlugins",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "DD5zY2ljgfD+yEWQ36RwHDVZQdE="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "0k/FOM16VxBr8damKPSrxHaCXVQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "/+iLf7NEf4psce4OAZBcAW9lH/c="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "JijUmm8WsFZpSK19hpwDW/if+qQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

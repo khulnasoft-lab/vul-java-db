@@ -1,0 +1,47 @@
+{
+  "GroupID": "taglibs",
+  "ArtifactID": "standard",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "qRjHKdJG3lzDntFvF/jxv4ug/rE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "aT0Lr1Yzs7zQgBVwR/XiX5xsRXs="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "SWPIOwv1DFvn/Fo3i5mlQWikO0E="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "bJX53/BzgM5HjjLozTC5mTDZLwI="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "aEA468sYRzOktTdVywY4ZJ/QGrc="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "5SR7QG6uGuUbpkBYliNbOEE0cmw="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "crLas9lyOUP29oOe+EzMJaCH5fo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "DYzwUeYst5L0h9IWZuLf4zMY1WA="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "uafb8VZC2fPCnmRXtuSOpiBofa8="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "oX6KTZoff8xe7WBnIcnta38YrPc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

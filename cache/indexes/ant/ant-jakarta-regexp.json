@@ -1,0 +1,15 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-jakarta-regexp",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "3jL4FuOFalgh1mVwal+fMPYzF3Y="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "4xoUDio52qeh4E5SV2a5bXHrhpI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

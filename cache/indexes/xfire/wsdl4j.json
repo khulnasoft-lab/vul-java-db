@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "wsdl4j",
+  "Versions": [
+    {
+      "Version": "1.5.2",
+      "SHA1": "59rOmdm2yaLtnBKdCw+qrHYOcfQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

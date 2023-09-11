@@ -1,0 +1,23 @@
+{
+  "GroupID": "it.espr",
+  "ArtifactID": "esprit-gae",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "q3I/8Pzs8BS4IBFlbbiD/I7+Wh4="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "ROZOJYFGcYGqJ5Hfjo2M2sT9A5A="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "CduC7806uArdymnrScu/58yQgF0="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "5gWZI9NRWijUsIIumSkZ5PL1BDo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

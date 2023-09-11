@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.fitz",
+  "ArtifactID": "easy-agent-plugin-istio-tracing",
+  "Versions": [
+    {
+      "Version": "0.4.0-RELEASE",
+      "SHA1": "Dz9K5jdOErDTRKQXfAbxTMNzTnA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

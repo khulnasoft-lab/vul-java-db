@@ -1,0 +1,27 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-findbugs-plugin",
+  "Versions": [
+    {
+      "Version": "0.7.1",
+      "SHA1": "FN980B3c1lc1Bi8QkcaX3ztAoaQ="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "QXGZMVFownflb4c4ClnlF0lxldU="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "OOP1ZKP73VuzgQO/dqVihiWLVa4="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "L+0uIfk+8CEvxzTXadccTBhJTJU="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "3N8HGOTs3H7osy8KZ+mdzlO9O0Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-jaxme",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KglHLe6VtGpa/FfD8AbeJYJBCR4="
+    },
+    {
+      "Version": "20040902.072852",
+      "SHA1": "+Kpe6K6K0v0ELgssAi1AGGSy6HU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

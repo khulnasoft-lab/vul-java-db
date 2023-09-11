@@ -1,0 +1,35 @@
+{
+  "GroupID": "cc.youchain",
+  "ArtifactID": "abi",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "iz37UASXmMlfdkLrIx/c9+n44TY="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "zZ+/M/zK879RL25wYj/fkC2G6h4="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "U3sc2NHnwGtS2avrTkSzdoInqC4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "YguCHQ4/02zs5uM17c4EDy7lID0="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "4ThQlE6DctTG5Rm92vSJ+umGtKk="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "RqeAKqRTL1JVKNvloSNlISA/phc="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "CzvGHPcPCK/Fp4t93SK1ofPPyYw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

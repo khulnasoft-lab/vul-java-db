@@ -1,0 +1,19 @@
+{
+  "GroupID": "systems.fehn",
+  "ArtifactID": "hashids-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "+DN/B4iQHiy803PsT2fSQWuOT74="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "xkfXUYQv5l8gUDQva+J3+ij3wjw="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "go+kvEgujAjs8T2dCtpD6qHGB9Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

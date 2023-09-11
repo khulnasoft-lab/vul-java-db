@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.rkuijt",
+  "ArtifactID": "mapper-lib",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "k/OlENcl4sGdNw6luFMm0TaXsN8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

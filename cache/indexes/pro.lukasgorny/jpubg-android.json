@@ -1,0 +1,31 @@
+{
+  "GroupID": "pro.lukasgorny",
+  "ArtifactID": "jpubg-android",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "S94KZCMcKHEzvzvflBwNRdiB0Cg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "wtSGp1k7kBcphG6jlnwr2Lph9FI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "PIK5P59CV33wdtqq4AloqLZeci0="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "4w8LcvxeXGg/M9z9Is2ztAEUWUg="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "HVx5gMbY0IuS17+CPmjfhqmkD70="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "tG1LrwCEZyhkW2z8GNeXxVrFxKM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

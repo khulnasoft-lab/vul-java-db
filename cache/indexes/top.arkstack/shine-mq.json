@@ -1,0 +1,59 @@
+{
+  "GroupID": "top.arkstack",
+  "ArtifactID": "shine-mq",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "gdht+l6Sh3s0V79B2gECy+Ugrs4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ERg24fTE+Z2puaSdeq8tSlFA1lc="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Cuj3N3mubFP8DeVNAz4ByHBfqRQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "GzSylpLQ+YznC5BLgCUzSLoHZf0="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "0R53bZYI2NBeTZTWJbS4c8r+jww="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "IZ5noui4rYr8ZqKBjrGbnRSXBf4="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "DKTejNFwMIP8wT/2oyxmBLKpWpo="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "lN0q4SE3m9fAkkbFsNss8SX8THY="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "MortXxXs4SPQ6xxneW8EhypfcBM="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "QwTTxLj3jkI2OYBPKn8iid7dCvk="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "ZxddypJCswDE06AFSnvOaC35V7k="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "C15pnKHl98qhh7V/ubdyrSunmKc="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "vRDhmgyDOY6dmkTg9gftsSvGvVM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

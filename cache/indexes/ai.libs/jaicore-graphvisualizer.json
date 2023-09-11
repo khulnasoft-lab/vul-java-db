@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.libs",
+  "ArtifactID": "jaicore-graphvisualizer",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "YRYTvfgumounbwZ8E90clWGk0IA="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "V8BHZVjEcJKAlKVsRdNxAlor3C4="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "w7egj2fb2vpY0iCRBMdBK5bmznU="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "DOUUP1erYbtVsV/1BAZ0GHR+rZU="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "Cn7Am9QDA5hRQsZxrjY1eCP0AU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

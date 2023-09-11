@@ -1,0 +1,19 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "jkconfig",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "5rDqZ4rWs0mN/XTXuWEnivrSFMY="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "3LQXXSf6qBWiJ8H3ZvmCRu67+Lk="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "RUJOCNYYCS0eyn7DCXPEiN0c4Lw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.ojs-creation",
+  "ArtifactID": "simple-cqrs-core",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "eqbKBgXG/9sJdbRrLGfgNDvTVBU="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "6UG2ZzX2p3x9+kLKYvuovM8GeSc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

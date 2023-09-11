@@ -1,0 +1,35 @@
+{
+  "GroupID": "junit",
+  "ArtifactID": "junit-dep",
+  "Versions": [
+    {
+      "Version": "4.6",
+      "SHA1": "tS0xsprtn1JkTDbdVEbpSaW5Btc="
+    },
+    {
+      "Version": "4.7",
+      "SHA1": "l0Vevbj9Zb0HQ1SKMTSTIuQPo5E="
+    },
+    {
+      "Version": "4.8",
+      "SHA1": "IGjOdGLGDOHBHNrkB+AkEK9gt88="
+    },
+    {
+      "Version": "4.8.1",
+      "SHA1": "zhpq3at6M5ZcITUR8vzpjXF7FtM="
+    },
+    {
+      "Version": "4.8.2",
+      "SHA1": "EnsXAxe4AiO3S1oX/75EvUsS5TI="
+    },
+    {
+      "Version": "4.9",
+      "SHA1": "EBNifjmTMZhwhjoCADQARxdQWBU="
+    },
+    {
+      "Version": "4.10",
+      "SHA1": "ZEF7O6/ezTZq+lFL1b7q5sH4Xs4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

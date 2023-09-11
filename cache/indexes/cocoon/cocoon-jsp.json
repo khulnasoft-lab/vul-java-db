@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-jsp",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "MRiJvrFbqn5Y7R8AxB4A/ImrIDM="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "lvITRbJHa5h+s4R/runzrJkbFac="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "NJuBAUX/JHFXA3cYWz9SgFoqJQU="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "YsGvJwkmIh5itryweQ2KfF48UJg="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "u5NLDHZzwOFd6MpOWIjL52EnHCE="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "XF7KiZYAnEAbBsH/zF1yxscaRb4="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "L4vFeGgGdFFUHxvKPBYEZ+x4Jlw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

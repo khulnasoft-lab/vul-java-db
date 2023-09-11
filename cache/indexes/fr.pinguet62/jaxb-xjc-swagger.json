@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.pinguet62",
+  "ArtifactID": "jaxb-xjc-swagger",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ozfXT9MxOtNr4MFrdfHwFajADJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

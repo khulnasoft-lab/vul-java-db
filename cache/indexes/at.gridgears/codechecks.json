@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.gridgears",
+  "ArtifactID": "codechecks",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "f93t2uZi6/yqFeDGTytsTdd/DKk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

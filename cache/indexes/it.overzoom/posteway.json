@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.overzoom",
+  "ArtifactID": "posteway",
+  "Versions": [
+    {
+      "Version": "1.0.9",
+      "SHA1": "ExMQpaRMpzHIt1LuRdUMP/J40e0="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "Ays2ZX4mh7kdWHAklVWMyvqYrSA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

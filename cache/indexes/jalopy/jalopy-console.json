@@ -1,0 +1,11 @@
+{
+  "GroupID": "jalopy",
+  "ArtifactID": "jalopy-console",
+  "Versions": [
+    {
+      "Version": "0.1-1.5rc2",
+      "SHA1": "Ml1YnjLYeHY0ePvc0N0kWsEYD8k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

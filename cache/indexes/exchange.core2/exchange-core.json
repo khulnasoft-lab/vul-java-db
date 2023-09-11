@@ -1,0 +1,27 @@
+{
+  "GroupID": "exchange.core2",
+  "ArtifactID": "exchange-core",
+  "Versions": [
+    {
+      "Version": "0.4.3",
+      "SHA1": "Ff1uEblJM2y+hdlfa0AjGn25wnQ="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "mPKnFxJMg1wZFLM4miRa+KGaWq4="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "eYybhu2wtcVoVs136fNq6i+/rDk="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "RiuC9leP08jOAI+yxiQr6ILhDxE="
+    },
+    {
+      "Version": "0.5.3",
+      "SHA1": "W6b6j27nAtUAPWUIXdtd0BVEkn0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

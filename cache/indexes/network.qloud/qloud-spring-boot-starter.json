@@ -1,0 +1,15 @@
+{
+  "GroupID": "network.qloud",
+  "ArtifactID": "qloud-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "HVK0U92nybTiTQN8iv4KA6mm7Xg="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "hlhmULvkZHk9OKUXI5jLnLzS3/g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

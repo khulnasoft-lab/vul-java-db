@@ -1,0 +1,11 @@
+{
+  "GroupID": "axis2",
+  "ArtifactID": "axis2-java2wsdl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "hYQlgDLizlscIcER2a4CUxfWelk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

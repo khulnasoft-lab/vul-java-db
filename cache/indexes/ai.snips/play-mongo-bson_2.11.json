@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.snips",
+  "ArtifactID": "play-mongo-bson_2.11",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "b7ODnaVIKyCzbaealhDlpZXexb8="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "UOvsNdtMVYPcB6OCnzHKxrATNnA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ms.dew",
+  "ArtifactID": "auth-sdk-starter",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "lxCRZamIwD7ipR+MRdnpwGABmGU="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "Tfj2Z2ljRIS91PNHaEj7FQzbYMo="
+    },
+    {
+      "Version": "2.0.0-rc",
+      "SHA1": "dIyghVbpEKcArkyd3ejdYYaUpRU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

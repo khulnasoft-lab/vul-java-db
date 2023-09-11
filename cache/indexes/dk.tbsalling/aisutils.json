@@ -1,0 +1,23 @@
+{
+  "GroupID": "dk.tbsalling",
+  "ArtifactID": "aisutils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "nzt808kesm6bkCC+32TZ65eez8I="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "XgyC294eRcuvd6sPhmaYmJoL3wQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "D/4rkQ5/r7gnQ5vRFd9fZ7LwQsI="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "PFs4Ba4oIl8j9bWcuLs+Xn4aIqE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

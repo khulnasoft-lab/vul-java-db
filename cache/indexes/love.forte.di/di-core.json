@@ -1,0 +1,15 @@
+{
+  "GroupID": "love.forte.di",
+  "ArtifactID": "di-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "eAqZcA9EOg+wLlUwpzFmHUxm8zY="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "KQ7H5MxgdNIy72lxQns200IpBTA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

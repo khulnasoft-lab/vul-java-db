@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.classbase",
+  "ArtifactID": "common-annotation",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2CDDRUEqpcOeWeW4UOlA3gvYCmw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

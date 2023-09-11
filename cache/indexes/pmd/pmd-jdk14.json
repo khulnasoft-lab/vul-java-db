@@ -1,0 +1,35 @@
+{
+  "GroupID": "pmd",
+  "ArtifactID": "pmd-jdk14",
+  "Versions": [
+    {
+      "Version": "4.1.1",
+      "SHA1": "GX6h9L5kmjTeTgvl6UMD3b5Y5gk="
+    },
+    {
+      "Version": "4.2",
+      "SHA1": "B+waH4/lMeRda5EBBlKFOHAHygA="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "6okW8FrkhGm7wPIymQYRBvkcyyI="
+    },
+    {
+      "Version": "4.2.2",
+      "SHA1": "eJJ1TRtH1pfnGr31yVfojWWDvMo="
+    },
+    {
+      "Version": "4.2.3",
+      "SHA1": "H+Lv+0SiN3X8UBUwxmdowtgGtpY="
+    },
+    {
+      "Version": "4.2.4",
+      "SHA1": "vrtJ7S/E8FLt+usRxpu4H52nbSU="
+    },
+    {
+      "Version": "4.2.5",
+      "SHA1": "GcxURv5syurnpqDeasedU81KOc0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

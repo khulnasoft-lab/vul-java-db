@@ -1,0 +1,11 @@
+{
+  "GroupID": "foxtrot",
+  "ArtifactID": "foxtrot-examples",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "kqe3Qn/WGEZYz4UC50kOob/o/R4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

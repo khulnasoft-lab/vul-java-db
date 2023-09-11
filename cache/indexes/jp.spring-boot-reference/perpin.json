@@ -1,0 +1,15 @@
+{
+  "GroupID": "jp.spring-boot-reference",
+  "ArtifactID": "perpin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "wNbc+774Mcv5oPSQrWxXVCGe9mk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "/k9f47cXl15OpcITxlW917gyxHI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.jstr",
+  "ArtifactID": "keycloak-authkit",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OXlNOJNbnVW2NayoZwcA7dbiQis="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "CWGC8Xx3zhvtrlGxPqDlC6KyyX4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "app.commerce-io",
+  "ArtifactID": "spring-boot-starter-data-search-mongodb",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "/Qaw5dNTUZUwxKfd+b3X2EZ8jTE="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "eG/GTVs8wG2fI2Wy+sJMOgRgfv4="
+    },
+    {
+      "Version": "1.1.0-RC1",
+      "SHA1": "852VmftqOGUBXVvXtNY15gsHrRg="
+    },
+    {
+      "Version": "1.1.0-RC2",
+      "SHA1": "mEfKXh7fSkffRU/3CXV7VK66k5w="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "bQRyzLLCYLsrdGhQbzhJf4Pxcds="
+    },
+    {
+      "Version": "1.2.0-RC1",
+      "SHA1": "4ugJohXKar4PfTD92tVMvCmI1Ac="
+    },
+    {
+      "Version": "1.2.0-RC2",
+      "SHA1": "zo1MNTU/tZgvWZt9QTbD22YKhfQ="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "POiaHNc6F3KiCGqXVOBPNYc3ycc="
+    },
+    {
+      "Version": "1.3.0-RC1",
+      "SHA1": "8J5/iER31w3gOwUQ7K/tlBuzyuk="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "xo4sOIl4rDzTwjxUYmb0F+D8NIQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "top.fzqblog",
+  "ArtifactID": "ant",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "K2uYvZl24yhJXH9UHKiqpM3iwaE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xYqTUDNOl8Kr6UOkgj8TAtMBq7s="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "8crty330yl/+p7RjfGAzJpczg2s="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "8+qEhTpACozpk5bjDEJwaYc/Jxs="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "detoQOeA7zwb6CCKbArgrRkW9t8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "vBMwwWDUdrxNvVhNThweqIuYqUU="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "ZXiD6caZbr203Vbh9ElUvNpofDM="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "zhB2vOuogogSt2qbjlojZE3TLDg="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "PewMzJfMsCZolPxlijBlMkYDBnk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

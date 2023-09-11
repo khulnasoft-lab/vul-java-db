@@ -1,0 +1,43 @@
+{
+  "GroupID": "axis",
+  "ArtifactID": "axis-wsdl4j",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "vYBGM7nCzwYlhkH+vDGo/zsJBrw="
+    },
+    {
+      "Version": "1.2-RC1",
+      "SHA1": "sdOmQrBen0aPwmCa1Pe6r6C3iV8="
+    },
+    {
+      "Version": "1.2-RC2",
+      "SHA1": "sdOmQrBen0aPwmCa1Pe6r6C3iV8="
+    },
+    {
+      "Version": "1.2-RC3",
+      "SHA1": "D4fJWMuzGquR5wmE+f+/FmfbIUk="
+    },
+    {
+      "Version": "1.2-beta-2",
+      "SHA1": "sdOmQrBen0aPwmCa1Pe6r6C3iV8="
+    },
+    {
+      "Version": "1.2-beta-3",
+      "SHA1": "sdOmQrBen0aPwmCa1Pe6r6C3iV8="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "vYBGM7nCzwYlhkH+vDGo/zsJBrw="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "vYBGM7nCzwYlhkH+vDGo/zsJBrw="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "vYBGM7nCzwYlhkH+vDGo/zsJBrw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

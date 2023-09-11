@@ -1,0 +1,11 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-generic_2.13",
+  "Versions": [
+    {
+      "Version": "0.13.0-RC1",
+      "SHA1": "Uh3oeOlDWXjuGx/oDWE8Yd70gG0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

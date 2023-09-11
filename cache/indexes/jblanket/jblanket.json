@@ -1,0 +1,11 @@
+{
+  "GroupID": "jblanket",
+  "ArtifactID": "jblanket",
+  "Versions": [
+    {
+      "Version": "4.3.0402",
+      "SHA1": "bAWgcJ9EJn1EKkeNHog4HFz2CIc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

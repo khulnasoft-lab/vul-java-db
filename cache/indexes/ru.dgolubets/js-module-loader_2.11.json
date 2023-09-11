@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.dgolubets",
+  "ArtifactID": "js-module-loader_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "N36O+4UxWBCv4KoNwTO5IqHpmMM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

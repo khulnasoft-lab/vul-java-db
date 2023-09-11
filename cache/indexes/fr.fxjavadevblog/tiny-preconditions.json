@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.fxjavadevblog",
+  "ArtifactID": "tiny-preconditions",
+  "Versions": [
+    {
+      "Version": "1.0.8",
+      "SHA1": "YtKf1qRelxOndr+dTG0HtF0wuzs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

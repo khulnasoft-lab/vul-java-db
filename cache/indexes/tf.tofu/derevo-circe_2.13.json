@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-circe_2.13",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "CCvc9HCPmaYGQnMHMAbN48BwQX4="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "0qtLd/eKFHEw44VNSHgPIqPJn1g="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "9YK5U9++WmztiuNh3bcNGOO3Hp4="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "Bj0sp/VMgFCFVoj+LSwJheAwXTs="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "7AOmcytdNwrwABUMqf8hBEqY1JM="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "gOyGEe1Z5awnBwPJBeA9wkeGFdo="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "FvkWWEre1Gr4p5LEXU5gaQAoy04="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "VNEbKfclvnHvNQKf8HxkjOscurA="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "N7DTvJJGki1tdYGmlQvAKoCQ+ak="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "0jDmuCIsqcjcMWVHk2iiVbEk0mc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

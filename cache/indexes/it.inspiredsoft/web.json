@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.inspiredsoft",
+  "ArtifactID": "web",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "tRq58qipt4h1L172OZoQEiuH2MQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

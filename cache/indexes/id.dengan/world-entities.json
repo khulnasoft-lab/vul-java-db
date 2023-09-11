@@ -1,0 +1,19 @@
+{
+  "GroupID": "id.dengan",
+  "ArtifactID": "world-entities",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "LKQxSLJFof4iI6y4AV4vz1nib7k="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "WFz0TYLIFNG+ZbubyBuIGCZgtzs="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "A+G/qNQqJj5yROLRd+XZzkTh/aY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

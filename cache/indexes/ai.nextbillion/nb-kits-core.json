@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.nextbillion",
+  "ArtifactID": "nb-kits-core",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "E0KmMR7/aq/GdTl59vZ/RmgSBtw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

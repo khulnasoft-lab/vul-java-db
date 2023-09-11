@@ -1,0 +1,11 @@
+{
+  "GroupID": "altrmi",
+  "ArtifactID": "altrmi-generator",
+  "Versions": [
+    {
+      "Version": "0.9.6",
+      "SHA1": "pMia19mWnz//mVrdZgJoLYiykqY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

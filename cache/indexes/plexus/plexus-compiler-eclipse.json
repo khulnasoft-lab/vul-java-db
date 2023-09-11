@@ -1,0 +1,19 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-compiler-eclipse",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "S8jLQ3zqwK7fVbZxKOIW7Fq8BZY="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "s3risXWrbNzdnG68VdmLRUsjny0="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "HprBzpXF3gSt2nyHBIP0q/E8Jto="
+    }
+  ],
+  "ArchiveType": "jar"
+}

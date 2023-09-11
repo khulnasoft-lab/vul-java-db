@@ -1,0 +1,15 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-enumeratum_3",
+  "Versions": [
+    {
+      "Version": "3.1.0",
+      "SHA1": "tS1qOrXm2hkKwLt/tBhGDLVuIAk="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "URIn7F0wDLDULWuKmoY3uySj/pE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

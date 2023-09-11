@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.deepsense",
+  "ArtifactID": "seahorse-executor-api_2.11",
+  "Versions": [
+    {
+      "Version": "1.4.2",
+      "SHA1": "PITnn2U1yiaOK77/+szSUHGb+CU="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "ET8QiQB1IvVbHvHFOkE14TlJDYM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

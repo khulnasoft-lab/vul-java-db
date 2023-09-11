@@ -1,0 +1,11 @@
+{
+  "GroupID": "cool.solr",
+  "ArtifactID": "solr-bmax-queryparser",
+  "Versions": [
+    {
+      "Version": "2.7.0",
+      "SHA1": "sQRHAlD+12Xw3tGZjMNZZC+aVr8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

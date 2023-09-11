@@ -1,0 +1,15 @@
+{
+  "GroupID": "plus.kat",
+  "ArtifactID": "kat-caller",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "qvuAQByYtst/mqMZ8AjAVgpdXg8="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "8xXRmBhvGxTNawGDVDnKGfHEy3I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

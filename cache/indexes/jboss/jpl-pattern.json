@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jpl-pattern",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "t2r8yt4xUAJfz0Yfasael3EZmRU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "cc.ccoke",
+  "ArtifactID": "validate-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "HmU2q/zqYuL+/nc1j5wkutaOaTs="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "Mt1sZsp/4SOYeNPMCZJN4fDC7ps="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "gPMMF+6ZVYMVjd8Le9Y8QQ+Mp3E="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "hlSbYkyvxZ7620Frwv2zsQenYvA="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "7PpXcc8YWqBlUnnX8Zwih6BY4Rs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

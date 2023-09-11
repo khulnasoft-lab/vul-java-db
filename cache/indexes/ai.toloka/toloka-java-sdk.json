@@ -1,0 +1,35 @@
+{
+  "GroupID": "ai.toloka",
+  "ArtifactID": "toloka-java-sdk",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "SQWrwsnDH94btcm++CxRI19ksP0="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "/OBZAhP+BNi0fDdpCKPVaipx8yI="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "McSWd9ki+eI2NSct9HdaI0+ZG4o="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "+6J69wMfaxT2etM0QMe0ObSXOug="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "XCVZ/wA4PX3DVcVTIqMPArR12cY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "/fhDwYMjXQw1uwTqehLMu66RN5Q="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "mtQaH5dg+VdBF5uAw8zOUX71Tos="
+    }
+  ],
+  "ArchiveType": "jar"
+}

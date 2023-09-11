@@ -1,0 +1,91 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-io",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "m2p/eBZw74weKqldxhPKpXheoQU="
+    },
+    {
+      "Version": "2.0-beta-12",
+      "SHA1": "gyqbzxsN9GqIKESd/AihcJHY5/0="
+    },
+    {
+      "Version": "2.0-beta-12a",
+      "SHA1": "orrvfznxQrvVw4cVsAVI+gufFpI="
+    },
+    {
+      "Version": "2.0-beta-13",
+      "SHA1": "K3XqBJHhHrinIPl/bCity+MbKJA="
+    },
+    {
+      "Version": "2.0-beta-15",
+      "SHA1": "18ZN7u+PsbAsavKYnQdryXMARm8="
+    },
+    {
+      "Version": "2.0-beta-16",
+      "SHA1": "vrtNZA80FDndXWF5zxRj4C6Y2tY="
+    },
+    {
+      "Version": "2.0-beta-17",
+      "SHA1": "hzioN1fF3eCCNAghQOP5LcENEw4="
+    },
+    {
+      "Version": "2.0-beta-18",
+      "SHA1": "GByL+mIgJG+p8wzgtIg2mT+Y9CA="
+    },
+    {
+      "Version": "2.0-beta-19",
+      "SHA1": "jCUXSNq7W5fkXE0/HtrLkjA1EK4="
+    },
+    {
+      "Version": "2.0-beta-20",
+      "SHA1": "IIbaMqhLm6fEejTP+at1uVJUzzE="
+    },
+    {
+      "Version": "2.0-beta-21",
+      "SHA1": "O/leqSdz+3MVdpCw74bfzfaHvqU="
+    },
+    {
+      "Version": "2.0-rc1",
+      "SHA1": "Fqu0RsxuKPb04MWcY+T0RXEzhJM="
+    },
+    {
+      "Version": "2.0-rc2",
+      "SHA1": "UljIJkX/pRHPKJh+9hgwbQ/4H/U="
+    },
+    {
+      "Version": "20040622.174946",
+      "SHA1": "Y0G6bEgLLkjWAOl3L73D46KY674="
+    },
+    {
+      "Version": "20040623.065018",
+      "SHA1": "DXl91zMgFNaIs1EJb82VqOv6Igg="
+    },
+    {
+      "Version": "20040630.215647",
+      "SHA1": "lk5fC/EyQnSIJ4drIWyhEqPoaFw="
+    },
+    {
+      "Version": "20040701.153713",
+      "SHA1": "ichPd21L8WAlTZzM6eIDrnasgn8="
+    },
+    {
+      "Version": "20040726.171525",
+      "SHA1": "3nUtFwKklO0p+9RlRks8oKvC51Y="
+    },
+    {
+      "Version": "20040726.195346",
+      "SHA1": "hTOjOPAj13k+RIlFi+M1zUuNOtU="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "VVlnSrdhV1+IhE9LfMg+/7BnfQ0="
+    },
+    {
+      "Version": "2.5-beta-1",
+      "SHA1": "R2exu43Kr3sMpbcz/4gxQAwBSa4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

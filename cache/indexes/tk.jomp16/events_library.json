@@ -1,0 +1,23 @@
+{
+  "GroupID": "tk.jomp16",
+  "ArtifactID": "events_library",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "e/3cSZ3rtDvHkYH2/PxtvOBMvkY="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "nfxlz6xO2Upt+9bot8LfOdvkMQA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "FpzhQYkXWAOM3o5iAL4ftNVgk40="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "7AgZHu9a93FpYNKDj4jC6jOefbE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

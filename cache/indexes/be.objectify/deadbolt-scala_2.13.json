@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.objectify",
+  "ArtifactID": "deadbolt-scala_2.13",
+  "Versions": [
+    {
+      "Version": "2.7.1",
+      "SHA1": "6JX+qLkGJ/WGaRZkouaQAnFcTKo="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "673hrUmgfocqAyeSRu87klsVZOw="
+    },
+    {
+      "Version": "2.8.1",
+      "SHA1": "yw6buHhIzM47oz9H00h57sT9Ei4="
+    },
+    {
+      "Version": "2.8.2",
+      "SHA1": "aotdWGzZjvQiiHR/Aiv5FYme6xc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

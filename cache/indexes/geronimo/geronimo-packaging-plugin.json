@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-packaging-plugin",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "Wj8hR2UYKM7VOK61lrD7DnpibPA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

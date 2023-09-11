@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-apache-resolver",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "zKTPLBeZ9wF2XNPUc6CoOxPO4iM="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "u9AotodsccUgJ3H3bldDcvR5Uiw="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "9Dz4nT+tnMNxg4f4nt3pg6xCsAk="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "ic1/en8CbxR2iGJ7PUqAkJkHA+c="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "I9Rmwkdsn4fVbjwcz3HyrtgwEao="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "n6I53NkJH4fxL98qU1aih7eYLdE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

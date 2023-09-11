@@ -1,0 +1,99 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-database",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "K1JUmddBmsDtmlKD/1gn4aohkRU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Bm+MEXdGT90tj7zOrC3UVKnIEI8="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "ZFYiz3v9b+WHayCxWRUy/BIqKBc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Q3AYIAZokVPnS9eZRZ9otvSpCN8="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "/48UxaNagEzANGkAWn7n/JIOtR8="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "WDBBD74svDGnn6ptoVvOB/3YP18="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "QSKQd0A3dtiLgzZaDn28r8YHHN0="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "pvIuMEqEXKv3s5kIrljR/VgAo5Y="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "dDtcySR2ABuzwo2qh8EbpM4nG38="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "sz/88Aap4ed+ymOStGfvjjgAGw8="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "UD9Ah6RqAAHA4+/0hOhFtrEZQOw="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "Jic/bYJw9nlPa9rCeURC65uCeDI="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "518kfykFwhfL5qVK42xCBKrEuko="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "rwV5JasnzH8xldB4yOBYgvBG0mE="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "2nUgjSVuQFpTWWDOhXe58xVfYy0="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "2k9E0LVdcwdIQ9WlrvDMxVbxzoE="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "b5wnDnRsHKPwuDVwOuUorVvGuUY="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "t/lKBrY7G2y3/L1x6TFNm0eFthI="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "8nVQQQbmW6HI2Ug/Dtd/hE8W89c="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "PRCJsQm9jl+40t+vZgZD3e6gI84="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "K0xdLNA/0M6DvxWHH3n1/plZU6Y="
+    },
+    {
+      "Version": "3.2.4",
+      "SHA1": "5fYP6I+eQUFfjcH6+gLYbodfJko="
+    },
+    {
+      "Version": "3.2.5",
+      "SHA1": "Oh4KQA/eM5Z3W2ck6hyWwEaIA2w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

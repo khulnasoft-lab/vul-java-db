@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.noop",
+  "ArtifactID": "subtitle",
+  "Versions": [
+    {
+      "Version": "0.9.0",
+      "SHA1": "XqaQ8UhuV0/jL1h+z+A9XnCuw+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

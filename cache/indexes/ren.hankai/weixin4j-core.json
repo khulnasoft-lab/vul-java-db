@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.hankai",
+  "ArtifactID": "weixin4j-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Wdq5DxhuBKE9MsSsmpBvctsdccE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

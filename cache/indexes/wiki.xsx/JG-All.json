@@ -1,0 +1,31 @@
+{
+  "GroupID": "wiki.xsx",
+  "ArtifactID": "JG-All",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "MtRI6H37cSppr1Psm52M7O5Hlmc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "EMDWxTivTZ2xWS6fpveh6l3Dwo4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "/CR0cfG5ANoBGLAM2VbYTYajugA="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "KR8brxfwMhbwHhY2LWxcxurVzUE="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "cXzGlp8+q/qsaKnT7r3OeKkXmQk="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "CGcffzsRsJIfD/1LEM9aTNEV+mA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ar.com.hjg",
+  "ArtifactID": "pngj",
+  "Versions": [
+    {
+      "Version": "2.0.1",
+      "SHA1": "+2XjTCv1Jwqjk4rtN1xAHPhk76s="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "uaDVzKUQhDHEBol255XU0nZtq1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

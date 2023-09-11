@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.nimbbl",
+  "ArtifactID": "nimbbl-java",
+  "Versions": [
+    {
+      "Version": "1.0.0.1",
+      "SHA1": "D8O1ei8NRRxk+jFrgGX63pVRFZ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

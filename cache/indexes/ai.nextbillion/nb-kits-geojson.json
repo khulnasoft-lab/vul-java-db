@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.nextbillion",
+  "ArtifactID": "nb-kits-geojson",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "1tB6xzJK8bh4QMXNARpafFbbkOs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "524Nkqjw63qa7lt29f9Ii+CGGfM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

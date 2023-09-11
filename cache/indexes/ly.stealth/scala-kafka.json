@@ -1,0 +1,11 @@
+{
+  "GroupID": "ly.stealth",
+  "ArtifactID": "scala-kafka",
+  "Versions": [
+    {
+      "Version": "0.1.0.0",
+      "SHA1": "88WlxAZKUVPoVio1vEFcTSlw4A8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

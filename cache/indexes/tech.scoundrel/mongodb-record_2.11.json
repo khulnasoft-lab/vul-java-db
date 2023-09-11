@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.scoundrel",
+  "ArtifactID": "mongodb-record_2.11",
+  "Versions": [
+    {
+      "Version": "3.1.14",
+      "SHA1": "mUsGdEG6I6T+gG0CIlok//rIb8w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

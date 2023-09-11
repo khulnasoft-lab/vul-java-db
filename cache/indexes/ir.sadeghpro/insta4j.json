@@ -1,0 +1,35 @@
+{
+  "GroupID": "ir.sadeghpro",
+  "ArtifactID": "insta4j",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ojxPrshhWWCynvECqVEr2A/3nLc="
+    },
+    {
+      "Version": "1.0-SNAPSHOTd",
+      "SHA1": "EOwZ4APr2PlXhaM0rrrs8mKgt5U="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "GfZWiVAW55JDhsFrtem5/0NiJh0="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "fQXH4y/vPJUaJoFrkXKFt4qUFGs="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "gzVaakj7tpSSIYXga0OCG14UM6E="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "2hL99u5Pm4JSP/5aw3MlHY0Vsd0="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "Hz6sllcIqxl49US67BvRqMFufkM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

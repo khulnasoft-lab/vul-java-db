@@ -1,0 +1,19 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "jsp",
+  "Versions": [
+    {
+      "Version": "2.1-6.0.0beta14",
+      "SHA1": "SJ4XpdfGFb4iELvBYePv0q9sDWQ="
+    },
+    {
+      "Version": "2.1-6.0.0beta15",
+      "SHA1": "PI0rur2UWbN+izoMs7lxFZLFjKU="
+    },
+    {
+      "Version": "2.1-6.0.0beta16",
+      "SHA1": "m5z/xNRKdzBf+iqlwOAay+ZO1OY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

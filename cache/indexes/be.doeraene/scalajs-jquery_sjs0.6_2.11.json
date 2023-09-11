@@ -1,0 +1,51 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "scalajs-jquery_sjs0.6_2.11",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "vVGIbuIlhCGzFgkIR4KX2Ej7xLM="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "tQNNvx6upUxmusMJ/qyuG8w/jhQ="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "nUvGwfDY8+wwUpNT4zTFDaxCjwA="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "386m7N07/8B3urPgkPyqDajUKOo="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "PCtVh1srXVDAc//mjkVh6eeQkI0="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "hanJ/341ZtEcurC9w4LfY2kQNsM="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "A8VqOMDaytXMwYlkYHxKKNf8Ztc="
+    },
+    {
+      "Version": "0.9.4",
+      "SHA1": "QA6Q3KOLu8cd1PnnvafTM6aq8J8="
+    },
+    {
+      "Version": "0.9.5",
+      "SHA1": "/v3J/PO7ugecz7DByAFLp8+oD/0="
+    },
+    {
+      "Version": "0.9.6",
+      "SHA1": "wJRQBYF3DbN7trUSI79FlahCU64="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "KOaYSAtIOP63BDgLYPeNGZBNHMw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

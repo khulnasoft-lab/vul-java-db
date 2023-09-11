@@ -1,0 +1,11 @@
+{
+  "GroupID": "code316",
+  "ArtifactID": "code316-core",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "ziLkrrKwQ27vBnKMZUl00YmiqCM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

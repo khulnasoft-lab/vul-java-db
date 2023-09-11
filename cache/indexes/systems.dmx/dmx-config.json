@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-config",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "PxUu3F6VmLHwUdS3G2172Qh9ZUI="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "wQE51va2AapwULpevsnTKbKHJjw="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "VPR91hgdzUmOPTuMGFBMvpXgNH4="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "y73Y3RuTV7Yvjj64KgxMtegsj8E="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "3joDkfD/vFAYls39B0xvM0/8PfY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

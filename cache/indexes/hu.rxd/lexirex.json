@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.rxd",
+  "ArtifactID": "lexirex",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "VvfjwrYIowQ8UnNS1+fzWg6/GWk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

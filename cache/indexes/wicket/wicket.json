@@ -1,0 +1,43 @@
+{
+  "GroupID": "wicket",
+  "ArtifactID": "wicket",
+  "Versions": [
+    {
+      "Version": "1.2-rc3",
+      "SHA1": "xSPDb4eMfzTUBKlQzWlw5yUca5U="
+    },
+    {
+      "Version": "1.2-rc4",
+      "SHA1": "hkQaSnTGIa8FEKJ+HUn/Bg3UUH8="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "TrKfuJ9JVDj3lEsmEiUOaCcuv7M="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "Ju06uqppGWrOu7HFKXE9b6m/PLs="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "PnVXtRmfUSIPI1++JBbd+TrkBDc="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "4wNpuwrvS+Ngbdh1a5TWgP1+zAY="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "HF1+X5a34kzmItDXt02mApQDRLY="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "G6ZrZYF9IBKS1u5VYYkHIw7EEAU="
+    },
+    {
+      "Version": "1.2.7",
+      "SHA1": "LpsQRn37Csb0QUwfoGQaDK/ek94="
+    }
+  ],
+  "ArchiveType": "jar"
+}

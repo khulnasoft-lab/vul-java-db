@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.flowarg",
+  "ArtifactID": "materialdesignfontfx",
+  "Versions": [
+    {
+      "Version": "7.2.96-0",
+      "SHA1": "cQ4bzw/9ErinI6CBUaO9D04Aicc="
+    },
+    {
+      "Version": "7.2.96-1",
+      "SHA1": "3PSbewZsTlkMAygDBIYeMtPRM4o="
+    },
+    {
+      "Version": "7.2.96-2",
+      "SHA1": "EVv9rrSF5FpZF1LKmhVCmnjTKtU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

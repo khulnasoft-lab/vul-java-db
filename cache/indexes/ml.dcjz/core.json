@@ -1,0 +1,19 @@
+{
+  "GroupID": "ml.dcjz",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "1.0.10",
+      "SHA1": "QJPyj5Qb40V5u23PCk4O0C8qYyA="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "/BeyUAh2TH/MnH/wKoGKV/PsTMg="
+    },
+    {
+      "Version": "1.1.10",
+      "SHA1": "OfzwTPjMXDgus3iotDKJGUHaOLw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

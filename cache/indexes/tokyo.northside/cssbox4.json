@@ -1,0 +1,27 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "cssbox4",
+  "Versions": [
+    {
+      "Version": "4.19",
+      "SHA1": "AJzn11Cd0AwNT3s8hNZ2AWpCZ9I="
+    },
+    {
+      "Version": "4.20",
+      "SHA1": "UXy+tqDCEp/33ySZOb2X5mHisx4="
+    },
+    {
+      "Version": "4.21",
+      "SHA1": "N/1hUF8Ju9xtaXbOzRQ25AmAucw="
+    },
+    {
+      "Version": "4.22",
+      "SHA1": "Sqlb1s/22If3tA1WQoUKdRtL9Qo="
+    },
+    {
+      "Version": "4.23",
+      "SHA1": "kLjw+krV/NCGZ7IYjaM15modG8E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

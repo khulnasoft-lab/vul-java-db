@@ -1,0 +1,27 @@
+{
+  "GroupID": "bio.singa",
+  "ArtifactID": "singa-chemistry",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "vLR5vAPAkThf7Y2P622B6tGhkfA="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "gWsJ8CXBN5qAtqPOHNpOt9AxyrM="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "jnzfAdu9U79vnjMi+1XOM+0GJig="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "+H4+J9LGKy8jrDsfcXKi3craZhE="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "n8xiCPS8W8/nJYRDzQEwZyAImtk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "jaxme",
+  "ArtifactID": "jaxmeapi",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "/CtWKGxWK5AfdIJYQudAAsysCnc="
+    },
+    {
+      "Version": "0.4beta",
+      "SHA1": "au1lW8YfpoIxIl3pcSWOr4BHxmo="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "J+rwVeFeC/ETCoJOy+IkhzqpF9M="
+    },
+    {
+      "Version": "0.5beta",
+      "SHA1": "3MHg88wZMo3R7N2bazlDluM5sQw="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "dAsGZZU9sp3UGj+kJD6baNFZgB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

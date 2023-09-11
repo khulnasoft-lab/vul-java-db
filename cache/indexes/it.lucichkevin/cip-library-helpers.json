@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.lucichkevin",
+  "ArtifactID": "cip-library-helpers",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Z+qlv5Vn3Ws1vRiOF07v1RNPpvM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

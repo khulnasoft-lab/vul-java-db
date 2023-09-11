@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.populus",
+  "ArtifactID": "bees-core",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "2kYZikIYnEcXDOXtqLJ08jaC5Dw="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "wQaEL8If/+NoKOk98ra85pobNwY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

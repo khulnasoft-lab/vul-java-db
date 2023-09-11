@@ -1,0 +1,15 @@
+{
+  "GroupID": "avalon-util",
+  "ArtifactID": "avalon-util-exception",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AcfvC+57QRavjIwNFRcmOyiRO9I="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "NC2mJNzeZj+OI30YT5sGG5e4JlM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

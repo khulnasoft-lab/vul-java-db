@@ -1,0 +1,15 @@
+{
+  "GroupID": "app.kntrl",
+  "ArtifactID": "client",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "zuuO3lPe7+rawtYtT7KJMm8YxBc="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "imU7zX2HnfT3RDwyG9DTwpkeqU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

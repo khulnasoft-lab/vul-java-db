@@ -1,0 +1,11 @@
+{
+  "GroupID": "ie.omk",
+  "ArtifactID": "smppapi",
+  "Versions": [
+    {
+      "Version": "0.3.7",
+      "SHA1": "nWJHZpOGWNdzelDORwRk3zgVbIM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

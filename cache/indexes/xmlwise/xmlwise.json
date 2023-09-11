@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmlwise",
+  "ArtifactID": "xmlwise",
+  "Versions": [
+    {
+      "Version": "1.2.11",
+      "SHA1": "D9w9s2rl+IooXtDrQWbz9kZ/19Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

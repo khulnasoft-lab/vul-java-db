@@ -1,0 +1,11 @@
+{
+  "GroupID": "aspectwerkz",
+  "ArtifactID": "aspectwerkz-nodeps-jdk14",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "gjxzCqu24VooOhKN6pwq1R23doo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

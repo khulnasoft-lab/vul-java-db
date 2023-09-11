@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-distribution-owlapi4",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "Bjrk5MFY2Q0oX0gF+gnhdeqEH6A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

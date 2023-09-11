@@ -1,0 +1,11 @@
+{
+  "GroupID": "wutka",
+  "ArtifactID": "jox",
+  "Versions": [
+    {
+      "Version": "1.16",
+      "SHA1": "WQstawabZjtOOGPFGfqu5ZV2rW0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

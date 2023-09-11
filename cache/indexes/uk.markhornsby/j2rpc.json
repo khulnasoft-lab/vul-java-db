@@ -1,0 +1,15 @@
+{
+  "GroupID": "uk.markhornsby",
+  "ArtifactID": "j2rpc",
+  "Versions": [
+    {
+      "Version": "0.9.0",
+      "SHA1": "OwTU/eKOUE8Ma1OqzI08+wGz/h0="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "IrKaluMQoaM8a7ZUTYywn67eWH0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

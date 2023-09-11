@@ -1,0 +1,51 @@
+{
+  "GroupID": "commons-messenger",
+  "ArtifactID": "commons-messenger",
+  "Versions": [
+    {
+      "Version": "1.0-dev-10",
+      "SHA1": "zw2EKoE8y6uvBs6dwOznmZ5HeMw="
+    },
+    {
+      "Version": "1.0-dev-11",
+      "SHA1": "/HodZ9bYJl4mXOY6qjGw4Yn4Dwk="
+    },
+    {
+      "Version": "1.0-dev-12",
+      "SHA1": "cKMjMjzlLiudpKa7EIus+ashsrM="
+    },
+    {
+      "Version": "1.0-dev-13",
+      "SHA1": "N+ny6viZcSr9Zx4rLr+bz3ZYWiI="
+    },
+    {
+      "Version": "1.0-dev-14",
+      "SHA1": "n7TmQBR6G1fEQiUFglcMGoVtK5o="
+    },
+    {
+      "Version": "1.0-dev-2",
+      "SHA1": "7x9QDRwFhJSpZJC6tNb5ADk6sWI="
+    },
+    {
+      "Version": "1.0-dev-3",
+      "SHA1": "7x9QDRwFhJSpZJC6tNb5ADk6sWI="
+    },
+    {
+      "Version": "1.0-dev-4",
+      "SHA1": "B5XdOYiqE+2IwGCLwxI+EUhnIew="
+    },
+    {
+      "Version": "1.0-dev-5",
+      "SHA1": "dHnpYzF6hMx3f999kdRZtHvaCbo="
+    },
+    {
+      "Version": "1.0-dev-6",
+      "SHA1": "Prqm+NMu/sRBWFQkNRRdJcDIpq8="
+    },
+    {
+      "Version": "1.0-dev-8",
+      "SHA1": "+jaj5SjEtk4STi31TXgPBkx9Iig="
+    }
+  ],
+  "ArchiveType": "jar"
+}

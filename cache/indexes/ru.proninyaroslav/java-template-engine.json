@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.proninyaroslav",
+  "ArtifactID": "java-template-engine",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "h4TEY5ytNkI0Pk0i20dbP/IZFXw="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "fpyd5K5Lf2kwoNbZkM3Nks99yEg="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "L+HHMh1ev56kQn9OBJ++arGAM6o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

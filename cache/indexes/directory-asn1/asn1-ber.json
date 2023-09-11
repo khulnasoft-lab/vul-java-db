@@ -1,0 +1,19 @@
+{
+  "GroupID": "directory-asn1",
+  "ArtifactID": "asn1-ber",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "XOTL1okT70+C/H493FKUBFltAHk="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "sL72xZXvL6lt94aZj7mOb6/8GbM="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "H/gaQ8WDHbvVdQrK5zMVqOCU17w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

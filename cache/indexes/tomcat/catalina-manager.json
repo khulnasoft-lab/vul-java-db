@@ -1,0 +1,23 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-manager",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "LnXlkYrD8svII/ygBwd97ZaNR2g="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "9P7nkS+BmDgGdGSY+yxF0RRyuPc="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "VINS4tKyTULYhkCMBP+Jj2Xhy/4="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "ZcUCagbwqBF9WQkmI/gYU0QT7Cw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

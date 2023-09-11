@@ -1,0 +1,27 @@
+{
+  "GroupID": "red.zyc",
+  "ArtifactID": "desensitization-spring-boot-autoconfigure",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xt9+U8qhfffaNY16At/wCPZ1zJM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "632HB2CHwReHuhkWqLoI8qKyPyk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "4IRAFX/ZY+DpiRT1j8Gn6VMYtjU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "TTmomnib7+vxZWlFCMWMfDbhAak="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "XSyK1+Q2SgkoP8D+JOPOCOcoL6E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

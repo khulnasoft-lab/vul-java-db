@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.dimsuz",
+  "ArtifactID": "unicorn-lint",
+  "Versions": [
+    {
+      "Version": "0.9.1",
+      "SHA1": "+BMtlKW1c5z8p2+uXShRl4kf7l0="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "vwfzyzgldt81NYw+msyS8WuNO84="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "yFcxr/Ax+tb2P1XHeBtftweajGM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

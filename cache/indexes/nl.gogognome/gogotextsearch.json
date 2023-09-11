@@ -1,0 +1,27 @@
+{
+  "GroupID": "nl.gogognome",
+  "ArtifactID": "gogotextsearch",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "hT5w007elz/TV1+lSc9FD1+U4qI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "qNku2rB/az5eO+BP93E9aCZ+MyQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "cfxkTyCSogrtcN23Q/oDvxrObB4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "xjG/kuAqTN4fIVf0X902yCxTgmc="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "Bg3LMD1hCaW7uDhP1OFIM4wt56s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

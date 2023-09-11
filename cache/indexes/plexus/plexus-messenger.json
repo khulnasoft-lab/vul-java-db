@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-messenger",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "xUReLmJfQkdz1vky3IR9EJJ8dEc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

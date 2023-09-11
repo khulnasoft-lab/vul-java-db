@@ -1,0 +1,31 @@
+{
+  "GroupID": "gov.adlnet",
+  "ArtifactID": "jxapi",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JRPJUmh3wAoyv3HzBmuC62+a4Qs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "IvyIaeIfRV68fTWqxxQPiKzh3TQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "09kbWk6ot15UnlEwxNsL+fYxK1Y="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "+7hR1qcTNW6o7DZ7epTsSeZKI9M="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "43olf7kSXJHECK7IMkl0f+xIb9k="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "jP9tOwRkz+3LdSu6SElcZ6FW6gI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

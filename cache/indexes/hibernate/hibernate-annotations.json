@@ -1,0 +1,27 @@
+{
+  "GroupID": "hibernate",
+  "ArtifactID": "hibernate-annotations",
+  "Versions": [
+    {
+      "Version": "3.0alpha3",
+      "SHA1": "SSzQv1qJaJ+JtCYYsa6w02sVq0c="
+    },
+    {
+      "Version": "3.0beta1",
+      "SHA1": "RBDpl2Ux7j5y1uPH7QuIMPH/XvQ="
+    },
+    {
+      "Version": "3.0beta2",
+      "SHA1": "sM/e0qg983HFhlzB0Y/cF4PDii0="
+    },
+    {
+      "Version": "3.1beta3",
+      "SHA1": "7SBmDbG/5htbIlQGkRfSUxVIGCg="
+    },
+    {
+      "Version": "3.1beta4",
+      "SHA1": "1BVOUWyaRdezZXAUXq3PJsDC/ec="
+    }
+  ],
+  "ArchiveType": "jar"
+}

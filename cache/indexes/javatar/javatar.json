@@ -1,0 +1,11 @@
+{
+  "GroupID": "javatar",
+  "ArtifactID": "javatar",
+  "Versions": [
+    {
+      "Version": "2.5",
+      "SHA1": "Dfkmzy9QEzngWLhVzTsolkL8Fss="
+    }
+  ],
+  "ArchiveType": "jar"
+}

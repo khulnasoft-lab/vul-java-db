@@ -1,0 +1,51 @@
+{
+  "GroupID": "it.aleven",
+  "ArtifactID": "webapp-common",
+  "Versions": [
+    {
+      "Version": "3.2.6",
+      "SHA1": "3c504UEH0PGzwk3iMOFGxc0ZVsA="
+    },
+    {
+      "Version": "3.2.9",
+      "SHA1": "HC43eIFomJQd4McXi/v+ulMI2AA="
+    },
+    {
+      "Version": "3.2.10",
+      "SHA1": "41K+8oLJoiqvT1L3aUYX1epPxUE="
+    },
+    {
+      "Version": "3.2.11",
+      "SHA1": "trVA8V0Mi3mbR5/H3zJ11ifK0VM="
+    },
+    {
+      "Version": "3.2.12",
+      "SHA1": "aKhAILYj5OXyIUN8XcMV/2nHFE4="
+    },
+    {
+      "Version": "3.2.13",
+      "SHA1": "Q/8zVn8ROdYxugOdYD+Glh+TTdI="
+    },
+    {
+      "Version": "3.2.14",
+      "SHA1": "/eVEtdGhlaqkD7o5atuYmMqOOhA="
+    },
+    {
+      "Version": "3.2.15",
+      "SHA1": "/qfWYIVxrAVLiNtqAg7sRqGkMO0="
+    },
+    {
+      "Version": "3.2.16",
+      "SHA1": "T6HujUqh8A76RBrALxfSIqN+ihU="
+    },
+    {
+      "Version": "3.2.17",
+      "SHA1": "9rOL722hgh80iQModaW4ktZ0r6w="
+    },
+    {
+      "Version": "3.2.18",
+      "SHA1": "Z9jdh0lkqjfcB7UNcGdr6DCTiHA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

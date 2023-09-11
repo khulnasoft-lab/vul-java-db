@@ -1,0 +1,19 @@
+{
+  "GroupID": "land.sungbin",
+  "ArtifactID": "composable.reference.suppressor",
+  "Versions": [
+    {
+      "Version": "0.1.0-preview",
+      "SHA1": "2OWSs6gGo2dyEWmYifnOg+GBJ30="
+    },
+    {
+      "Version": "0.1.1-preview",
+      "SHA1": "WEJglk4RT9cWFUuZe0sG5XQnaY0="
+    },
+    {
+      "Version": "0.1.3-preview",
+      "SHA1": "PGK7VoyiO0clhKkW2DpkTJ2Pqfs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

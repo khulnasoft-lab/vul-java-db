@@ -1,0 +1,31 @@
+{
+  "GroupID": "software.xdev",
+  "ArtifactID": "micro-migration-microstream-v5",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "QmaNF0lvsTwao8ahe5KMmHFlP+U="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "ewPWDFsnRbaXJ+EBa70xhomNH9o="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "3v668A+d6ICQ3cwBbKgQEcrdr1A="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "qG6rk/pasWo6PIN84OLaB2yP7sM="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "6GJWBRcOwTI54IvHsC+N8NxyE/I="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "+M4lC2TRRaB0hydaCxjEbAEAS+U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "oness",
+  "ArtifactID": "oness-common-webapp-controller",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "uotMPmoet58+loLXW7ujSdki0YQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

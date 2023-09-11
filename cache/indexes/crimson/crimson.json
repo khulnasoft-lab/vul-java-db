@@ -1,0 +1,11 @@
+{
+  "GroupID": "crimson",
+  "ArtifactID": "crimson",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "MePayXd6v+yAmtkxX4tdKDzUbEA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

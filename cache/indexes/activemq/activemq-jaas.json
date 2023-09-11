@@ -1,0 +1,19 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-jaas",
+  "Versions": [
+    {
+      "Version": "4.0-M1",
+      "SHA1": "Ftmg6Epbrn7YmhDtjRtfESuq2yM="
+    },
+    {
+      "Version": "4.0-M2",
+      "SHA1": "jF4COkQj4EgOKjvBb/3WXchCEf8="
+    },
+    {
+      "Version": "4.0-M3",
+      "SHA1": "Z29yFikhmwYiWGnw8jJu7l1tPHc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

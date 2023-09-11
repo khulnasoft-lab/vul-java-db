@@ -1,0 +1,51 @@
+{
+  "GroupID": "kr.bydelta",
+  "ArtifactID": "koalanlp-arirang_2.12",
+  "Versions": [
+    {
+      "Version": "1.7.0",
+      "SHA1": "7sk0qwm246v/0cac9DocPrcG0zc="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "4YDk9GzN01is+f6PIFNLdDoN/2w="
+    },
+    {
+      "Version": "1.8.1",
+      "SHA1": "D0uKQ0XMKWpsdLqiLzr+dU93HD8="
+    },
+    {
+      "Version": "1.8.2",
+      "SHA1": "VLDYNdAR8hUp6VuIzr+lJCsPMYo="
+    },
+    {
+      "Version": "1.8.3",
+      "SHA1": "VhnOnyAqJb7o2P5R25sgao8rt2c="
+    },
+    {
+      "Version": "1.8.4",
+      "SHA1": "+SbwJN5SnapteBNRwSZZhe84ko4="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "KYjlzKIBRlYbSHQZgO+hEClOHaQ="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "bE5dibhGUYBWQ2fCgfxGboYSrjU="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "mlhqhs3uneH+lzT9oTIp9jbZPRo="
+    },
+    {
+      "Version": "1.9.3",
+      "SHA1": "8KLEdoWdpE1AfddnI/phar5F+hA="
+    },
+    {
+      "Version": "1.9.4",
+      "SHA1": "EMSMJfapVC3oNpCiawiukp/mc0I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

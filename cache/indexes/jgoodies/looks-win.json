@@ -1,0 +1,11 @@
+{
+  "GroupID": "jgoodies",
+  "ArtifactID": "looks-win",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "24qM3pfXf3+cSB86LDgXk+NkFk0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "emma",
+  "ArtifactID": "emma",
+  "Versions": [
+    {
+      "Version": "2.1.5320",
+      "SHA1": "5UrjDf43wpHA2h7sUJtn6pCu0wU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

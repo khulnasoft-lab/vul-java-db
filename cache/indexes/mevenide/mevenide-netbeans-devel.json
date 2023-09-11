@@ -1,0 +1,11 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "mevenide-netbeans-devel",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "B/XKL3b/DT7RMvfS1B5Jaz7NekM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

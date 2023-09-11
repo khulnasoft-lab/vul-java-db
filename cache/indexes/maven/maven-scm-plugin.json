@@ -1,0 +1,39 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-scm-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "QGec7u+C5hmuXl1vA8D4RcDhp0E="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "dii5A05jgTFNGDttLtu0XCyRb1o="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "nb5hV6dKwLKqaHlDlQpCKz5hm/U="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "NYs4huzj5q4+pLszi2HipuE5zL0="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "vgbKqQzGZSa6/Zn3Ut0xiw1NeU4="
+    },
+    {
+      "Version": "1.5-beta-2",
+      "SHA1": "H4Q2x+vpH6sh8ecpdp9YJ+zDwKY="
+    },
+    {
+      "Version": "1.5-beta-3",
+      "SHA1": "UfOKgK3SPb9fi5CU2HDifp2GptU="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "z2g+iz3K6LOr/1V3kUeDVqBLU64="
+    }
+  ],
+  "ArchiveType": "jar"
+}

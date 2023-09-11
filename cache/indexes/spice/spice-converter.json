@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-converter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "DOn+FyZQ0lJjmO2egmC6o/vxuVM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

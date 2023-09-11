@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.aexp",
+  "ArtifactID": "swagger-showdoc-demo",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "WyCSLtIUtXqIhApzhxqY7kmcCCM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

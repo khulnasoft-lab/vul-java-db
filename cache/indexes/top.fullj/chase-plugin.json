@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.fullj",
+  "ArtifactID": "chase-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HXkPy80qvc7BBu5FZBUVPoO6X9M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "LXWn9mTUj78ylntibrcuh98Ni8s="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "QfboOW0Nfu1A54CmLepWzV2WR5M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

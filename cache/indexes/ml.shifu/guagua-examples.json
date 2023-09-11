@@ -1,0 +1,59 @@
+{
+  "GroupID": "ml.shifu",
+  "ArtifactID": "guagua-examples",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "0HtiGDz2Nc/18Q4dkFyPVBLjbE0="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "tgeUXzY1c3T7HZvBV3bMTAjCEs0="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "f6VKC407fsNL9cz1vHrkJhp/WPw="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "HTfjXibfLO59yWNM+1mAohIUzzw="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "DddkALoMlQZUcuL/q53ZK0o75js="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "+ooazhue/l6KCPvRY6scVPqTLa4="
+    },
+    {
+      "Version": "0.7.4",
+      "SHA1": "lT+FV0HOcwMOMWPAd/aZsSppYmo="
+    },
+    {
+      "Version": "0.7.5",
+      "SHA1": "RROPdMplFbQOwzfe6aDFmHzWQrE="
+    },
+    {
+      "Version": "0.7.6",
+      "SHA1": "XKCcqeLRX3jrqLWN5QE0evOFHM0="
+    },
+    {
+      "Version": "0.7.7",
+      "SHA1": "+7JZf4e5iO047TcoAlVH0/XMPd0="
+    },
+    {
+      "Version": "0.7.8",
+      "SHA1": "KT7Ox7SppaDVYl3fIKmfoubCMYE="
+    },
+    {
+      "Version": "0.7.9",
+      "SHA1": "ctnjaKSaMrqh8AsxTH7K31niHhc="
+    },
+    {
+      "Version": "0.7.10",
+      "SHA1": "TAlxqFHWzWTN4bokEKtNl6xUPEs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

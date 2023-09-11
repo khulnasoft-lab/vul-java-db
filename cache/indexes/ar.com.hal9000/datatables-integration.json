@@ -1,0 +1,23 @@
+{
+  "GroupID": "ar.com.hal9000",
+  "ArtifactID": "datatables-integration",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "tN+HrQQj+y7F4taPqV9HhV2e0Ps="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "wg2y5og1EJj/isuV2ubmT3ldUTg="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Mo9i5S4p2gSpHWau3KTcVgFAwfw="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "M5EQz9SlSxy5J9I3nKnzvdX7JVA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

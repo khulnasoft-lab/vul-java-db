@@ -1,0 +1,27 @@
+{
+  "GroupID": "kim.wind",
+  "ArtifactID": "sms-aggregation-unisms",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xq19g1NEvceXVw+74k+zWEEhcdI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "7soh/Pf4+TWJVSMgAX6QCKAw7yU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "j3fNC9dfZehDiQg4y5C73lQkpIQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "htixkBPfKfOVsJZ/V2KbgfvjyeM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "mxmYsyNbbSfHqGUCjDa+noIrtfY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

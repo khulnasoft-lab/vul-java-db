@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.zoom",
+  "ArtifactID": "portunis-assembly",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "8NbI49PUHjukyAQp5s2hN9KLY9c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

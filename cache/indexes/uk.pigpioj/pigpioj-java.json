@@ -1,0 +1,83 @@
+{
+  "GroupID": "uk.pigpioj",
+  "ArtifactID": "pigpioj-java",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "nuBof/fRL5WLO6LYyCNKFoSOcIc="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "sVujYkLvBgXKzDUP+lSFYp61EuA="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "Z/vqyX8Q01CUUu7eEsFqKv/aWAI="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "SxUsWV6d51Oc4H66FccIPAhUA5k="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "fUfbUpDUmwDm1Cs/8GmCLppjP04="
+    },
+    {
+      "Version": "2.5",
+      "SHA1": "cT/x4n4SuNO2rxCpB54GfuUiVO8="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "qhraSmYXVA+2YrRchjLF3IuJGyE="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "u/ehta6bAFU3+iYNqSwtTDY5EFk="
+    },
+    {
+      "Version": "2.5.3",
+      "SHA1": "4zZao/MNdwDMQAKDsQYAk2DC0Ec="
+    },
+    {
+      "Version": "2.5.4",
+      "SHA1": "4uGKNl6+7G5A99ETbXcVZ4NNAQc="
+    },
+    {
+      "Version": "2.5.5",
+      "SHA1": "ZSe/QYIhhtju3D2dM41LNYju6mk="
+    },
+    {
+      "Version": "2.5.6",
+      "SHA1": "rzzX2ifpOm1rSzmIHJj2dmertLg="
+    },
+    {
+      "Version": "2.5.7",
+      "SHA1": "d3IC9Khkg/GMFdUWutNbCzgTdmc="
+    },
+    {
+      "Version": "2.5.8",
+      "SHA1": "smP8JYOLnmS3kVY4LN+z+PqPkmI="
+    },
+    {
+      "Version": "2.5.9",
+      "SHA1": "zqiJrv5ZZtWfep1/qlzzviX7W9k="
+    },
+    {
+      "Version": "2.5.10",
+      "SHA1": "iZwaKqgLYF//z/1hsGwQqKnR6XA="
+    },
+    {
+      "Version": "2.5.11",
+      "SHA1": "LZTqqisAAm9rOkSbcm0XuNigDZY="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "15pZ5QV+rPW83wnzYJVSfpdwIuo="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "rIS4I+I+3S5a8KfpC6d6romZC5g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

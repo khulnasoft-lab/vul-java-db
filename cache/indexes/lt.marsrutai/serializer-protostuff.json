@@ -1,0 +1,15 @@
+{
+  "GroupID": "lt.marsrutai",
+  "ArtifactID": "serializer-protostuff",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "By1MAuTDkjk1tN4X50B+vm7wQgs="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "7rrlEcIP2yIwq5tWF4Ck8b6ujlo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

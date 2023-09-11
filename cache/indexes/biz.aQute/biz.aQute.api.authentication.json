@@ -1,0 +1,31 @@
+{
+  "GroupID": "biz.aQute",
+  "ArtifactID": "biz.aQute.api.authentication",
+  "Versions": [
+    {
+      "Version": "1.3.0",
+      "SHA1": "VzE2Xb6IzXDb1PxiwUKK4nASOj0="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "yWdj3L8DOfYyjg7mEiQteGdDYRY="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "7MLIHxnx6BV7AyqUftfGhB+xh+0="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "+49TMwYEL+CjTHUMuGjWfAF25SI="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "WKYmKQcHwUbau+uKEj967eO8VEY="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "Ht9SWyuD1078Rz3xLoXQ0kW3eLM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

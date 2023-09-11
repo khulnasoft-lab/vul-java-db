@@ -1,0 +1,31 @@
+{
+  "GroupID": "ai.tripl",
+  "ArtifactID": "arc-cassandra-pipeline-plugin_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "8wfYSM0NtypWuspB+6kgUYvzk7M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "rWBhQRYzQfNXOcH8PoPGH8IGHCI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "3FL/4UYA9inRDqlU4XLvSuulQ50="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "fa344z0tYaHFCkwASXj2inMWlds="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "QR9+EJEpCpp3FnMEFyTWcp9cxOo="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "RN7iqy5LnjFCEdZGE5TLCvb8ZA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

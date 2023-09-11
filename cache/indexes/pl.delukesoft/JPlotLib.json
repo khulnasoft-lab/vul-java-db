@@ -1,0 +1,19 @@
+{
+  "GroupID": "pl.delukesoft",
+  "ArtifactID": "jplotlib",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "Idb4l+nxOX4Gwtv7PaCQt33IIaI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "nrVtyCfHhL7EStlGmTl9UET8GG8="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "G53lWRLZkyEyaCfccX5ntBKlZMU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

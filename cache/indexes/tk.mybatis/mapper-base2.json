@@ -1,0 +1,15 @@
+{
+  "GroupID": "tk.mybatis",
+  "ArtifactID": "mapper-base2",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "snNpc/XgWfeYl1jFfukuqrh51Qs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gDKU/4rZumzGsXn4RtLAf6+1mFs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

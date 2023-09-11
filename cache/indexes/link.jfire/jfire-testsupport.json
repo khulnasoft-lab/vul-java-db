@@ -1,0 +1,11 @@
+{
+  "GroupID": "link.jfire",
+  "ArtifactID": "jfire-testsupport",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "25OkThc8pQQFxtAZuVwd5KTlFoA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

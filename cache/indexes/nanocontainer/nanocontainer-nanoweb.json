@@ -1,0 +1,15 @@
+{
+  "GroupID": "nanocontainer",
+  "ArtifactID": "nanocontainer-nanoweb",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "PpGXy8abUpH8dxE5kw7ylV9Os4M="
+    },
+    {
+      "Version": "1.0-beta-1.pico-1.0",
+      "SHA1": "YN4ZMHEUMe2kB7dEW87sjNEfVRk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

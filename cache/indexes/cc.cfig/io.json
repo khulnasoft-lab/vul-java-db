@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.cfig",
+  "ArtifactID": "io",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "I7ViZwhs3VASUO4eR2zV/BoLqGI="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "KBI0dCbZyuwfkPLOMtwGPfr/GWA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

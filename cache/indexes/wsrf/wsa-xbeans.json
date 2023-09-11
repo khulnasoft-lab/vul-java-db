@@ -1,0 +1,11 @@
+{
+  "GroupID": "wsrf",
+  "ArtifactID": "wsa-xbeans",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "UAlwi9URf8dK4Tib35NQ1/C5+Cc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

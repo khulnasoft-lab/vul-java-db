@@ -1,0 +1,63 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "rxhttpclient-java",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "JQzytrYTSB17Nr+FJq6rShsBtxo="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "gTnFVQUSBWoLdXwwGB45jkBOq+4="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "dnhkM007DtEofT+UQLE2C5+Cg8M="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "tD8ycXz1ihvzQKSG/v8wx6K7Oj4="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "0aruiQYqObKVR67kTIoKmBxPRuU="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "XecA3shcNMMBC6v1KMdv7NObpSw="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "IdSws38Mv4Jij8ShsKstWVQXVFw="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "IwcTc6ieu+bFnKYd6dp66N90db0="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "L7sBWEvxTUOIbHMOnilO/oFIFLo="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "3ynlC6e1sP9E8fptJyEl/Bp5Gzk="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "aQzYUnQvfJpgtU19ksEEXQ+WEhg="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "bZaty08Chw5S6+e4Ve2BEU78kl0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "G3wFrosqXeGAWYfoOWFV2Myxekg="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "UJGfvTvuxcVqpleer4xeelv/Se0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

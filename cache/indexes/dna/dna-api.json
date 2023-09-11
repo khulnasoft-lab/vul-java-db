@@ -1,0 +1,23 @@
+{
+  "GroupID": "dna",
+  "ArtifactID": "dna-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "dm7BqXb4xirMqNTFKEJ6WZXaQSQ="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "+7XX7qiZtkQXbJ6GYnV/zBM/cXk="
+    },
+    {
+      "Version": "1.1-rc1",
+      "SHA1": "WUdoM+A2wkBtT1NnGXyifrChPLM="
+    },
+    {
+      "Version": "1.1-rc2",
+      "SHA1": "NITxl2mgWz2YdDjED0ND8W78Zfg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

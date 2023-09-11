@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.shingle",
+  "ArtifactID": "shingle-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "7dRekUAu3L+KL/VNVG+ZFMLg5FU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

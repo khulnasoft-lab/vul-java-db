@@ -1,0 +1,11 @@
+{
+  "GroupID": "stream.scotty",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "1TeSD6Jl1mqohHiOOW0IQEQkXrM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

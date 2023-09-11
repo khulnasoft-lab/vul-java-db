@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.adaxisoft",
+  "ArtifactID": "Bencode",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OsEd4FTEy3cMh5zKAu8UWGH5Pnk="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "M9nUwy72AHUl2t6LauZKc9AzEhE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

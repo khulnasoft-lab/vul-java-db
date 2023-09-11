@@ -1,0 +1,15 @@
+{
+  "GroupID": "coconut",
+  "ArtifactID": "coconut-aio",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "DqNcb+nop0z/hldrQzq0WFa39Hg="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "mu5pkFAzurqZpX35G/HrFcfhzaU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

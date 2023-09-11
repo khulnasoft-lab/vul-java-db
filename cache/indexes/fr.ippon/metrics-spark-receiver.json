@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.ippon",
+  "ArtifactID": "metrics-spark-receiver",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "hBcrexiAjpPYAmlUNfVVSOfCIGM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

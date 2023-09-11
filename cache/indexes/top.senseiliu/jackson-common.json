@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.senseiliu",
+  "ArtifactID": "jackson-common",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "XZ7UmuYk3nLctqrlzFVpC7zOV2Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

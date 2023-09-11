@@ -1,0 +1,59 @@
+{
+  "GroupID": "be.valuya.accountingtroll",
+  "ArtifactID": "accountingtroll",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "q6uGmvyIbQYB+dmKbOik+NJ7CeM="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "4OGYxVkBWsZhyEQFeAD4msvt14U="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "MWj2GcJgs3hK3pD1dPCASr0H4Ks="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "2gZuIYhghSzKjE/UFgCKt0FYLVQ="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "GjlVkDWhx1SFmZY8uC7ElapG5jk="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "tg/PyjipSFtMdRLakk8LktOv358="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "Wzz8H4C0C58EUqeX405zGGgm5M4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "j4Xm4LuKxkA4J9yVN/SAGAzZ5Bo="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "rfu5M6K8RlsOZbNUpV3hPLr905M="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "eEijEBUH7V2wP7OcvazGH0lCUXk="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "C6WGIEvSHdc8QTwA+Di58uvEl24="
+    },
+    {
+      "Version": "6.0.0",
+      "SHA1": "BlIwQBUJHBQbVCuEZC4g0ZF8UmM="
+    },
+    {
+      "Version": "7.0.0",
+      "SHA1": "DKlB9oh/yXdYmekNbiYO2h6bCUU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

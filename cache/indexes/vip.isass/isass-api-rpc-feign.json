@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "isass-api-rpc-feign",
+  "Versions": [
+    {
+      "Version": "isass-api.0.0.1",
+      "SHA1": "50BedJRQF0717E3TqteUHotkCvk="
+    },
+    {
+      "Version": "isass-api.3.0.3",
+      "SHA1": "Zzz4/5I7UHyoygqJOPtRXR4epiI="
+    },
+    {
+      "Version": "isass-api.3.0.4-release",
+      "SHA1": "O8q/sxz/LP1JxCs92Ft5f8j6lQs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

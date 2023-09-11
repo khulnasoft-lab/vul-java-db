@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.gink",
+  "ArtifactID": "cas-login-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "boNMSK49uUOoZheqWvgkCUYOiCg="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "oFfno4BvZ4JDDw/MHf/aP2vQVdc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

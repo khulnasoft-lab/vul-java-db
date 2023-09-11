@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "httpunit",
+  "Versions": [
+    {
+      "Version": "meterware",
+      "SHA1": "eXemyZMWs8OmelPAPRILhMue8+o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

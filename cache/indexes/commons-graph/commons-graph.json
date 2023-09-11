@@ -1,0 +1,15 @@
+{
+  "GroupID": "commons-graph",
+  "ArtifactID": "commons-graph",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "Svdgbp2KzBpbXfF8Wg58ZxzQ2Lg="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "MJUhUyIzs1jGmprk9ac7BGrWDgI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-tasklist-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "jJNEMwJ1YNjyszBqhQN6UtDil1A="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "FsLHUWFzcj8ywqloxVbAyAmsdek="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "pvjXk9sE1GxgrqC8Ny/Z2d9jP80="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "oauth.signpost",
+  "ArtifactID": "signpost-commonshttp4",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "8qM+/h9ay5ddlb8sot9BzTXrmrY="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "izWksc1ZTSIzSZvU+HjXCdzS9qU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

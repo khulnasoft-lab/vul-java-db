@@ -1,0 +1,15 @@
+{
+  "GroupID": "software.amazon.ai",
+  "ArtifactID": "mms-plugins-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "l5YY9B0zDYv7avbrrrC4L0iurnE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "VjRARMD89h8lQjgMw5+L9xFspiE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

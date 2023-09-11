@@ -1,0 +1,15 @@
+{
+  "GroupID": "jwebunit",
+  "ArtifactID": "jwebunit",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "ZjNejZfJWcAhAWUVpYslPYTKyyU="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "0riWkhiBWN3+dofvhsmv0kJmsB0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

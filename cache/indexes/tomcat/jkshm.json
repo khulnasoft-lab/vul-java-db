@@ -1,0 +1,19 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "jkshm",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "Vg5oGMgoo3IJGTIdJMKbnMc/zoQ="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "lhvim8XIJwSCv8XhVPEi8vAWR0s="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "DnYyM8s3Vg8DLFDStjx57218MZg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

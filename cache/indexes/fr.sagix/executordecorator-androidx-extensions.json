@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.sagix",
+  "ArtifactID": "executordecorator-androidx-extensions",
+  "Versions": [
+    {
+      "Version": "2.3",
+      "SHA1": "DfzqPNGxjg2cn6E02scuvtqekcA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

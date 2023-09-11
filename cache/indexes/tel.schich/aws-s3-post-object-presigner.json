@@ -1,0 +1,15 @@
+{
+  "GroupID": "tel.schich",
+  "ArtifactID": "aws-s3-post-object-presigner",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "SJ9MCRZHAiaTT9cFGhD4K/reRIU="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "opy7BKSzUN3ng9Whu0/dPdaK5RA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

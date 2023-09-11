@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-security-nt",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "MzqBAiGkHWV5DgWmvvg8aR2P5PU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

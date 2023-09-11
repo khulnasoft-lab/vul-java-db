@@ -1,0 +1,67 @@
+{
+  "GroupID": "ai.knowly",
+  "ArtifactID": "langtorch",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "GO5fTw/yi/otra7qq9iPfVN3iAk="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "81jEHDzNX4AvF+15/A+XlC7JPbw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "1X3bEs9ni2TVGUImnQGM5E0mgco="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "O2aKXqtGtF7e2IzgZW07szWKAC8="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "7r68jEgQkYmv/PFOKjR5soBF+rY="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "57yepnXLwgK8tv6PAA5kZFQHpXo="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "vDurqaXybX979pLwqs62l54ZrwQ="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "NfrZa8eHshpextas/s0MofLnwS0="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "kL9YiIqbywE5S50M+UpLH2AfSz8="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "eVuwmN46ub4u3QWQVxWmQtz0XzM="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "xHauhFyF4oR01BgLiGlFDicNPWI="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "HcTXLwmryUIonGPDd//WmAzMhc0="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "c98ud8Um3CvhOgsl+FqF197VPjk="
+    },
+    {
+      "Version": "0.0.16",
+      "SHA1": "4jPQQr/UejfG0bh1dTHROlYpUvs="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "+XV3j6B5Jds9wDU3JqIpF85Clbs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

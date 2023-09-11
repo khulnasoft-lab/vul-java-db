@@ -1,0 +1,27 @@
+{
+  "GroupID": "ky.korins",
+  "ArtifactID": "sha_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "YPX/M2koW++G416bt4Qip4iadEA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Rv1OT7kQv81qQIJemIoe57FCn4c="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "TzWcRI+GDWnYUQkqAAEJ0He39Yk="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "DWgz6LSoxU1SWmUQvAyOpQ0hoRQ="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "0chNTcSqjrglu7mrnnO1ud1eVYE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

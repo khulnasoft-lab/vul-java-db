@@ -1,0 +1,27 @@
+{
+  "GroupID": "plus.ojbk",
+  "ArtifactID": "minio-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xD03FMNZNkIe3u1sAgQJ6vAw6hU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "4kxQobQhsFBvwIelvh6312+XWmw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "E5Di6zrWYLSZcwU0zleX6ZRsi3k="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "BLD0zdHVhCdRQE2yrxpIPsZlGBQ="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "9sIWAeCRSi33/5j+aWg6BlIvvXc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

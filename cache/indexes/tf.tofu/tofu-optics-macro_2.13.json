@@ -1,0 +1,43 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-optics-macro_2.13",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "RXR0X04W10v/yMJD2Ynm12gB2MY="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "uhDgkRf4GneURYeyWRJDknX3Uk8="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "LV5hN6J2L2uFoNrv7qhCiFvr09Q="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "gQ+namVyFIe4pCk/9wJnwA3IHiw="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "V+wukmwRhyQNCcRUYhPucZKUKig="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "CdmvFHPyYEHVwnWI8ZyQB9B3aMM="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "e8fqrVJNZcQ/cgjUoghq4Mh/CzU="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "EsgnEe3/ydj+2IwrBRD+FlrAHq0="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "cJwDIPimZ9mEmGLxkHuDYU7GsNI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

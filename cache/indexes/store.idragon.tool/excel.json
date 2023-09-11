@@ -1,0 +1,31 @@
+{
+  "GroupID": "store.idragon.tool",
+  "ArtifactID": "excel",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "oq41ef7t3gWyBVsfdOoSy68L3tc="
+    },
+    {
+      "Version": "0.0.2-RELEASE",
+      "SHA1": "x1yWi3alb8tvL5lK6PB4rnHZjHc="
+    },
+    {
+      "Version": "0.0.3-RELEASE",
+      "SHA1": "ptxbFwe5HyCtFSGJrDVU1IBiqqc="
+    },
+    {
+      "Version": "0.0.4-RELEASE",
+      "SHA1": "i0TiXsXPCmq+b2e3g9JYbCKTIjU="
+    },
+    {
+      "Version": "0.0.5-RELEASE",
+      "SHA1": "ZN/EvYVTQZFlViiqPhWJPP54hrM="
+    },
+    {
+      "Version": "0.0.6-RELEASE",
+      "SHA1": "Jq0ym+UXxbOkqwXCIjeLBauE0K8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

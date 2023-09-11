@@ -1,0 +1,11 @@
+{
+  "GroupID": "uno.anahata",
+  "ArtifactID": "mapacho-server",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "uUbrJcla6GcMndF6tNCm1E2WrWo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

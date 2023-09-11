@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.thematchbox",
+  "ArtifactID": "TheMatchBox-Common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "FXjaSqjNRp3v3dTTInUM9Od2VYU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "eC1DJ2jzJthYeizOtENJiR015c0="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Juv8wesrBUVuoUfufAftO3c6iok="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "KCbuE3eAb7AusbhryjdwuPtzkyE="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "6H2xgKRcUnz3iA4S2kMzxySW2T8="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "NJGeBLzixL/iDb4Wzm2zIQAdamw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

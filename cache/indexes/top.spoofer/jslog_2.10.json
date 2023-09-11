@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.spoofer",
+  "ArtifactID": "jslog_2.10",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "48R/GEKduCXoWUr+GRuSPLlLRU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

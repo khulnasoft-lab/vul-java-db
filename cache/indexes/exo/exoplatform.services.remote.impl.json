@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.remote.impl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "qmSfuBBC84fa3zZshP/HpImSnu4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

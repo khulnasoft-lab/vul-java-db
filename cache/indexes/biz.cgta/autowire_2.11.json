@@ -1,0 +1,23 @@
+{
+  "GroupID": "biz.cgta",
+  "ArtifactID": "autowire_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.5-M3",
+      "SHA1": "YSSstPqvoSbwrLyMuvEp0KFd8Wk="
+    },
+    {
+      "Version": "0.2.7-M3",
+      "SHA1": "B9jfljVm8YHZXauaJqQHZbCXHAE="
+    },
+    {
+      "Version": "0.2.8-M3",
+      "SHA1": "q1B9yM+BT3jfK/XEykXYTSmTXQA="
+    },
+    {
+      "Version": "0.2.9",
+      "SHA1": "lQSAGZ28NlUCwNwGVb0zdPhI5yQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-jdo",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "inI61nYg+tXwnHHca4Pu+lVhHtM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "lhQzSvgQkS0k2hMWgLt/gtULLgI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "QpXwmx+eSV4HErUqWQZlHSKU75M="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "zYEfEPTCM92yfiS7FWrB8h+syCE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

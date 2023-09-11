@@ -1,0 +1,15 @@
+{
+  "GroupID": "weixinkeji.vip",
+  "ArtifactID": "jweb.power.expand.springMVC",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "yxnMLuM4kKXJn/JAd5rEXuT510A="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "5MHIwKr96zTWTrulzAVJyydrnFY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

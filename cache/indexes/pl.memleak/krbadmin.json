@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.memleak",
+  "ArtifactID": "krbadmin",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "y+GX/Mpi4YFlPjGP4L72KPIdFqc="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "fHQqQMOvegHuVKrDSI97hgxPR/Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

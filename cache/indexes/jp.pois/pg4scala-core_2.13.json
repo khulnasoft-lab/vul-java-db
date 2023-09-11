@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.pois",
+  "ArtifactID": "pg4scala-core_2.13",
+  "Versions": [
+    {
+      "Version": "0.3.8",
+      "SHA1": "6zIuO6VSfpQSS6Llzefq/cKb+LE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "nl.talsmasoftware",
+  "ArtifactID": "concurrency",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "033nLSu+Q9BJmy8aOhutZpQF9Bk="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "qjD5dpGaNlwfsqGH4XpNd6fwpYI="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "O56zycN4AXIazVT1OIBQPPiynvI="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "NSIhELXOZibEo1IpTP7c9aDz0c0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

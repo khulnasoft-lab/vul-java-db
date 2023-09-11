@@ -1,0 +1,11 @@
+{
+  "GroupID": "bouncycastle",
+  "ArtifactID": "bouncycastle-jce-jdk13",
+  "Versions": [
+    {
+      "Version": "112",
+      "SHA1": "EG6Xpa16V6osvEgHTbgCJdPAlyo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

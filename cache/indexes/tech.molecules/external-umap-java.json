@@ -1,0 +1,19 @@
+{
+  "GroupID": "tech.molecules",
+  "ArtifactID": "external-umap-java",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "XYkRo5V+QlincoJfmJEgC4u7Faw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "AOycxim/3f3tk79kQs03xIa03yI="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "czdHrqMKMzn+R8qVvMS8GsuYrcI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

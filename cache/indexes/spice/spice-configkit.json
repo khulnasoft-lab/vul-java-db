@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-configkit",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "wdI5LWeoXKaxutdRCD5/bMR7hVU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

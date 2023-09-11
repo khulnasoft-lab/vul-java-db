@@ -1,0 +1,11 @@
+{
+  "GroupID": "groovy",
+  "ArtifactID": "groovy-all-minimal",
+  "Versions": [
+    {
+      "Version": "1.1-BETA-1",
+      "SHA1": "s49EHeFBKfydNoA71sCLyHU7No8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "guru.breakthemonolith",
+  "ArtifactID": "btm-DropwizardHealthChecks-rabbitmq",
+  "Versions": [
+    {
+      "Version": "0.1.0-rc1",
+      "SHA1": "N5OgJbzzmdn0GR3SkWIuTAFM+8U="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "kCF7wLaIdREVt0QkPKnaobgO9kU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

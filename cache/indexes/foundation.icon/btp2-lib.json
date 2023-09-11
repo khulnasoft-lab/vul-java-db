@@ -1,0 +1,11 @@
+{
+  "GroupID": "foundation.icon",
+  "ArtifactID": "btp2-lib",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "mCs5KZUZPJDrRji+4nIyBa9/FMk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "network.quant",
+  "ArtifactID": "overledger-sdk-example",
+  "Versions": [
+    {
+      "Version": "1.0.0-alpha.1",
+      "SHA1": "czpc5exmx6XuKgyUJOxCzxTfkeo="
+    },
+    {
+      "Version": "1.0.0-alpha.2",
+      "SHA1": "0BzZgobC/57K6Sf0q0DiuLnYZnk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

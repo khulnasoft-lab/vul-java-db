@@ -1,0 +1,15 @@
+{
+  "GroupID": "uy.kohesive.vertx",
+  "ArtifactID": "vertx-sqs",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA-01",
+      "SHA1": "BGMrqjbfiV6cCoi57T5w2nWuYZI="
+    },
+    {
+      "Version": "1.0.0-BETA-02",
+      "SHA1": "/T/yDNYA+ImcI5iSJ7mX9oBQ8/w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

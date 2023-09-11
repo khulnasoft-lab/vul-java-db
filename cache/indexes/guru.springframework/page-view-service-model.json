@@ -1,0 +1,15 @@
+{
+  "GroupID": "guru.springframework",
+  "ArtifactID": "page-view-service-model",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "5hbhQfe3oEwVdC8M9rG7I8+itCQ="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "kAnQpapniaTmHqk/MwRxYtqI9CM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

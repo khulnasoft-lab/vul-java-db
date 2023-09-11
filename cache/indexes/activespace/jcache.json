@@ -1,0 +1,11 @@
+{
+  "GroupID": "activespace",
+  "ArtifactID": "jcache",
+  "Versions": [
+    {
+      "Version": "1.0-dev-3",
+      "SHA1": "SIzcuYK2XNJESC0oWY5kxw5waOg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

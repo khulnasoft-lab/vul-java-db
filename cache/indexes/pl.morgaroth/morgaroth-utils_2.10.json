@@ -1,0 +1,19 @@
+{
+  "GroupID": "pl.morgaroth",
+  "ArtifactID": "morgaroth-utils_2.10",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "goHF65TmQjfEsCrilP1PMTHYt60="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "kkzmTiKAVhUETF2/H9KtP/nhIek="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "ZtEiVCOeKi72f5t5xO1ljwbUR3k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

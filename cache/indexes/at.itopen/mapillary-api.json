@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.itopen",
+  "ArtifactID": "mapillary-api",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "EiTgFPizpEcKob+VfTbj4tuYzXA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

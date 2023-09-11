@@ -1,0 +1,15 @@
+{
+  "GroupID": "cool.doudou",
+  "ArtifactID": "doudada-iot-codec",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "1EK1/jSFN6GOCmZReStYr29+J5o="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "FgTt8ZJR/wfnisI/Fp+OHt97IO0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "pl.touk",
+  "ArtifactID": "dockds",
+  "Versions": [
+    {
+      "Version": "1.0.0-RC3",
+      "SHA1": "g1rY0cX3A3ylxK7zcLe4Wg9KGKI="
+    },
+    {
+      "Version": "1.0.0-RC4",
+      "SHA1": "r4SJkgCVK1xcbFYjilcSDl9tBa0="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "o97a+4EGz+Tv7u4sUXOTObqxvUc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "SuZLpG8WRQOVAN7wJWcLouc8R3o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

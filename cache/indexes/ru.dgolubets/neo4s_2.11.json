@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.dgolubets",
+  "ArtifactID": "neo4s_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "glBC17NndoQFQGrWUgBT8QeBMYY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "8Ayl24N+0tk+pmoUgeGyz3t7HBs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

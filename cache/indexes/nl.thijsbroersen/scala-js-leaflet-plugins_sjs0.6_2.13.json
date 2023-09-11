@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.thijsbroersen",
+  "ArtifactID": "scala-js-leaflet-plugins_sjs0.6_2.13",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "eQ2Exs+MpmI1HJHP5pb0bpENQF8="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "GrDBbEpeAUkZZxKYBJkaYgSpSFM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

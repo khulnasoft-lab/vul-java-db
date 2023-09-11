@@ -1,0 +1,19 @@
+{
+  "GroupID": "build.please",
+  "ArtifactID": "javac-worker",
+  "Versions": [
+    {
+      "Version": "13.1.9",
+      "SHA1": "8DPv/vgcdLVFxnVIqXGuIeJ8xPw="
+    },
+    {
+      "Version": "13.1.10",
+      "SHA1": "8DPv/vgcdLVFxnVIqXGuIeJ8xPw="
+    },
+    {
+      "Version": "13.4.0",
+      "SHA1": "5BJWTIVxLjy/P/9n4u4bFX7jefM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

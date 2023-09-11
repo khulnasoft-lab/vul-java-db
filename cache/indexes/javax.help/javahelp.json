@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.help",
+  "ArtifactID": "javahelp",
+  "Versions": [
+    {
+      "Version": "2.0.05",
+      "SHA1": "ynCCLEemf8OhFnAnBWfC0BVm2uE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

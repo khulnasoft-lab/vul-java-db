@@ -1,0 +1,19 @@
+{
+  "GroupID": "works.worace",
+  "ArtifactID": "circe-geojson_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "hEhS2EqxCTjFKLqeOAB9XLisBnE="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "IAN+iC31NV0Gj1TxJD6kovjH3bo="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "cq85UDbu+p4H3ajFd9mXE9hvhfM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

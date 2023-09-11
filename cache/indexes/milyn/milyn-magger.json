@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "milyn-magger",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "PxNMqqWSChLI78nhl2Xngh/kNJo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

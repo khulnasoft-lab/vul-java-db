@@ -1,0 +1,11 @@
+{
+  "GroupID": "ro.esolutions",
+  "ArtifactID": "license-manager-base",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "RrT/XxOuXNqQjpiDLWd0y4Hs3rY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

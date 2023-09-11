@@ -1,0 +1,31 @@
+{
+  "GroupID": "vn.7team",
+  "ArtifactID": "seventeam-common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "RZE7WyYf9DyKdR+8ziXKKj7YqdQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "hvsMwomswHjyOTUirdfALMo8GC0="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "JRfelWHv9PInIQPZUru+iwvHsWA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "LDWB8+HPCQOZrW75g6BwvSc2KHI="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Ho5ZH2xywVROBe6ar/WcQS0gC3s="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "gftDntZ6nkIFbF94P0DY8P9XGZw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

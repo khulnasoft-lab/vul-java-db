@@ -1,0 +1,11 @@
+{
+  "GroupID": "build.buf",
+  "ArtifactID": "connect-kotlin-protoc-gen-java-ext",
+  "Versions": [
+    {
+      "Version": "v0.0.0-preview",
+      "SHA1": "lHOKy1lkS0uP5GY9iYuNeSsc2R0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

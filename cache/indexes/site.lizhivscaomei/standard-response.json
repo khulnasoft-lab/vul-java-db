@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.lizhivscaomei",
+  "ArtifactID": "standard-response",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "VYMLj060upddhomS0VY5d5lWehg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

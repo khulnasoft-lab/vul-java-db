@@ -1,0 +1,23 @@
+{
+  "GroupID": "jfree",
+  "ArtifactID": "jfreechart",
+  "Versions": [
+    {
+      "Version": "0.9.21",
+      "SHA1": "f/TbLZKwzrN1EMfrJdWUgVMBp7M="
+    },
+    {
+      "Version": "1.0.0-rc1",
+      "SHA1": "nS+cuMbSENrRcsadW1Um5tPx8S4="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "d3al4/VVZDcgQVpH4CLarJzKMrE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "LEx9Qm/rQjr7+7MLSvoQKtsbcHM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

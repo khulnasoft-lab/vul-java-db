@@ -1,0 +1,11 @@
+{
+  "GroupID": "jgrapht",
+  "ArtifactID": "jgrapht",
+  "Versions": [
+    {
+      "Version": "0.5.3",
+      "SHA1": "ymjqonajFI/s4y4lsj5ob2MXWcU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

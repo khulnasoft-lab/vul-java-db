@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.security",
+  "ArtifactID": "security-api",
+  "Versions": [
+    {
+      "Version": "1.1-rev-1",
+      "SHA1": "SPB5Cnt35ggI+wc2E5S30aIwH3o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

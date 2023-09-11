@@ -1,0 +1,27 @@
+{
+  "GroupID": "commons-scxml",
+  "ArtifactID": "commons-scxml",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "IG0E15zdYEkdc3B7BGd3e4JIGYw="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "G8ZmBuGJfWulA+0mllftmx9dS1Y="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "Lf8bN6R/IF8YOkTnGYBsIpnp7/s="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "Gj25ZsCLs2MCV8DssJUEiwZqEH8="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "j7UdO7a/oONIcEBKEBZXzvnQ7lg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

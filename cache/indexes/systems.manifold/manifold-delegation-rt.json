@@ -1,0 +1,103 @@
+{
+  "GroupID": "systems.manifold",
+  "ArtifactID": "manifold-delegation-rt",
+  "Versions": [
+    {
+      "Version": "2023.1.0",
+      "SHA1": "V/LQ21S8KNXE99KlvlncKk2YzoQ="
+    },
+    {
+      "Version": "2023.1.1",
+      "SHA1": "lvkHm4HJG2x+6jI3z3owIZDBV7M="
+    },
+    {
+      "Version": "2023.1.2",
+      "SHA1": "aRB4j6oPNDPdc/yhdf/cfWX69ws="
+    },
+    {
+      "Version": "2023.1.3",
+      "SHA1": "8SKYZWOnVDrxVnaS5JWts9nTAyg="
+    },
+    {
+      "Version": "2023.1.4",
+      "SHA1": "k4c557zcP6I1qiOPBnbLpiGxKcE="
+    },
+    {
+      "Version": "2023.1.5",
+      "SHA1": "lltcVhdoiSAa7Hj4b+YmdO9p8zo="
+    },
+    {
+      "Version": "2023.1.6",
+      "SHA1": "SI4kLwb9HDguurnY+NbAqWBDuVY="
+    },
+    {
+      "Version": "2023.1.7",
+      "SHA1": "gfCcHARPLzsBSDT287u33UUX0yM="
+    },
+    {
+      "Version": "2023.1.8",
+      "SHA1": "2LcFBLWnHV1Xf5gieh6HfxjjVDU="
+    },
+    {
+      "Version": "2023.1.9",
+      "SHA1": "hjFT7aZ+RlT6ojtc3x2jFxiaPMY="
+    },
+    {
+      "Version": "2023.1.10",
+      "SHA1": "MBqSxM/LGeHC3Oudm5Engq3YinI="
+    },
+    {
+      "Version": "2023.1.11",
+      "SHA1": "b1RWEkMNrKyKMtX4wiUjtl3r2w0="
+    },
+    {
+      "Version": "2023.1.12",
+      "SHA1": "vd844UFJcjT5WMp9tL3xHCkFPWk="
+    },
+    {
+      "Version": "2023.1.13",
+      "SHA1": "jFLIltTA1JkNmNMGP1W/sp+zRcw="
+    },
+    {
+      "Version": "2023.1.14",
+      "SHA1": "91R1hOocsX+yRs1UmSXu/9HPvtY="
+    },
+    {
+      "Version": "2023.1.15",
+      "SHA1": "tkwpgfiGSNOJgkqwWqx578brJNI="
+    },
+    {
+      "Version": "2023.1.16",
+      "SHA1": "VKPWcYwdNbShMxvP2Hs32mgYp6Y="
+    },
+    {
+      "Version": "2023.1.17",
+      "SHA1": "/tpFZJNZttVZ/2XmnOkjipv95Qc="
+    },
+    {
+      "Version": "2023.1.18",
+      "SHA1": "cYSOgK78sEzSXAVZmJ8XhN9XtrM="
+    },
+    {
+      "Version": "2023.1.19",
+      "SHA1": "YbOlwgG57w7LnBVrzpFxnR6vBCg="
+    },
+    {
+      "Version": "2023.1.20",
+      "SHA1": "shv/e3+9ZovRaSwurAgPlK1dvUg="
+    },
+    {
+      "Version": "2023.1.21",
+      "SHA1": "pC0pQLdr1uZpVV55kfZb8lKd8DU="
+    },
+    {
+      "Version": "2023.1.22",
+      "SHA1": "6yLUxsULwEzGQY3x0dYovABJPd4="
+    },
+    {
+      "Version": "2023.1.24",
+      "SHA1": "YETqfcifoqBr/JjFWf3b3QIZQL8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

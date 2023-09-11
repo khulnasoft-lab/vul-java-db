@@ -1,0 +1,19 @@
+{
+  "GroupID": "ml.sparkling",
+  "ArtifactID": "sparkling-graph-loaders_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "QMI1+q5/7InhQxaHojju6EhbXbU="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "WEOoGEBGbwR2T3eRfLbw0cC+u3A="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "0k+0vvb/ySAEX1kQ74+DTvCWHVU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "mobi.designmyapp",
+  "ArtifactID": "designmyapp-common-api",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "cR8+KijtddeGSD/b82kuEsKeEQ4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "uYxx9tTA49iLSgTxJTmkvV/kr7s="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "96tuNyz1MkszWdBfYTQZhvZCEdo="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "/kNyPy41IQChJNo6cJXCXqkbi3Y="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "LClazHOOAAWw1IRdq2Erm66QpaU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

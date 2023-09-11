@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.fmgp",
+  "ArtifactID": "fmgp-threejs_2.13",
+  "Versions": [
+    {
+      "Version": "0.1-M1",
+      "SHA1": "fpcmOS+uO3gi96EBr+Vg50riWl8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

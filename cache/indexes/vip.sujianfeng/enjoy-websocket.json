@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.sujianfeng",
+  "ArtifactID": "enjoy-websocket",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "ufhfltUfAbVjRKS8xpZJXZc/dHo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

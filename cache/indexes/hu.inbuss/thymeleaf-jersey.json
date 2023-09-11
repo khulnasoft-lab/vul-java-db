@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.inbuss",
+  "ArtifactID": "thymeleaf-jersey",
+  "Versions": [
+    {
+      "Version": "0.0.9",
+      "SHA1": "neUjwgyuntPfTVIGXvi+Y3/DL0Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.teadev",
+  "ArtifactID": "springspecwrapper",
+  "Versions": [
+    {
+      "Version": "1.3.0",
+      "SHA1": "0w+wDFx8Z543C64FkYhPAZ9IA6s="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "9XD9xQtga7unTaX0wzy0b2vajU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

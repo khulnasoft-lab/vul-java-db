@@ -1,0 +1,15 @@
+{
+  "GroupID": "biz.source_code",
+  "ArtifactID": "base64coder",
+  "Versions": [
+    {
+      "Version": "2010-09-21",
+      "SHA1": "qOUx6TcJcil1Rq+GdfG7OszoIEk="
+    },
+    {
+      "Version": "2010-12-19",
+      "SHA1": "ACs8HbIWHUJzux05aYB4TnPN0Tk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

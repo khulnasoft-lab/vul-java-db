@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.purpledragon",
+  "ArtifactID": "utils_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "hW0Rb+fAkolf2wuDxV3YX2tsLV4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.ordina",
+  "ArtifactID": "microservices-dashboard-ui",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "/Aayh70tM5d1Tc973rXe/XB4f40="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "CidpwJRkwmj/9Yge0o7qVAsjLe4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

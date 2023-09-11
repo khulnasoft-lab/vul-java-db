@@ -1,0 +1,11 @@
+{
+  "GroupID": "xin.allonsy",
+  "ArtifactID": "allonsy-common",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "8PArF4QBnZ/QQ/q8S9JigpYgeDg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.msitko",
+  "ArtifactID": "dhallj-magnolia_3",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "l/zs4WCFn08hiNIF12BvzbC6vf4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

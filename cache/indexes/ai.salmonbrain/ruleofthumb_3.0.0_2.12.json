@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.salmonbrain",
+  "ArtifactID": "ruleofthumb_3.0.0_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "gMpGOryFFfQgrAWUnFLMZdqo4ls="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "9Si291GZuW+htbm+B1s1atcFEiQ="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "Y80lM5jlxso7Q1T+T6ctyJoHGtY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "wuF/wjhGCaPKZ+9GZp6VRBHg/k0="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "Il0K2VdVsffBHt3bN2bWDqh3kbQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "geronimo-spec",
+  "ArtifactID": "geronimo-spec-javamail",
+  "Versions": [
+    {
+      "Version": "1.3.1-rc1",
+      "SHA1": "LWOU746MKdO7OD8aK926Dd1bfZM="
+    },
+    {
+      "Version": "1.3.1-rc2",
+      "SHA1": "b4ig+iIJlZFFxQ3wRbLYzWhilBw="
+    },
+    {
+      "Version": "1.3.1-rc3",
+      "SHA1": "xVhGpB5GrogkqmyW/zXegT9VCE0="
+    },
+    {
+      "Version": "1.3.1-rc4",
+      "SHA1": "YArp17Dkpdm2LtmKFVPEdGg4Qc8="
+    },
+    {
+      "Version": "1.3.1-rc5",
+      "SHA1": "76H1MRq1q3lfzByE2i26j8ckZig="
+    }
+  ],
+  "ArchiveType": "jar"
+}

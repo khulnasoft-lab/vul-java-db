@@ -1,0 +1,39 @@
+{
+  "GroupID": "social.midas",
+  "ArtifactID": "discovery-common_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.2",
+      "SHA1": "25Az6Zu/OeurDZXiZaCHPsARo6U="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "oye/Kw/bNIYuKTVmZx8sl3MgukU="
+    },
+    {
+      "Version": "0.3.5",
+      "SHA1": "4McbmGg8gs+IRvRKGPvLX38zJ8c="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "MBUFS7CPBYhdELe54oGUCyZ31jk="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "4AWaeGlW3gwsBxkQ4Hm5ah6sFH8="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "h6EvMz5p6+EKuqVjaUqWpVtrdIY="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "V7A9CMYe9lL5ZRlfwanVlC2fQGY="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "t1bQ66N0/M4rQ7rHqqdJTVaYH3o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

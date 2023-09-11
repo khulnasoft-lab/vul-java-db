@@ -1,0 +1,31 @@
+{
+  "GroupID": "uz.scala",
+  "ArtifactID": "bot4scala_2.12",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "iULbou13k7JT2cURlyYPsPu82VI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "QwJGmD06vC2liCx2C7Zouor8R5I="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "mQnHCx0f3QoY7UGwS+hjjzpH8P8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "4K2CAukZzWDalRLpyn/ZFdyxj8A="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "Mu3SQTXhJxZPncV3537uWhsdmNM="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "GP0yVzTnDtGTmkomcm2jaEP2DNc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

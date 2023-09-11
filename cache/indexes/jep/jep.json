@@ -1,0 +1,11 @@
+{
+  "GroupID": "jep",
+  "ArtifactID": "jep",
+  "Versions": [
+    {
+      "Version": "2.24",
+      "SHA1": "qBVr5/970dZCq093ckPWlgyRtEA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

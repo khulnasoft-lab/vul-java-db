@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.dchbk",
+  "ArtifactID": "diag-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "CMRr7BJ6dFGh73pUXSkcfVBbodg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

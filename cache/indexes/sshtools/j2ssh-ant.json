@@ -1,0 +1,11 @@
+{
+  "GroupID": "sshtools",
+  "ArtifactID": "j2ssh-ant",
+  "Versions": [
+    {
+      "Version": "0.2.9",
+      "SHA1": "6+8ylVye15YR2OEU4WV/kA4JOeM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.hypergraph",
+  "ArtifactID": "kaliningraph",
+  "Versions": [
+    {
+      "Version": "0.1.8",
+      "SHA1": "iyDyxvp4kXP6xcqT7YnoKzjY3PA="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "nkLqanj3Wu6jO7jxfAal7PXZ68U="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "Eqdf1dmt2WvT7Ou1Xuz8SWgX/q8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

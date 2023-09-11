@@ -1,0 +1,27 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "STUN",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "54wl2803g2MKL/r5EnRBHgMq9mg="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "opBN4nYJ4vCzhOzk/qNjx/cqSfs="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "GayRQs1GJ3wGKj/waMUQMOsKmJU="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "8l4NT7zkSgfwpcp26JWGxCtNU3w="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "D80PGSYSlEzxOBZ+t7ji8TxhTIQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

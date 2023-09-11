@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.johanteleman",
+  "ArtifactID": "CLIApp",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "/sA6uty20XzfoiIQdq/teOvMxZY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "IdRZov9m4SGsL2sJOIHkSsrWHU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

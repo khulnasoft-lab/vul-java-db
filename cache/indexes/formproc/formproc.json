@@ -1,0 +1,11 @@
+{
+  "GroupID": "formproc",
+  "ArtifactID": "formproc",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "4r/CeALFnI/Q4nYqLLFM5WwmKu4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-security-adapter-turbine",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "zgpJqTj8kI8clo8oJ/5ElUvfRVs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

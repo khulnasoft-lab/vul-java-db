@@ -1,0 +1,19 @@
+{
+  "GroupID": "report.donut",
+  "ArtifactID": "donut-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.6",
+      "SHA1": "nX/AMsoKr5/udG7QxDZw5ja7LFI="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "y7zigZDQHL4TIg5KUyYtkvDVFzM="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "gxRkV11VjV+55uuPpt9OcOHdDnQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

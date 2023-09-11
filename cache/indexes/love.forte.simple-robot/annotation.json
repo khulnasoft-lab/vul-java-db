@@ -1,0 +1,23 @@
+{
+  "GroupID": "love.forte.simple-robot",
+  "ArtifactID": "annotation",
+  "Versions": [
+    {
+      "Version": "3.0.0.preview.0.1",
+      "SHA1": "iEq22rcjmG90jQ2kMU/S3oa1qyM="
+    },
+    {
+      "Version": "3.0.0.preview.0.2",
+      "SHA1": "V2MSYt7rUnRD+8ASiHjXb91r7bg="
+    },
+    {
+      "Version": "3.0.0.preview.0.3",
+      "SHA1": "AWoUWGePpMglzArFO+ngjmo8ONE="
+    },
+    {
+      "Version": "3.0.0.preview.0.4",
+      "SHA1": "QPjjg0fkSsS/6Fqcjv6aFjNpTLY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

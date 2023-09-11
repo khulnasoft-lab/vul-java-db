@@ -1,0 +1,47 @@
+{
+  "GroupID": "ai.mantik",
+  "ArtifactID": "componently_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0-rc3",
+      "SHA1": "CKLbqSHoE8oUnFScnTbZTO3Q3Lk="
+    },
+    {
+      "Version": "0.3.0-rc4",
+      "SHA1": "9o/yIlSECbdr/i8udltyFya+uws="
+    },
+    {
+      "Version": "0.3.0-rc5",
+      "SHA1": "91T7WGKNAz8QjaIycB1KW52tjj4="
+    },
+    {
+      "Version": "0.3.0-rc6",
+      "SHA1": "bBNmibL3lhlHU4ETEqBgQ+HctkI="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "fHTLQB3AvTEzuHSrmoDv601xSqY="
+    },
+    {
+      "Version": "0.3.0-sonatype1",
+      "SHA1": "P2Iz64AI4cNCeHnprs2ZbuLXPNQ="
+    },
+    {
+      "Version": "0.3.0-sonatype2",
+      "SHA1": "AQ5vfOxFNHTvCKetE6+wwLbgR7s="
+    },
+    {
+      "Version": "0.3.0-test10",
+      "SHA1": "my5q9A1o0Xg74AWFq87e/AJhwyU="
+    },
+    {
+      "Version": "0.3.1-rc1",
+      "SHA1": "8Zj5v++8BUZSIGuipMfIz/NIgSs="
+    },
+    {
+      "Version": "0.3.1-rc2",
+      "SHA1": "wm+WbL9qBIh1Y1Wke53NfNe0vMM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

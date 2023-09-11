@@ -1,0 +1,11 @@
+{
+  "GroupID": "pmd",
+  "ArtifactID": "pmd",
+  "Versions": [
+    {
+      "Version": "4.3",
+      "SHA1": "JnNyao8xwmRbFUj9F1cWhgqgzvg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

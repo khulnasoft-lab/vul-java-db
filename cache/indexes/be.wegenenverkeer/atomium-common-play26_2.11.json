@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "atomium-common-play26_2.11",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "T3mznhZUSjka1nOwXQr4rkmh8PQ="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "r/h9fqfsxmGYiVIwxdqmqBoqI84="
+    }
+  ],
+  "ArchiveType": "jar"
+}

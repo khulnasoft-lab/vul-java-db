@@ -1,0 +1,19 @@
+{
+  "GroupID": "at.molindo",
+  "ArtifactID": "etcd-client",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "Ub2pIRAWdXs8NTAf/PdZd8lQheA="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "vMKBEjOG1S/FK/i1rhpbFVLnSh8="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "bgLhLi5+8x6fPugkwZYunP+p5y0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

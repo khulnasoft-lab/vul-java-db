@@ -1,0 +1,15 @@
+{
+  "GroupID": "gr.cite",
+  "ArtifactID": "cache",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "aWHtUYa9TjtKggqGaeMFjCvfimA="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "5PQi71cgPFnsI61tyV33+5eWtlY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

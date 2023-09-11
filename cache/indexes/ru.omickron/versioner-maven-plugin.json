@@ -1,0 +1,23 @@
+{
+  "GroupID": "ru.omickron",
+  "ArtifactID": "versioner-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "ksvdfHYllpQQF8tFXi3SUC3FXz4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "8ma7tANuxX3x+jQwlXABuqxMl4Y="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "0jl+2h8WAPPJgGBkPohxGS5QIeA="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "bSocNS/XqQ0hMoQowpmGL8o2Gbw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

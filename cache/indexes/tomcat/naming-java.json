@@ -1,0 +1,15 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "naming-java",
+  "Versions": [
+    {
+      "Version": "5.0.18",
+      "SHA1": "jGUcpa+fShutIPCP8Pxftc7F3Ck="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "IwyZO2+o6VAZLOYdoYAfJ52US1E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.atbash.test",
+  "ArtifactID": "integration-testing-database",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "QwLVtTRZv+MKVxnLrj6ruXznkCA="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "vuBvIkAOTFEelytIAN4SSzqph9s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

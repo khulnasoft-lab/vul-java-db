@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-core",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "YP3TwbNOIW+DTa7Xha9t+DHZGF8="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "MiR5iH0Pz4+ogLwRoULk3739irY="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "KojraN3KbQEXQyVISHo+rH83KYM="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "RO1x3FBmf9VXObFH4H1yq9JByyI="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "A0gavYJyk8t3ULyGfVxZWNdNemk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

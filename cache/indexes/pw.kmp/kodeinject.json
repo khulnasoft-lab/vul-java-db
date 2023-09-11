@@ -1,0 +1,27 @@
+{
+  "GroupID": "pw.kmp",
+  "ArtifactID": "kodeinject",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OpS50MCqoDr9xJq0tPe2vm9Hono="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "7NFWKYh9zYDnI06NtPfpomNQI6g="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "VLkf2CpI8KuL7YITxzFvPrMp5xA="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "cgzOV4f/a/gjyTWL1PJfjngkAnA="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "m9JB3uEi/o2M/ML8PUrUsD9ZKNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

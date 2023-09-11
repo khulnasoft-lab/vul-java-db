@@ -1,0 +1,11 @@
+{
+  "GroupID": "aopalliance",
+  "ArtifactID": "aopalliance",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AjW6i0iVEoBawTqPnqd6HKXr4+g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

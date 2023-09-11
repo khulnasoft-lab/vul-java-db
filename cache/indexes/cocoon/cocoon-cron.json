@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-cron",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "u8VqrXhrTr6RagSY2xWuZ1EsSPo="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "hpikfGak6aeR/33o3M6kt7Sdny4="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "iEz3ub0AXRrDqXICzyXrYlcnjfk="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "RF75TcISucuIHLuqfhh/huqDXq8="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "iivE48hdtF2VLqOGi14w4wosAtg="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "S+CuKeGiSLqH7XkhS6Vt/0mTObY="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "k0hPqunWJswxp+xmrhewwKamDvY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

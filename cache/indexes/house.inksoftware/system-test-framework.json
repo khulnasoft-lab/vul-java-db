@@ -1,0 +1,95 @@
+{
+  "GroupID": "house.inksoftware",
+  "ArtifactID": "system-test-framework",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "5Uq4j+HMCpc4syXYoxZ1IMAsvMk="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "cpis4NfPmN4rfQI9QqHUFYwCXsE="
+    },
+    {
+      "Version": "5.0",
+      "SHA1": "BAsc7gTxbhrCJSDaf9bbooVukSs="
+    },
+    {
+      "Version": "6.0",
+      "SHA1": "CaYLAEkwAPzd6e2OqdqtZUvQcng="
+    },
+    {
+      "Version": "7.0",
+      "SHA1": "YANbzjzeWRZqv9Tcpd46euieST4="
+    },
+    {
+      "Version": "8",
+      "SHA1": "l4Ank96dHPifCzwh3l16NVMhR4U="
+    },
+    {
+      "Version": "9.0.0",
+      "SHA1": "ygwgbjgWEgx1Z2IptSWJFHi/3w4="
+    },
+    {
+      "Version": "10.0.0",
+      "SHA1": "uwz9QC3pziRuxI4a0rQrzssE8Qw="
+    },
+    {
+      "Version": "11.0.0",
+      "SHA1": "LgOm5RxuhyMjdeONos0nsYma8AU="
+    },
+    {
+      "Version": "12.0.0",
+      "SHA1": "hmZ0TiItVWS69OAtL/qzMuu8XGU="
+    },
+    {
+      "Version": "13.0.0",
+      "SHA1": "7TsJHgAW+39bSRbE3xgOdVsX7v4="
+    },
+    {
+      "Version": "14.0.0",
+      "SHA1": "v90Sp+LUVeQ3p/gG/AMDmxVXTY0="
+    },
+    {
+      "Version": "15.0.0",
+      "SHA1": "JO5nAbiudq/0TN4+jiQZ3AKy7WE="
+    },
+    {
+      "Version": "16.0.0",
+      "SHA1": "LEct7f5zpyPiIN950N4PUPYEEQc="
+    },
+    {
+      "Version": "17.0.0",
+      "SHA1": "dQEuUJoaC0CUkBp9ItwEzC1PLGA="
+    },
+    {
+      "Version": "18.0.0",
+      "SHA1": "m0NJJa7EMyCi38D23GV0cvODa08="
+    },
+    {
+      "Version": "19.0.0",
+      "SHA1": "rt8oy0dWsL9YCQjI+pmrrqP48Hg="
+    },
+    {
+      "Version": "20.0.0",
+      "SHA1": "PVFZ7O3ZP0nevgLL52WqJDZtBGE="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "ofdq2+LlVTFhQ1Hps8TRNEIarSw="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "QBifyn/1xlFCRLYuT+JSJEzuRRw="
+    },
+    {
+      "Version": "21.1.1",
+      "SHA1": "bo4iInd72TbkedyjhDl9GAkn6Q8="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "gXAowG0P3Ok7ppH5to0iI1sOgWo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

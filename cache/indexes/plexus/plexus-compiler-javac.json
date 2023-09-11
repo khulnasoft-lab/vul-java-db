@@ -1,0 +1,27 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-compiler-javac",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "mi37+8PnW/EK+Yy/uTSZqIxCtZ0="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "Y3PVWw0h/O4SaOW/AlY4sf7X5GA="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "CVd9Y4lE+ITBjNWhjB3RPi5Dz0I="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "EbOJZbg7ESjevOkpG+yOjIaKhVM="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "wTXxdBvhGDFr8pxdeqUkcrBodZ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

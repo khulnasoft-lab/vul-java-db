@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-graphic-ogre-linux64",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "SYQIZ1lQew9b8vtO/5+Iss+1YCo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "xlKeBTFOTiCmkt8B2AWRSEmRKKw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

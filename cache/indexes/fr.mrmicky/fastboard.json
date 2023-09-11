@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.mrmicky",
+  "ArtifactID": "fastboard",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "FVhI37JEgNu1OElWDt+SR2bcKHc="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "5pgpQ2nv79m7uSkAlxyKRRI1+Sw="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "Oycg9ZMeUrvDfvWoaeV4CuuR2kE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

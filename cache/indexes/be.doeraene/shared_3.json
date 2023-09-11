@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "shared_3",
+  "Versions": [
+    {
+      "Version": "0.4.1",
+      "SHA1": "DTMUYNBb1MuTkR4iukzGeb9QM7o="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "lGIJen7psc4JJ06uhmL4I5N1QfI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

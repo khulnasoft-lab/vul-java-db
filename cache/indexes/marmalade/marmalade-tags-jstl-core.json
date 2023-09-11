@@ -1,0 +1,19 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-tags-jstl-core",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "CMnPSeenPo8maDxVn/Qg22A48Xc="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "Lggj1AR5CAFvIu42Nlxo7XRbss4="
+    },
+    {
+      "Version": "1.0-alpha2",
+      "SHA1": "I8j5vTxRjLMGS5KAx8RCHB6JjfY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

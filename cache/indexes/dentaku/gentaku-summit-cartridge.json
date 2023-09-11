@@ -1,0 +1,19 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "gentaku-summit-cartridge",
+  "Versions": [
+    {
+      "Version": "20050208.175344",
+      "SHA1": "abVMr3dNwsi11enxHMZg12D1Kk0="
+    },
+    {
+      "Version": "20050208.175843",
+      "SHA1": "abVMr3dNwsi11enxHMZg12D1Kk0="
+    },
+    {
+      "Version": "20050708.211103",
+      "SHA1": "wpp2tEN0AsNjG+6hE9KJwNWZQSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

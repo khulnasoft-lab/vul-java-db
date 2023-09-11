@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.adm123",
+  "ArtifactID": "color-sout",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "RDyt7OMG3IIZH1/Oxvp725RBGL8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

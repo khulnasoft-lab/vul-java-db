@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-facets",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "DP03eeLD1pi7ca63+UZt0qP8Ax0="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "4w1zfqqeFzMVmXzrVrzSQp/UP/k="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "gKxvZu1k/t5GBoy5ihL71CEFAJ4="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "yHFA/PK6c23j3/M5SEGV3qK4uhI="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "Amu+s4slWa48qIGcMf8cGRwwefM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

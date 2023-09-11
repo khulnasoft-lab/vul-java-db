@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.rapids",
+  "ArtifactID": "xgboost4j-spark_2.x",
+  "Versions": [
+    {
+      "Version": "1.0.0-Beta3",
+      "SHA1": "dWraGXeCn+RLFshp4TUb4vVlcjo="
+    },
+    {
+      "Version": "1.0.0-Beta4",
+      "SHA1": "guWBh+oafjeydIfmVSCpvdEs14g="
+    },
+    {
+      "Version": "1.0.0-Beta5",
+      "SHA1": "jNF9xea2Ii8cdumZZ6756flAGQ8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

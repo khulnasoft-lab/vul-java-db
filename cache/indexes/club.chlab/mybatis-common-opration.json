@@ -1,0 +1,11 @@
+{
+  "GroupID": "club.chlab",
+  "ArtifactID": "mybatis-common-opration",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "xTgID9/wHPCjN6nhhi/BbKLDfx0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

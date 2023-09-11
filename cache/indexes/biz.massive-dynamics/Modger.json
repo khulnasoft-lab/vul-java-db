@@ -1,0 +1,31 @@
+{
+  "GroupID": "biz.massive-dynamics",
+  "ArtifactID": "Modger",
+  "Versions": [
+    {
+      "Version": "1.0.0.0-BETA",
+      "SHA1": "RZAchis5s/LukseerowNmyLsujI="
+    },
+    {
+      "Version": "1.0.0.0-RC",
+      "SHA1": "ohMUrYTbC3yVtT84L3CGx3yLF9w="
+    },
+    {
+      "Version": "1.0.0.0",
+      "SHA1": "mX4pr938fvbcsPIgDXvjBOV1JPE="
+    },
+    {
+      "Version": "1.1.0.0-BETA",
+      "SHA1": "LArai6XOTa1C+myUWFTMIx620/0="
+    },
+    {
+      "Version": "1.1.0.0",
+      "SHA1": "HJiNyowQSdcvu672k6YqePeqibY="
+    },
+    {
+      "Version": "1.1.1.0",
+      "SHA1": "Iu1o+TnhXzPM/L7GRNwBl2q6/UA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

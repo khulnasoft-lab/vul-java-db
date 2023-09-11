@@ -1,0 +1,87 @@
+{
+  "GroupID": "asm",
+  "ArtifactID": "asm",
+  "Versions": [
+    {
+      "Version": "1.3.3",
+      "SHA1": "qiOwzjLaiNM8bdRry55ot/IRUoA="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "u+XF0OZhIcV8E+LjCG4QpOMF5Kw="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "BHnz75fdKASIfzPh4YtBWQcCEjU="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "vaKFXPyWw8wxXCN9VVnys9aShz0="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "Ntie39ahI63Odz6JNuTwV0kHTs8="
+    },
+    {
+      "Version": "1.4.2",
+      "SHA1": "xVT4GTXwcnKN6PECDxqYLNP1Fqs="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "MaaRP71CmyGyFMXR1DQpXQ1rfbM="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "0/vnwiNQtQI5rDbHO0q/Frmrm20="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "smdc8CVVGvtoMY8sP+wXaMUCkoA="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "Y6JxXDnJ6X+I/jcdREGhs0k9dPk="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "C4tPdSKKFKs0r0FjXbIo2Nz7o0c="
+    },
+    {
+      "Version": "20041228.180559",
+      "SHA1": "bU8usByZJVUK3BrpAiVqivKNW4k="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "UdMgaaELmNDsak2AEejolslviYY="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "MKGJTPtuIcPqpR3ZSxUF33/EIhU="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "Dqkzv7pwpXAIG2s+Q6Jdq4cySKA="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "0WFsA/BWKRojFFEN6nVzmxW01BU="
+    },
+    {
+      "Version": "3.1",
+      "SHA1": "wVfe8UJxTFRL3qLmFEZFcCrfcJc="
+    },
+    {
+      "Version": "3.2",
+      "SHA1": "m8FRHexq3zApkc7RMwPkFA/fmrc="
+    },
+    {
+      "Version": "3.3",
+      "SHA1": "+w8wKpGjdv1c/iMWfEGTdej8m48="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "HV8gtOpnXm+rarefHNYOwmjdwBU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

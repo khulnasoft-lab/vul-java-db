@@ -1,0 +1,27 @@
+{
+  "GroupID": "ro.ghionoiu",
+  "ArtifactID": "dev-screen-record",
+  "Versions": [
+    {
+      "Version": "unspecified",
+      "SHA1": "sTqF8W/wl2gTSUKHX+AM3VLyS88="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "tNrEy11pWXiwOfStlmm2Ek/haaY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "c/VNRBCOdMY9DfOwBAI9VmxtB/A="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "0dEY6xTQWgIGVHyQJVglDo1Ai4c="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "xBrqdCZlKG+iU13zXy1rDhYR9b0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

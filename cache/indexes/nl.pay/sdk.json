@@ -1,0 +1,47 @@
+{
+  "GroupID": "nl.pay",
+  "ArtifactID": "sdk",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "KR5c4LWcWGBeTU6LCx+eyGWxzXk="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "VL6nYoLOl/ibp+f6wyfH09vlzg4="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "gKsgPcqpZd5uFAH1eXIpooZUaEo="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "QYu72NdkyBo1BqeAUX2i993k5UI="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "2wKbYfMXtyJvzfsuIVondRyTnFc="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "bdAO5f8KN23Jw6hXrYeHiG2Qyps="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "CTWn2yihER9N0QU+aea/DaVLu5c="
+    },
+    {
+      "Version": "0.3.5",
+      "SHA1": "xUYsVHZTpkZr5Ptsl7p7n/UiUE8="
+    },
+    {
+      "Version": "0.3.6",
+      "SHA1": "S1D+tzkA1DiuW0tuzlIRMBVVHZI="
+    },
+    {
+      "Version": "0.3.7",
+      "SHA1": "NvaZjUEQjVzc+vfNZBnTCF27y/I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

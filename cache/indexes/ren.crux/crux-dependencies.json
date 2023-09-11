@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.crux",
+  "ArtifactID": "crux-dependencies",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "OGTT7aZetXjOa1w5Y+EZngZipQI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

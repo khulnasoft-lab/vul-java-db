@@ -1,0 +1,23 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "jetty-util",
+  "Versions": [
+    {
+      "Version": "6.0.0beta1",
+      "SHA1": "m6x1MmyTxeewBrGQl2RvD0Vh99w="
+    },
+    {
+      "Version": "6.0.0beta14",
+      "SHA1": "G9/6dxAlGcwfycojM66AnEGWJSI="
+    },
+    {
+      "Version": "6.0.0beta15",
+      "SHA1": "gtqFOpDM4tSE6mRBmxldRbjDz4s="
+    },
+    {
+      "Version": "6.0.0beta16",
+      "SHA1": "tJMEVx8l/7LAt8amPverwVHCTeE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-tags",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "XJhL3k91DGGVIW+Jd85HxOQSj9A="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "l68pkwTDws05w36gfqd8F6j8MHo="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "9HwUb/YIH2XFRlzJhhB8TeX4Ii4="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "i+LUgt0KOx96SjiWM9MJZCMeMzI="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "qbft1kD61KXpg4yHaoZwOTS0hJE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.mjosoft",
+  "ArtifactID": "MjoSoft-APNService",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "NLUADD7uIl7LR/Nhi4Fftj90I0g="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "XLKfvWYkf0sU1wzpP3zUX7atxrk="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "SnbdscObd4nyTbX4tW/7lE2O2zA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

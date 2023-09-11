@@ -1,0 +1,15 @@
+{
+  "GroupID": "avalon-phoenix",
+  "ArtifactID": "avalon-phoenix-client",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "sl0/L1VCvLpJwAz4dOxRHVVZQww="
+    },
+    {
+      "Version": "4.0.4",
+      "SHA1": "fAViGGWoQR4zv72i4Pjdqdvvf1c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

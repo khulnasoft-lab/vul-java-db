@@ -1,0 +1,15 @@
+{
+  "GroupID": "hr.hrg",
+  "ArtifactID": "java-watcher",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "Q2V6nKJaXW+35YMJBS/xdknN/Ro="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "JhXv/oU5anMsTPRSHroOojNK4ck="
+    }
+  ],
+  "ArchiveType": "jar"
+}

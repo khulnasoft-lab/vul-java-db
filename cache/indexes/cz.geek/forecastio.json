@@ -1,0 +1,15 @@
+{
+  "GroupID": "cz.geek",
+  "ArtifactID": "forecastio",
+  "Versions": [
+    {
+      "Version": "1.5.6",
+      "SHA1": "SI5OhjjxPPvF7K9e7bd5U3MEtSE="
+    },
+    {
+      "Version": "1.5.7",
+      "SHA1": "nQglX/pQiwjeREYxyBKz2J8ZCXk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

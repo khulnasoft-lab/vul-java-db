@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "scalajs-pickling-play-json_2.10",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "Xk6heL3j627ysQZ9H40V0mZt4LQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

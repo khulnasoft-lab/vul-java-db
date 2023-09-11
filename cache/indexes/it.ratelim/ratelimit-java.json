@@ -1,0 +1,27 @@
+{
+  "GroupID": "it.ratelim",
+  "ArtifactID": "ratelimit-java",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "foHufZM0pWno2pooyx0EeiPfcJs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "cijUR2MX7KE9DzbR6+ChjZikd/M="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "MAEFMrGx9zgPc3tCN7PqUNCg1y8="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "SNh72bpaoJq2qzU1PwgsyqEyJ+I="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "/35kixJO6ipckmEm+qIJQWD976A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

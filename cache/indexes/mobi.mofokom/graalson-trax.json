@@ -1,0 +1,11 @@
+{
+  "GroupID": "mobi.mofokom",
+  "ArtifactID": "graalson-trax",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "aV70hF2or4R1VV9XluGQ/syNFuo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "cm.xd",
+  "ArtifactID": "oopdate",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "LOGMkFTIdILuqJMB4fha11x8AYc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

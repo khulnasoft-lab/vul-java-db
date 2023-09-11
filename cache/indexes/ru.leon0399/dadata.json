@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.leon0399",
+  "ArtifactID": "dadata",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "9JZTfxoq6wMQLwnN4MFt1aN8Gso="
+    }
+  ],
+  "ArchiveType": "jar"
+}

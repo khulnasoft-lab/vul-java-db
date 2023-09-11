@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.lematech",
+  "ArtifactID": "hrun4j-test-demo",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "WCeD/IFQ3Rteazmyd50ln64AYjo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "apIDQxf1GOA0rWKvMFW9+HZioj4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "TDxvfiyf9++VJzmDn3ITe2eCsFY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

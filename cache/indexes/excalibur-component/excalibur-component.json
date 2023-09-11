@@ -1,0 +1,27 @@
+{
+  "GroupID": "excalibur-component",
+  "ArtifactID": "excalibur-component",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "aOTGTxkP4JkZLKYg/BM1yNLnZFE="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "jLcjJL8N1FYouTzDkMIplodBnrc="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "dWB/ixQ4hYah+4sXzMGk+atqiZ4="
+    },
+    {
+      "Version": "20020916",
+      "SHA1": "6gv8/c4ZLpGDY4weWxY1g2QbijY="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "BkewlZ66E6tMkAGAlBZ8u25PUNQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

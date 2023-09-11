@@ -1,0 +1,31 @@
+{
+  "GroupID": "ai.optfor",
+  "ArtifactID": "spring-openai-api",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "aoRwSy9wcEAoEcDWjUYSZMLSuYE="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "jVkLUlBljGc+LZNp2zwgwh+hlMA="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "O90Dzq92ckymlSFRkIUqMlI/gpA="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "fuJWQqAlPfLyg1+vZX7yBxPjGdo="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "tFt4zN2/UggukRcC7YqdVEoPgrU="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "gELcxdNAr/cOPG3VEIPdVrYd1uc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

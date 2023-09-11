@@ -1,0 +1,31 @@
+{
+  "GroupID": "camp.xit.jacod",
+  "ArtifactID": "jacod-core-jcache",
+  "Versions": [
+    {
+      "Version": "1.3.5",
+      "SHA1": "G1dH1zn/CU4QSh7nTQs0WDiNuTo="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "Njp0J56ZvD2m9EOfv7JMm+6dFm4="
+    },
+    {
+      "Version": "1.3.7",
+      "SHA1": "zqOdwSQC4e5GvHZSijOi/UjC3Mo="
+    },
+    {
+      "Version": "1.3.8",
+      "SHA1": "HUTnkhwBb2G/Ic/3+jJGNZVQx1M="
+    },
+    {
+      "Version": "1.3.9",
+      "SHA1": "1fOte63d4yRvyhclTfBpv8K28zI="
+    },
+    {
+      "Version": "1.3.10",
+      "SHA1": "UjnyzQowzrtPdeQx/Pge6q4Dnc4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

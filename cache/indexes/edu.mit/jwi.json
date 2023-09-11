@@ -1,0 +1,19 @@
+{
+  "GroupID": "edu.mit",
+  "ArtifactID": "jwi",
+  "Versions": [
+    {
+      "Version": "2.2.1",
+      "SHA1": "Uxd7TtYuwfNu5ry/JQiijpHq2iI="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "QbH6ugHBfhoQNJQx+1JLsXQ7RvE="
+    },
+    {
+      "Version": "2.2.3",
+      "SHA1": "pxylCy1BhKKx6vYscB6JdMuziBw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

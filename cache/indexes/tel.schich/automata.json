@@ -1,0 +1,19 @@
+{
+  "GroupID": "tel.schich",
+  "ArtifactID": "automata",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "hap54z0YPc5q3gqW+m4++LELzGU="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "YMuAczVYsCbO571CTOxP16fuKzE="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "KC35grI0aNm9qdYN8BNrvrHjkuU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

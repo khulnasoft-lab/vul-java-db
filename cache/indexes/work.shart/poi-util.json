@@ -1,0 +1,43 @@
+{
+  "GroupID": "work.shart",
+  "ArtifactID": "poi-util",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "SO3W19mlxmoIg5HVqCZIx5H6zBM="
+    },
+    {
+      "Version": "0.0.2-Beta",
+      "SHA1": "WzvyiBTnIVTwFilsd9WrWsGz4rA="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "Q37zhPHj+chzatOtthPw1e7g/TM="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "QQ+YkotBL0aI7tNk0yNz/2zvXzY="
+    },
+    {
+      "Version": "0.0.3-release",
+      "SHA1": "mjFJEZbiMOaSAK+FMcAB1RXj2lA="
+    },
+    {
+      "Version": "0.0.4-release",
+      "SHA1": "8jHy+yNLRedgcN9ey43aPJkgq+4="
+    },
+    {
+      "Version": "0.0.5-release",
+      "SHA1": "g9iWz3pyw9pxBQ3nsIpOzdQooqY="
+    },
+    {
+      "Version": "1.0.0-release",
+      "SHA1": "QfTZyeNOeE0ikX1ZHI6ieaidwa4="
+    },
+    {
+      "Version": "1.0.1-release",
+      "SHA1": "Ozrf89irs63PkgFD5AUtLGTqkxQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

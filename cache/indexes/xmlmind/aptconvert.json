@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmlmind",
+  "ArtifactID": "aptconvert",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "6907H3FVe2pa5hZv374Ou7Szhcg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

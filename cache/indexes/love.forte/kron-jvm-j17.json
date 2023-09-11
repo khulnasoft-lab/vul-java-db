@@ -1,0 +1,11 @@
+{
+  "GroupID": "love.forte",
+  "ArtifactID": "kron-jvm-j17",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "RMx0k0t9la7sFVX8NccxbfRXgio="
+    }
+  ],
+  "ArchiveType": "jar"
+}

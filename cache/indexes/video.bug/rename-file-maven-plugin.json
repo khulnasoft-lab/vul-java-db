@@ -1,0 +1,11 @@
+{
+  "GroupID": "video.bug",
+  "ArtifactID": "rename-file-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "hbeussnJIRbjkdcxM4dLc6w+/7E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

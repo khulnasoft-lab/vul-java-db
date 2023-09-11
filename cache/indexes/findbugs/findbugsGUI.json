@@ -1,0 +1,39 @@
+{
+  "GroupID": "findbugs",
+  "ArtifactID": "findbugsGUI",
+  "Versions": [
+    {
+      "Version": "0.6.4",
+      "SHA1": "s0uZrj68sFf6R0KQ5ouWpd0krXg="
+    },
+    {
+      "Version": "0.6.5",
+      "SHA1": "iY2xw9xUso0aunyzGU0kMGJFKFk="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "IyfNHRX6UU8p1Q6NlU63CbnKkNc="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "WyIRBlT7mQBegcX5PG0NSATN6JQ="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "GcW/nzBH9zdK1htRVWbwrOSf2/A="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "M9NKRG1MEYQSJyrbx5AFK4+PfIU="
+    },
+    {
+      "Version": "0.9.4",
+      "SHA1": "DovL6ts9C7M0KmxfvPcVJ+UMH5c="
+    },
+    {
+      "Version": "0.9.6",
+      "SHA1": "SX1LqLsH859QEXuX1pjj11cuNMc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-xslt",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "5I2IlBhk6ZAcSJl6zAYYMMTRc0c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

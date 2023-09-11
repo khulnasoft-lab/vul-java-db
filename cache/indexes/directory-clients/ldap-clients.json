@@ -1,0 +1,11 @@
+{
+  "GroupID": "directory-clients",
+  "ArtifactID": "ldap-clients",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "YVdQo8utQhF57yMZiQeFQ8QkFeM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

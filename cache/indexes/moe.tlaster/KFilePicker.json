@@ -1,0 +1,11 @@
+{
+  "GroupID": "moe.tlaster",
+  "ArtifactID": "KFilePicker",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "komlVvhnW2KYFHhU41LscG5GRhY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

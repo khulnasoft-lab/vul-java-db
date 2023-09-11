@@ -1,0 +1,47 @@
+{
+  "GroupID": "pro.lukasgorny",
+  "ArtifactID": "jpubg",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "4gcf6VG/QtPhRvhkUKG2F3H7ZtE="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "l+mx9QwNYHlKEvwOaeNGfc0pQm8="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "nvJJ3GzIlS8wgQ9DjQCTCNQY6W8="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "Kpv9sDiVIuyq5gzbkIuGwQOqXVU="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "Z8+BZ67om5Fdha6Ia/w7q6+lxVU="
+    },
+    {
+      "Version": "1.3.3",
+      "SHA1": "JjUEp8owMkRgTulKd6SHQzv0wRI="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "h0w0cdrvFweWNB8w4mJBs0/i7gY="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "i2Yl8z8ITuUZnU75LzGLZ3lNTcA="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "83e8WPqcOcHiLkorHA0yL6l+UrM="
+    },
+    {
+      "Version": "1.3.7",
+      "SHA1": "+wJrFi6hrAPVGbdMWITGnOG6E3A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

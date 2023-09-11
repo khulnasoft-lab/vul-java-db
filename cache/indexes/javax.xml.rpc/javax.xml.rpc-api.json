@@ -1,0 +1,19 @@
+{
+  "GroupID": "javax.xml.rpc",
+  "ArtifactID": "javax.xml.rpc-api",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "67u0k0+0Zatbcj52Tet2lI55iHY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "4h5/AzESvEvPVCNO21ql14LUtWg="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "ykg4jyVxW6QAWM6MIHEmNvbs5hc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

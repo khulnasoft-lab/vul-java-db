@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.alry",
+  "ArtifactID": "plantuml-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "7jzz0m5Qz0vVmbhyMmCRtVFN4SU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

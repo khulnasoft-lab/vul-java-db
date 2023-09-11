@@ -1,0 +1,39 @@
+{
+  "GroupID": "sc.tyro",
+  "ArtifactID": "tyro-web",
+  "Versions": [
+    {
+      "Version": "1.0.0.RC1",
+      "SHA1": "OVIt+YpWdA6ksWF3on2iPjg5dkM="
+    },
+    {
+      "Version": "1.0.0.RC2",
+      "SHA1": "+o8qQFdfuXUs9Etaew5L645gB6c="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "yhsCdNEj5IP/+c3vjOjSFi5cGts="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "G6126gviDcG7uCLNz+YKLKaMrjI="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "nBHjZNI13z4NSiy8bGOeH0rjYlU="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "zO09FQYfNS1uWhQOrBUWSQ/NtCY="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "CHQNIOylIZIpK1gTdiDXP4sHdEA="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "ULrOyqEGjoInBLnzp0ktUBMJtgU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

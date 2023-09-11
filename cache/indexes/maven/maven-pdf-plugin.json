@@ -1,0 +1,35 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-pdf-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "VTb2bjgrz848hR6b36BQ7Axnf6c="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "B/kRdrbkZgH3G2j1oN6O6mdz0Vs="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "PpkEs8i0f3IYC1Q5ZmJomsjUqws="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "uLS6cied13Kiz6Bom0DL5cvhcVQ="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "+qx0XcuzrQ+/UUsrDHi+J2W5IHw="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "a1kH7XjRyf91FAQhbFt54JiNzuo="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "ZjP5zbV7wWCURI52QD6WHktLMOM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

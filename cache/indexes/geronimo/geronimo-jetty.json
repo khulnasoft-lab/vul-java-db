@@ -1,0 +1,31 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-jetty",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "iuevkm60s7fLBBftYBdpEDMvcOQ="
+    },
+    {
+      "Version": "1.0-M2",
+      "SHA1": "GiKZ0v5GDsFb7wU8wlfTwviRgSM="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "Wpa28EyWqDp7t2ikixS11tybAZI="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "89OSPY7XdqGM4+7Z/ceyanOKcnA="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "dVklyAQdqRflcv3CcK36eNr2hE8="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "D3ASUR1KdsyJOhgIkPyx2xh2txY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,71 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "jasper-compiler",
+  "Versions": [
+    {
+      "Version": "4.0.4",
+      "SHA1": "899sumytGtAcJh3y/hrny3FB2o8="
+    },
+    {
+      "Version": "4.1.30",
+      "SHA1": "qLa4bPTmNMz20dyhXe4aR2la+Mo="
+    },
+    {
+      "Version": "5.0.16",
+      "SHA1": "3zLowmCiNhkSVaVxUlxOlx1a+vQ="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "jyDOd5DIoj/S6gb8PRuEglCwvIM="
+    },
+    {
+      "Version": "5.0.25",
+      "SHA1": "Kd0jLRzXLZXprG3jxWQYFTqb1h4="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "uED73nOL0l0ua05Vt43Ku5sRe+0="
+    },
+    {
+      "Version": "5.5.4",
+      "SHA1": "3MqRRacYHuxe7W4HBj6XsL3et6A="
+    },
+    {
+      "Version": "5.5.7",
+      "SHA1": "DD0c65W2L3fE14VdOIN+FQLSaQQ="
+    },
+    {
+      "Version": "5.5.7-alpha",
+      "SHA1": "DD0c65W2L3fE14VdOIN+FQLSaQQ="
+    },
+    {
+      "Version": "5.5.8-alpha",
+      "SHA1": "sS7HUrAPg5fcfvTA+C+6Qs82FTQ="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "RxCgVsElmPsr/SqlObAGxUr7mJw="
+    },
+    {
+      "Version": "5.5.9-alpha",
+      "SHA1": "RxCgVsElmPsr/SqlObAGxUr7mJw="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "xZSGbGRWU0TA573Jv0/ucCkMTdU="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "ous6h78vLWPLI3aDOH6J4YHuY+k="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "tdx2J2UG1iSNJ4Noqt0I1PWU3ao="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "4mp3W+ApfzRVp4+NjG5iTqOrIMA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

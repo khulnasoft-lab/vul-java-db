@@ -1,0 +1,27 @@
+{
+  "GroupID": "ml.dmlc",
+  "ArtifactID": "xgboost4j-spark",
+  "Versions": [
+    {
+      "Version": "0.72",
+      "SHA1": "AuOli8asr6cZ1E3RKHDwq41UAS4="
+    },
+    {
+      "Version": "0.80",
+      "SHA1": "h8G8GL9wm0MmT/VT90YX3EZu+hg="
+    },
+    {
+      "Version": "0.81",
+      "SHA1": "rUakBn6w98UQkMUzBjmTO870+58="
+    },
+    {
+      "Version": "0.82",
+      "SHA1": "U0tdLBWHaUiDVtqkdYKjyyU7UkI="
+    },
+    {
+      "Version": "0.90",
+      "SHA1": "C0HAEi6kfUGtLREW9v3tHwMwX8g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

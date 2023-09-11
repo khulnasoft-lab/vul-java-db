@@ -1,0 +1,11 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "tomcat-i18n-fr",
+  "Versions": [
+    {
+      "Version": "5.5.12",
+      "SHA1": "KEvRh0mcPwODg6JP/qIUErKl9qI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

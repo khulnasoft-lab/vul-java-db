@@ -1,0 +1,31 @@
+{
+  "GroupID": "app.ubie",
+  "ArtifactID": "spanner-kase",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "DbwjrDDkzCKAH4BDlRh/gbzBdxI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "cTOKCmjMEmgb0pHEO0ioAHzRGzI="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "8Br2iHULYCsXH7dTJKeWgUFuE9M="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "0u+4Q8I212eU49CiNG6hnhBDnV0="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "ZZGEE4LggvFMZAfBB0JBoAWL/zU="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "tyldXpG+ZqxA9AVLdH3XYOpisnY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

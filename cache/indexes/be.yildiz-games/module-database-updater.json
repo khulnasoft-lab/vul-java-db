@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-database-updater",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mbEDaNQyTcMKAc+urDP3+ipNJ9c="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "q+knEvLKbuOcrSjWb3vhBdWDwjU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "OS/XmXsapagjbRmm+RyPSDY4Bz0="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Qp3oQOIe7+Ib3yfDrZ8R+qmabzk="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "0HsDYshBWFemw3mGY/0Lh7UklJA="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "TP9vwo9WsvCV/ycOgdNyRR+1cv4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-aspectwerkz-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "XjQq8A2D1x55L8kuX11yNXIojyk="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "hhO9hwavP3M6HtXnQpSyXRWNb04="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "pCyALVDM1shfdKsVxGTiyH5+mCI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

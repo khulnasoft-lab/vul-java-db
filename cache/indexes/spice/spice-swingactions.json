@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-swingactions",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "4tnkwV32lCjcbaJhKKk0NNBPJMM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

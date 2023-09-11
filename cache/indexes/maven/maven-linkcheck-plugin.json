@@ -1,0 +1,35 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-linkcheck-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "HMj9PgMGH0ujS/6auI+i7jHpM+E="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "MPdb+r0y92wmKMipURs2I5PgZhU="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "lttE90xz/hUar7nqSwG+Rm7QSbo="
+    },
+    {
+      "Version": "1.3.2",
+      "SHA1": "vYbMRChhuvP0YlL7Agq5XfMgKKI="
+    },
+    {
+      "Version": "1.3.3",
+      "SHA1": "H8INbB0d2qovdUldhVSmybLoNMg="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "pb+O7B9GhU8b3Lu5C7G3/0gO+Is="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "qUX8qCSF08WcmP7MMy/mGON6pGw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

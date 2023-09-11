@@ -1,0 +1,43 @@
+{
+  "GroupID": "ninja.codingsolutions",
+  "ArtifactID": "solar-edge-api-client",
+  "Versions": [
+    {
+      "Version": "baf4f53",
+      "SHA1": "WZnCxCf96Xs1za0qMd0ByPwXmco="
+    },
+    {
+      "Version": "v0.1.0-alpha-6-g871c59e",
+      "SHA1": "HVH+X4dKvzKUkvIlyOz22qoBu8E="
+    },
+    {
+      "Version": "v0.1.0-beta",
+      "SHA1": "E6hCjkZvBdPwS8dXFFqMS77P1fw="
+    },
+    {
+      "Version": "v0.1.0-beta.2",
+      "SHA1": "ZKYg23GofHw96YN2rkal8cJAJYM="
+    },
+    {
+      "Version": "v0.1.0-beta.3",
+      "SHA1": "442Ou5ERjrpbILa4e4UJsM/alBU="
+    },
+    {
+      "Version": "v0.2.0",
+      "SHA1": "oD6IEAHX6A3W4KS/gltqdPi92V0="
+    },
+    {
+      "Version": "v0.4.0",
+      "SHA1": "y13aHMDIxu4Ho3GulqqWiJncxjE="
+    },
+    {
+      "Version": "v0.5.0",
+      "SHA1": "B07PgfNgCBd6lN1bDWJA9q/hzvE="
+    },
+    {
+      "Version": "v0.6.2",
+      "SHA1": "KRHqc+cnSN3pSt5gX5V3voUfBb0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

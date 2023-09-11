@@ -1,0 +1,11 @@
+{
+  "GroupID": "work.lince",
+  "ArtifactID": "lince-commons-authentication",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "EhjXVDE6PSDREGxP+1Td/EhUeUo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

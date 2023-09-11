@@ -1,0 +1,23 @@
+{
+  "GroupID": "ir.bitrah",
+  "ArtifactID": "bitrah-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "dTNRJelvtglWhWuwnk7mLmh5nHw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "ybpp5smd9PV9ArZ9yWtq1LrNjTI="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "3QffqymkpLYTnPrKPJKSZqS98rc="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "pMymmYd79ESIb+TpKxqFdS9l/lE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

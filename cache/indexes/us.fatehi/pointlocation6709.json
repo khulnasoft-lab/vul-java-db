@@ -1,0 +1,19 @@
+{
+  "GroupID": "us.fatehi",
+  "ArtifactID": "pointlocation6709",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "BrO5EBeQBDG/jVwCBHutSEkmFGE="
+    },
+    {
+      "Version": "4.1",
+      "SHA1": "hhqjlfnWWSCWvfnTk/kqqS8yUmU="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "XhnhumEmbljxoHmYKuCUOE4QFh4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

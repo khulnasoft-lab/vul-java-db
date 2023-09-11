@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.pvanassen",
+  "ArtifactID": "guice-junit-runner",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "+HxbkOfKaO32svys7zivA0C1I14="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "XRJrH+Ngfr5Z/dP3dt2vvGizdjc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jaimbot",
+  "ArtifactID": "jaimbot",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "tdbFOpd4XwC16TWf76Fb+GdTbnY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

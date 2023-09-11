@@ -1,0 +1,19 @@
+{
+  "GroupID": "land.sungbin",
+  "ArtifactID": "github-upload-gradle-plugin",
+  "Versions": [
+    {
+      "Version": "0.1.0-preview",
+      "SHA1": "0ze9SJTKcyCEmNFew9V7wmhYAAY="
+    },
+    {
+      "Version": "0.1.1-preview",
+      "SHA1": "p+yB2yEDIm8+AdAkYctWew4+6LI="
+    },
+    {
+      "Version": "0.1.2-preview",
+      "SHA1": "zpMctZZfAxNT1M/+nVygU1JDjvw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

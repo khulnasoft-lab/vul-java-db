@@ -1,0 +1,31 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-cluster",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "PFpiJuP5COlNuC7v102H5DYWKH8="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "3zGfS2ClTxQZZ9DuZPzDmYcRTOk="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "CX5PuCyj50+2xlve8VJP/sHeLgE="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "XXBVj2aU7nxvETQJw5fgY9rbVD8="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "R1b5TT68fSJTCbyMa1rEL9AI6TU="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "zmCk0K7QXGMUrjyDx397X+Q8XAQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

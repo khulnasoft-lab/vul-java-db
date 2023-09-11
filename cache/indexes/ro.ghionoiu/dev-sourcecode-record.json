@@ -1,0 +1,67 @@
+{
+  "GroupID": "ro.ghionoiu",
+  "ArtifactID": "dev-sourcecode-record",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "WklYo7LBWn53T2EdnzYUHgZG01s="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "SQlvXzTxji5F7YJor9OZ3f/0hAo="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "9ICxwpipziiRXu2K65qrsZkxCNc="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "9cdxJa3fVqlAqe0gs8RX5H4HOPk="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "YScjAtlkj6Wmd/79CNrcTxgpsEc="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "w9Dy/ENP4X7PmdRu4iCqQ6PQWjY="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "6J0wN/s22FNEqEO1hDyIfV+nvkU="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "Tr9GNZArR2N375SjnoeUOg2mbMQ="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "cBNLMYDEghamcgDoV1eFQaSFe/U="
+    },
+    {
+      "Version": "0.0.18",
+      "SHA1": "Y61e9f7FVNG2WURLUhaDpJgPXxE="
+    },
+    {
+      "Version": "0.0.19",
+      "SHA1": "hCelCi2F50H3s5pjEhY44F+V2a8="
+    },
+    {
+      "Version": "0.0.20",
+      "SHA1": "ux76g8WaU/iNRzqqYkJgkst0uMA="
+    },
+    {
+      "Version": "0.0.21",
+      "SHA1": "s+nPbsUAifvCM7FMkAJZ0rLQ4ME="
+    },
+    {
+      "Version": "0.0.23",
+      "SHA1": "YojEEG5+Y8/9moln4yZXLVxE5pI="
+    },
+    {
+      "Version": "0.0.25",
+      "SHA1": "Iq25PeiXaLEAPhaAqQadBKA9tWA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

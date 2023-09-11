@@ -1,0 +1,11 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-ttf2svg",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "Ss0CcbNCfKhP5KkPmgjJh1DzhS8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jpox-enhancer",
+  "ArtifactID": "jpox-enhancer",
+  "Versions": [
+    {
+      "Version": "1.1.7",
+      "SHA1": "giJsH1zTJSWhDWXafkROc7Dc3yE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

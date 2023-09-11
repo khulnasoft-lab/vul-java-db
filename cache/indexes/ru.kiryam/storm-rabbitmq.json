@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.kiryam",
+  "ArtifactID": "storm-rabbitmq",
+  "Versions": [
+    {
+      "Version": "0.6.2",
+      "SHA1": "f6DF6OHB890ZcmzyY1UWDxDDPbI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

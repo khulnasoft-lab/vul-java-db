@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-testcontainer",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "hTR6eQVpzpSPbAZlWsCNyWTWgvk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

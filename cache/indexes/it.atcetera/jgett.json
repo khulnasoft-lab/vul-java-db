@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.atcetera",
+  "ArtifactID": "jgett",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "I+KG8QQZRGyj6wceWkdqCXqYD9w="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "5Vv/XyZLZMgC81OhMYET4C8EVIg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

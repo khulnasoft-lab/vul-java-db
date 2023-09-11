@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.pixxis",
+  "ArtifactID": "LedStrip",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "hLbtobICTVKI3ee1XQOVy7RxnWU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

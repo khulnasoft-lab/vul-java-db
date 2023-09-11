@@ -1,0 +1,19 @@
+{
+  "GroupID": "science.aist",
+  "ArtifactID": "bpmn-viz",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "nIhmjWCLryrTxk6KhODp+HMh7yE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "zSN5E7DkvPs9HE4cY0OsN9QBQac="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "1Kfld25Dp7bfl2YLwNYmI7QAkkI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

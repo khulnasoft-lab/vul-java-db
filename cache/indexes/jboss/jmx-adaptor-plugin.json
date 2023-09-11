@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jmx-adaptor-plugin",
+  "Versions": [
+    {
+      "Version": "4.2.2.GA",
+      "SHA1": "b3FJ/rLa8kKWZgQq/y3lt1KMTfE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "ai.grakn",
+  "ArtifactID": "grakn-bootup",
+  "Versions": [
+    {
+      "Version": "v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744",
+      "SHA1": "t6sXevOtehg+0THVWmNvNMXWGYY="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "g0af3O80Wp+deumLgak3uPPMTuw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "HkByx6rRUs3UrZr3y9LSfk/Cpbc="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "wkyZzlcnsgVllvGCE9ygw8qIlbk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "dna",
+  "ArtifactID": "dna-tools-plugin",
+  "Versions": [
+    {
+      "Version": "1.1-rc1",
+      "SHA1": "5Bb1zXu+067GFPCg77Fz/N5wa34="
+    },
+    {
+      "Version": "1.1-rc2",
+      "SHA1": "JGwemqJApmbVrWxuzi95Z9/WxLs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

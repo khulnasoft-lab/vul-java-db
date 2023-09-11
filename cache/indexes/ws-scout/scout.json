@@ -1,0 +1,11 @@
+{
+  "GroupID": "ws-scout",
+  "ArtifactID": "scout",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "5sO/WehfMR49BHBk5KHYJIl1gDQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

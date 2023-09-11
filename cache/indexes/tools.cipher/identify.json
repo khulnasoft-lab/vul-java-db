@@ -1,0 +1,35 @@
+{
+  "GroupID": "tools.cipher",
+  "ArtifactID": "identify",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "vFJriIcEgexXT8HTiycBzirshI4="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "uSvel42F1nemr3y8+9HQzrJ9W6w="
+    },
+    {
+      "Version": "0.2.17",
+      "SHA1": "rhRy3T6YFY+f4BmMcd9qcpXdz4k="
+    },
+    {
+      "Version": "0.2.18",
+      "SHA1": "RLc9sqCVhKw2pt/GvyUXjKy+3QA="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "jbIYf44n904CpLjJwDO+WSTU2uQ="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "omK5rx5DqraLETlXiQ9jMBsgD98="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "ZH5SJX1csUFa3zWsdwzBzepwA/w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

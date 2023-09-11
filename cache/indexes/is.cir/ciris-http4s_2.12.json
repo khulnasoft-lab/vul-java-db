@@ -1,0 +1,35 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-http4s_2.12",
+  "Versions": [
+    {
+      "Version": "2.3.2",
+      "SHA1": "HJSBMWM5UWS9N4L34hBuFZlwj7E="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "LnE2z0nr8PI5h4QsWt9wvpjmHWo="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "CSb9H6Tbf6bX5PQHxEgzK+fdvNA="
+    },
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "Oh0IvJMuFOlbJgWzIood72Ab0oQ="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "AovCY3cDnMFGyP9TXeG8eITIwJo="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "61Wa7EWU3MZCqaqQrzn8K0ZFozM="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "4qQ8a/bi/TDqrfHVITbvaB4dOhs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

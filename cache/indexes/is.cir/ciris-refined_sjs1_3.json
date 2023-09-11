@@ -1,0 +1,23 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-refined_sjs1_3",
+  "Versions": [
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "ZNUoXSmgKUfGNYoFZvhCPo6l0F4="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "EkvwvICA5+ww/OicZWq5wcGLCEE="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "5XdVCeGmhbVzV8AWuWPciEPVRU0="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "Rk/48SrIiDLVy3grKKrRpXmxW7I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

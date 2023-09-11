@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.solutionsexmachina",
+  "ArtifactID": "module-archetype",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "TEPJEcHmV6lnojFsYGEKgNgp1w8="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "+L+f9UNwWuu5aFhvLK9pyiKkSys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

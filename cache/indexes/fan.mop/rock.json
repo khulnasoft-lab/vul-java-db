@@ -1,0 +1,11 @@
+{
+  "GroupID": "fan.mop",
+  "ArtifactID": "rock",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "RgRnRD5G/PnSihGMy/WNgK5jVa8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

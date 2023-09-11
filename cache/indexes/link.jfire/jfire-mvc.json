@@ -1,0 +1,23 @@
+{
+  "GroupID": "link.jfire",
+  "ArtifactID": "jfire-mvc",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "8ck7tjhKzwgeMUvhSTsN7ooJnlo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "YC37qus3zoCZpx6cnAau36tTVbQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "P3gCQpaSZZ2N7vZ9CoNBpQTKJAg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "CSfO+abUZmE2/odfNcKFJqYZDgk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

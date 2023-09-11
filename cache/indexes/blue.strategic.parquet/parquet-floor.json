@@ -1,0 +1,31 @@
+{
+  "GroupID": "blue.strategic.parquet",
+  "ArtifactID": "parquet-floor",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "U3/k8zcIb9+on2NQc+r61oboKDc="
+    },
+    {
+      "Version": "1.35",
+      "SHA1": "kJ5whQ5VuijjASnqJLfrCjlBjSY="
+    },
+    {
+      "Version": "1.36",
+      "SHA1": "fX1ZhQllkn7Elv3rBe96JCcbNeE="
+    },
+    {
+      "Version": "1.37",
+      "SHA1": "fM1Ly4L3KqeQpj1yKRUBjSz3Zz8="
+    },
+    {
+      "Version": "1.38",
+      "SHA1": "58uIbWNO1qTgRMisQthGgtlqBHc="
+    },
+    {
+      "Version": "1.39",
+      "SHA1": "h4fLRTZY/WBjQbHvMOSXL+PcXBU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "us.levk",
+  "ArtifactID": "jsonpath-jaxrs-filter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "onvWpUqLOr2U43HG+OEBSEVfW9k="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "iPyRLsv/XW//BKLGlBgkaw124PE="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "USN3mN/OTyhR9fSmATqyc/RlOQA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

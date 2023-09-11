@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.ricecx",
+  "ArtifactID": "logsnag4j",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "TATJkpN3LaeZ1s0lfJuwajHQxSo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "SV7ZRzMr6FU2YndJhiWKscH5Mis="
+    }
+  ],
+  "ArchiveType": "jar"
+}

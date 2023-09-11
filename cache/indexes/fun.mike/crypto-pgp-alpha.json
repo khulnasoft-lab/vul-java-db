@@ -1,0 +1,15 @@
+{
+  "GroupID": "fun.mike",
+  "ArtifactID": "crypto-pgp-alpha",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "9vpLJOCI8/NaSvcH2S3cH7UbbUA="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "09JX9fDYD2+YSvMiutDz8x212Zo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

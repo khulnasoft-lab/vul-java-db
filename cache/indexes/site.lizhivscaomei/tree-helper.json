@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.lizhivscaomei",
+  "ArtifactID": "tree-helper",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "S5Og1I4HA9YeNIAZcRf6Hv1lnrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

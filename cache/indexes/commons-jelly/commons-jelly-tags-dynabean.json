@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-dynabean",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "3yscPl/jldNagbacryC8Qt+LA7U="
+    },
+    {
+      "Version": "20030211.142601",
+      "SHA1": "OtTPqBGpDDVvUyW6aiwaWA1qCOo="
+    },
+    {
+      "Version": "20040902.071946",
+      "SHA1": "OtTPqBGpDDVvUyW6aiwaWA1qCOo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

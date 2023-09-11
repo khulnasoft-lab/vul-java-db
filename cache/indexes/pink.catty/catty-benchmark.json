@@ -1,0 +1,63 @@
+{
+  "GroupID": "pink.catty",
+  "ArtifactID": "catty-benchmark",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "JXLuOTxxxN/r6BhL7XuvPj4YMz0="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "KmdJYpkifYsrE/yazF0wbrp3QaA="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "adq0+PNFrswMrJ1MUwlswJYz+y8="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "bAH7gfQoDJl9u5Ip3SyxGbKvH5o="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "rCDA5HOL5gBxvMuqzbFxmvgUGpI="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "utLXMjoMx+LwFUUv4f2OaM5BwT8="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "6SWKVu2C5fBAsDUbQV6YNcfHy7Y="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "S7W9rCzUIhLNMxT+CcSSq4rSMyU="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "QIM9lHGk5ScMDDegxqiPd2MMBVg="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "1Pl++QSp6IB0JRdZbmvIPdl6JWw="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "VKjzmrlT3MkLnm5aHojPsTB4myQ="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "5AOP83SF1CoI0Olc0lYEDifUJo8="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "1OmARF24H7BtFGy8JTb55k0iWjY="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "mfm39yhtbaG+Nl6/rc0lOcacbWk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

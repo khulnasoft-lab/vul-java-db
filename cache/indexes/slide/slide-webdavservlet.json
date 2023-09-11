@@ -1,0 +1,19 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "slide-webdavservlet",
+  "Versions": [
+    {
+      "Version": "1.0.16",
+      "SHA1": "CJ8ZbCOjL+QBZW1PYLSGZWgKS3w="
+    },
+    {
+      "Version": "2.0b1",
+      "SHA1": "oaA9eNQ5nnEa/6d2XtWbpmk+kuQ="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "gSd7pvAqaK84EsJGow3nnvVcFx8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

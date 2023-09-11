@@ -1,0 +1,27 @@
+{
+  "GroupID": "se.europeanspallationsource",
+  "ArtifactID": "javafx.control.controlled-knobs",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "bq6C9HGsaMnrJZ8XOnfH1G8n1aQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "G7rnd/F4GYrEVHFd2+162Lnor8Y="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "6wA2xs9V+0BIrfOARu3F0131f+M="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "YPGFtTszsLUwBIo1Pa3sfZkolYU="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "VK4PAsn+CGl/So60zCFDJ/C9E0U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

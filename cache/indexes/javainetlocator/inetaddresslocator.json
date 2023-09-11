@@ -1,0 +1,11 @@
+{
+  "GroupID": "javainetlocator",
+  "ArtifactID": "inetaddresslocator",
+  "Versions": [
+    {
+      "Version": "2.18",
+      "SHA1": "nFg1VYoObaQEUlcoRQnJJrZrnf4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

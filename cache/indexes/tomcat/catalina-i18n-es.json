@@ -1,0 +1,19 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-i18n-es",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "miE3HDtMa0l4vR0a84e2zvcdOaw="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "bF31rKO+QLouLNmPJ58XFRzaGtY="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "mEcqLzUVCiZznRXgQacp11YSCmc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ms.dew",
+  "ArtifactID": "cluster-spi-redis",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "OZyudLjUoqHA0rAdzMQBiUHGG84="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "EeIhSjV6ETcHSz4q/O1wQjg5d+o="
+    },
+    {
+      "Version": "2.0.0-rc",
+      "SHA1": "wMskmoVg7GZYcSJeOc3IMXmwCls="
+    }
+  ],
+  "ArchiveType": "jar"
+}

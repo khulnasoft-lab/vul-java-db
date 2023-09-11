@@ -1,0 +1,35 @@
+{
+  "GroupID": "tools.aqua",
+  "ArtifactID": "bgw-tetris-example",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "iSkb8Yia6Bqd4Y/3tqjTdHcdgd0="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "VWc/3Y8LwVereSBzvia2tW6yGGk="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "pFnD9SgwpkBqLhs63g1648BMSo0="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "l0/OSrAyM2rr0EbJeFvsyTfMpbA="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "tGtthhAqy6K2cdr434TuOAGtjAM="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "xrBfEc1k1U9tHt/j+T6/cdfMjDo="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "tPIt+5v7n3JU2l5Dv+NzinaAxq8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

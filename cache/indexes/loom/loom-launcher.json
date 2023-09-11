@@ -1,0 +1,19 @@
+{
+  "GroupID": "loom",
+  "ArtifactID": "loom-launcher",
+  "Versions": [
+    {
+      "Version": "1.0-rc1",
+      "SHA1": "lG2ei6ZJzWH5BFmSb7FRhxinAA4="
+    },
+    {
+      "Version": "1.0-rc2",
+      "SHA1": "dwQZkK9TfL5tzKoazhzSaEJUo0Y="
+    },
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "JTc8F+ipcQNG5C+NQh6uYnvhgT4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

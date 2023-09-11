@@ -1,0 +1,47 @@
+{
+  "GroupID": "nl.sidnlabs",
+  "ArtifactID": "dnslib",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "ebpni7aUZTdRbshNjOa6WoOLAZI="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "mK/PVzMDEsiQXwHv+D73V7YjGTo="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "nrhxQTCI+Ijdg6RMjvVGxvZo5DA="
+    },
+    {
+      "Version": "0.2.8",
+      "SHA1": "i7eltIjBKKslnjfQ6drMSRiIwNM="
+    },
+    {
+      "Version": "0.2.9",
+      "SHA1": "CEV/6rPGxjo1zPXdq57ZtnC71t8="
+    },
+    {
+      "Version": "0.2.10",
+      "SHA1": "Qe/VHXnR7SdFvFNUvrqzziSBMto="
+    },
+    {
+      "Version": "0.2.11",
+      "SHA1": "8z1i8CQU60ilnm0Dddrs2r+Hqww="
+    },
+    {
+      "Version": "0.2.12",
+      "SHA1": "RTlc+vnotsej0GJZaZC7f6Ex2Jc="
+    },
+    {
+      "Version": "0.2.13",
+      "SHA1": "TZlQkLkTyfVzUdfk7WQ/LqS5/9Y="
+    },
+    {
+      "Version": "0.2.15",
+      "SHA1": "4msa7Hy1SeI0aawFdfvykeWptU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

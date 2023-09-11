@@ -1,0 +1,35 @@
+{
+  "GroupID": "tools.aqua",
+  "ArtifactID": "bgw-net-client",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "A5Z1PY8CM9WimiGiszdNZjehQ80="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "xGGfHdZUqeZzcqRVURJxePopB/c="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "5UeHXHSFS41zCBJbACxtfAP1DQI="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "lcoZ9C0+wQdfZb8WUEHCvOxKfKk="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "yBQPIIzFnnUsN5j6vFSD/4vi1Sw="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "xrz0KdK9IflskNQxEazSHBzItys="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "qQBHBzeIw/9Nzf3zBAwAlfmWpkg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

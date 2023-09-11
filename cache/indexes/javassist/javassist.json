@@ -1,0 +1,71 @@
+{
+  "GroupID": "javassist",
+  "ArtifactID": "javassist",
+  "Versions": [
+    {
+      "Version": "3.1RC1",
+      "SHA1": "xI8V0wPl2uLYOYbi4Qou+v1eTso="
+    },
+    {
+      "Version": "3.1",
+      "SHA1": "w4xMO1jnGYN7zwwHjyv8k+jc21o="
+    },
+    {
+      "Version": "3.3.GA",
+      "SHA1": "bvxGXO+UnKPjNVooVVzeq80XEkQ="
+    },
+    {
+      "Version": "3.4.GA",
+      "SHA1": "Tf8CynaWmCcAuNslQzKJNkzAKP8="
+    },
+    {
+      "Version": "3.5.0.GA",
+      "SHA1": "4UuAHliqtn2pT5ONmjoAl5AlAug="
+    },
+    {
+      "Version": "3.6.0.GA",
+      "SHA1": "IxrjLBsWVpaXA2K+ov8CLOJo9UU="
+    },
+    {
+      "Version": "3.7.1.GA",
+      "SHA1": "zhgpY01+426SwGrQRF/OzVaNxhY="
+    },
+    {
+      "Version": "3.8.0.GA",
+      "SHA1": "FKvDxcHnDNflm2pd7fQTePr6qWg="
+    },
+    {
+      "Version": "3.8.0.GA-brew",
+      "SHA1": "p8iVhopaUqjxM0SozHRCo4w9pXc="
+    },
+    {
+      "Version": "3.8.1.GA",
+      "SHA1": "XOHegtLcVb2L9WSMbVNQSDMVTJ8="
+    },
+    {
+      "Version": "3.9.0.GA",
+      "SHA1": "gy33qPMp/xKFoRV2BGhHo4t0nUU="
+    },
+    {
+      "Version": "3.10.0.GA",
+      "SHA1": "16mXo0fjeVirfEE6PmzmtB+n//w="
+    },
+    {
+      "Version": "3.11.0.GA",
+      "SHA1": "LAAQVzSlfp7k8n5LF81DIA5fD/g="
+    },
+    {
+      "Version": "3.12.0.GA",
+      "SHA1": "iLIdHvBjI77/WGZM/6YoSMAz7NI="
+    },
+    {
+      "Version": "3.12.0.SP1",
+      "SHA1": "+BNgmTKVjEbtiSMrj3vNrIEWOeE="
+    },
+    {
+      "Version": "3.12.1.GA",
+      "SHA1": "UmYzMn+qYa7kSKUZ6KTVPsMFeIU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

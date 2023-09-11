@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-dl4j",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "7NQJW54V5noJXLlnW/0PALHkPfE="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "eNytDC1WdXtrwpesRbkfo9A2DhY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

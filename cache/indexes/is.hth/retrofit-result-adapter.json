@@ -1,0 +1,15 @@
+{
+  "GroupID": "is.hth",
+  "ArtifactID": "retrofit-result-adapter",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "WgIrkinU/YyC7rTY9/ScTSWxjzQ="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "9J9wPCG8Xr6o3jR5zERq+6FnUQo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

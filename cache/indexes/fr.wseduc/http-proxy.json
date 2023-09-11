@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.wseduc",
+  "ArtifactID": "http-proxy",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "B2fLynrx3PoYP16KR8PgRoNn2zg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

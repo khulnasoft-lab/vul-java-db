@@ -1,0 +1,15 @@
+{
+  "GroupID": "pub.iyu",
+  "ArtifactID": "niko-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "/EqwSTQhNZpb9x6DbVPRY3xmnpA="
+    },
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "I+X5+IO0n0/asfbXimA2HPfCTHQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

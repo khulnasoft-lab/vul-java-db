@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.legendscloud",
+  "ArtifactID": "spring-cloud-legends-apollo-starter",
+  "Versions": [
+    {
+      "Version": "2020.0.0-M1",
+      "SHA1": "Z1Izo+1OV2c/bDJ1lSJEB91GE/4="
+    },
+    {
+      "Version": "2021.0.0-M1",
+      "SHA1": "L/5jkTehUOglFTbwqJ3lpCZG0zE="
+    },
+    {
+      "Version": "2021.0.0-M2",
+      "SHA1": "FXafwk7XeIKFcR0B/r8LjN6v42E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

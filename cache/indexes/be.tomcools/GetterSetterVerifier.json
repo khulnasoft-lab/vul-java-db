@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.tomcools",
+  "ArtifactID": "GetterSetterVerifier",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "1Lz1RmPDan+J4JnSfu6WzNExfwc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

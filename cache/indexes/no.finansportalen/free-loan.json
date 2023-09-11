@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.finansportalen",
+  "ArtifactID": "free-loan",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qtozkHakFXs9nbB19gV1eTdwZUk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

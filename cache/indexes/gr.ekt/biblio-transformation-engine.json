@@ -1,0 +1,15 @@
+{
+  "GroupID": "gr.ekt",
+  "ArtifactID": "biblio-transformation-engine",
+  "Versions": [
+    {
+      "Version": "0.81",
+      "SHA1": "pwof9eeSa1RStkAlZ4S9R6FBLJs="
+    },
+    {
+      "Version": "0.82",
+      "SHA1": "Li3OuYPTfhHFVTL/NtbQI4EKXeU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,91 @@
+{
+  "GroupID": "ee.datel",
+  "ArtifactID": "dogis6-common",
+  "Versions": [
+    {
+      "Version": "3.2.7",
+      "SHA1": "DAWKBLNu5km0r8T59MwgWHDJOp8="
+    },
+    {
+      "Version": "3.2.8",
+      "SHA1": "NdNtHPQTxQIFRq2dbZUAKLAIlVs="
+    },
+    {
+      "Version": "3.2.9",
+      "SHA1": "kXSyKlk5lBATXmIzN4eCs1V1mbM="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "iw5/bSd48PucWKJa+JaPzJHO3tI="
+    },
+    {
+      "Version": "3.4.1",
+      "SHA1": "5KCf8tGn+hRBy/2E0nvAMXRsaFw="
+    },
+    {
+      "Version": "4.3.0",
+      "SHA1": "jIY/W0WViw52tLRT7aavlqPfmiE="
+    },
+    {
+      "Version": "4.4.2",
+      "SHA1": "Ue45CBZZjOuZ12hI7jv7EPDbPwE="
+    },
+    {
+      "Version": "4.6.1",
+      "SHA1": "97c8nlVjZLuDbzZNsyEbeRCP3+Q="
+    },
+    {
+      "Version": "4.6.2",
+      "SHA1": "gPIpewJiobAIYYUseqeCr6x6sNE="
+    },
+    {
+      "Version": "4.6.3",
+      "SHA1": "im5G91RxqiN/pon35PfCSL5X4/8="
+    },
+    {
+      "Version": "4.6.4",
+      "SHA1": "tQudQXkEJW0x2jGsErS9XDDFqCM="
+    },
+    {
+      "Version": "4.6.5",
+      "SHA1": "9Fc1OIo5BCeMpRCgKBTOGbowl5g="
+    },
+    {
+      "Version": "4.6.6",
+      "SHA1": "bYv9qbekkVL5BwPQaI8RuTtx8wE="
+    },
+    {
+      "Version": "4.7.0",
+      "SHA1": "HLDqy6DBou6iCa4gA8RwOGbJeKE="
+    },
+    {
+      "Version": "4.7.1",
+      "SHA1": "d7FlEWZvc1SGbc5KdVnkssyNjYk="
+    },
+    {
+      "Version": "4.7.2",
+      "SHA1": "vapDzHaPJXcCHzOnBlqZ5vbT1VA="
+    },
+    {
+      "Version": "4.7.3",
+      "SHA1": "EfmmsaKDC+dhMLA7zl3eo3OI1eA="
+    },
+    {
+      "Version": "4.7.4",
+      "SHA1": "I3qZoyfFCykSO0WhCWV/YD4Yyg8="
+    },
+    {
+      "Version": "4.7.5",
+      "SHA1": "CIVnBQxQCrAQHvsCsAkV5X8zdsA="
+    },
+    {
+      "Version": "4.7.6",
+      "SHA1": "Hl4YjHesbAb3BC2ihaKTTNiafSg="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "0mYucEqmRnjOkfCoLZLAd4udw5I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

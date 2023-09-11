@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.newicom",
+  "ArtifactID": "akka-contrib-legacy_2.13",
+  "Versions": [
+    {
+      "Version": "0.2.1",
+      "SHA1": "438DHOPWn95rGB1/0K9JQL8w5DI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

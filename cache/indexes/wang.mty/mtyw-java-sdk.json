@@ -1,0 +1,47 @@
+{
+  "GroupID": "wang.mty",
+  "ArtifactID": "mtyw-java-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "2/OlnluaQuoNdxPB8FExE6wkQUY="
+    },
+    {
+      "Version": "1.0.1-RELEASE",
+      "SHA1": "qPSJZeL6NlziqJnZShKNOprWBvc="
+    },
+    {
+      "Version": "1.0.2-RELEASE",
+      "SHA1": "/3g5cpDJoFSixL0AuC1hbso8QxI="
+    },
+    {
+      "Version": "1.0.3-RELEASE",
+      "SHA1": "XES2L2uE4R1dnb66ST9+fXiqXJ8="
+    },
+    {
+      "Version": "1.0.4-RELEASE",
+      "SHA1": "D+Zr8CSZxclzSQXA3o8UKS3Dmpc="
+    },
+    {
+      "Version": "1.0.5-RELEASE",
+      "SHA1": "YoaewAoUYGNkYWE7/qQOgueoaiU="
+    },
+    {
+      "Version": "1.0.6-RELEASE",
+      "SHA1": "OQnptiDQ6camkbIWbMrGbeBJclM="
+    },
+    {
+      "Version": "1.0.7-RELEASE",
+      "SHA1": "eSJttELnHvPLFc5Yrm+nC8rAY4g="
+    },
+    {
+      "Version": "1.0.8-RELEASE",
+      "SHA1": "AtgF4uuBBXBrSjZgwz81Y0VNVOM="
+    },
+    {
+      "Version": "1.0.9-RELEASE",
+      "SHA1": "NlP8niddhkMNFW+f0oKk9McLpYI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

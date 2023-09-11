@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-client",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "Fzvy4UTgr/neXASXb0xENp6+6Pc="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "PY0GHcriqHun8qij/QdeotYXngY="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "7vOcHsRx0jKtD1+G4/xzIXn+r4Y="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "UtSZ+vxLYXMAyFTSXNmG/6dYe1Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

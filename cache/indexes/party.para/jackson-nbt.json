@@ -1,0 +1,15 @@
+{
+  "GroupID": "party.para",
+  "ArtifactID": "jackson-nbt",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lX6ZXfG+GQSkHdI7lkNoJDNFqh0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "cSxmIRqD96XK7pjt6NbokUdX1YQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

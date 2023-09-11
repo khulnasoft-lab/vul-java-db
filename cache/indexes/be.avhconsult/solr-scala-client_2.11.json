@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.avhconsult",
+  "ArtifactID": "solr-scala-client_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.13",
+      "SHA1": "IPZ+oXMj+2aNBilEO608t5rvt1I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

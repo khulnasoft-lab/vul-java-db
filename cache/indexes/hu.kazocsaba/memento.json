@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.kazocsaba",
+  "ArtifactID": "memento",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yUkjpPp5jA/P1q5SjgUHbIYxncU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

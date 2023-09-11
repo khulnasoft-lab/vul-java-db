@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "beehive-netui-compiler",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "URN3QqQiOqcP6HdRKc4vp6VyYDs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

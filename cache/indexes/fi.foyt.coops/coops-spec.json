@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.foyt.coops",
+  "ArtifactID": "coops-spec",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KCfbOvun1iNacom4vwDw+PHtMSA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

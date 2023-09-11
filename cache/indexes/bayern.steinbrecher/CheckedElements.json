@@ -1,0 +1,51 @@
+{
+  "GroupID": "bayern.steinbrecher",
+  "ArtifactID": "CheckedElements",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "DH/2ZkJg5mfaopdJBVCp5DN/UPU="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "mmwbtX+QPqpDy1PQhvFYRZfPwWk="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "H1jeJ1eVvWGvodNYNQMvjObKlTc="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "zpH6I8ar9NcGdfsjia/DkrS/wYk="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "UC4qqppIRT1vfZyQL4Cun1rVx/E="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "fHEeNRFXztBH/XbxinZSH2x4IEs="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "ljbMUFaD/B/9rj96ZkuLxfgd9gc="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "vbJMawu/qP4NXQ64dbtUxRQBPkw="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "NzXQlAtiygFgCikHQoPsCzJFfis="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "6ufRROZ9IqO9TBmftZNntGKVAN4="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "PrhzxXVr7mPN7+Pn4shNfeueysg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

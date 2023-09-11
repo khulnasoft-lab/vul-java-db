@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.alde",
+  "ArtifactID": "pubsub-testcontainer",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "xmx57O7fTUWp2jico5/YG4Qdsvg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

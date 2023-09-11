@@ -1,0 +1,27 @@
+{
+  "GroupID": "kim.wind",
+  "ArtifactID": "sms-aggregation-aliyun",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HxIFcnVqKWiotXY4mKI1RS5QiVA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "CEipe6v95GCDkp9UtWr1F1cGOIA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "cISs6l4DQA94sSGSejcmagXrl6M="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "KOt9mMMtS3bmY4qrlmeckeFM+bE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "R5OHaFwCB1OG7D3F8k0hSjIpDSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

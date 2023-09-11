@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.zhuangjinxin",
+  "ArtifactID": "xtools-all",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zo9Rj210oRnnnaesQkuyeoDEWs0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

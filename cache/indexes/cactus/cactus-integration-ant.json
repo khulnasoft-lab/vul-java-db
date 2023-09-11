@@ -1,0 +1,15 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "cactus-integration-ant",
+  "Versions": [
+    {
+      "Version": "1.5dev-20030322",
+      "SHA1": "yw5j8WYLIaUfRHS+NoxoPbXYIwk="
+    },
+    {
+      "Version": "1.5dev-20030407",
+      "SHA1": "sZtVITPuGzNbPPgq3ZcAlb+WHLg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

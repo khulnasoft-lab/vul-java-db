@@ -1,0 +1,11 @@
+{
+  "GroupID": "middlegen",
+  "ArtifactID": "middlegen-hibernate-plugin",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "UKO0KwW3TIwTLRywd9OmfNP+GC8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

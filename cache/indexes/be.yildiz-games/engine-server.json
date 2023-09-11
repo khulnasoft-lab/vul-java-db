@@ -1,0 +1,51 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "engine-server",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "QjwPIynwWx+vMpYdKS1v5W0fCHg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "8j6aPIPPLJJemOZUc76mgU84XYI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "gX6eFwvBmYD17wmcpJQDc+lvgKM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "HV8YQkyKyx4/JyFZsWsEYuhEMiM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "RAgp8qficFMqpW86GqFZFvtM3vc="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "dTQR3R7bZK316NYVCSffhOSrcFk="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "8vAIYdrkGx+f5tm30fzoTIdNT8A="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "GYzl7jZZDAr/Wz0Sgf9sxx0GrQg="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "HhETA3hNTqvJeq4pHG57fcXnfSg="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "llchl1aKpk/Xy7+YNANCYf/zneE="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "kLhB+61FnKxHLq1jripK0+5C5S8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

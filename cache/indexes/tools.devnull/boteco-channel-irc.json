@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco-channel-irc",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "azVqVDjyYL7SdY8rYttZrqkVDko="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "rNrNfdSr19iZy6db3v5KmOxmYL4="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "4QtDSgsaj05ARkM54GBfPEwYv6E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

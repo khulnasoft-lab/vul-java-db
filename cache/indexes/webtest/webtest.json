@@ -1,0 +1,15 @@
+{
+  "GroupID": "webtest",
+  "ArtifactID": "webtest",
+  "Versions": [
+    {
+      "Version": "268",
+      "SHA1": "1eiRcZD8w7+y8h68TfIeRAXpPZE="
+    },
+    {
+      "Version": "277",
+      "SHA1": "A5cwHEb5FImWswsMtq3s8x5k34w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

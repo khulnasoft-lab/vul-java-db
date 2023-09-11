@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.walkercrou",
+  "ArtifactID": "ghp-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "CsqEDqYL2d7uuayiAqwYlr5eKpM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jbossmq-client",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "L2zH46dzkIc9KeG6gIGWkyyWc+0="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "I173Udt/CSHhktXM0+6JcdCEe+8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

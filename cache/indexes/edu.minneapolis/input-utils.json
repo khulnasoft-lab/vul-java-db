@@ -1,0 +1,19 @@
+{
+  "GroupID": "edu.minneapolis",
+  "ArtifactID": "input-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "RmgEw9uOyMiYQC/f962WwJpMi6s="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "1+a+EQt5B2ppj0oeKgrPgPvGtW4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "9KPrQIP5GxK6bga764Zx3aBNTMM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

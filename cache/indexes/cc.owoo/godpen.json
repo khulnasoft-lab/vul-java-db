@@ -1,0 +1,35 @@
+{
+  "GroupID": "cc.owoo",
+  "ArtifactID": "godpen",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "2ueQwS/XdhF++uZjZ0nK5GBNekc="
+    },
+    {
+      "Version": "1.0.1-bate",
+      "SHA1": "bMbhXSyTkmXMvdXEd68empBP+40="
+    },
+    {
+      "Version": "1.0.2-bate",
+      "SHA1": "SvXvqzlhj4KGScr7c4ugIWhfyuc="
+    },
+    {
+      "Version": "1.0.3-bate",
+      "SHA1": "aocTJuZB4eUJuMSENmKSpNkcDwA="
+    },
+    {
+      "Version": "1.0.4-bate",
+      "SHA1": "oyuujRUs0amjK+/jk+3gZ+wogrs="
+    },
+    {
+      "Version": "1.0.5-bate",
+      "SHA1": "cxER0OgwS9k5iC6Q59UtU8LsRYM="
+    },
+    {
+      "Version": "1.0.6-bate",
+      "SHA1": "E2PPmlIMXI3ytWL/qiAPXwu0CLk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

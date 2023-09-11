@@ -1,0 +1,15 @@
+{
+  "GroupID": "tech.mervyn",
+  "ArtifactID": "trace-logger",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "NneolUUfEMedkxO0xhamO9/4jX4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "GWvxKGZ4Lzcl64N7ZdIriaTxzB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

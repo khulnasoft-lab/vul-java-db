@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.personify",
+  "ArtifactID": "personify-audit",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "PgxvNZ3X2MGSy4b6ToA8evmCiH0="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "L/xOMW0Qr44BiV191gw7iKEhIWE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

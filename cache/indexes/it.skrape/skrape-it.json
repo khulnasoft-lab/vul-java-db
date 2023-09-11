@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.skrape",
+  "ArtifactID": "skrape-it",
+  "Versions": [
+    {
+      "Version": "1.0.0-alpha7",
+      "SHA1": "Uboeidfk8KEGLfmFAzSzsB+4+SE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

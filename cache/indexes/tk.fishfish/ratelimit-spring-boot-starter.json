@@ -1,0 +1,15 @@
+{
+  "GroupID": "tk.fishfish",
+  "ArtifactID": "ratelimit-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "5djTJPhEpd6daAF2e1ZVO4tBvgs="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "JUWP37Ftar2D8fPkzp16BYYbouk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

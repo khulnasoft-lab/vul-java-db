@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "seraph",
+  "Versions": [
+    {
+      "Version": "0.7.20",
+      "SHA1": "NJ+PyZj+MdKvmatiY32Z5VHsZKw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

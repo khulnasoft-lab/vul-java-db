@@ -1,0 +1,15 @@
+{
+  "GroupID": "commons-naming",
+  "ArtifactID": "commons-naming-factory",
+  "Versions": [
+    {
+      "Version": "20031116.223742",
+      "SHA1": "TPGi8/fCCyQ1YUKLARkxzC6eS+E="
+    },
+    {
+      "Version": "20031201.015542",
+      "SHA1": "u2UelDU2xVJ5+5YxpHGICOjStTU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

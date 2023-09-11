@@ -1,0 +1,67 @@
+{
+  "GroupID": "ar.com.jmfsg",
+  "ArtifactID": "api-doc",
+  "Versions": [
+    {
+      "Version": "0.0.19",
+      "SHA1": "eO/gOdj6+mHaGXDbYlLu5Xx33Gg="
+    },
+    {
+      "Version": "0.0.20",
+      "SHA1": "yWeXKaysGw5vBYjbOfrDfeCY5Kc="
+    },
+    {
+      "Version": "0.0.21",
+      "SHA1": "GpUcfBIbr/PWZ2jjbWqs1uCc8GM="
+    },
+    {
+      "Version": "0.0.22",
+      "SHA1": "q8Nrwo6HFsl8mCgrWbPI+9S18F8="
+    },
+    {
+      "Version": "0.0.23",
+      "SHA1": "XeU+eUNPANenyaqXQb3bUlhAeik="
+    },
+    {
+      "Version": "0.0.24",
+      "SHA1": "Zc29LUgkKYczeJsEBHHleb8s2lU="
+    },
+    {
+      "Version": "0.0.25",
+      "SHA1": "RPO1oS8mpnuPGNHGt2mETxHgXqA="
+    },
+    {
+      "Version": "0.0.26",
+      "SHA1": "R6MrKVoMyzvNWrug0vLx7bQDfhc="
+    },
+    {
+      "Version": "0.0.27",
+      "SHA1": "6/nDmCWl8U+ruc+BBl6nW2QvNok="
+    },
+    {
+      "Version": "0.0.28",
+      "SHA1": "aLlalFURuUjwIWvESMNBazuXUVw="
+    },
+    {
+      "Version": "0.0.29",
+      "SHA1": "UNUtcVCh4rT8WRJ/IBLYCFPxAs8="
+    },
+    {
+      "Version": "0.0.30",
+      "SHA1": "FON/7AMG7WA0ZlPJrqgBQhd9kuw="
+    },
+    {
+      "Version": "0.0.31",
+      "SHA1": "QUa84lVfFKpa1au2xp66qRc8bVc="
+    },
+    {
+      "Version": "0.0.32",
+      "SHA1": "hnZChsE7ShlNqsYsUdY2R7+L+xU="
+    },
+    {
+      "Version": "0.0.34",
+      "SHA1": "H9eX/2nZxCIkRu8WWhN/CR/Ljus="
+    }
+  ],
+  "ArchiveType": "jar"
+}

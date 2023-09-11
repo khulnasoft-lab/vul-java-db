@@ -1,0 +1,11 @@
+{
+  "GroupID": "plus.easydo",
+  "ArtifactID": "easy-do-mybatis-plus-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "tmIXhtVDJyTYu9cLLa/NBvMgFxs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "live.radix",
+  "ArtifactID": "radixdlt-java-common",
+  "Versions": [
+    {
+      "Version": "1.2.1",
+      "SHA1": "axD4hft/6CxUWg6RhEaTGyhddU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

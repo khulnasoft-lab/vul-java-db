@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.rugal.archetype",
+  "ArtifactID": "springmvc-spring-mongodb",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "JPOm84EyNe4YSFnIvkcrdw6ofMw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

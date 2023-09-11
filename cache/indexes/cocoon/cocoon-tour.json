@@ -1,0 +1,27 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-tour",
+  "Versions": [
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "06KzZCwo1hFo4n/70V0VP15AZG4="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "AX5/d5r27T1UQXUM27fidYCSUNI="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "GstTy3IFSAdaouJZxvVkiXcjGkg="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "BPLUCjQTC2GsuHjguvmkbZISn2g="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "cThybWHu7mGkj0FAbA4NyMWMkR8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

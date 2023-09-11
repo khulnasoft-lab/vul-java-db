@@ -1,0 +1,23 @@
+{
+  "GroupID": "is.rebbi",
+  "ArtifactID": "vermilingua-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "CCPUx9hqTyIQUeMlA7SCMdUzlVY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "zIeAwtZ4dXkmLMDN4f8XZwckBMU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "sE9Eq9M7zem8xwV1Skd1HsqxMuw="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "4nbzXxA5U+TWKRKrT0CveOmwrGw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

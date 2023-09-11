@@ -1,0 +1,15 @@
+{
+  "GroupID": "ng.shoppi",
+  "ArtifactID": "dashboard-archetype",
+  "Versions": [
+    {
+      "Version": "1.0.0-rc01",
+      "SHA1": "ZdnMYrYFzsIkIUUYF7iy5XBXNIc="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "etlr+EahPoZAFvLjuWkYRIdONFc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

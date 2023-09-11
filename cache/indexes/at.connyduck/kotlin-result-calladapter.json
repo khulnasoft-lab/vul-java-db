@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.connyduck",
+  "ArtifactID": "kotlin-result-calladapter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "prLcTxCUuqtkkHn4RxtoNJDL0D4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "UUpjhcer9HU1eT2TGm2+rgjXmiA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

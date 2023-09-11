@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-ogre3d",
+  "Versions": [
+    {
+      "Version": "1.10.11.0",
+      "SHA1": "jdYiAINfg/bHSHPz/2ld83eF0M8="
+    },
+    {
+      "Version": "1.10.11.1",
+      "SHA1": "oQR4GaCN7Ew9Nc4/sKvvSp1IEa0="
+    },
+    {
+      "Version": "1.10.11.2",
+      "SHA1": "8Grl03Owpsry935TJgwOFGDIGRU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

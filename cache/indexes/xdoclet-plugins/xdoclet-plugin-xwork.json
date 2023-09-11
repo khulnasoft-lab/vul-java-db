@@ -1,0 +1,35 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-xwork",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "OXrFpYWD1SkAj0tKkvC8WM9VFQQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "PzesZa05PYmFKVEilUeEMymWcgU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "kZHYGeadLL9X6orWqdcBbRUnHPU="
+    },
+    {
+      "Version": "20050206.203909",
+      "SHA1": "i8CiVDu/3VWcGuB/SYE7nVc+C5A="
+    },
+    {
+      "Version": "20050208.124803",
+      "SHA1": "xhTXWiP+cxp7cQuU1XGhfC4oRUM="
+    },
+    {
+      "Version": "20050302.205934",
+      "SHA1": "aEJSSAqagWLpWTsOGFfBDm77tUc="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "JSj/2C+l3OlgVJOiP6pdeu6nE+I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

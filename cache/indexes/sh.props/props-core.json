@@ -1,0 +1,15 @@
+{
+  "GroupID": "sh.props",
+  "ArtifactID": "props-core",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "cON0B5vVGXL00o9JWQ4/3oDvapo="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "3WUcw9PJrmyyfWcLxm+01LRBm7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

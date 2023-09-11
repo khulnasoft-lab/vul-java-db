@@ -1,0 +1,27 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "servlets-common",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "WK+BXDAXCUnWvKFrv+/5Vqy4f6E="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "4qpd2yOcgJu5KJ83ov3zrE7muts="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "g6zrz3SeQCGkqfz6qO/LhB+Zkf8="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "7B8Vbnaxk6bf4RZ4Jln9QbG3L3s="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "y90MgpLv914QmfTKqWyr9wCdgSU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

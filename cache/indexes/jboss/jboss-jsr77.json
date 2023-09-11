@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-jsr77",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "y4iA0Lrr6ew8HBt/Y9JnWXoqSIs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

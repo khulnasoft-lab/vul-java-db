@@ -1,0 +1,31 @@
+{
+  "GroupID": "tel.schich",
+  "ArtifactID": "javacan-core",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "DZI9IXQynOXz3RjSxMXAOjwL15w="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "PuJpJSBfBgJdlxPEr+ONb5/b+6o="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "oJbb9Ca/7whMzNTKEer38wH46Bs="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "K2JP78Kj/KLWedBBhKuC/iurLKM="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "CBJm4SN+8Udtl4P58vIdfi9Y0fI="
+    },
+    {
+      "Version": "3.2.4",
+      "SHA1": "5ABZ/kjtrO7gKncaxZo/4sxB6dY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

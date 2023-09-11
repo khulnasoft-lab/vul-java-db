@@ -1,0 +1,31 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-transaction",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "RgtRz98+lLOq//CqW4olay4BQos="
+    },
+    {
+      "Version": "1.0-M2",
+      "SHA1": "yMFiRpYKJTQKu6k1i4xRmqgVHSI="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "XNiECl2zv9DllBsHsT1HPkEU7tY="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "z53QzcPa6+B+OiQu0CHUVKzF4/4="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "HYE3wsdQQzy0ITOTEd6Lihz/iV4="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "VlVVzAJWLEitv/vz2pQCzsf6WTk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

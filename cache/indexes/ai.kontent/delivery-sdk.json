@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.kontent",
+  "ArtifactID": "delivery-sdk",
+  "Versions": [
+    {
+      "Version": "5.0.0",
+      "SHA1": "Fc105RktospC52F7yvkgSoA5/YY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

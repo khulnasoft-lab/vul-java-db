@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-distribution-cli",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "yT/OzSs7glk4EY4J8cC9AJ0ROw4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "smartrics.iotics",
+  "ArtifactID": "iotics-java-agent",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "jsDo76lqH7M/t35YWWIak/eRpPE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

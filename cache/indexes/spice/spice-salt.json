@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-salt",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xCcaNH9tlXRAYIyTfxWfSfPByrI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

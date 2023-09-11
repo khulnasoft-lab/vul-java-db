@@ -1,0 +1,11 @@
+{
+  "GroupID": "so.dang.cool",
+  "ArtifactID": "clobar",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "tR+9yNPlSDtqDZDjkmvq4BorwUg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "village",
+  "ArtifactID": "village",
+  "Versions": [
+    {
+      "Version": "1.5.3",
+      "SHA1": "R7ftlMtdP0xyes40hWoVoSE10MQ="
+    },
+    {
+      "Version": "2.0-dev-20021111",
+      "SHA1": "h6srx6ztslKzH19lZ+pYM3Wc45A="
+    },
+    {
+      "Version": "2.0-dev-20030625",
+      "SHA1": "JiD4DwS32YoFDDNK2/7Dl3sxB8I="
+    },
+    {
+      "Version": "2.0-dev-20030825",
+      "SHA1": "DbHsd6cjpj8xLYLc6Dy1aL/QHw0="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "lqrJjnsOTVcttlYXJqwuZx/L1P0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

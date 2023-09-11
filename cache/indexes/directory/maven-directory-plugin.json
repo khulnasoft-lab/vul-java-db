@@ -1,0 +1,15 @@
+{
+  "GroupID": "directory",
+  "ArtifactID": "maven-directory-plugin",
+  "Versions": [
+    {
+      "Version": "0.9.2",
+      "SHA1": "I5ORCNJxEOGfII7Ay1sdOXWjLko="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "Uto2Tcdx3hwRCAFRxO4j6VbqKV0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

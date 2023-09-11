@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.lvtao",
+  "ArtifactID": "tao-db",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "nOuTFyColcaJT7+e3P0qweH/oVc="
+    },
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "I2TRnVwgMb5GY4xN+5iW/P46dAE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "jsp-api",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "tJChXXIx7YSWq9lHiivGS2mOjVg="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "0FHbRBguakYW8v2JiZUmNWKc3P8="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "K/F85S2S1sbPyrEGOAW9zVGn1Ug="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "HDfYZQAWYbE9KYAE0l4FpaFG40U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

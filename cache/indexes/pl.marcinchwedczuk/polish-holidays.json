@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.marcinchwedczuk",
+  "ArtifactID": "polish-holidays",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Z2NPRoJX2a4n6mALM11pJyO6l5s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

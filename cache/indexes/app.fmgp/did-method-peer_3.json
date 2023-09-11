@@ -1,0 +1,43 @@
+{
+  "GroupID": "app.fmgp",
+  "ArtifactID": "did-method-peer_3",
+  "Versions": [
+    {
+      "Version": "0.1.0-M2",
+      "SHA1": "URRj3kOQxDhibmgbHTI+JHEwklY="
+    },
+    {
+      "Version": "0.1.0-M3",
+      "SHA1": "XZ0sjmlbY0Z1vvNhRfeM0D3kK/I="
+    },
+    {
+      "Version": "0.1.0-M4",
+      "SHA1": "zOZe8J5Q0PSL1EbCcSRSJTvpNQM="
+    },
+    {
+      "Version": "0.1.0-M5",
+      "SHA1": "Q8dG2sKsQ2mIO11hyQ1lZ3df/JM="
+    },
+    {
+      "Version": "0.1.0-M6",
+      "SHA1": "k1wDlpMhM1Hl5ESX52opSFTbh48="
+    },
+    {
+      "Version": "0.1.0-M7",
+      "SHA1": "yGE8iqKBe1eqKVrf+y2NkGepNgM="
+    },
+    {
+      "Version": "0.1.0-M8",
+      "SHA1": "iLkfoMZJh64bNfHNKmGHoKrKM0U="
+    },
+    {
+      "Version": "0.1.0-M9",
+      "SHA1": "nzOo0nSNqmClItUpCz5LaSnLdoQ="
+    },
+    {
+      "Version": "0.1.0-M10",
+      "SHA1": "CY4W+yrJfVemn1HZuQ/Dm7pgAd0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

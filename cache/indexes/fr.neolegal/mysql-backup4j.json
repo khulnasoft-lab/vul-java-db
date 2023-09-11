@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.neolegal",
+  "ArtifactID": "mysql-backup4j",
+  "Versions": [
+    {
+      "Version": "1.2.2",
+      "SHA1": "0z6gvT+pvJq9klUQaqflcm/Fsbs="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "O9VV6ufxuqUHjr+XzWk72BQqIMY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.titech",
+  "ArtifactID": "t2schola-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "IS+ytdYIM3/CkEMdZB9vYKIAduw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

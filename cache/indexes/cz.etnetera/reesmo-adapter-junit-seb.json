@@ -1,0 +1,47 @@
+{
+  "GroupID": "cz.etnetera",
+  "ArtifactID": "reesmo-adapter-junit-seb",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "gjpjIKk4KzdSHDK/5k5r89iKnHE="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "xrOaleeXXI5e6aOLfxR3y870iAU="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "fFzkbiB/LDxxLDkfqFfP4lwfKAY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "9z+wG1+vAi5fgm1rOABUiFNA7NE="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "xbDZkk3BQtre98JmhAZRYlvVpvY="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "7G4RVGSd8kutjZDa6tHOXInbld0="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "1AsqPlVM/Tzd7UCFY41C8UAKGbk="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "iUaVKYg/QU5k3BhUvF5ACGzvOfE="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "k+xI/OZZKzu5ZYHUR2tc5CmK+Ow="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "7nq0W1zZWUSORX9GEYyiXBt9760="
+    }
+  ],
+  "ArchiveType": "jar"
+}

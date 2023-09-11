@@ -1,0 +1,11 @@
+{
+  "GroupID": "xsdlib",
+  "ArtifactID": "xsdlib",
+  "Versions": [
+    {
+      "Version": "20030225",
+      "SHA1": "ndoiJ7VGGV0i4unKD7bMkr7sHfc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

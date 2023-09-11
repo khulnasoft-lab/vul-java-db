@@ -1,0 +1,15 @@
+{
+  "GroupID": "mobi.designmyapp",
+  "ArtifactID": "designmyapp-common",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "0/UeNr5N6ZhdfwJAIAUSNKx7mns="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "NqaEJsF+DVMtKfB5vOcZcm8YViE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

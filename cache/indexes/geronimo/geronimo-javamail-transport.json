@@ -1,0 +1,19 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-javamail-transport",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "XGCZ1l4MUFbXbwQ04XYT/aE3gTo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "m33FsFP9l/UJtSXSoREtDeLCnvg="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "4P4+s8LxeRPOh7YequozDRZ27ZM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "fr.ybonnel",
+  "ArtifactID": "csvengine",
+  "Versions": [
+    {
+      "Version": "1.3.2",
+      "SHA1": "4pc6xHltv/c/9daLb3miC+H7YwM="
+    },
+    {
+      "Version": "1.3.3",
+      "SHA1": "1rMVqa4vyY/ZKIkxYGpCH7cP+cA="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "o32xayKnSfaKdxP6kPMvDZdNckU="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "1iGLjcu2eRfUX4qd7viP2s7EMJE="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "7GKoZaa0m+8VvWCHzNMq3bUvWoc="
+    },
+    {
+      "Version": "1.3.8",
+      "SHA1": "r1uENqewHI7NaxvMVfgcIfH8F+g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

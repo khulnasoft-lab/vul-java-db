@@ -1,0 +1,19 @@
+{
+  "GroupID": "velocity-tools",
+  "ArtifactID": "velocity-tools",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "FuupqDGDQnn2Qq+RufYhboue4+c="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "oiUuDXlbWXORrJGUNILazYLL0I8="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "L3Bmo/slsZXavIArCpc8NtWvhTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

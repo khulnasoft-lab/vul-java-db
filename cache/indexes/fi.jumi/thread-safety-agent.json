@@ -1,0 +1,23 @@
+{
+  "GroupID": "fi.jumi",
+  "ArtifactID": "thread-safety-agent",
+  "Versions": [
+    {
+      "Version": "0.1.46",
+      "SHA1": "03ZOpTMR8ityCHMl+e355SOxWdU="
+    },
+    {
+      "Version": "0.1.64",
+      "SHA1": "m77K0C2DzFZ79O1s+i9iC+uA3Tk="
+    },
+    {
+      "Version": "0.1.196",
+      "SHA1": "QmODJ8KQE+f72L7tukBoKsyr2gA="
+    },
+    {
+      "Version": "1.0.270",
+      "SHA1": "5noqOjeSjhkkUpKT8rO0B76blSI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

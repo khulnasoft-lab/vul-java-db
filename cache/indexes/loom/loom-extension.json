@@ -1,0 +1,15 @@
+{
+  "GroupID": "loom",
+  "ArtifactID": "loom-extension",
+  "Versions": [
+    {
+      "Version": "1.0-rc2",
+      "SHA1": "iyJsjXhnEGMjPr9vpCIgko11NZY="
+    },
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "W55N3eDTxUHHFi9IujegBOvpcjM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

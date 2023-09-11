@@ -1,0 +1,11 @@
+{
+  "GroupID": "HTTPClient",
+  "ArtifactID": "HTTPClient",
+  "Versions": [
+    {
+      "Version": "0.3-3",
+      "SHA1": "jGAaKH/7+KibnEkdWWa5mc1x3Ys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

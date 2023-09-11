@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.bitcraft",
+  "ArtifactID": "LogCollector",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "XJSp9nMo5RzsxC0Sz5IbkwUamzA="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "f7X1v748S1sxyPEt5rVMFTE7bpo="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "VUhJAPTL502plld6tK9DcexSWyE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.zoom",
+  "ArtifactID": "desktop",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "USB7wiaZQt/Bx3fWbVaOZ5Hq7n8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

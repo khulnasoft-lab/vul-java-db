@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.ida-mediafoundry.jetpack",
+  "ArtifactID": "carve.core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "eITV9MaqwGlI58zrmn8O/7HHD2k="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "922h1p+fJXW0cwQgql1njSbHUF0="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "fN+VmuXoW5EMkhuIGJyjALAbaCo="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "YzEx5WYrEUEeWNCxQ08L6lB0V+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

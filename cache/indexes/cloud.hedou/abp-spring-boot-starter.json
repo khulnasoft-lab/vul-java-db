@@ -1,0 +1,15 @@
+{
+  "GroupID": "cloud.hedou",
+  "ArtifactID": "abp-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NFnEdcO9Q38eFvCajM12FD9mIuw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "SR1uh1Z8EaNpTxou+WmfAZJZuCc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

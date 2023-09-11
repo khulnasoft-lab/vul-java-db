@@ -1,0 +1,19 @@
+{
+  "GroupID": "tjdo",
+  "ArtifactID": "tjdo",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "oQFt+qX7XczLma1cRBIGPTrqdiE="
+    },
+    {
+      "Version": "2.0-beta",
+      "SHA1": "n9+5ChJfZUB6umbpEai4GWQuZYg="
+    },
+    {
+      "Version": "2.0-beta3",
+      "SHA1": "6HVaMn2aqbC4B7QVF2MLzRqQeRY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

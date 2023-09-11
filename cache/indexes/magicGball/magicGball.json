@@ -1,0 +1,11 @@
+{
+  "GroupID": "magicGball",
+  "ArtifactID": "magicGball",
+  "Versions": [
+    {
+      "Version": "0.01234-alpha0",
+      "SHA1": "261682QY30gm7VqiGhO1X+ynN/M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.muninn",
+  "ArtifactID": "hocones-md-docs_2.12",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "TTEw1kfRnoxqccbGBeeTvZkmgqA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-flyway-solon-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Is5LFaWbyISqdX7AsVeDXKj1V2k="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "VqtvQUzBdy17obThppI+jQ6p0U0="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "RaTpkVYB6jtWLgzcuzOmkAMAEGE="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "qTYYa9cm8fnYyacWLh/XvR4VSv8="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "VxuqaQzKIi0nHWWfXhFXh9O4moc="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "YP8wVX6iygSltYkkVITHwYrYcQk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

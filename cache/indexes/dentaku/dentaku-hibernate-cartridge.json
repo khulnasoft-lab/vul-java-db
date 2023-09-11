@@ -1,0 +1,31 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "dentaku-hibernate-cartridge",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "v8tFL9EfzPRUzeC1+YiHuriBvJo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "qXKRMiMXwIoGJT+pFgnw5lzHCG4="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "eXVRwuO7rO/MHa/lJ1RAy8ZkATk="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "WH992RVUERlX2mg58RIrvITGwCY="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "CnLF3OsYDzyZaHHux7ew9gvBDmA="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "0S4PSXYLep3OAp5Rc+figeBuSw8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "cc.jweb",
+  "ArtifactID": "jweb-boot",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6fDCT9RS2xpo3P3GXKf+M7Qc0+I="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "rFEIf5DMsvO5nUgwSX7JwLZ05os="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "WAIeIKRpGLZKZPR/0b6REJhSeMY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "t07VPB6GVr5jwAxnuAV16NYV51c="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "+5ZRejgkXrzviyEN1YSfWGCdd3I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

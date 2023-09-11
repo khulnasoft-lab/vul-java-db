@@ -1,0 +1,71 @@
+{
+  "GroupID": "ma.markware.charybdis",
+  "ArtifactID": "charybdis-core",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "V6U+iM/5+ZaAHVldhCCsxcl3TWU="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "7uXqeqkx8+BDsjmoErnB7Ty6S6w="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "z60h+FjCp0LcTJS22+IONvXxO64="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "tJK52aWccWVpXfgEEobRdRhw6Yc="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "cdEloJyaExgw/HI4XI3cZvE8F8Q="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "mWLvTTfffpwqXbucjMOyzmEQVMs="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "Z3Fsxd4PJ0fcdw8g5pOjALpQ2Vc="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "tKv/jKvLrsFWuKMq7ifOWZCqsa0="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "XMqx6Mdckbk4Z8gBe/J2B1+1otk="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "ha7ikORDD5W7eslcNFgKkIK/tWk="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "GPLFdZuZK7PTixdeejD5PWYFS+o="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "R9cMwblhTuEZa1tAhX0Kbh/PX/w="
+    },
+    {
+      "Version": "2.7.1",
+      "SHA1": "oyNDdcIFxfMpOD5sMfx0OFV2nYc="
+    },
+    {
+      "Version": "2.7.2",
+      "SHA1": "I2TzjOfvhA95T3+fF6IDMI2Aq7A="
+    },
+    {
+      "Version": "2.7.3",
+      "SHA1": "jJpJOCLwUI50iw0Fg+fwB62cXKE="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "rrwYd8AZJrrrjtCnbXMPb8GzW40="
+    }
+  ],
+  "ArchiveType": "jar"
+}

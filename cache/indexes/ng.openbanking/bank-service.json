@@ -1,0 +1,19 @@
+{
+  "GroupID": "ng.openbanking",
+  "ArtifactID": "bank-service",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "V4buFoFBWPsUhQ2jwBAVSrwQ/UA="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "mGIUpREDzj0Tl+/xH6Riqv2sM5g="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "sigq+ttLGkHedU7MrxAOXM/jpgM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

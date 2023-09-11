@@ -1,0 +1,15 @@
+{
+  "GroupID": "fastutil",
+  "ArtifactID": "fastutil",
+  "Versions": [
+    {
+      "Version": "2.52",
+      "SHA1": "+lvuTIVRThZaQCGOc9I2EMWo0do="
+    },
+    {
+      "Version": "4.4.0",
+      "SHA1": "0JmqlgGA/QUP4MVsSGRuOGF326I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

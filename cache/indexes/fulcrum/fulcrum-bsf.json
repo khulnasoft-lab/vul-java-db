@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-bsf",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "CLWns+1Zc0VLi1SlDf71qwnVe1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

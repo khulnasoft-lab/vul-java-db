@@ -1,0 +1,11 @@
+{
+  "GroupID": "kz.btsd",
+  "ArtifactID": "bot-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "m9UP3DiuQ4yf8sUgPw3BzJuVhHs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

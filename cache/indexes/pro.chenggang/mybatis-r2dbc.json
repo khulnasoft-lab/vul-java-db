@@ -1,0 +1,99 @@
+{
+  "GroupID": "pro.chenggang",
+  "ArtifactID": "mybatis-r2dbc",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "cKz30LWyJNGAZROZIQT3AzDOqZE="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "QuMnUFgbpTZMdtlqCrNVirkQfSE="
+    },
+    {
+      "Version": "1.0.2.RELEASE",
+      "SHA1": "u+mrUWy6/wj5hxzdiUop9f30A8U="
+    },
+    {
+      "Version": "1.0.3.RELEASE",
+      "SHA1": "+Y6TiOuYqKyCaRx/r6l1gn8UWy4="
+    },
+    {
+      "Version": "1.0.4.RELEASE",
+      "SHA1": "ltAj6QwRMMYQ+583OBf63gc2Sec="
+    },
+    {
+      "Version": "1.0.5.RELEASE",
+      "SHA1": "/qN7AAzRpTYb58SaDZjv3/mdBIU="
+    },
+    {
+      "Version": "1.0.6.RELEASE",
+      "SHA1": "woXYgPGRm0TSPdTqQefdpL/3QjE="
+    },
+    {
+      "Version": "1.0.7.RELEASE",
+      "SHA1": "o5s4CeaFNiYqiPhIqquTtUPjMQs="
+    },
+    {
+      "Version": "1.0.8.RELEASE",
+      "SHA1": "H88TGKPFqXkUUOjZOwqVHyEcI6k="
+    },
+    {
+      "Version": "1.0.9.RELEASE",
+      "SHA1": "1/guQNY9/hnJwbL1ZfsxDlYQM1k="
+    },
+    {
+      "Version": "1.1.0.RELEASE",
+      "SHA1": "srw8Q5SvIBD1LreGTZEOsL2+Hfs="
+    },
+    {
+      "Version": "1.1.1.RELEASE",
+      "SHA1": "tQiIttPvhkodhh+FbSMyBMV+Bno="
+    },
+    {
+      "Version": "1.1.2.RELEASE",
+      "SHA1": "VNc3EECtGrmY8OEHg49LWlNhl8Q="
+    },
+    {
+      "Version": "1.1.3.RELEASE",
+      "SHA1": "HVE98CAoZGDAHibqsmWWv68sRY4="
+    },
+    {
+      "Version": "1.1.4.RELEASE",
+      "SHA1": "2jDSx0C200Ll1DhQZPew+RgWPj0="
+    },
+    {
+      "Version": "1.1.5.RELEASE",
+      "SHA1": "gKNMgTEh5F3mva3zY5YWI3jPwa0="
+    },
+    {
+      "Version": "1.1.6.RELEASE",
+      "SHA1": "AScEmAOVI83XiOpi4nz08cNXApc="
+    },
+    {
+      "Version": "1.1.7.RELEASE",
+      "SHA1": "IvSTgbgtq5+/xgFEgtOclHDaAFo="
+    },
+    {
+      "Version": "1.2.0.RELEASE",
+      "SHA1": "UDuHQd1hEiP5YDwE1EVlsfTMzKg="
+    },
+    {
+      "Version": "1.2.1.RELEASE",
+      "SHA1": "qnk5TWi/sPkp+MLYCVEy9mbHBkk="
+    },
+    {
+      "Version": "1.2.3.RELEASE",
+      "SHA1": "AymO4yJA/p1+tHdb39bmOJczZ0I="
+    },
+    {
+      "Version": "1.2.4.RELEASE",
+      "SHA1": "unD5BotqukHdzxPZdPyMkmzwyak="
+    },
+    {
+      "Version": "1.2.5.RELEASE",
+      "SHA1": "MFT0frrGjaFV92V6p3MhlNLlTBE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

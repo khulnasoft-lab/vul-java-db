@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-bookmarks",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "rbPBnD3dJ3w1oAj5LNMqyu5HquE="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "XLLRlOiMcgMvf3xiEXwH3lx3Oxw="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "O/GFni7BMD9wSOzY79nI4APhsdE="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "dWm0e3RrpUB5tHzhz++YzoccUYk="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "cOa4W4Qq3vKSZLaiZqT36e18hAw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.wojtun",
+  "ArtifactID": "cfmxcompat",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "yXCHphmzSiJLqXXrZOEVZRLw4jw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,103 @@
+{
+  "GroupID": "ai.taskmonk",
+  "ArtifactID": "taskmonk-sdk",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AfjJeZp4dELFbkbLLTVTH1UiPqY="
+    },
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "ur75EXJr/OLla4uXE5eALnwyxD0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "oYWGZ/72xExlMHYALwaA33Ha2aI="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "BUW+3aJ6Ba+tGHw1kZCAL3p3WhY="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "h4P/7IiauaJ4NmhCY7CDId3EVOE="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "YE2p3G0jPPc9qC47lqLnczFz/NM="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "lzznz6BnFBmRT1IXXLC175EzwpQ="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "kLezm1350NrLNY19XA9dHzIE11w="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "W9QDjXOSg8jZcrsPthf+HpBVDrw="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "P0ID4CR6lYfGW3NaKfmUcwgHp2A="
+    },
+    {
+      "Version": "1.9",
+      "SHA1": "t1grWYlQbYMDs47T0YQxDQLecYA="
+    },
+    {
+      "Version": "1.10",
+      "SHA1": "lTR/iIZ5CGW3TXAnE8f+0qHUImw="
+    },
+    {
+      "Version": "1.11",
+      "SHA1": "YZTH+G36Qu9nhoZnKoLV28IskT0="
+    },
+    {
+      "Version": "1.12-snapshot",
+      "SHA1": "kl79M3cgLuAaRCtwdzvTDsRxbu4="
+    },
+    {
+      "Version": "1.12",
+      "SHA1": "cpyRJeiQUwWhgGi/rArgqqMBv6U="
+    },
+    {
+      "Version": "1.13-snapshot",
+      "SHA1": "DXhDng5na+xukomfoQ/pqde9qEw="
+    },
+    {
+      "Version": "1.13",
+      "SHA1": "YcRW6ItIotgT2OKF1tr6narCzPM="
+    },
+    {
+      "Version": "1.14-snapshot",
+      "SHA1": "/CSKGgyDrDGt+Bdu/TZdUOmbsg4="
+    },
+    {
+      "Version": "1.14",
+      "SHA1": "hu+RbiznpSXa+Yb5S66e1K6JlnE="
+    },
+    {
+      "Version": "1.15",
+      "SHA1": "uLpm5oGrCisbfqiZtKoafwPMDVM="
+    },
+    {
+      "Version": "1.16",
+      "SHA1": "oK7vGoxNu9van2+E9GoGSaJF1Ew="
+    },
+    {
+      "Version": "1.16.1",
+      "SHA1": "9Ls7T229jJbp8mveEJpd5HMYt88="
+    },
+    {
+      "Version": "1.16.2",
+      "SHA1": "5uNMUgoTDtNHmKKsg9x5d10A+IE="
+    },
+    {
+      "Version": "1.16.3",
+      "SHA1": "sOIDasjLj4UNo5kWxtbD2Qlxr8Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "antlr",
+  "ArtifactID": "antlrall",
+  "Versions": [
+    {
+      "Version": "2.7.1",
+      "SHA1": "sQl6ZM+GcPzepG0d7CM78i4RRPk="
+    },
+    {
+      "Version": "2.7.2",
+      "SHA1": "VGtSIGIsTZstpFrRiZIkts4ciDA="
+    },
+    {
+      "Version": "2.7.4",
+      "SHA1": "Vulx13m4ru4DZtEaYT3Pn3iCo7E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

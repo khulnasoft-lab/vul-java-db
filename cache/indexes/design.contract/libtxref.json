@@ -1,0 +1,15 @@
+{
+  "GroupID": "design.contract",
+  "ArtifactID": "libtxref",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "7lnKLDwDwpgF+XZNfklFdCy6NxM="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "o7ubSMP8wRqQ2/6VhOAT66IMqBU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

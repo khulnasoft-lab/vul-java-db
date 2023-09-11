@@ -1,0 +1,15 @@
+{
+  "GroupID": "lv.ailab.morphology",
+  "ArtifactID": "lvsegmenter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5P5hZS12Wdc/FEGxs2jqQ+ARXD8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "U+6qWMCGBNS0m3gUWV2niuUBbAQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

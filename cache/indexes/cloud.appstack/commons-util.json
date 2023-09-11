@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.appstack",
+  "ArtifactID": "commons-util",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "AreFZWwO0kRz1CaoWbj5+poPWB0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

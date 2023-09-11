@@ -1,0 +1,23 @@
+{
+  "GroupID": "website.automate.teamcity",
+  "ArtifactID": "teamcity-automate-website-plugin-common",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "w2FNabdol64vJ7g3dVR4XbYh9ac="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "LbW3kXfrW2/oH9w35vltszPR4Xg="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "2mGS2H3zv7utHzcPGFLPnWz3nz4="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "593ZjRD3qiFIvtXCpGZLx2uxp+M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

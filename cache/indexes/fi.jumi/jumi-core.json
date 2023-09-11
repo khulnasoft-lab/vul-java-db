@@ -1,0 +1,55 @@
+{
+  "GroupID": "fi.jumi",
+  "ArtifactID": "jumi-core",
+  "Versions": [
+    {
+      "Version": "0.1.196",
+      "SHA1": "VWRzqHEPmBAGZZe35SFmmZV8J7I="
+    },
+    {
+      "Version": "0.2.235",
+      "SHA1": "EyEPBBlP80eJ4Y0srXQBvMq+Nr4="
+    },
+    {
+      "Version": "0.2.241",
+      "SHA1": "aSqCdV+/XNmtqrRgjAlzYt+Q8sk="
+    },
+    {
+      "Version": "0.3.257",
+      "SHA1": "if1RRlUyOWdzIoSQ8e0rvzgUF60="
+    },
+    {
+      "Version": "0.4.313",
+      "SHA1": "3hR+G/Ga1qyv4/0+0Ndp42lo0eY="
+    },
+    {
+      "Version": "0.4.317",
+      "SHA1": "fBjp/GT8U420n9VM7hb+DMg6GVM="
+    },
+    {
+      "Version": "0.4.345",
+      "SHA1": "TippjKvxNCVD6Zf8lABG8Nlf4eo="
+    },
+    {
+      "Version": "0.4.350",
+      "SHA1": "Ur31sXHEEPCOGRxS2Gqj5ppDTdU="
+    },
+    {
+      "Version": "0.5.365",
+      "SHA1": "J+TA6TzusCYNfI/3kH8b4t9Uiac="
+    },
+    {
+      "Version": "0.5.376",
+      "SHA1": "2hBOKHonLABCgpQG09K5/HjB+qg="
+    },
+    {
+      "Version": "0.5.390",
+      "SHA1": "KsUcgbUyBNuakAx0yL6GaTirNl0="
+    },
+    {
+      "Version": "0.5.437",
+      "SHA1": "RbJBi0Gr0G4sGmv9nbSHy/QUXpc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

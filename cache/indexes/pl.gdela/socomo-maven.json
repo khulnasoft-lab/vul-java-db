@@ -1,0 +1,35 @@
+{
+  "GroupID": "pl.gdela",
+  "ArtifactID": "socomo-maven",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "UJ90X7EhapUWCV6Kv13gmlPb+Mg="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "RoMkMRN3CkDJ5ra8krPYBdCrUzA="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "toy6POZpvD1Eebs+MJZW0dJWMzM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "H6gRxl3cVkXVJw+Fc8R7y2qs9n4="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "7xDFmTrZ70pfYihwjoL3E017wTE="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "zhxTCY/A0NeX+dM0Nd/n94002Vc="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "cMM07GoqzqzMPN7B+crYV66wxuo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

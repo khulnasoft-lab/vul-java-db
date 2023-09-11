@@ -1,0 +1,11 @@
+{
+  "GroupID": "al.bluecryst",
+  "ArtifactID": "bluecrystal.client.jaxws.jdk8",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "TWlQRUqABvnq09Yxor7/m0UFoYs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

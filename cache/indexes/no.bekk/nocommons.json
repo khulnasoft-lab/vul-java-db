@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.bekk",
+  "ArtifactID": "nocommons",
+  "Versions": [
+    {
+      "Version": "0.8.2-donotuse",
+      "SHA1": "1EuQbsj7acBR0a9lw2wa+si3hzY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

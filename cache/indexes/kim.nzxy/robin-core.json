@@ -1,0 +1,11 @@
+{
+  "GroupID": "kim.nzxy",
+  "ArtifactID": "robin-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "GAU0uo7eVJ/pebU69p1CyJX4xTg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

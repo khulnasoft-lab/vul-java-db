@@ -1,0 +1,31 @@
+{
+  "GroupID": "us.fatehi",
+  "ArtifactID": "chinook-database",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "fFjGLuBs9xg2mybulmgsocD6VV0="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "R2p0jIty+qHXXHqtTc4poJmx3GM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "0dfDGqCCjFkZsGKutBADTw201E8="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "Z8k2Gvj/inXbCctwP++cK/+WfwY="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "c/aLYt2gydwCIVlIqnW/iT38XZw="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "zwSLHS76qCBLSCNOJ0bpW50Kr4w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

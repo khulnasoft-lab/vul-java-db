@@ -1,0 +1,11 @@
+{
+  "GroupID": "java_cup",
+  "ArtifactID": "java_cup",
+  "Versions": [
+    {
+      "Version": "0.9e",
+      "SHA1": "bA5z3tJut/Nnvhd+MgdiRZv5e3Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

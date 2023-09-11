@@ -1,0 +1,15 @@
+{
+  "GroupID": "im.bci",
+  "ArtifactID": "jnuit-playn-java",
+  "Versions": [
+    {
+      "Version": "0.12",
+      "SHA1": "FIyNU1MlopF72vq7IM1XzLUiAmM="
+    },
+    {
+      "Version": "0.13",
+      "SHA1": "Eq2Kv7wE3SSeyTP918eh7+Rqmyw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

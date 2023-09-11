@@ -1,0 +1,11 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "jaas",
+  "Versions": [
+    {
+      "Version": "2.1M1",
+      "SHA1": "i9Co4t35lBsKJJh7EkoZIRcF3ws="
+    }
+  ],
+  "ArchiveType": "jar"
+}

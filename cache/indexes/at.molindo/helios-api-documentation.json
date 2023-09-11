@@ -1,0 +1,19 @@
+{
+  "GroupID": "at.molindo",
+  "ArtifactID": "helios-api-documentation",
+  "Versions": [
+    {
+      "Version": "0.9.11",
+      "SHA1": "75mc/99/4Rf1SS0p8u1xE7kkw4k="
+    },
+    {
+      "Version": "0.9.12",
+      "SHA1": "R/tOu3RdUR3c8A3Lj2gziqluHvc="
+    },
+    {
+      "Version": "0.9.13",
+      "SHA1": "KW7hoL2uDPZghemPkTiFmGZoD5U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

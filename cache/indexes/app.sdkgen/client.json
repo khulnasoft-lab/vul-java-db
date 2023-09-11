@@ -1,0 +1,23 @@
+{
+  "GroupID": "app.sdkgen",
+  "ArtifactID": "client",
+  "Versions": [
+    {
+      "Version": "0.2.6",
+      "SHA1": "W2SMz1RKSveLsnvbZb6j0M5MLGI="
+    },
+    {
+      "Version": "0.2.8",
+      "SHA1": "pYS9yzXLMjlYlNi5C0aSGeDdMsc="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "k7sUirGsayrZXfbXAPwHtNl1vns="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "XbZZQ3R3s83UWQpGmUM1jOoivyo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

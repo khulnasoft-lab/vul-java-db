@@ -1,0 +1,19 @@
+{
+  "GroupID": "gr.james",
+  "ArtifactID": "measures",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "sTUS5f4f8y/2d6UAZ5D18RXuZIw="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "5QY/3YqJoRHgLg/P4GMHhOftje8="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "qvJFwujmAQAVYeVQAY95jwgYwH0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

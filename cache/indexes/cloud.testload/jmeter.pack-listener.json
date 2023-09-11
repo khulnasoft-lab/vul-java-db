@@ -1,0 +1,79 @@
+{
+  "GroupID": "cloud.testload",
+  "ArtifactID": "jmeter.pack-listener",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "SWZauWEtPQEuvrh1yO4HbADK0OI="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "2JgrAJh9kNopUvvsMs5oOHaNGME="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "md33Qu1kwRq+p4mnEWhxKfCsETM="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "FWp3b/Tu8XdLPHWIpRrzwOqz0WI="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "GPzsUS5/x2cDhqGnkX32xEeoVVo="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "LxU8FpJKO0uMLBbvImeSU8uDX4M="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "gTvOxUKX4rrq6Kp96PR67he2x2w="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "OdYTo3XVRQRJXtCMqGlb1lpm0PE="
+    },
+    {
+      "Version": "1.9",
+      "SHA1": "8mRPTUtf/fHhT/SFkafV8Ux7dIk="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "zbHFXL0N6hXNnvq1ftp5Je7srt0="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "m37mub7j2yuRlRzjQQKCMA46mp0="
+    },
+    {
+      "Version": "1.9.3",
+      "SHA1": "cDeMl3usZ2EHCVzNTO3u3A9i5fo="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "JFFgClFWy7cFqMfcvmjfe8svF2Y="
+    },
+    {
+      "Version": "2.01",
+      "SHA1": "CkaJmhpKd7iHwDC8ysSxp+qyufU="
+    },
+    {
+      "Version": "2.03",
+      "SHA1": "J4TikcSCrpRQYDv2VdIgVOtCMQM="
+    },
+    {
+      "Version": "2.04",
+      "SHA1": "SYzltLkR5ichZkp78J/vThL+L+4="
+    },
+    {
+      "Version": "2.06",
+      "SHA1": "XbZHrIE3CHXsMaMrLjBFOqTU3Vk="
+    },
+    {
+      "Version": "2.07",
+      "SHA1": "chZFJygqa5bUTeGA7sbfrFCILh4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

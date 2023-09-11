@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.lennertsoffers",
+  "ArtifactID": "spring-spigot",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "D5bL3HTjUL4KGXPv8O1ogH7pk0I="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "smKmMWgK6dlDfVfYvCiZIpJb2qU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

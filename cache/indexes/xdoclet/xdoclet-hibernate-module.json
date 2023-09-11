@@ -1,0 +1,23 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-hibernate-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "/k2/ocYHioS9sbjwyXKtpd09ehs="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "G4+8GmNfnLyOgyahzvTxgbk0AZM="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "uh1RObkiS9RqiuxjFD3aghlx7NU="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "Ja1h0MwNiljndr1RQDSdF0GoZTA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

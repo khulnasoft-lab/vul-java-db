@@ -1,0 +1,27 @@
+{
+  "GroupID": "africa.absa",
+  "ArtifactID": "inception-security-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "q7G39KcBJ8qXU6onSWUp1ihch+A="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ijtLtHzcjIW9LegATQELh9J9yr4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "vMVcrmanktr7Z+oojM3oBw01C0I="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "1vIIwzrSygc/s3uhmZexQWN+QJw="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "zhKfsQ+uzZ7Ubzpb5Dl5RViDyms="
+    }
+  ],
+  "ArchiveType": "jar"
+}

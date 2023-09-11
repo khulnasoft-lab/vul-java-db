@@ -1,0 +1,11 @@
+{
+  "GroupID": "sc.tyro",
+  "ArtifactID": "percy-screenshot-provider",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "PdEWj/DC4wvMFDGsh0mnKSVohHs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

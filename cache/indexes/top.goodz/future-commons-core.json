@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.goodz",
+  "ArtifactID": "future-commons-core",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "VQb966ISJ/kyLJ87Q7yKsPf/978="
+    }
+  ],
+  "ArchiveType": "jar"
+}

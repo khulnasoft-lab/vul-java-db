@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "beehive-netui-pageflow",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "Hzb+GCh23BrlNuIrQxhLSKmZEjE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-tschema_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "LLXqjxKkuX7odRz6z0mAFLKDpVs="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "ew/rEEllD8Qy0ZYIClebbZ+rkKk="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "pfi35VXBm853xOI+YfSrdXDdrF0="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "wwlvV1zJa3tcunfx8iOs66EByNw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.redberry",
+  "ArtifactID": "combinatorics",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "33uU4H2h0JpRmrWSq6/NVcQS1lg="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "P7hLmARiFNfLGHcg69ITolGv/40="
+    }
+  ],
+  "ArchiveType": "jar"
+}

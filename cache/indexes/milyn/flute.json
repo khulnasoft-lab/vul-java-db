@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "flute",
+  "Versions": [
+    {
+      "Version": "X",
+      "SHA1": "8CcGNSdyalDWwLM+E/B/ii3HayE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

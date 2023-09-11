@@ -1,0 +1,15 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-xpom-plugin",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "0JEf+yRorQ9GaitMct9ZuKGH2WE="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "EAxu16JVnR0rjrkni+H2xb1imSI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-ws-xmltypes",
+  "Versions": [
+    {
+      "Version": "dev-1",
+      "SHA1": "G2shHu82DY3hgRAZSByTkRLxqVk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "mysql",
+  "ArtifactID": "mysql-connector-mxj-db-files",
+  "Versions": [
+    {
+      "Version": "5.0.12",
+      "SHA1": "mYVira9IX8U04bNPAOcPEUdIIjk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

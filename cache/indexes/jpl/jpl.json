@@ -1,0 +1,19 @@
+{
+  "GroupID": "jpl",
+  "ArtifactID": "jpl",
+  "Versions": [
+    {
+      "Version": "3.1.4-alpha",
+      "SHA1": "Y3SZ6xJSZIZm1n3DWkP44g7aqus="
+    },
+    {
+      "Version": "7.0.1",
+      "SHA1": "WHn4/Kqy5uGY9Xv8upFOvdhqqhE="
+    },
+    {
+      "Version": "7.4.0",
+      "SHA1": "cnzeCienLNheL4tzOArznxnr9so="
+    }
+  ],
+  "ArchiveType": "jar"
+}

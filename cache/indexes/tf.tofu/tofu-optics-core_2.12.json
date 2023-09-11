@@ -1,0 +1,43 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-optics-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "V52MtEvWkHubM41VWqmT8ovLilw="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "FP4q1ElmA6/TdfNiD0xU5BbOrtQ="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "lJwVIa1ZILbOKxmd1NSCFpH9kZw="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "qa8dZ23qMl+KyT/6n3y1TBW6hTs="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "DTwbgc/1rfHziDLnXMNAyso70BQ="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "NFjOIeoGJBZtCtEtv+MtMLQy2mI="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "Ll5dLeBQ14JC6L9k8poUpc+YVa0="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "kgEhLFf9ySCMQ8N8ZkFS/KUFAAI="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "eKiQlsDrZB+4tog7wcKMWljDfkY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

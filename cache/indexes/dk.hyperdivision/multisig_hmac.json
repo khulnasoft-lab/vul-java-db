@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.hyperdivision",
+  "ArtifactID": "multisig_hmac",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "UvXXNanOZzKAAZr+C8vDh7cv9rU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "F73F596iiW9cZnR1TdeGHHXR1aY="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "37/gysWgGWndXaTcuFEhOV/SxPQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

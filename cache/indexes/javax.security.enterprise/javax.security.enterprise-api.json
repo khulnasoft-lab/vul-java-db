@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.security.enterprise",
+  "ArtifactID": "javax.security.enterprise-api",
+  "Versions": [
+    {
+      "Version": "1.0-b05",
+      "SHA1": "lxe9QV5obwAm3Mvyswenuin4Eoo="
+    },
+    {
+      "Version": "1.0-b06",
+      "SHA1": "wUsER01BIZ4H5J6/R1uC5v/cFh4="
+    },
+    {
+      "Version": "1.0-b07",
+      "SHA1": "TONI0Vt7GqAxBHvkCjJ3TRe0upE="
+    },
+    {
+      "Version": "1.0-b09",
+      "SHA1": "32s5ppHbnAnTVYQqMpy+IIc9vEQ="
+    },
+    {
+      "Version": "1.0-b11",
+      "SHA1": "OAotZuIj2PBiejLv94CYqcrCDeg="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "SrD2CHiYgc24WfjgeYuClKrj5O0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

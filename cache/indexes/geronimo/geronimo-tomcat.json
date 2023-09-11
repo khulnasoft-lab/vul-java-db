@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-tomcat",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "yZTpefDHW6h+eFsVcwAZYFTDta0="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "Ilz4065g4vVDunIS46AWvYbLXEc="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "ib7ET+gAQLbdNJh+kVpnkDC/1ds="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "MKaZWCI6LGIV4mxaGgnjC8aRX7k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,51 @@
+{
+  "GroupID": "uy.klutter",
+  "ArtifactID": "klutter-db-jdbi-v2-jdk6",
+  "Versions": [
+    {
+      "Version": "1.16.0",
+      "SHA1": "ECRTElmmZGEoFiXiF9iAV1Ns/ks="
+    },
+    {
+      "Version": "1.17.0",
+      "SHA1": "OQPypUgGeVCqTaVvlUjfKBtHgM0="
+    },
+    {
+      "Version": "1.17.1",
+      "SHA1": "bOpdaXLGUeHlpIHt99G7C9XwelY="
+    },
+    {
+      "Version": "1.17.2",
+      "SHA1": "USy2N5K4gHe/OMjGIcuAq+490Lg="
+    },
+    {
+      "Version": "1.17.3",
+      "SHA1": "+/H51PuDJbw8eDpOrzptO4QvhTk="
+    },
+    {
+      "Version": "1.18.0",
+      "SHA1": "vhj1a+cpKYtw3yrNJ4oVbowJraw="
+    },
+    {
+      "Version": "1.19.0",
+      "SHA1": "FQFlN3FszRqNwp6ooXo0ozCeyJk="
+    },
+    {
+      "Version": "1.19.1",
+      "SHA1": "mNpfPJ4LHPszhom/aDtM+TYQyUY="
+    },
+    {
+      "Version": "1.19.2",
+      "SHA1": "KSuZfLdPJez01JsurVv4awI5LsI="
+    },
+    {
+      "Version": "1.20.0",
+      "SHA1": "Fn+RA0SIRBCwLREjWIlJ+U4igYY="
+    },
+    {
+      "Version": "1.20.1",
+      "SHA1": "VjhY1FBvjxmBQISnTRUioVe09m4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

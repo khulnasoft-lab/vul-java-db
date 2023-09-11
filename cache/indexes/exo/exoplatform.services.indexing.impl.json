@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.indexing.impl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "QsV7Wr3dEiI+FyfCMpL8pAr8294="
+    }
+  ],
+  "ArchiveType": "jar"
+}

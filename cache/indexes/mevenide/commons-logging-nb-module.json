@@ -1,0 +1,11 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "commons-logging-nb-module",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "6hmeZBvdV8irtCxBSa492/8Icfc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

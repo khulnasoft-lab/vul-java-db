@@ -1,0 +1,15 @@
+{
+  "GroupID": "metaclass",
+  "ArtifactID": "metaclass-jmx",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "lwcZpakvpiEyC6hpkZVnEOHHK+w="
+    },
+    {
+      "Version": "1.1-rc3",
+      "SHA1": "oimlqPyDtx+TIcEhL+4oyyKtj+4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

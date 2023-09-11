@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.caroline",
+  "ArtifactID": "caroline-sdk-analytics-jvm",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "2vcAJAZ7vo5VgKXJnsqF4xjvGfc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

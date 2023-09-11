@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "beehive-netui-scoping",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "qe1Wo+nN6L1Mo6l2+/dstfHdG1w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

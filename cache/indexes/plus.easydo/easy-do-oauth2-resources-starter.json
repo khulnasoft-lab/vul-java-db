@@ -1,0 +1,11 @@
+{
+  "GroupID": "plus.easydo",
+  "ArtifactID": "easy-do-oauth2-resources-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "rZtoDM+IzEEQZPZIApg3UNEK4Y4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

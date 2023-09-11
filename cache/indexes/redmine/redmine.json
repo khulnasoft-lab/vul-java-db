@@ -1,0 +1,31 @@
+{
+  "GroupID": "redmine",
+  "ArtifactID": "redmine",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "fuz5AArl7HMmpmnnrAsLv+5P1/g="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "p3JGBnhfANftQ6IxV8HpOU3iqcQ="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "RgxHXioSTwMufR6YlPX4DxR0uKc="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "VG9To96DPxTFn2bxxp2xRmx3bcM="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "flTuNBdqIlJZzKbHRb4g89Fztak="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "UQouQhVxK665yJkxfOWA5p1Af7Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "jaxme",
+  "ArtifactID": "jaxme2-rt",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "CuTbfSodTGxUVnCx5FojRRZzIQU="
+    },
+    {
+      "Version": "0.4beta",
+      "SHA1": "zAy44yIgNDU7cKDz5cqWnkHvGow="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "lFBRte4+8ShYbxOis+dXB+uKGRs="
+    },
+    {
+      "Version": "0.5beta",
+      "SHA1": "ZLM1dBh+cRrSQI0hfoAyMhz7QWk="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "HjQaed/7uGu9mKxHrh4KwQeajjM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

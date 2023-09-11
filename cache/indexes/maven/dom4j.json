@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "dom4j",
+  "Versions": [
+    {
+      "Version": "1.7-20060614",
+      "SHA1": "9jBc1RX98FvzY9jACCS0SOyo2Sg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

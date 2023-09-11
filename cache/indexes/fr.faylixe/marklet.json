@@ -1,0 +1,35 @@
+{
+  "GroupID": "fr.faylixe",
+  "ArtifactID": "marklet",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LsGrxvoz/tbUAMCe9RPdmBDWmO0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Mr9WHCYtD45pjOPAO1jDhbQgvfA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "ENS6bCm+cZtj03IvoB6tyfNU9cQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "nd4QUUday+NKdphbnFvrm+0KmCg="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "C7NFQLhQDou0Yu4Jf04mBLcuzo8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "/eDYzXyIwoXoZfpi0bLcWnh20Pw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "3xKckZQ1qxb/0OuoCls5JNfMzhk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

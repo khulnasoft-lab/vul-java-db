@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.zrbcool",
+  "ArtifactID": "pepper-metrics-core",
+  "Versions": [
+    {
+      "Version": "1.0.11",
+      "SHA1": "fI4PLXG7AHDhp6zwxrLbmQ0lxq0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

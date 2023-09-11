@@ -1,0 +1,87 @@
+{
+  "GroupID": "wf.bitcoin",
+  "ArtifactID": "JavaBitcoindRpcClient",
+  "Versions": [
+    {
+      "Version": "0.9.0",
+      "SHA1": "ACz2T9lYFErfppRvr+VDCDKSrRU="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "GsypKzMHbxfEkwu0HshVvoGPglI="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "lTEitEZVo/VvRZIgqsj0DuNSkbw="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "iLFnnwLU5DL09BTcyH8ANg8Q2IA="
+    },
+    {
+      "Version": "0.9.4",
+      "SHA1": "j8IFBLt9BWGnR4m4+bSGImuzWNA="
+    },
+    {
+      "Version": "0.9.5",
+      "SHA1": "LfU86r+AYdTU+3gZmwp6QKBRW/0="
+    },
+    {
+      "Version": "0.9.6",
+      "SHA1": "IAlo/Gl7+X9H1eHuD/Bh+aowTLQ="
+    },
+    {
+      "Version": "0.9.7",
+      "SHA1": "/RfQ3vd4DTPFv0NUuX7dWZGEwHw="
+    },
+    {
+      "Version": "0.9.8",
+      "SHA1": "R1OXzK0ZQlXXS35kBqgNOk1GPU8="
+    },
+    {
+      "Version": "0.9.9",
+      "SHA1": "EtcPF7AmoZra+Fr5lf1enIv9Lms="
+    },
+    {
+      "Version": "0.9.10",
+      "SHA1": "QEXuAPRZnC4vxZ91SidxlWkSjP4="
+    },
+    {
+      "Version": "0.9.11",
+      "SHA1": "jA7hZWYmiKSe1EXKtn0j595TrRU="
+    },
+    {
+      "Version": "0.9.12",
+      "SHA1": "Y9zFrv3ESAN9ljtAegyBoC9NT6k="
+    },
+    {
+      "Version": "0.9.13",
+      "SHA1": "26lIOiNLHZ8LU6tD73Q8DcUduy0="
+    },
+    {
+      "Version": "0.9.14",
+      "SHA1": "nk+iL6ypKGpDzlk1tp7ljAnHabQ="
+    },
+    {
+      "Version": "0.9.16",
+      "SHA1": "JRePeRnuWzQvB8eRGzxcv5LKSLA="
+    },
+    {
+      "Version": "0.9.17",
+      "SHA1": "YxomeWddgIwDi1CVcgQVDF442Es="
+    },
+    {
+      "Version": "0.9.18",
+      "SHA1": "cbnGmJ7R86Ls0MmXcrJo/0IXGxs="
+    },
+    {
+      "Version": "0.9.19",
+      "SHA1": "Ljp86XDJ95TwM9ZaMitRzj0jJws="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "jBSeAMd220Y+tJrbLnWzRowhMtw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "gr.grnet",
+  "ArtifactID": "cdmi-spec",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "b+aVaOjsE9i2YzGgNbB9g7OoiHk="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "kHJM0wtUZjwuvbXEnpb+9+LCwm4="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "vOxPN+mnZHOUGKy/uBxTMt6IXKI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,55 @@
+{
+  "GroupID": "fi.e257",
+  "ArtifactID": "tackler-api_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "cA5bogv3YIosN1IdLT6WmknmRwc="
+    },
+    {
+      "Version": "0.20.0",
+      "SHA1": "eAagCIn6b9Nzwxf6aG8khgQwi+s="
+    },
+    {
+      "Version": "0.21.0",
+      "SHA1": "oXMf9TH+naRVBVM6pWBTjA113qg="
+    },
+    {
+      "Version": "0.22.0",
+      "SHA1": "pweqqeQFtg4WFbLSHocbLuR7cio="
+    },
+    {
+      "Version": "0.23.0",
+      "SHA1": "b4nV5a8aKz0f8+Brk5GipGsb+yw="
+    },
+    {
+      "Version": "0.24.0",
+      "SHA1": "AL+KvTpZoFVUHWmvxcuLENy4J2w="
+    },
+    {
+      "Version": "0.30.0",
+      "SHA1": "RSJ3wpQzcG8a1XpwSwi95KLbGEY="
+    },
+    {
+      "Version": "0.31.0",
+      "SHA1": "z3r/bVcPAFaiE2rLY1UkIPkCdwQ="
+    },
+    {
+      "Version": "0.32.0",
+      "SHA1": "+c2gn4XuROZ6N36uMBQIMcu7yz0="
+    },
+    {
+      "Version": "0.33.0",
+      "SHA1": "4jXxD4R9raccl9OdbrKefPfcVmE="
+    },
+    {
+      "Version": "0.34.0",
+      "SHA1": "CyGYcUhfvduNRwbRAPiczwEHVEU="
+    },
+    {
+      "Version": "0.35.0",
+      "SHA1": "Zm1cXlwH7Dy0vd5Zyb+cOz7ImCo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

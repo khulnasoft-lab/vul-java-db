@@ -1,0 +1,15 @@
+{
+  "GroupID": "codes.vps",
+  "ArtifactID": "mockta-ext-model",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "jV56PyG0J3nS9Lvf8xZXZYh836c="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "tpA1pqPvZEqdkMkQN1etskC724U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

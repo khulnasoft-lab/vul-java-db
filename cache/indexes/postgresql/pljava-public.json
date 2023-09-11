@@ -1,0 +1,11 @@
+{
+  "GroupID": "postgresql",
+  "ArtifactID": "pljava-public",
+  "Versions": [
+    {
+      "Version": "1.0.0b4",
+      "SHA1": "M7OgpJH0FZtHkE/tZjnN+jOXids="
+    }
+  ],
+  "ArchiveType": "jar"
+}

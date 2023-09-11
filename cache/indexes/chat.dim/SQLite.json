@@ -1,0 +1,35 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "SQLite",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "By2StV8Emd1mjZl4mJ8MBteVD54="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "SeURFJSm2h7M1G/Gex3/waR/GrA="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "f/xwILPly00SApVVVr8GQYc7s3A="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "Zt+dCd3onal0sf6ggN+UmhFa/Fw="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "xCGxV/9L3yr0H9fyz9gARiWlkzs="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "5cBTK1DYpVH5ivXheBVd7mCZ5ZE="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "1kf80gfote0Py1CZpRBpcZ66pP0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

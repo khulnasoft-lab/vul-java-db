@@ -1,0 +1,19 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "osgi",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "u//nFPc6A2HU5bjA9kM2wIjenf4="
+    },
+    {
+      "Version": "3.0m7",
+      "SHA1": "cYQrI4uPXeW4drNGrQ0Mc/J+BOk="
+    },
+    {
+      "Version": "3.0m8",
+      "SHA1": "cA9RS54HSpCKgpFXjxADzcvmPGA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

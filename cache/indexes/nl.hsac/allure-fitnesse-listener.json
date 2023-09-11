@@ -1,0 +1,35 @@
+{
+  "GroupID": "nl.hsac",
+  "ArtifactID": "allure-fitnesse-listener",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "bMGXofpDwuQC54JCEsPfZ8ASTJA="
+    },
+    {
+      "Version": "1.0.0a",
+      "SHA1": "HzEuTut4F1UVrxEGdPMvv2c+h8c="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "BhQfT5hC2aFqrAkqkimNLj05aUM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "4TuTnhDcobEqscIaNBK+hPshQBg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "mudzT+cWoq+J1sg5xXETzTD6GQU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "zX12Ayae5P3iV/vt6NvtoBuwotM="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "WJ9abVvJocoeOTdVTUKTfvsEQiU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

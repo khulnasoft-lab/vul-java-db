@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.catheu",
+  "ArtifactID": "flexmark-ext-math",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "g4riRmitp/RJYfp52+1Nk5KmkCM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

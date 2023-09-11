@@ -1,0 +1,15 @@
+{
+  "GroupID": "vip.lematech",
+  "ArtifactID": "hrun4j-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "A5WbZkbRWYZG3XmUBLhkQP1jH00="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "dlKfBjAqZGo9UJIJ2pUe6sIix/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

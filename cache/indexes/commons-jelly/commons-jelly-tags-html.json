@@ -1,0 +1,27 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-html",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "WFQd/Q8kyyY/GdAhRG8RN9/B1q8="
+    },
+    {
+      "Version": "1.0-beta-1.20030104.103227",
+      "SHA1": "Aj961F2i24SHifQtoFqj/D3jzmU="
+    },
+    {
+      "Version": "20030211.143308",
+      "SHA1": "f9mK4VLJbdD+AXcIHPl4G2/Z4L8="
+    },
+    {
+      "Version": "20030317.100924",
+      "SHA1": "i33nfZEerRE7J332uP2zWRRkQ58="
+    },
+    {
+      "Version": "20040902.072530",
+      "SHA1": "mUxTzT5Xx2N5IGC7kFNCjez62Uw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

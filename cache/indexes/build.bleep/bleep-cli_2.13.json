@@ -1,0 +1,95 @@
+{
+  "GroupID": "build.bleep",
+  "ArtifactID": "bleep-cli_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1-M8",
+      "SHA1": "4qPB2P3jvnmHtrtDf3lRGB4xWYg="
+    },
+    {
+      "Version": "0.0.1-M9",
+      "SHA1": "tzawu4zKvgOWXHOqG/qYprGs9Dw="
+    },
+    {
+      "Version": "0.0.1-M10",
+      "SHA1": "lisMZQrt1/ukTvSJCRzXbQhk4O0="
+    },
+    {
+      "Version": "0.0.1-M11",
+      "SHA1": "VzweG2C9MORcPxokgK8FJz0Haz0="
+    },
+    {
+      "Version": "0.0.1-M12",
+      "SHA1": "Z29dm8jmFuH/DH7b11NWjQcjWGw="
+    },
+    {
+      "Version": "0.0.1-M13",
+      "SHA1": "nU+uhiybCcUvMOnaA6MmRJmV1XY="
+    },
+    {
+      "Version": "0.0.1-M14",
+      "SHA1": "n78IOwkY1TyKeCo8Xm5x6lJwStw="
+    },
+    {
+      "Version": "0.0.1-M15",
+      "SHA1": "tUx3SzXsgPgH6zJFPL1VBDJASZs="
+    },
+    {
+      "Version": "0.0.1-M16",
+      "SHA1": "VlsdnoGKEIb7YJE3ZB+UJxsLklE="
+    },
+    {
+      "Version": "0.0.1-M17",
+      "SHA1": "ShiGk8MM4semvSuPsR9boEKMpkE="
+    },
+    {
+      "Version": "0.0.1-M18",
+      "SHA1": "ll8aif1vj7FD5dYeLrgurx4OPfw="
+    },
+    {
+      "Version": "0.0.1-M19",
+      "SHA1": "mcqMiEKqnaS0/nvio4Y6O/bCv34="
+    },
+    {
+      "Version": "0.0.1-M20",
+      "SHA1": "o6EQCFQdHbz+xT7aXvAHvMjlRtk="
+    },
+    {
+      "Version": "0.0.1-M21",
+      "SHA1": "IkxfQ5ZvgCyj6sYJ/VhgvyedDto="
+    },
+    {
+      "Version": "0.0.1-M22",
+      "SHA1": "zl6U4IoFAlCI1EDFB0ubfI/RTjQ="
+    },
+    {
+      "Version": "0.0.1-M23",
+      "SHA1": "nkPefp94NVk4vCKMmTUcV6/gkv8="
+    },
+    {
+      "Version": "0.0.1-M24",
+      "SHA1": "8UBIt35DWuexPrBMPz2ouEnydik="
+    },
+    {
+      "Version": "0.0.1-M25",
+      "SHA1": "GMfUQHAyd33p1UH73/mY6uB3nA4="
+    },
+    {
+      "Version": "0.0.1-M26",
+      "SHA1": "klWWprO72jtt0KWXjEy2QUd1Lx8="
+    },
+    {
+      "Version": "0.0.1-M27",
+      "SHA1": "Rlo/Ki/ydqaUIDghyDBPjlEmltk="
+    },
+    {
+      "Version": "0.0.1",
+      "SHA1": "i42szaXHmD5vglnORBoN5i+JAHQ="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "vT2ws+IHD+Oa7kTahIWSGTUjRqw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

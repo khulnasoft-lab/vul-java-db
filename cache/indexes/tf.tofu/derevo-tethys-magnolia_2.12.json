@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-tethys-magnolia_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.6",
+      "SHA1": "ze62YRIh6oiC1qb+J89aF512LLU="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "SfUc3ZQEIfiWf8qcUiwKDMAXj1o="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "nglu/hTlWxP3fUV3fTuN+r7l1dk="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "PpqvUXrztTNOjYE6knV55RPm10k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.makkarpov",
+  "ArtifactID": "play-utils_2.11",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "j9D7dfsjc/mDYOmg00VCLWjV6tQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

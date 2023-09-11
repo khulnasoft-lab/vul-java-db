@@ -1,0 +1,39 @@
+{
+  "GroupID": "pl.tfij",
+  "ArtifactID": "check-tfij-style",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rRHYHhBISve+f+1ItFB0lbTcs+A="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "+qydhk3LO8nMzpUaFxXMBAUIvEU="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "mDdLwhT24yopJxWo3C4s4wv9WWk="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "t6m2zqdOHMMnWLJby2AFled8Nx4="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "UsPxQYfy3oCaz/GDlUf/J/aLCzg="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "vnklgDXUpF5GqlgdTlE47SfyPWQ="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "g2PzLgXyqxEYuz08AaTybg/YE2Q="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "IX/B90hkAw8T/x7bvLvOFPTwo4k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

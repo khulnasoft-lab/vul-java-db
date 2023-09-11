@@ -1,0 +1,35 @@
+{
+  "GroupID": "ml.sparkling",
+  "ArtifactID": "sparkling-graph_2.10",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "lHL3Nifm7cje8F/r+sGSJwlePVo="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "8Na87ttpSoYPkLpCXkcAR6zbFYI="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "D7XWpNz7KA/YCptJZa8Kj0xRUog="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "sRm6SyshQt062pwVyXjBNc0bwRY="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "lAwaLc/Kf89pvezpvPnGV1b4PIs="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "neHYRYzrF8RhonrN6r+BvWPp0QE="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "hUg/FshPEkeNgl3P2WThueHKjk4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

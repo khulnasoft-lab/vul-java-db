@@ -1,0 +1,51 @@
+{
+  "GroupID": "wtf.nucker",
+  "ArtifactID": "KitPvPPlus",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "LCwC+H6ChK2Bw2CwHtIk+VtQpCs="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "DQPlFbU6hgBh9AR0QAQ0JKqadWo="
+    },
+    {
+      "Version": "0.2.1-HOTFIX",
+      "SHA1": "v9ZgFYP8vzWnGtPk+RS6UtFtjHU="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "JsBgZYwbk59NgWiBY5tuQk3Lt8A="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "/79nx8wW++EWqPdiegszHcKANMs="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "1icHDJ7COrIXKfEDf4v3cCfiCKc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "zdnzHJxapCXIBstEEXbHvUC6IkM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "A6/Daz/sng5e/bwWKJRc98Xzs2Q="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "nxC0Z3hRmXs6f+04Us8OQS0tbwA="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "QcaCRQZOtfGJtY1EyFwCshIebvo="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "3DchDVhPB9FCWMVB9We2fRynaKo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "idb",
+  "ArtifactID": "idb",
+  "Versions": [
+    {
+      "Version": "3.26",
+      "SHA1": "JSXfurVPs5BbkREsa6/dlSmQewQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

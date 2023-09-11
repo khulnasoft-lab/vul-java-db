@@ -1,0 +1,23 @@
+{
+  "GroupID": "cool.lazy-cat",
+  "ArtifactID": "orm-api-base",
+  "Versions": [
+    {
+      "Version": "2.3.0",
+      "SHA1": "3ekptyqDZ4g+t0zBcmEsU9UwqnQ="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "USId2cCeZLyx3XBAfJhUxPMo7d0="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "4qyfQiX8hRaiqvgD0ScVVh9Mp3U="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "Drl1JC2ewelWlb3jpY6cmcQPUj8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

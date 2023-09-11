@@ -1,0 +1,27 @@
+{
+  "GroupID": "ky.korins",
+  "ArtifactID": "blake3_3.0.0-M3",
+  "Versions": [
+    {
+      "Version": "2.0.1",
+      "SHA1": "3bgjk3TZcEKTUm2fmTAc50Nd224="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "Ti05GJ9b8zyv5hcesBeis5wV5OY="
+    },
+    {
+      "Version": "2.1.0-0-6476b6e4-20210104-1114",
+      "SHA1": "qy6okVrb7Q+mMP9ooqKSHh5hfIE="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "YDznO4o3YIoWzSkpagg9qCkpph4="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "Q4RmZnc1XxubE+Bt7AiWIRGVans="
+    }
+  ],
+  "ArchiveType": "jar"
+}

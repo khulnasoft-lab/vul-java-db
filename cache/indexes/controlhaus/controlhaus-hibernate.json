@@ -1,0 +1,15 @@
+{
+  "GroupID": "controlhaus",
+  "ArtifactID": "controlhaus-hibernate",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "h9uGKLc1XIgFFSYsVvwz7mgBM0o="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "8ixvoudS78pE4q3j6cTuXBwiK44="
+    }
+  ],
+  "ArchiveType": "jar"
+}

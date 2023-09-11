@@ -1,0 +1,51 @@
+{
+  "GroupID": "top.xiqiu",
+  "ArtifactID": "north",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "yX/fywLpt+yqnfZdARBqNk0XWJ0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "jdaWI0VEl1XnwaSHUp0QNtNEPWE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "0ET44llEXtjUcCYJP/2vIO6DlXI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "QtXy1UMEVFyblCdS3+PJqp1JZD8="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "nmdSGckgWs9vHfkkkHC/9XR898M="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "S0Lfb9NDGPF815MkGKVyj/MlWX0="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "A4rxfD5ApLqINYXynJzKAN0NRWI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "lYj96NEATxNkIad3SJ2XiNr+dTk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "py4nzJIo2pHaB7MjMgO4ZqS4xe8="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "6XGwysZ43YqyZ8xKpCqupzs5ivI="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "oKptC+C0l4MKf9JtbywIZccwG4o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

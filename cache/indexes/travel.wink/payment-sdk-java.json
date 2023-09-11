@@ -1,0 +1,191 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "payment-sdk-java",
+  "Versions": [
+    {
+      "Version": "19.0.13",
+      "SHA1": "w6X91sBpATIW0OoEKfalKTTOG3k="
+    },
+    {
+      "Version": "19.0.17",
+      "SHA1": "vAODbRa44EQqPOH59KU15okwtkc="
+    },
+    {
+      "Version": "20.0.0",
+      "SHA1": "QdX0eRwDfbzaw185RPtQtvTFVKg="
+    },
+    {
+      "Version": "20.1.0",
+      "SHA1": "yoI3BOOR9wn15sfmFxLY5OBbpzU="
+    },
+    {
+      "Version": "20.1.1",
+      "SHA1": "VpzIi5/35o1s39ASzLZTTSGdCpo="
+    },
+    {
+      "Version": "20.1.2",
+      "SHA1": "YNNHn1rw8gm8q0SHEMeSo0e/phI="
+    },
+    {
+      "Version": "20.1.3",
+      "SHA1": "CRfmb+K6xW+prpTusSxCqfmLgas="
+    },
+    {
+      "Version": "20.1.4",
+      "SHA1": "nTOf7a3AC5W0zNV40XezBcqxsTg="
+    },
+    {
+      "Version": "20.2.0",
+      "SHA1": "ytX9e/eN9NrSWomFs/5K5jPbq1M="
+    },
+    {
+      "Version": "20.2.1",
+      "SHA1": "1QpW58XAaeac0bxnWY/wqt0cMdE="
+    },
+    {
+      "Version": "20.2.2",
+      "SHA1": "+Wg1XtcULGZ9g2bXCMbLG4ZV5OQ="
+    },
+    {
+      "Version": "20.2.3",
+      "SHA1": "v4JyQISxSuUiBYkq3zVPez1F3z0="
+    },
+    {
+      "Version": "20.2.4",
+      "SHA1": "1xdnmNPqa1O/kkp/ic86L1CXe/s="
+    },
+    {
+      "Version": "20.2.5",
+      "SHA1": "tuB3qfw+xm6xoNYMD9gwP/E91LM="
+    },
+    {
+      "Version": "20.2.6",
+      "SHA1": "PDoR8kT4nIVWNt9ujh/3K1E4IvY="
+    },
+    {
+      "Version": "20.2.7",
+      "SHA1": "smzfDZrl8wN0IVl+omAsNcNuup4="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "6dq2lLu4+usf3/DXS0R66XtgWLk="
+    },
+    {
+      "Version": "21.0.1",
+      "SHA1": "JlFbQBfDEmDvvxjc1Zc2LBdUutE="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "ChfaNbaesdfi0RSVnVdLLxTmodw="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "xfLYF7q2PkpC3jkuh25+D5ZNMHw="
+    },
+    {
+      "Version": "21.3.0",
+      "SHA1": "u/2vCz5kzYRkAqCSgK2gkUYtg+k="
+    },
+    {
+      "Version": "21.15.1",
+      "SHA1": "tOWsopqYB6UUt4GwxFcBtRF3pds="
+    },
+    {
+      "Version": "21.16.3",
+      "SHA1": "f5kACwq9blqdfk4kajMZvC0GZVU="
+    },
+    {
+      "Version": "22.0.1",
+      "SHA1": "K9I3pghjKDrADiGHz/qmFSxq1v0="
+    },
+    {
+      "Version": "23.1.0",
+      "SHA1": "URGlrUVOkJY4WhjGzfmtxQyRK/o="
+    },
+    {
+      "Version": "24.0.0",
+      "SHA1": "FKjMzPPNZHoCKgvhd1jzSi4WjQE="
+    },
+    {
+      "Version": "24.3.3",
+      "SHA1": "z4qcaddXYKtPymUX/FFdqj3DH+E="
+    },
+    {
+      "Version": "24.7.0",
+      "SHA1": "lSvMKw8FqlVuPX8NSkgc/LJjp0A="
+    },
+    {
+      "Version": "25.0.3",
+      "SHA1": "C8A1ZyRt15ptmRpSNW/VgmFWrWM="
+    },
+    {
+      "Version": "25.1.0",
+      "SHA1": "tcEjqBJi0qhFTUx48rbVs4UFJ4I="
+    },
+    {
+      "Version": "25.2.3",
+      "SHA1": "3Xou434px+UX5JaWYXE3In54tas="
+    },
+    {
+      "Version": "25.2.7",
+      "SHA1": "hIgCKI/czrha0fPjvf/0kBhMvw4="
+    },
+    {
+      "Version": "25.3.0",
+      "SHA1": "y5GDR5TUEcZaFTf6Nmde+MIIaoQ="
+    },
+    {
+      "Version": "25.4.2",
+      "SHA1": "wd924teW4MfgVcSuI1Kiz0iSihY="
+    },
+    {
+      "Version": "25.6.4",
+      "SHA1": "dkdj42krs5OuAxBNda3jSujpChA="
+    },
+    {
+      "Version": "25.6.8",
+      "SHA1": "abAt711IKiT9XNsflpAIw5s2q9M="
+    },
+    {
+      "Version": "26.0.3",
+      "SHA1": "ztkFhjv06uCVfALCSeFpBH/eHSg="
+    },
+    {
+      "Version": "26.1.1",
+      "SHA1": "YnDmTqLCz6oAKDsvYl1ilA3p/qk="
+    },
+    {
+      "Version": "27.1.1",
+      "SHA1": "GlcVEboXCJijegBDRb+OHb2SXVQ="
+    },
+    {
+      "Version": "29.0.0",
+      "SHA1": "1Y/yVfKnaa2xVd+kdzkOgAizT2I="
+    },
+    {
+      "Version": "29.3.0",
+      "SHA1": "G8/9u1I6IJIfeRJr5nggZiqCRx8="
+    },
+    {
+      "Version": "29.7.0",
+      "SHA1": "FSXYtZnNc5xDKwOkHfnHZWJ3FBo="
+    },
+    {
+      "Version": "29.8.0",
+      "SHA1": "SqBZ20LxLeSbswte0nNfBF+M5d4="
+    },
+    {
+      "Version": "29.8.3",
+      "SHA1": "BeJjDIi2wR40kjKq0d7ZLhylMds="
+    },
+    {
+      "Version": "29.8.8",
+      "SHA1": "xi1AfEkd4gQWVp7exnD4SVJDa/4="
+    },
+    {
+      "Version": "29.10.0",
+      "SHA1": "H4iU2d9aLcsDH7uu8OZBy5g9XnI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

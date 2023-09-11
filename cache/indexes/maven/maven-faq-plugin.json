@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-faq-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "5y/wJB45XzLRKehS5vc4Wg7LQz4="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "fPfPkKRE7OPdegPIKo1fcN6XEH8="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "Vx2lX0THEyC2R7H+00yL30NG4sg="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "aALaIV5P+dSAjAAq757cQszb7uY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

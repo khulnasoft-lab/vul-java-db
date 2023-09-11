@@ -1,0 +1,11 @@
+{
+  "GroupID": "sk.upjs.paz",
+  "ArtifactID": "graph",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ocx896KHY6O/2n+n75E+Jtj06EY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jarjar",
+  "ArtifactID": "jarjar",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "rEoEiaU6Wn/cHemHmeAo24xFOZM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

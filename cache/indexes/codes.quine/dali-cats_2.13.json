@@ -1,0 +1,15 @@
+{
+  "GroupID": "codes.quine",
+  "ArtifactID": "dali-cats_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "PRqQkpY+uLa1ji7YeJT40Mf3E2k="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "Zj406+NH+L7h6v4g1S3MvdtC2dg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

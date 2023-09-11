@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.xml.parsers",
+  "ArtifactID": "jaxp-api",
+  "Versions": [
+    {
+      "Version": "1.4.5",
+      "SHA1": "p4H+5/kGE6yqxpMV2Fdwc7fEIOg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

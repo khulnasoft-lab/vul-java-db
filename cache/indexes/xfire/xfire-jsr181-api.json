@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-jsr181-api",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "hBMQVsxBSUufR/TShSA4548N+Ww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ink.gfwl",
+  "ArtifactID": "peak-oss",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "C6EHmhOZpP17UlZKf9wf4RWd6Ms="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "QGk71kmqkelZW+j9zKDPEiVp4TA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "2eOLd3ajoi6euZI9JeX9h8y/VRQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

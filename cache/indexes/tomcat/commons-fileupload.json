@@ -1,0 +1,11 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "commons-fileupload",
+  "Versions": [
+    {
+      "Version": "1.0-5.5.23",
+      "SHA1": "I2YVniVSPZnpbQUhGi+lOZyThzU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ltd.k1nd",
+  "ArtifactID": "pets_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.6",
+      "SHA1": "ek4GHqsvRd5fFounLX9NgiKOVvo="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "jHsSM/Ah8MkWMoma+LOHYLTZ/hc="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "wPubiwL45vGprQ4//ik230PTAh0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

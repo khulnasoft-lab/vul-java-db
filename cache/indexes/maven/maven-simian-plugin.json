@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-simian-plugin",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "CoO4SiNelx+sF8ijwnLUHw9VBFA="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "QrQb/s8ZcZS84IMktYU8S9M0uXw="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "4QALZtf9hrwfTpVyngXyO8Xf5y4="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "+CakGn+iv8ar+wBZAGLzpw3OwbU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

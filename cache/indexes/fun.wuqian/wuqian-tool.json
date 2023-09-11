@@ -1,0 +1,39 @@
+{
+  "GroupID": "fun.wuqian",
+  "ArtifactID": "wuqian-tool",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "rg5GH9Hmax8GwsFxrmIkFlU2pLs="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "nEUgHQVLwsq1ltVs4umVlgHBuqw="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "hHKCN5KSUgDRoJmfoNzjgimfTnE="
+    },
+    {
+      "Version": "1.1.6",
+      "SHA1": "TXTZQWr8qu3Oabf9E2FbuKHDeqk="
+    },
+    {
+      "Version": "1.1.7",
+      "SHA1": "sbPoSAqH0jYgt9zsNauBN9LcBkc="
+    },
+    {
+      "Version": "1.1.8",
+      "SHA1": "PFgd9fvs1Nd1iBqYBQVTViVjmX0="
+    },
+    {
+      "Version": "1.1.9",
+      "SHA1": "Zv7NK+dHy4oq6c6P0DVppemNkG4="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "nohsHxFv3AThBl4nbWfOl7/X/ek="
+    }
+  ],
+  "ArchiveType": "jar"
+}

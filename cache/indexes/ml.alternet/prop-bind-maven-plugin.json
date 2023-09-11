@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.alternet",
+  "ArtifactID": "prop-bind-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Iaa1YT1JOhnmmUEQwWX0DgmXGss="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,163 @@
+{
+  "GroupID": "tv.hd3g",
+  "ArtifactID": "fflauncher",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5T6SrFnL44SpwRiP98YZx7HDWVA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "13lSjytqvR/dj4hsQnxK0bk+HAQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Ua01jQs0sKMxVVhEvQBBzateN00="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "lIcAYpN3SlWOyNX61xHFJKl3OW0="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "+l9ywbbG55vlbHUMScTIWXMkums="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "1tu2bWaow3OsRmEZ+7u//J8hG7M="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "nocnZaRJwISIk3C7+sRTEU6Vcfs="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "8Mcg8nht3mgsgxqBu6e6evoEqig="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "ozF/QWI3VcGCDw6upqIIgYPM3mI="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "qOKTHeJnR+OI2hVcE1abKDjysww="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "VY5XpeL4j8ckCVdxClFcohHHiWA="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "l2+8gK84DsnXqQeyO9IDDHdIb7A="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "dWjWA40kKnoCOyHcNUdxjs8peBQ="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "Eg9fNqsbCg+/BMxrekSsqgAXYSw="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "cGfHMJ0HDzW2eGzmu13oSQkKN9M="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "qXoKqiIiFbfNuUhDPwzbvPhvJfc="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "BvzpcjJTR0IHVM8ivGewz7aXGd4="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "0+TMmzXKa6iBQRZP4I0tbaZVbXE="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "AJhMIl+sF2K1ayBoE6EpefNVwnA="
+    },
+    {
+      "Version": "6.0.0",
+      "SHA1": "LaxrOQ1sBLv4X3mQKR2IOjzxWFY="
+    },
+    {
+      "Version": "7.0.0",
+      "SHA1": "GCLhtXQRNsmEMrb/Vu6EyrSPPPg="
+    },
+    {
+      "Version": "7.0.1",
+      "SHA1": "L/pLPUvrQloMTxqWew0qOLP7y/c="
+    },
+    {
+      "Version": "7.0.2",
+      "SHA1": "92tyd5V7x/U7U38NNkP4/8zJnX4="
+    },
+    {
+      "Version": "8.0.0",
+      "SHA1": "DFFlwToOU15SJ2sb0ZlQTjLwjp4="
+    },
+    {
+      "Version": "8.0.1",
+      "SHA1": "dlydB2SbLBKdUPyECRRnMhnsG7o="
+    },
+    {
+      "Version": "8.0.2",
+      "SHA1": "oIBwQp2UP9o34dd9OQwdKRiKkBs="
+    },
+    {
+      "Version": "9.0.0",
+      "SHA1": "r4WQd4nUO0W9lLeI+/cwP9swUzo="
+    },
+    {
+      "Version": "9.0.1",
+      "SHA1": "w6U//h+3yZa0F7w7UARCAMx13c8="
+    },
+    {
+      "Version": "10.0.0",
+      "SHA1": "Qw9o4cQ2ChHR+qYDrHWvdsVgWgA="
+    },
+    {
+      "Version": "10.1.0",
+      "SHA1": "NiTHmNB34XOBqJgsqWETjHdbLGQ="
+    },
+    {
+      "Version": "11.0.0",
+      "SHA1": "pCW1lbpTzQm8Dbhva4GpHUq7ojM="
+    },
+    {
+      "Version": "11.1.0",
+      "SHA1": "Z2VuJ9VHRDQ0vljt7LRQvP9+deA="
+    },
+    {
+      "Version": "12.0.0",
+      "SHA1": "NmYHP2dzyNsCHktnORH4O7pexvw="
+    },
+    {
+      "Version": "12.0.1",
+      "SHA1": "SufeoPY72RC0KYyvNNwQ+ZyG3do="
+    },
+    {
+      "Version": "12.0.2",
+      "SHA1": "K19QAK+ugnYnS/GZslQgxlFUyAk="
+    },
+    {
+      "Version": "12.1.0",
+      "SHA1": "jZdVCUbps4lz4/JQR32Duqct7+o="
+    },
+    {
+      "Version": "12.1.1",
+      "SHA1": "yjZk6sbqk+azMbhwSKSF/BEunm0="
+    },
+    {
+      "Version": "12.1.2",
+      "SHA1": "GyAOdQwg+ljgtF6RuM1+tAe9B+Y="
+    },
+    {
+      "Version": "12.1.3",
+      "SHA1": "SKKHwC2z558zVtM3j+pnkugA+XU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

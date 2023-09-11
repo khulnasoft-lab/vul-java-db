@@ -1,0 +1,15 @@
+{
+  "GroupID": "love.forte.di",
+  "ArtifactID": "di-spring",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "t3J5JoBMMlKd0Ik0L4q1QaYN1sw="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "RN9iAOgsYNYzpLQwh9Ht4UJr0Uk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,59 @@
+{
+  "GroupID": "systems.microservice",
+  "ArtifactID": "log4j2-elasticsearch-appender",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "80FIuyoSpzjg4INJxc8Ljv4RhCY="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "/0ghYkWY5m+NHTL4dVX8ZjcddVA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "EM3fLkXiEr1VJEY7Ff3yaI7gtuE="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "gnZhqDwn/ZwEaTr9dan9bBTnntg="
+    },
+    {
+      "Version": "2.11.2-7.3.0-alpha",
+      "SHA1": "7MtzWCGYjjMFfleNvl+UG9DzHBY="
+    },
+    {
+      "Version": "2.11.2-7.3.0-alpha1",
+      "SHA1": "ihsXuM4J38o2YHdfOHDA5ebfPws="
+    },
+    {
+      "Version": "2.11.2-7.3.0-alpha2",
+      "SHA1": "PnRm49/OHIJhMMWPROFOxwjFIYc="
+    },
+    {
+      "Version": "2.11.2-7.3.0-alpha3",
+      "SHA1": "Qk/OZzjKquIJ8wam7I6ygcHwF+U="
+    },
+    {
+      "Version": "2.11.2-7.3.0-beta",
+      "SHA1": "YEbW3Xu+ZMeqMQTGRvoeKrHoZIg="
+    },
+    {
+      "Version": "2.11.2-7.3.0-beta1",
+      "SHA1": "lsFp/R+Rfi49QR2noBmf/cbE8Cs="
+    },
+    {
+      "Version": "2.11.2-7.3.0-beta2",
+      "SHA1": "cToVjvl2ppV4FjdlZvL2xVJh5TA="
+    },
+    {
+      "Version": "2.11.2-7.3.0-beta3",
+      "SHA1": "43kH4znbm1sVXDTrSHPQjQE/oNg="
+    },
+    {
+      "Version": "2.11.2-7.3.0-1.0.0",
+      "SHA1": "oJB/jFBShmH8zeOj8pYPt9WSd8s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

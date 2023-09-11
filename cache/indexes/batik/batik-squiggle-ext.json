@@ -1,0 +1,11 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-squiggle-ext",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "PnQKBZRXaRcMh4JIII54VrtYcXs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

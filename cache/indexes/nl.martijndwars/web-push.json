@@ -1,0 +1,63 @@
+{
+  "GroupID": "nl.martijndwars",
+  "ArtifactID": "web-push",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "w72UwC7lXp55wJ5OopfkDDEMadA="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "1L67K25vQVP9GXdiUmje2VhIMQY="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "fF++MmZukf7iNkZTUyjjdDElwU8="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "sJUNpikl8r4qDPS5LZSxaQQXfJA="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "rTwe5TJEK5rYNdyiZoKUwbm7sPM="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "/5BthxweWtOLHgXGSQqfSh+da9U="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "9zISqz4gMdnmuPsEQJMk8XiNdBU="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "F64Hy484xINwYkBBzYwaSd9eulY="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "28wc0e6I1S886Hasfxfmmi/Oo4w="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "1nMFU7m1dzHXiBpD3mcw0v/xkBA="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "qodQWHZ/+43Hme2F0Ew6fj3FA1A="
+    },
+    {
+      "Version": "5.0.2",
+      "SHA1": "7fIe3CyBaaqaQ8OfBx2yxDrvm3g="
+    },
+    {
+      "Version": "5.1.0",
+      "SHA1": "KX3U7Uvq/5Z+wzipaz5Ou293yzk="
+    },
+    {
+      "Version": "5.1.1",
+      "SHA1": "jBBkVjWj/UXU72ymzZ+zIgXjGVs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.chrl",
+  "ArtifactID": "chrl-database",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xBt2fjX5HWP7Hr/XoPg++xtJZ3k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

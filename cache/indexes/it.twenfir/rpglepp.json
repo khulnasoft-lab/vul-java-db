@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.twenfir",
+  "ArtifactID": "rpglepp",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "edQZ6TIlSLLZnts2AsNvK+aCBl4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

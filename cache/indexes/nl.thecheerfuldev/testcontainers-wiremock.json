@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.thecheerfuldev",
+  "ArtifactID": "testcontainers-wiremock",
+  "Versions": [
+    {
+      "Version": "1.16.3",
+      "SHA1": "uJzdOk7yfPo5JYS0WtI6q62XR6c="
+    },
+    {
+      "Version": "1.17.0",
+      "SHA1": "nPWiZNAv6BH5XdIkQPBw3gMHhMs="
+    },
+    {
+      "Version": "1.17.1",
+      "SHA1": "KimFvdzqIrD65wDzKXgzZ6XSXzI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

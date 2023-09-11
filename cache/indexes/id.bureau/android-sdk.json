@@ -1,0 +1,15 @@
+{
+  "GroupID": "id.bureau",
+  "ArtifactID": "android-sdk",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "dJHPKcudOmMePB+RnwCJzNybN/4="
+    },
+    {
+      "Version": "0.1",
+      "SHA1": "mYH/Ff+6B5jZGODhKnYQDqQPDvM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.bebr",
+  "ArtifactID": "mapviewer-api",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "PPnd4YmlxQzoI6TXMuLfh/RB4Js="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "page.foliage",
+  "ArtifactID": "foliage-common-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lmUVzNQYNPSoDx2waDnvRQBPNlo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ToOXc/gnIadEhE6mKigMjlVMp3o="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "hLJ5Z/P76u0mYWsd8XYZ+KGfE2k="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "mKVJ9ieiQoUunT0mJ228J8nDHQg="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "mPcfhRht15zgBnpdWJP66WR6+KU="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "vgsSY+0d/7RkJMvAFJtCKQwZoPk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

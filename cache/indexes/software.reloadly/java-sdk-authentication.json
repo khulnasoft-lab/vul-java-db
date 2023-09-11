@@ -1,0 +1,19 @@
+{
+  "GroupID": "software.reloadly",
+  "ArtifactID": "java-sdk-authentication",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "eG1GwseQlse+NRzJEzkYse2uOUk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ADHJaMil1cVJgNy4N7fmxwAF9KI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "/FcpPDpNuJp0vX9Z0dYRfOGaJ2I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

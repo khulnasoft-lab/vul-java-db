@@ -1,0 +1,103 @@
+{
+  "GroupID": "dk.tbsalling",
+  "ArtifactID": "aismessages",
+  "Versions": [
+    {
+      "Version": "1.08",
+      "SHA1": "+z8tVU9eS45glnJZgWcJS4Tftmg="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "f6YgBW3oEBhN0uTS6DUUfpHuiyo="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "bhw0dv2OMOCdgCiuPUBaBa5dB4c="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "l11Tl6PD2GEQFIYM1B5RhbIWr7Y="
+    },
+    {
+      "Version": "2.1.0-jdk7-backport",
+      "SHA1": "+C8e4ew6EpF9i9hZNWSW8cxzfpc="
+    },
+    {
+      "Version": "2.2.0-jdk7-backport",
+      "SHA1": "tIokKYEEkJt7xBULbDMDgvD/8YQ="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "OYEFFRWLZ3VmdFxQXswDEmBdnWU="
+    },
+    {
+      "Version": "2.2.1-jdk7-backport",
+      "SHA1": "/OjN/ox3NChWp36GK6orCVCDFZE="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "gZ1X6qQb7ldfBlH9lqR11JLvPMc="
+    },
+    {
+      "Version": "2.2.3",
+      "SHA1": "S6mdbmpz6UvlzHZuSqkC7bB88XY="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "nGeojI8TKvB8aXfXzMRsYyf1cuY="
+    },
+    {
+      "Version": "3.0.4",
+      "SHA1": "UM3AC9OdC2rJyZmEuk1Bd+Ax7i4="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "cGkDqtkrQXsAtvrd7P50ZTV4jD4="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "xjtLcYDZWJdCVfxV5J0VGdtME9E="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "jk9o8G4LwQiUmscPMpXafSAn6h8="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "JBUCPByf+h6Sv5ro8HeQN3sD/UU="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "0SoQNA3egEdT53ja93EH4GmFcgc="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "mhDUvH6ccTQKZnSoyyjwkiFvpYo="
+    },
+    {
+      "Version": "3.2.4",
+      "SHA1": "2sHOy6v8DELXB3F2Ui29aGltDf0="
+    },
+    {
+      "Version": "3.2.5",
+      "SHA1": "rqqTHzSAo3RfI0glW3mEMImbU+0="
+    },
+    {
+      "Version": "3.2.6",
+      "SHA1": "pA29ysfEyCc8L+UR5sJGs2V1//Y="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "y3yRFW22dgka/6bTbfWq97WmSaU="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "ZIUpA8J/aNUoGh4sekbLEcNFdDk="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "UwqrUHMzXMx3fBSs8OlE7k5uUWo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

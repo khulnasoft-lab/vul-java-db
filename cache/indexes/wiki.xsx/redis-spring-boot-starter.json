@@ -1,0 +1,43 @@
+{
+  "GroupID": "wiki.xsx",
+  "ArtifactID": "redis-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "2.2.0",
+      "SHA1": "2fuej9/pdFrDH2xwKgQkz3qKVEo="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "j3IlBjcWfiYpBZHfEcKxGPx+MnA="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "58Ht7Ts8ybV+A1RXzGRtyISgdmk="
+    },
+    {
+      "Version": "2.2.3",
+      "SHA1": "WWha6YIbOEvjQ8vlTXENhX5dt+g="
+    },
+    {
+      "Version": "2.2.4",
+      "SHA1": "QT/8rLw5oXn2vOE4KKL5B90pPPI="
+    },
+    {
+      "Version": "2.2.5",
+      "SHA1": "QyFuDe3AGNYL9cSjKI5OnW9HRvc="
+    },
+    {
+      "Version": "2.2.6",
+      "SHA1": "vqBf9BDzYnPnp5Yo8tXVAJ54kFM="
+    },
+    {
+      "Version": "2.2.7",
+      "SHA1": "TxFauYDPBEPvK4LWP73qi6RNlNU="
+    },
+    {
+      "Version": "2.2.8",
+      "SHA1": "+FupUVKkEokeSPOVa87ZEhe4ExQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

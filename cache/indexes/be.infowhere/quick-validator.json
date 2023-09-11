@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.infowhere",
+  "ArtifactID": "quick-validator",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "eZIOQoIQ2W1KP2w+4rK5t9QH0YM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

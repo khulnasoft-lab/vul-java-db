@@ -1,0 +1,15 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "catalinawrapper",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "YlvD57LM3N9DmZPGq3eRdzvf8xk="
+    },
+    {
+      "Version": "2.1M1",
+      "SHA1": "vQWDLCGHSfzRolc0IoxmqYmbX6w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

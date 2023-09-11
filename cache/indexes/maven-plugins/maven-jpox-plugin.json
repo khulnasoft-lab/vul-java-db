@@ -1,0 +1,35 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-jpox-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "UHZIjUohmsZ1l2jN+qydtNP+2nA="
+    },
+    {
+      "Version": "1.0.0-beta-1",
+      "SHA1": "8AMhb1n7jqBSaRcJfYCQ+5xtIyw="
+    },
+    {
+      "Version": "1.0.0-beta-2",
+      "SHA1": "YRzt7a+tPNm64CLl41qTPDryAbo="
+    },
+    {
+      "Version": "1.0.0-beta-2a",
+      "SHA1": "QynFZi+sZ7ptlGtDowGs8Jpmudk="
+    },
+    {
+      "Version": "1.0.0-beta-3",
+      "SHA1": "5rM6FqE8+z1DHDvS+c2Tp+xScK8="
+    },
+    {
+      "Version": "1.0.0-beta-4",
+      "SHA1": "M4e3S+nIWmkG8MiVLdF+d3oQXCc="
+    },
+    {
+      "Version": "1.1.0-alpha-1",
+      "SHA1": "T8gXzWmgBKKzn3BnysJfAhLlLRM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "xalan",
+  "ArtifactID": "xalanservlet",
+  "Versions": [
+    {
+      "Version": "2.4.1",
+      "SHA1": "B8K0dD0tROizJ9CN2Xg5PP+IpSI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

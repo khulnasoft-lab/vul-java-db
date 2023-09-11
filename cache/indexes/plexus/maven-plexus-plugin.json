@@ -1,0 +1,23 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "maven-plexus-plugin",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "EKKkejnFgP9u4o/yNcqM15nCTxA="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "U/sfngSmLMD4er9S0caYRZ1bJKU="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "CUcXGAFnohotzlE4QZ20u0yv230="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "C0zktRVqGCzWLGNyE4o/XEU/8jI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

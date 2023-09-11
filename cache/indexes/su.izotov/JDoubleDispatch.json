@@ -1,0 +1,23 @@
+{
+  "GroupID": "su.izotov",
+  "ArtifactID": "JDoubleDispatch",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "d25oQKGhDFslumGyykl2wFGvFVo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "fW/plQbrTWrpIAjeZgEuJXEMzms="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "BGHWZcQbjVU6Ahj07RRDTBVOR7U="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "6MleXkKlNZPGXPYxcehAHR5NYn0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

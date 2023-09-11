@@ -1,0 +1,23 @@
+{
+  "GroupID": "fr.dralagen",
+  "ArtifactID": "csv2xml",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "4fyhiS141xsNlKDy9ltDYX/4xX0="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "anB2nN6IObKLjkoPf9wraBLkSjQ="
+    },
+    {
+      "Version": "0.2.0-beta-1",
+      "SHA1": "fNFZlXvZG3+SDW6EO/MbKpkXYj0="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "JT8tyig87M/SC8SVXLHESJo7VtM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

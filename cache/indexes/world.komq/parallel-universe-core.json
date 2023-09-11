@@ -1,0 +1,31 @@
+{
+  "GroupID": "world.komq",
+  "ArtifactID": "parallel-universe-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "HYpv+6xQ3DB/zHI+iFF4riwuRok="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "d4ctHfQ0CNOv+fzAMEhEU2BU158="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "wTcKUeGvKcvSii1LYJ7szYehGTg="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "orI14CP2IkO2I2DHN/X+NbVJkLg="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "lTGPS8ur/gR2WvP5bmOFzAo4Hkk="
+    },
+    {
+      "Version": "0.0.5.2",
+      "SHA1": "rpL1GV9VXxyP1mGhvkGEI4tlIvw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

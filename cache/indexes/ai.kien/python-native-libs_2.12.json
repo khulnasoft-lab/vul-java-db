@@ -1,0 +1,43 @@
+{
+  "GroupID": "ai.kien",
+  "ArtifactID": "python-native-libs_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "RoVNW0l3XMoKD9Cr9rBiC6za3JE="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "MFbaUEn6x8M6E299jhxQgNYaFKw="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "vUogc8MSuUojyRni3CNnbr5q++8="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "hwiHbiFuS1iOoEda2M8YRbtslJ8="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "3ODXEV8p7mOJOuqb3YOjypciCPw="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "Uyn1lF2+1dfJtKtrf1ilf8VyNho="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "fp1vE6M+KOL27lhKyF62bmbvA5o="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "XmSTIJsOh07lUBH6EPRCou6JdWE="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "zmYIR2qs8wIkP0dEDjz3AD50sbI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

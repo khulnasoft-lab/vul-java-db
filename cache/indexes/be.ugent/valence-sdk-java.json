@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.ugent",
+  "ArtifactID": "valence-sdk-java",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "nUGfJbmbpEG602ID8SW/qCjIl0I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

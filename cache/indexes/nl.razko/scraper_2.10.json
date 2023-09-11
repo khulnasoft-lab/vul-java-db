@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.razko",
+  "ArtifactID": "scraper_2.10",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "4pKIOouRkm6Tpi7zBWeMYCXrPR0="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "QxYYwnOzgYGXPdaBMOQ7t5v6qMI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

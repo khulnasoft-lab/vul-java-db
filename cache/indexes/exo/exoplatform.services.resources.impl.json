@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.resources.impl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "p81Ln1RdwGnNNJckesTeR/7Rtwg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

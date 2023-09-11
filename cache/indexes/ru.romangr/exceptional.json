@@ -1,0 +1,23 @@
+{
+  "GroupID": "ru.romangr",
+  "ArtifactID": "exceptional",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "Td5BF6H3Jp4fq30t+l7S5THzqIQ="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "KutM0vk7SLGutg6CQPVqMaZ5wBs="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "urdgfJ/mL9/etXymzx08pHqe6QU="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "MeKWnZyrT/43ajrHjag5hYWi24A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

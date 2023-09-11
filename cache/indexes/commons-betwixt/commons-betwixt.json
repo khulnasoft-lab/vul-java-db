@@ -1,0 +1,47 @@
+{
+  "GroupID": "commons-betwixt",
+  "ArtifactID": "commons-betwixt",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "yXSd0d5kIE5vPfJHEUOVn4rbMM4="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "60OVi+AtkJJ5oqt4VUePghR3wB4="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "u7HYFZIEUj+Fj79E6F8eQWbHynY="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "YeWpeU8dAuFkZG1luVrG40ZhQc0="
+    },
+    {
+      "Version": "1.0-beta-1.20020910.124754",
+      "SHA1": "MidGBnF8twzf1xrrEfo9yfwyFv0="
+    },
+    {
+      "Version": "1.0-beta-1.20020912.014405",
+      "SHA1": "x1cogGjSccTN9TTzj5NPLGVjdkw="
+    },
+    {
+      "Version": "1.0-beta-1.20020920.020057",
+      "SHA1": "8BSGBWPRQAtUSjoTORE4m3bS9kE="
+    },
+    {
+      "Version": "1.0-beta-1.20030111.103454",
+      "SHA1": "n6jX/3Mv1h0SxPdoE4MT9/dJnxc="
+    },
+    {
+      "Version": "20030211.133854",
+      "SHA1": "4BltCdAhhj6R5KjKDAWjJ3p/qL8="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "G5c/uobEqqQJkSUOsgniAvvMJa4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "barsuift.simLife",
+  "ArtifactID": "simLifeApplication",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "G6G2Iweqy/TGQuEUENfsCIDJA4U="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "r4UTLe3raos9y7HhVaQwWcLMtcQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "6S5hIJmvZ0G8J6LwBI9yKm5xImw="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "jJD3Kci7ss7yNjZ/bWbLj8UmF3k="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "YFka45MDShDf59KAXJqiROtPcUc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

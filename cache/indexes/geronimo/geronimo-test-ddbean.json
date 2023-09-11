@@ -1,0 +1,19 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-test-ddbean",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "jaTYig2cMXTltXVi3BxOcTGHBOM="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "Gx0NKVLhBjXsPzNlsvXNy8vyKeM="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "4ISQTDxXIJfGqwewnn48ovhr91M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

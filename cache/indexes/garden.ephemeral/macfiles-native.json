@@ -1,0 +1,11 @@
+{
+  "GroupID": "garden.ephemeral",
+  "ArtifactID": "macfiles-native",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "9N0VCCx4H3DfSamXhqPWABDECMQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

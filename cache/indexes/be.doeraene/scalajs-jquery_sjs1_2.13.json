@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "scalajs-jquery_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.9.6",
+      "SHA1": "9ZpZcEFRlgLLKMDFZ/RfIhCxq5Y="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "3qaItEH7Q+dYfJ9I7eZkdhisqGY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

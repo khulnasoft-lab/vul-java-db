@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-nlp-annotation-readers",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "UfvYZqQxUBD0JRjFbv8661aLf+E="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "FV+swuADSr8kyE+1lw8TQH6Ak/s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

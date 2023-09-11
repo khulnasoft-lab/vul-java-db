@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "jaxb-impl",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "Ii/K31rKssZEVD4fdR2vJAkxkU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.newleaf",
+  "ArtifactID": "mongo-orm",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "bCBti6aMPFYKjI2o6l8B0s0XA/k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

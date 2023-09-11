@@ -1,0 +1,15 @@
+{
+  "GroupID": "tools.profiler",
+  "ArtifactID": "async-profiler",
+  "Versions": [
+    {
+      "Version": "1.8.3",
+      "SHA1": "68Wct7o5B9akKo0mTOz8JCwltOE="
+    },
+    {
+      "Version": "2.9",
+      "SHA1": "TtIOKkZA7mcufPI7FRLb3rmkt+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "ai.dev-tools",
+  "ArtifactID": "ai-devtools",
+  "Versions": [
+    {
+      "Version": "0.1.12",
+      "SHA1": "+le/fOZ36rgtrV9lG7O8LuTxbvg="
+    },
+    {
+      "Version": "0.1.13",
+      "SHA1": "iq3Pxhgvw3dDnarRms6F4UYY+wU="
+    },
+    {
+      "Version": "0.1.14",
+      "SHA1": "EQ0YparbaH2cMMUwAiwLpawvNcg="
+    },
+    {
+      "Version": "0.1.15",
+      "SHA1": "lxP+4K8VJ0rwIqtxKc1hg6GFosU="
+    },
+    {
+      "Version": "0.1.16",
+      "SHA1": "8dVnzLPcJ7cTCKCTtgTGHMnTnI0="
+    },
+    {
+      "Version": "0.1.17",
+      "SHA1": "47/S8zVn6b331N5VXYWRsgx74Cg="
+    },
+    {
+      "Version": "0.1.18",
+      "SHA1": "GIUewflfQw6uZS8gaHMu1k9aeZc="
+    },
+    {
+      "Version": "0.1.19",
+      "SHA1": "bCMskyA9qnW92Bc8ZuNwIrU2cB4="
+    },
+    {
+      "Version": "0.1.20",
+      "SHA1": "BxvT+GN0+UA202zeM7SLvJq0K7U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

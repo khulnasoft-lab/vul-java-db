@@ -1,0 +1,31 @@
+{
+  "GroupID": "berlin.softwaretechnik",
+  "ArtifactID": "jsonmatch",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "x9pQ3WTKvCMMjYABkU5TO1fTi6I="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "bRdU8K1D4+2Hi8LlX41ncTnOp7c="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "3r3GOrxadZ6tlQI3hGHlHKbF3vo="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "nVyCwnKwuTtZqebNEc8+WQAWlFI="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "i8IxHv67bSpXkI3JdcFckqvjYWc="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "AmQsWJjYHG7Qzr2H96tVEnSsyro="
+    }
+  ],
+  "ArchiveType": "jar"
+}

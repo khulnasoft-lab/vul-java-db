@@ -1,0 +1,15 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "jdk14logger",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "x2sSk6VqIZvXFYeKenTahl2Ew7s="
+    },
+    {
+      "Version": "2.1M1",
+      "SHA1": "9hAWiYsIceW8esZ7CTKiYYGkOvI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

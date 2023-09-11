@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.wangjc",
+  "ArtifactID": "wangjc-vip-fastdfs-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "tjzJ4WJvtYJTKxPEig0SKXAlD40="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "mhL7AnX7ipAEksBvdcrfSC4e9zA="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "CTavlhRw0WkIiQnSEniUXQIQURc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "vip.wangjc",
+  "ArtifactID": "wangjc-vip-mongo-starter",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "qCQRkSOErnuUnqkZqVS1CdX7GRE="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "64mtzQ6oOnxCAmyboGM5/KVCzgU="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "bA2s/cTPDaP+MnPJ+eSw/yMNHtk="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "Rlcfgz3xZoNr5seooy7WeVSYLJU="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "hTVoHURJNysTADKktnJ64koJGKU="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "hansD6qAt7vcqwld+hUiYxGO3Po="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "p3Bi2RnUOZGiDc1CX6lg9PTeQAs="
+    },
+    {
+      "Version": "1.1.6",
+      "SHA1": "71tJ5Oofk69aLf7rjJ68y7X2G2E="
+    },
+    {
+      "Version": "1.1.7",
+      "SHA1": "TxGiI4Em8hO8XkgTELzrtu+4w4k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

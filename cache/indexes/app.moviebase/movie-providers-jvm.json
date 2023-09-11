@@ -1,0 +1,19 @@
+{
+  "GroupID": "app.moviebase",
+  "ArtifactID": "movie-providers-jvm",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Rn/B/rNlgPuj2beFkN8RI/eaDMY="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "A8d1LFyG0kOrk1RWbqzxaXIXMbo="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "5N5q4+roJE1hiMbeQR5BP+f1wPg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

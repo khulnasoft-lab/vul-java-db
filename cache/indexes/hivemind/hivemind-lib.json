@@ -1,0 +1,63 @@
+{
+  "GroupID": "hivemind",
+  "ArtifactID": "hivemind-lib",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "vyT6YOp1/hZx3TkkfX6RYpuL0Fw="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "uFLQ6mF1XTf57UcTDKUjxEYrdcA="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "4TTi/jloa8XtJT7AcTb+HUTQqR4="
+    },
+    {
+      "Version": "1.0-rc-1",
+      "SHA1": "z2+6N3q2Lqyfqr033tRSJ5q5j9Q="
+    },
+    {
+      "Version": "1.0-rc-2",
+      "SHA1": "E9osvNDZLL21a8nF1y+y9K/lBtw="
+    },
+    {
+      "Version": "1.1-alpha-1",
+      "SHA1": "Ht7K44n9IRD4xmGGx5NT73tnyGE="
+    },
+    {
+      "Version": "1.1-alpha-2",
+      "SHA1": "ak70of8AI4bGssB5lNbbKIWC6I4="
+    },
+    {
+      "Version": "1.1-alpha-3",
+      "SHA1": "5npQr5zfl6akM0vaxqp6EzUFIp4="
+    },
+    {
+      "Version": "1.1-beta-1",
+      "SHA1": "zLz4mMmQURAQ2+k9zYnjawatWLk="
+    },
+    {
+      "Version": "1.1-beta-2",
+      "SHA1": "PnPIjyJMXKyz04C5/1iFpdgnfqw="
+    },
+    {
+      "Version": "1.1-beta-3",
+      "SHA1": "WDGqgw/O8/LptImMuZkZH33RVaI="
+    },
+    {
+      "Version": "1.1-rc-1",
+      "SHA1": "kiVRMZh2BAWW6cEB3qwJ4ppPvmI="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "GR8vNxfjSHleYrDqQOjVCyMiqwY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "S5h3c/HJWdOtoxgiD/1YIHLQHpg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "ba.sake",
+  "ArtifactID": "hepek-components_2.12",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "Vj77pj2oVlFCMN8A6ko6Pne8YLM="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "R7N+t1H589o8RtwwXEw4NMgkIgo="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "kMO9hXL+inGQnaDCfAWawuy2R0g="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "CWHnx8hO56d/s80B3jUm3axmobg="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "a6fJ/OeWV0qu0MFj8zk1lGzG+Tw="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "R8ZmICYVbA7J7bbk974p1yInHqI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

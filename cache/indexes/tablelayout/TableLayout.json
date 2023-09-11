@@ -1,0 +1,11 @@
+{
+  "GroupID": "tablelayout",
+  "ArtifactID": "TableLayout",
+  "Versions": [
+    {
+      "Version": "20020517",
+      "SHA1": "BlC55kxl0aF3Vo14V9czwcwzIU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

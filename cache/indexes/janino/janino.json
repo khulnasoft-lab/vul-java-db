@@ -1,0 +1,99 @@
+{
+  "GroupID": "janino",
+  "ArtifactID": "janino",
+  "Versions": [
+    {
+      "Version": "2.0.10",
+      "SHA1": "97sLOnSMc3vcQMLoaR9qni9USOE="
+    },
+    {
+      "Version": "2.0.14",
+      "SHA1": "8MYX0qzvOK+rRAkkLhh+WEc00t4="
+    },
+    {
+      "Version": "2.0.16",
+      "SHA1": "GgGloyCacYEXPkZ5F2fgwAoq0aE="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "9YMNkVhGOXbfHagkQT5DPpDaWqQ="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "Xatnu/3SYX6yGDjg6nBHDDX82B4="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "C7W1BxyQe+u1iQZPSY5lwqT4niE="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "UmW3y2g2X0dP+if1QI+e90vqc+s="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "5UpiezI1DuzJJGazdEtVKTEoPx8="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "D4Vo2dcq2bauWYyXCm97tuepsPM="
+    },
+    {
+      "Version": "2.3.7",
+      "SHA1": "ugnzBwmXkJVb8Gsh6yhWeufiNUE="
+    },
+    {
+      "Version": "2.3.8",
+      "SHA1": "PWtbWiL74n3YBPFdvdwR08A5bxQ="
+    },
+    {
+      "Version": "2.3.10",
+      "SHA1": "QCEUgIvR0SMm2Dk/1APJUsKBT/k="
+    },
+    {
+      "Version": "2.3.11",
+      "SHA1": "ofJug0LGRXWCQDlK47D9Ah5HIPc="
+    },
+    {
+      "Version": "2.3.12",
+      "SHA1": "BwYo4PSICd627WqpuNyOdq0R68g="
+    },
+    {
+      "Version": "2.3.13",
+      "SHA1": "4ZeVLgag4S1l+MxD/24M3sRFFLQ="
+    },
+    {
+      "Version": "2.3.14",
+      "SHA1": "zv0Oawz050rd/jCDUfrlJu237NQ="
+    },
+    {
+      "Version": "2.3.15",
+      "SHA1": "zf3jgVeNHQGqu+EYzOFPNQ0+cug="
+    },
+    {
+      "Version": "2.3.9",
+      "SHA1": "Rq1pOvtq/orjaRXLADZEY9i4V88="
+    },
+    {
+      "Version": "2.3.16",
+      "SHA1": "+nJRsWsnHJbWBW6OWPo3ezEKzIQ="
+    },
+    {
+      "Version": "2.3.17",
+      "SHA1": "I/0DOxMkCiFAoW8HxE8krpLBTjw="
+    },
+    {
+      "Version": "2.3.18",
+      "SHA1": "S1cqoL8/cPpSMXZRDE/xCcG1WMs="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "2A53a/E2oaL5RZvEAcdJuBLxqoA="
+    },
+    {
+      "Version": "2.4.3",
+      "SHA1": "fXQXntTy8esIQR4qHNiAwy3R1qk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

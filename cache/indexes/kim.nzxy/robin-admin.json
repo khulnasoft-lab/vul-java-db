@@ -1,0 +1,11 @@
+{
+  "GroupID": "kim.nzxy",
+  "ArtifactID": "robin-admin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Unon9X9aeX2suXFifvb+aI2tTM8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

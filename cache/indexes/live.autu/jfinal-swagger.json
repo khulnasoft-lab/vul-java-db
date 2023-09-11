@@ -1,0 +1,11 @@
+{
+  "GroupID": "live.autu",
+  "ArtifactID": "jfinal-swagger",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "wbAtImJx0s5bd2Be+zH1DYtQU7c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

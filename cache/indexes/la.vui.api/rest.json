@@ -1,0 +1,19 @@
+{
+  "GroupID": "la.vui.api",
+  "ArtifactID": "rest",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "jwuOaGFuEAs2fkPS1q0yePdwJzI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "zak+jQFA1L1hZadzXZWxxk22o/M="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "SrpSEW8NPGcepMRKgXtP3OPhnQQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

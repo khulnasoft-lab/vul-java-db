@@ -1,0 +1,11 @@
+{
+  "GroupID": "joda-time",
+  "ArtifactID": "joda-time-hibernate",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "F5zs80c98b4E4afzIix73eZ5Iyc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

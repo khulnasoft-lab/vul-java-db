@@ -1,0 +1,15 @@
+{
+  "GroupID": "ink.gfwl",
+  "ArtifactID": "peak-captcha",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "qjHeDRFijDpE4xQHDCdKYMMT9a4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "MBDQdGBEsOq0PzqqdH2lYo+R2bk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

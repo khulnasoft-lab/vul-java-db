@@ -1,0 +1,23 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-appserver",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "x6NSwDQ2X9lMOMQiak8XaJkq3cw="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "1Vqzk9W/w2TAV/HtNtEccRBaNMw="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "zIIhu1MTd+b7zMry2H289TIYZF8="
+    },
+    {
+      "Version": "1.0-alpha-4",
+      "SHA1": "zBqruFK5vurxXPp8AAqxDKOMhAc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

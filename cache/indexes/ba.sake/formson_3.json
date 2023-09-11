@@ -1,0 +1,27 @@
+{
+  "GroupID": "ba.sake",
+  "ArtifactID": "formson_3",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "S/rUR4xa0vfh+pI4HQsTuN6jYN8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "zHNa+4PL7jF/BxLgkZqmEHe5P0o="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "cw+prhj/vCPvnazkIY0SNUPFzDQ="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "MZLfgLaA+Y95UXaFJ3QXx9/sGzw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "oCzmoBub398M9AkTIuneAWmVpvg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

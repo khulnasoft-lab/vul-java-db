@@ -1,0 +1,15 @@
+{
+  "GroupID": "openim",
+  "ArtifactID": "openim-storage-api",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "t76EOG+BUKCPmCAyMVYqpDikEOU="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "XMAFW2ZQYuYI0ujGbfPwD0sH2bQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

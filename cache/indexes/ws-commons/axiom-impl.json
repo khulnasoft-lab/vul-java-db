@@ -1,0 +1,15 @@
+{
+  "GroupID": "ws-commons",
+  "ArtifactID": "axiom-impl",
+  "Versions": [
+    {
+      "Version": "0.95",
+      "SHA1": "VbKi8WQNfZDwF+EH5UCcRUPe4JQ="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "JK8guIQmNBm2Nb/9x2RxvpzQ6EA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

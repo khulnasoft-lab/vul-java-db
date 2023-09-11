@@ -1,0 +1,27 @@
+{
+  "GroupID": "avalon-meta",
+  "ArtifactID": "avalon-meta-impl",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "ZhD0QzzDqWC/WGFWDDsbY3wJwUU="
+    },
+    {
+      "Version": "1.1-RC1",
+      "SHA1": "yoU8jsv77IchcIGkEgao5WVyUJU="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "UVX99PgFJuA8VyJJunrANfneF48="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "hfDOs6/cQKq1a8FY4UauTYNTUmI="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "vtlcyqRLVbX++KnYeU54AhF4NQw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

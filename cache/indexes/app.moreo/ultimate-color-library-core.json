@@ -1,0 +1,15 @@
+{
+  "GroupID": "app.moreo",
+  "ArtifactID": "ultimate-color-library-core",
+  "Versions": [
+    {
+      "Version": "unspecified",
+      "SHA1": "MGdv6wvmc+kC11W+OH9LHHelIBY="
+    },
+    {
+      "Version": "0.0.6-alpha",
+      "SHA1": "uVjmz9mUnMzbqjSGrDGPOD+pLx0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

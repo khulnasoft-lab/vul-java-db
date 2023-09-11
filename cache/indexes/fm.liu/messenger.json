@@ -1,0 +1,11 @@
+{
+  "GroupID": "fm.liu",
+  "ArtifactID": "messenger",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "t3W4I1oOhEZOVnryiwArgrEx95I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

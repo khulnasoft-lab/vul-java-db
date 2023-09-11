@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.zhhll",
+  "ArtifactID": "tools-all",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "OQ/1dnlGOvZr7Qm3Ps3w+xV1RnM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-owl-parsing-javacc",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "uemLEkLVsTwZrdiDAKFJUuL86AU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "merlin-developer",
+  "ArtifactID": "merlin-developer-core",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "MzcnBzH0EamFlKwCjcnmhXUADWc="
+    },
+    {
+      "Version": "20040423.083017",
+      "SHA1": "3ZwCXDoyGYNB98RTJ9MjdMRIy1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

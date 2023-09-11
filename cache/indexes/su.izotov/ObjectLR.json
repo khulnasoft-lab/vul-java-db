@@ -1,0 +1,27 @@
+{
+  "GroupID": "su.izotov",
+  "ArtifactID": "ObjectLR",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "+RiWE0GBeCkMVAJbg9MFlvNlhak="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "E+1ysmGjoH6zoMVwQD+DCRPBGIA="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "ttpNdPigonogZ8EFjCgXvqKX1HI="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "ewREPnsIf0UD9AZfrjudWtpFu6M="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "8tnQTlt/yNzeDbS8VB/JFCtYP+s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

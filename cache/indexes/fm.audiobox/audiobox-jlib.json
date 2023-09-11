@@ -1,0 +1,19 @@
+{
+  "GroupID": "fm.audiobox",
+  "ArtifactID": "audiobox-jlib",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "Vp1YQHM/DusB063CaVQ8BIv+cw4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "LDpEWhvYZR63MlHmMoECfdmds9Y="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "tBFQS3o1yo9v3knqZQ2/m+6cIlk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

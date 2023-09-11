@@ -1,0 +1,11 @@
+{
+  "GroupID": "ivory",
+  "ArtifactID": "ivory",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "3R6RhVir2c4y9g1yEfLct58Bz1k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

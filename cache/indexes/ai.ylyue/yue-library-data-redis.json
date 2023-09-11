@@ -1,0 +1,103 @@
+{
+  "GroupID": "ai.ylyue",
+  "ArtifactID": "yue-library-data-redis",
+  "Versions": [
+    {
+      "Version": "Finchley.SR2.SR1",
+      "SHA1": "kahvT9qD9L5gCxg7MuO0pLav4uE="
+    },
+    {
+      "Version": "Finchley.SR4",
+      "SHA1": "fQV0xWQphpl/8bF1dhJFGWgHQYE="
+    },
+    {
+      "Version": "Finchley.SR4.1",
+      "SHA1": "c6djOpaKPsBIaJCexz94wWzuuHQ="
+    },
+    {
+      "Version": "Greenwich.SR1",
+      "SHA1": "QfYqnmvz7udxF2TkP1BrImRk3FI="
+    },
+    {
+      "Version": "Greenwich.SR1.SR1",
+      "SHA1": "Wnv2n34MS18jJ/r1S5hQBNxrzNk="
+    },
+    {
+      "Version": "Greenwich.SR1.2",
+      "SHA1": "IvG9fo17amv0vUbvZy/dL5bZ0gA="
+    },
+    {
+      "Version": "Greenwich.SR2",
+      "SHA1": "wIMeF5+2/GKbgOw1QxublXMuh6U="
+    },
+    {
+      "Version": "Greenwich.SR2.1",
+      "SHA1": "fcPq/hyEaoigfPBDnnneyu65urM="
+    },
+    {
+      "Version": "j8.2.2.0",
+      "SHA1": "iG25cdbB5EuaMlYkV/a6wMDG71E="
+    },
+    {
+      "Version": "j8.2.3.0",
+      "SHA1": "6oNgYDS/iozitIj/5nmNc/E/768="
+    },
+    {
+      "Version": "j8.2.3.1",
+      "SHA1": "T29Olt1bWDxJ7W+OTAZM0/CNxBQ="
+    },
+    {
+      "Version": "j8.2.3.2",
+      "SHA1": "N8EBI85b0gLasdoI/SI6Lpth8Eo="
+    },
+    {
+      "Version": "j8.2.3.3",
+      "SHA1": "U014oUPhL60jT5QtJ4iUiiK6vdM="
+    },
+    {
+      "Version": "j8.2.4.0",
+      "SHA1": "wq0soneuC0rTlL0eqz4H+zVVXNg="
+    },
+    {
+      "Version": "j11.2.2.0",
+      "SHA1": "AoGQcqDhtcS2LFWsuwM/8hCg9W8="
+    },
+    {
+      "Version": "j11.2.3.0",
+      "SHA1": "wn7f90QQW1S9WSC4SSrATqoYRWk="
+    },
+    {
+      "Version": "j11.2.3.1",
+      "SHA1": "m0drooFH4WexfV8ASEdoXRRJL8M="
+    },
+    {
+      "Version": "j11.2.3.2",
+      "SHA1": "2lCX1E3yIUP+G8FjraCDCXhIeuY="
+    },
+    {
+      "Version": "j11.2.3.3",
+      "SHA1": "6xy8cKELyJLc2sPUw6vzNSanAdU="
+    },
+    {
+      "Version": "j11.2.4.0",
+      "SHA1": "uVbe/rjJuZjkQy89RjAQjJ25W8w="
+    },
+    {
+      "Version": "j11.2.6.0",
+      "SHA1": "7btebsfMr2/zAe+ndsiBpV4ATvM="
+    },
+    {
+      "Version": "j11.2.6.1",
+      "SHA1": "ONVENBfAGcG+5tCdrNvl6184UwM="
+    },
+    {
+      "Version": "j11.2.6.2",
+      "SHA1": "BPwDsxBY5uCLhJ+bIr/p2PmsslM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "9tJGyDTNdA9XzPVaKdQm1Y9o5JY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ink.zfei",
+  "ArtifactID": "jta-core",
+  "Versions": [
+    {
+      "Version": "2.0.0.RELEASE",
+      "SHA1": "GS/UChuHG7h+emfam0GfU03sEmY="
+    },
+    {
+      "Version": "2.0.1.RELEASE",
+      "SHA1": "/Tf7G6RnGy+xVOnRh2cFN8/Nylo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

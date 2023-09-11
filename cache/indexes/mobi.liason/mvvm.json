@@ -1,0 +1,39 @@
+{
+  "GroupID": "mobi.liason",
+  "ArtifactID": "mvvm",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "10Kbf+fK5wHRMX7gmbHhX42gkdo="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "fxqbOLP1xrp6CFV0LXH5/UInPIQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "EJXS3INtb7DDfAyVKCQYFYzjAlc="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "sCrSSMxcgiDiEZy1Gz0NRrOFdOU="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "J9uPmIEZxgKqQmn7cDDxkBHHzGM="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "2XuPVoYridpnyeS5dypIPboyWC0="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "R/Y9O/rB87lBjQZDa9fRWyW1BKw="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "aA6SmCobCCQqqscaiQJ9cqHUsO4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

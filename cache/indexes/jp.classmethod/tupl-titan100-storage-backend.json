@@ -1,0 +1,15 @@
+{
+  "GroupID": "jp.classmethod",
+  "ArtifactID": "tupl-titan100-storage-backend",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6yrI4ZBBrj+mByEPqTSAVkj3kTI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "LmojcpqEz3HHg8EXi6oVaZknd5E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

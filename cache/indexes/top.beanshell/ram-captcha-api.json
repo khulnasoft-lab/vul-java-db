@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.beanshell",
+  "ArtifactID": "ram-captcha-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rPANiap8mL8DV+cQ7VukS5ZYnYo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

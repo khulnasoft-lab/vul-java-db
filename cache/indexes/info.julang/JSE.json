@@ -1,0 +1,15 @@
+{
+  "GroupID": "info.julang",
+  "ArtifactID": "JSE",
+  "Versions": [
+    {
+      "Version": "0.1.33",
+      "SHA1": "rljafMhpSKlxbp8Q46eKuD8tAfY="
+    },
+    {
+      "Version": "0.1.34",
+      "SHA1": "ZVDBk4N/JKdUez6y7HXmRfioraM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

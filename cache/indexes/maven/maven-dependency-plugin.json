@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-dependency-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "PsO9jdH0MVt2QiLEsAdrmLgqPwg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

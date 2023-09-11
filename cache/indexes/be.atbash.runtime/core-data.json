@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.atbash.runtime",
+  "ArtifactID": "core-data",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "b8MDu6yEmRrbEXBlXJ9lY46fV4o="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "E5ZUZ7GAlB9UOjPgoEpFZV9oPUg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

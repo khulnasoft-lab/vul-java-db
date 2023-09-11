@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.zhhll",
+  "ArtifactID": "tools-poi",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "tm/xvv0YSqLAu9dQUZamoBnRecI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

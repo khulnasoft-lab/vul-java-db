@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.geozet",
+  "ArtifactID": "openls-databinding",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "RRq9snBTpK/itSASLkBZNN7nx5M="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "ebjMwFkS/q24eYw+eJds9lLJaE8="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "Nnr3HI+mfXzihb5OErQJK+1OYaE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

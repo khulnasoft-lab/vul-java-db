@@ -1,0 +1,19 @@
+{
+  "GroupID": "ms.dew",
+  "ArtifactID": "idempotent-starter",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "ObZBaWk0ipVAuLU5By9CLiNAaBg="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "JeWedvNnR9RVVocouRBhvgrEusg="
+    },
+    {
+      "Version": "2.0.0-rc",
+      "SHA1": "heW/JK3ZZ/DMiV0HJOQgXI5pkzc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

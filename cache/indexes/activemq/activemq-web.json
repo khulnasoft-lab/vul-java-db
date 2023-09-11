@@ -1,0 +1,71 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-web",
+  "Versions": [
+    {
+      "Version": "3.1",
+      "SHA1": "pSmNyARj20E1vJn/L9+i70kExRc="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "JAlmOHsDK5L1G+oIpVs6Nr46UT4="
+    },
+    {
+      "Version": "3.1-M1",
+      "SHA1": "JPk77CgWanL9b1K5IsugqrAaKC8="
+    },
+    {
+      "Version": "3.1-M2",
+      "SHA1": "FIa8oCDGClpvrPjX9eRgs45KRwc="
+    },
+    {
+      "Version": "3.1-M3",
+      "SHA1": "iRh+hjDLx4lcvkYt1hy8xvPMKmw="
+    },
+    {
+      "Version": "3.1-M4",
+      "SHA1": "rK/xVMK8oCh++MSxnORQEfIV8Lg="
+    },
+    {
+      "Version": "3.1-M5",
+      "SHA1": "EwmWKFW3IdQJ1f53/mql7bXMx9A="
+    },
+    {
+      "Version": "3.1-M6",
+      "SHA1": "fEuN1Qlu1WLm/N+ksCS8dnr9TkM="
+    },
+    {
+      "Version": "3.2-M1",
+      "SHA1": "TpARmCayR9DSi8K+9dFxmyyTJHA="
+    },
+    {
+      "Version": "3.2",
+      "SHA1": "HIN+vlXmcltd+cKnPSUeV2k6gMY="
+    },
+    {
+      "Version": "4.0-M1",
+      "SHA1": "QkwyRH5lZgBnwIoM+4M+mbn3lns="
+    },
+    {
+      "Version": "4.0-M2",
+      "SHA1": "lv03az9Vr+Zrm4XQD0cTjdMXsqs="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "34HhozvqeW/EklPiZla1xPHOPGk="
+    },
+    {
+      "Version": "4.0-M3",
+      "SHA1": "VTH4DpLuXr3NK1AVG66Pg18Ul1A="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "okYtqPAXtG/wxw2NrAcKZw++6xM="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "jz9voY7T9GKPyBdXzRfZ4pY0Kgw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

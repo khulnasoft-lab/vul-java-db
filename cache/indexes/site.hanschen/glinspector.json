@@ -1,0 +1,27 @@
+{
+  "GroupID": "site.hanschen",
+  "ArtifactID": "glinspector",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yuuC0pTVUx1tWW3cMnz+k4X8OWc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "yuuC0pTVUx1tWW3cMnz+k4X8OWc="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "9pvS1kUHnO0N9RCbnF6pKjhsNXE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "wsJslK/ibQuVAFyxWsYp4CfpKOg="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "saYXq8n4girAlUtI0o2cZKwcup8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.wehkamp",
+  "ArtifactID": "cakemix_2.13",
+  "Versions": [
+    {
+      "Version": "2.0.0-RC8",
+      "SHA1": "dBNX/aKbwuJAy6dlkdx6vbsA+kY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

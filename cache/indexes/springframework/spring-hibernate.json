@@ -1,0 +1,43 @@
+{
+  "GroupID": "springframework",
+  "ArtifactID": "spring-hibernate",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "7HIKdytNauDhXDXjRYAaLFEWCOo="
+    },
+    {
+      "Version": "1.2-rc1",
+      "SHA1": "TfmZoZCrrqaQzybj5fR/EM0DaZM="
+    },
+    {
+      "Version": "1.2-rc2",
+      "SHA1": "8cgQRBVYceLlG6caqFkVSxPGGaU="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "2rMTjDg9+nlXSdKK8U/mIX801yg="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "xWnBTmgFYvw76yyZQ2CIsyyZ5fw="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "o3pajr/1q6RzcaitbLLUuYrmnVM="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "Iv/GLMuqW1ePrWl+eY0+a5WLCks="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "hEz3DyGJ6e0UJS6UykcmVrK6uwQ="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "RJnm2upHsQEMyVFcx2xM+cnI0+Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

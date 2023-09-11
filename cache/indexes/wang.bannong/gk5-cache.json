@@ -1,0 +1,11 @@
+{
+  "GroupID": "wang.bannong",
+  "ArtifactID": "gk5-cache",
+  "Versions": [
+    {
+      "Version": "1.1.1-beta",
+      "SHA1": "4NGdx5Nb4olAzf/9LiyOc1r3xDM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

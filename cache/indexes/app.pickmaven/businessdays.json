@@ -1,0 +1,15 @@
+{
+  "GroupID": "app.pickmaven",
+  "ArtifactID": "businessdays",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "md6WUniRNuZtphUEg4IIGG41Hx0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "fQ1z+UbNtXk02/yP6V+9xxTUEqA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

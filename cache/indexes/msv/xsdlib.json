@@ -1,0 +1,19 @@
+{
+  "GroupID": "msv",
+  "ArtifactID": "xsdlib",
+  "Versions": [
+    {
+      "Version": "20030225",
+      "SHA1": "ndoiJ7VGGV0i4unKD7bMkr7sHfc="
+    },
+    {
+      "Version": "20030807",
+      "SHA1": "ipLOaXxb+TuI8KsDHpO6QW9GfWI="
+    },
+    {
+      "Version": "20050913",
+      "SHA1": "g2uF1wxUWJru8uqBAjKrGSE36oQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

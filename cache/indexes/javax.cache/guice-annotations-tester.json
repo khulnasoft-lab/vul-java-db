@@ -1,0 +1,27 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "guice-annotations-tester",
+  "Versions": [
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "QLAFd4EQ1ixfYJL36WPG/WlP1qU="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "2sD9z5Rr4bVezVH7IFhVhVHO+Ok="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Hj+TEOx/JWAZAGBdVuMBTc5OWn8="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "fM7ysvWpDAzYTncnofN5JqThkNY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "yFEHIm3HxpRjU23EAh3ywiLl86Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

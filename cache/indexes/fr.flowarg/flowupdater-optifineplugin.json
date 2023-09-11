@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.flowarg",
+  "ArtifactID": "flowupdater-optifineplugin",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "ODEVvbdIlXYnJZacTaVK2Dd8m0E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

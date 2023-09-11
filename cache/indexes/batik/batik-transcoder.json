@@ -1,0 +1,15 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-transcoder",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "hSwbD2fnKkJzB8eWwaVsckVJQmA="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "gbJDunCRwYbERUco01ZJPd9prZY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

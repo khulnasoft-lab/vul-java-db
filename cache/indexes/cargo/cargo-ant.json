@@ -1,0 +1,11 @@
+{
+  "GroupID": "cargo",
+  "ArtifactID": "cargo-ant",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "uFKD9OmVPa1fiHFBzqPig4DoChQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

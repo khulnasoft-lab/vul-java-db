@@ -1,0 +1,19 @@
+{
+  "GroupID": "no.arktekk",
+  "ArtifactID": "anti-xml_2.10",
+  "Versions": [
+    {
+      "Version": "0.5.1",
+      "SHA1": "vtK2cX2QErVsn+b6+NM95aHVSpM="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "Qz1URPw23Dt4dseTlF2JFQ0GWE8="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "jm90gAnBAczU66Apaw0cq7bE37M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

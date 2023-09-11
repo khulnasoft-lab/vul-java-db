@@ -1,0 +1,15 @@
+{
+  "GroupID": "jface",
+  "ArtifactID": "mavenzilla",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "4gao9i1ZH+dxX4Ces28QvNU+pkw="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "1EWXjR/bA0nTrCnlH7Esli4zNA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

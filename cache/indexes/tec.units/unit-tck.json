@@ -1,0 +1,27 @@
+{
+  "GroupID": "tec.units",
+  "ArtifactID": "unit-tck",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "9NiDf17SQMz+ww8haoQOW4wPoMM="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "4SfoXXohr/jPuijtrS9KuZNWVO0="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "1uEB1ucNv2u9OK9KqlaWS+0M/Ms="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "rlHNv4FvZAwL8dMB8VSstziqUSk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "hMX+Vbw4t9t43dUYq1+R1G9aprQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

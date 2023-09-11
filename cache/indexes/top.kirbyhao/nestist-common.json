@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.kirbyhao",
+  "ArtifactID": "nestist-common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "acOOLmXNNDLbcH3vrAoAnsE7Bnk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

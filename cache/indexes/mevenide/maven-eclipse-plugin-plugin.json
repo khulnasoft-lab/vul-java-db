@@ -1,0 +1,27 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "maven-eclipse-plugin-plugin",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "pVah8H18BglWD/fz5KSP1CCi+EY="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "MM4SVNYtNpVD866WeEOxsVnrk+8="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "2lEqH4XpKhxtd83V1plu8Zoa/Rw="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "ITxio2Q0oJSoJ5b1pi+3Lt5xN8M="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "e31z41zYw76R7YVhgy+xjWNDfGE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

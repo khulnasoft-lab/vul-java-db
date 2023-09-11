@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.controlnet",
+  "ArtifactID": "lightioc-api_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "OzFhlsuFaJl1HAVwSpUsGxYkkg0="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "sSsHj54cQMaPIZKRyP2lZ58gelM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.sysa.log-sanitizer",
+  "ArtifactID": "log-sanitizer-benchmark",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "PxGFNgp1rTtD+0DyDVhyI1jk5WA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

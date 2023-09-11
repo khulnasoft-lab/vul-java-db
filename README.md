@@ -13,10 +13,10 @@ You can download the actual compiled database via [Vul](https://khulnasoft-lab.g
 
 Vul:
 ```sh
-TRIVY_TEMP_DIR=$(mktemp -d)
-vul --cache-dir $TRIVY_TEMP_DIR image --download-java-db-only
-tar -cf ./javadb.tar.gz -C $TRIVY_TEMP_DIR/java-db metadata.json vul-java.db
-rm -rf $TRIVY_TEMP_DIR
+VUL_TEMP_DIR=$(mktemp -d)
+vul --cache-dir $VUL_TEMP_DIR image --download-java-db-only
+tar -cf ./javadb.tar.gz -C $VUL_TEMP_DIR/java-db metadata.json vul-java.db
+rm -rf $VUL_TEMP_DIR
 ```
 
 oras >= v0.13.0:

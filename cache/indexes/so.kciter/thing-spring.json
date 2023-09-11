@@ -1,0 +1,27 @@
+{
+  "GroupID": "so.kciter",
+  "ArtifactID": "thing-spring",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "0rMVwCH+6ocFtjBClv2Kw4eeKtI="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "rZriXEHSe7s8/uWIvHFdQzF2IlQ="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "HXUT7tfb2zNChHdSf2E9RCMl2Lc="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "CSH/kbjE9//fBhQbvtIBxE0LX2A="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "EAYzHQhF2s1jTErqvElZeAihenE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

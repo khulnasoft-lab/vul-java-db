@@ -1,0 +1,11 @@
+{
+  "GroupID": "javancss",
+  "ArtifactID": "jhbasic",
+  "Versions": [
+    {
+      "Version": "21.41",
+      "SHA1": "+v0uayfNCHiZ5EVlJKN49kcKbM8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

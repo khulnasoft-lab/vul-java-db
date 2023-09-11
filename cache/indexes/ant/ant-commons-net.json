@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-commons-net",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "Om1Enkv3oo4ZeNppvqIAG04idyM="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "y9g6EcGlN2LFaMmTSlUNEGO2Ek8="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "OemF58JZZd5nzWZFkWnKAQm/1AY="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "o2bdYn4oA8UxFD09TUtRDuH5AzM="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "GkmNxCWA1eSCfWRLotTEpHjQeBw="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "zLTNJVQeZpeRBl2XFJytYe6uDJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

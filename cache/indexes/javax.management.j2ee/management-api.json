@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.management.j2ee",
+  "ArtifactID": "management-api",
+  "Versions": [
+    {
+      "Version": "1.1-rev-1",
+      "SHA1": "ii8bdHlQlrY5TYzJvy3NCZq95ts="
+    }
+  ],
+  "ArchiveType": "jar"
+}

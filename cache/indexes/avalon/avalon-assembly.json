@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon",
+  "ArtifactID": "avalon-assembly",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "U5cqEVTITqWrprSAZDovM/W4/0o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.rugal",
+  "ArtifactID": "trie",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "tka7eERl+JYRX7W3aCfaIZO+T4Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

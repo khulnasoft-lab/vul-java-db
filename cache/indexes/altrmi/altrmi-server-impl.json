@@ -1,0 +1,11 @@
+{
+  "GroupID": "altrmi",
+  "ArtifactID": "altrmi-server-impl",
+  "Versions": [
+    {
+      "Version": "0.9.6",
+      "SHA1": "y1jbePnzFPC9W0jXX+AgEhG68Mk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

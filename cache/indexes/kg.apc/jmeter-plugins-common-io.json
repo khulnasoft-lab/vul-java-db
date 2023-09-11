@@ -1,0 +1,15 @@
+{
+  "GroupID": "kg.apc",
+  "ArtifactID": "jmeter-plugins-common-io",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "VxLfH36SPD1fY9T1qDRM185HIbw="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "fekOack1s+hWif6ERskN1dcUXPQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

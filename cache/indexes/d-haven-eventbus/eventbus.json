@@ -1,0 +1,11 @@
+{
+  "GroupID": "d-haven-eventbus",
+  "ArtifactID": "eventbus",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "1FkLyknKwB2NfGfFnoC48fuhKXc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

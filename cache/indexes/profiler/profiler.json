@@ -1,0 +1,11 @@
+{
+  "GroupID": "profiler",
+  "ArtifactID": "profiler",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "6K3z+uqI1OPqVavfWoeog5pwRyQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

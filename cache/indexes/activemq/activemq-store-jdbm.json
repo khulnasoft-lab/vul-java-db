@@ -1,0 +1,39 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-store-jdbm",
+  "Versions": [
+    {
+      "Version": "1.1-G1M3",
+      "SHA1": "SFKnVE+2vhq2eqd7hAFf7B/YdNw="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "asjZfUU0LDoTPvC+qcuWej9LIC8="
+    },
+    {
+      "Version": "1.2-20041105",
+      "SHA1": "IcDhXuporyajxDcipSmedY5Er/I="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "WOMTKohhXv8Zq5F5lMMk9UmQY6s="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "U9XwiRZzpRuyUUFUlt7hzrbgkmA="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "q9qLdg6co+28wAc1qX3Sb/h8MAg="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "9k+Ki+LrZwzNM9RllQcgXbyI5xc="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "GDGm3Rb2vht6Ln3I5GUPbD7lREk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

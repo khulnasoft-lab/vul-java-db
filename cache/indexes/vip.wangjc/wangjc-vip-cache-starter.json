@@ -1,0 +1,47 @@
+{
+  "GroupID": "vip.wangjc",
+  "ArtifactID": "wangjc-vip-cache-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "Q6w53GCZLed2VIJtPUaNLznV8Wc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "2YC+JK0+vkbM/DE68O2LbxgGiLc="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "jY+TENztuagTPVoQFD0Gj0pb8+Q="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "Mqzx+/c2V4B2L3kauDLdCf/zQVA="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "A2HoP1j5TYDOcgh1dtwscNpm4c8="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "gh/9ThxrLpGI/d0tqL4/ZpKNx9g="
+    },
+    {
+      "Version": "1.1.9",
+      "SHA1": "4LFJ/8PgNr9kbdC0D9qx9NzXVf0="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "WohihhCDLx3K7fOYqSUfp64ofjQ="
+    },
+    {
+      "Version": "1.2.7",
+      "SHA1": "ADm1AKpuGzCmc9eE0Hc4QDHnOls="
+    },
+    {
+      "Version": "1.2.8",
+      "SHA1": "SA/OAhfCPPpfUGPn8dNr5cIRypU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

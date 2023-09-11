@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur",
+  "ArtifactID": "excalibur-instrument",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "5XE3ca1o3yaepuPf09fOtijXd08="
+    }
+  ],
+  "ArchiveType": "jar"
+}

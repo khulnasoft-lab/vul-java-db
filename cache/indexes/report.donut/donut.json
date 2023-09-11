@@ -1,0 +1,23 @@
+{
+  "GroupID": "report.donut",
+  "ArtifactID": "donut",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "fdr+8mvZQc3rjWIb0EJucuuZZAA="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "vdoN0EC8OV0AIOTWSVbCNTnkQIs="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "ZnXdecnBeaar7h8EONOqW21vWCc="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "8y/ueymZcinw6gj663gjXmVcSZ0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

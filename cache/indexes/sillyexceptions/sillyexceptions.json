@@ -1,0 +1,11 @@
+{
+  "GroupID": "sillyexceptions",
+  "ArtifactID": "sillyexceptions",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "oqKWbu/Vz1AIPYvQgkVpOjb8nbo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

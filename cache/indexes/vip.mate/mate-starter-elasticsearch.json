@@ -1,0 +1,63 @@
+{
+  "GroupID": "vip.mate",
+  "ArtifactID": "mate-starter-elasticsearch",
+  "Versions": [
+    {
+      "Version": "1.6.8",
+      "SHA1": "064g1iQQ9kr5I8SA8L9+1gk5JNc="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "bnh9xnxh6l5/s5EPQeRrU9RIm9g="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "aAjxuBsUeLPYPdREe3Vl7ziXxgw="
+    },
+    {
+      "Version": "2.2.8",
+      "SHA1": "ViR7xpg7Ff3f50Q6SBsZb5ziWzA="
+    },
+    {
+      "Version": "2.3.8",
+      "SHA1": "VXOYa/UegTnBUGmyj4+Sky3k96w="
+    },
+    {
+      "Version": "2.5.8",
+      "SHA1": "CiETRmMuAHsz1SQ6KyJKOrId0Bo="
+    },
+    {
+      "Version": "3.0.8",
+      "SHA1": "1VnEIPh5Cs8KxK5sxLo3GSjCYww="
+    },
+    {
+      "Version": "3.1.8",
+      "SHA1": "6Z7qr4ZYb8tGiWXkbTlQOaVCzDA="
+    },
+    {
+      "Version": "3.2.8",
+      "SHA1": "P+kULjRKkEaCQ1AfQzM0TF/BAtU="
+    },
+    {
+      "Version": "3.3.8",
+      "SHA1": "HP8n1fwY4KYF8M99pjkzrfRm1MQ="
+    },
+    {
+      "Version": "3.5.8",
+      "SHA1": "0W6EXDQdW0P4ZG7GtYWkODYauWs="
+    },
+    {
+      "Version": "3.6.8",
+      "SHA1": "34ucdc4PhSVx3Eq6k2SgewUdtq8="
+    },
+    {
+      "Version": "3.7.8",
+      "SHA1": "fWtcmgDa8r7vT92/fxWTm/jU+T0="
+    },
+    {
+      "Version": "3.8.8",
+      "SHA1": "QVF0u7si6stgpht7PQfDXonWaoI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

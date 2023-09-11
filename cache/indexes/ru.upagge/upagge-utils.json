@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.upagge",
+  "ArtifactID": "upagge-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "a5D/Gsde/6+gmwgT0YRJuo1iznA="
+    },
+    {
+      "Version": "1.1.0-RELEASE",
+      "SHA1": "i/lxSYVdVGgI0ioXWtt/lxW0zlA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

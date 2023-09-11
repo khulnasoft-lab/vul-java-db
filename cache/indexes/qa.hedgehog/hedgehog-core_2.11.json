@@ -1,0 +1,79 @@
+{
+  "GroupID": "qa.hedgehog",
+  "ArtifactID": "hedgehog-core_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.5",
+      "SHA1": "rykmKAu7iysjEm2h3yujqy2Oqe0="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "lqm3omrgMrGkxx1mC1YBvFMRNw4="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "wFEdn7NCaZ29twhDrHGJjJUcIlI="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "ItxtnhnPDDuHHkgya6KpWtB1Rgc="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "un9jOZ4s/fwdgcubW8K4yx2C8Rg="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "2XIjcr3zVSoGYNvuvBTUuGeA0rQ="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "Rb/COQbgG5sEZ3bCDHvro4uiPbE="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "fyyKYbZQj9If7MBHa7uQQ+QAGMk="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "irrmfJS3lMHXsV+ZRtmOSM8YHm0="
+    },
+    {
+      "Version": "0.6.4",
+      "SHA1": "30Gxw+bD0pfIXZYfGR7iOwzTwXg="
+    },
+    {
+      "Version": "0.6.5",
+      "SHA1": "MLZe+LdfX7aX/a93rfJNXyqDCpA="
+    },
+    {
+      "Version": "0.6.6",
+      "SHA1": "hIrj5EUCRc9jYKs/3bH32q6FgAY="
+    },
+    {
+      "Version": "0.6.7",
+      "SHA1": "MD/54b8hUsqGTfw4qcm/rC3Zmjg="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "tvWePx8cRNEfgfuYDXjHEcRAVcg="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "AgCzMqPBXpCO5Im2WIb68Nd07rQ="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "9kW5iyvtkjx9Z8CE9D9PmlxHKNU="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "6YIAW5jPIyB7jWZsPIaVrj1Oe60="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "3U3cfJbY/27wTcOZ5nZNpsssGwQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

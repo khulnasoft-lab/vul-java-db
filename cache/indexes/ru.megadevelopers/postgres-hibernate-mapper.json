@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.megadevelopers",
+  "ArtifactID": "postgres-hibernate-mapper",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "kooTDzZafKxEKSrt23o23+jSQ2k="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "sEPvxKWWfY1gdgBudLUbPPLYUe0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

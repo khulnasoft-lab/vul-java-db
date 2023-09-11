@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-jmx-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "I5joBKtP86pzAXztkZkIRmL1ba8="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "hAe4J/3dtAu+K6P81OhrPBVQPBQ="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "vUzY0HYSIyxjXSt0tAzxNn4AIY0="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "WDyniaHBEMTb6T4RAmxEloRgl/Q="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "U5w+HzfamF4WAjbLBAvSRp6wokk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

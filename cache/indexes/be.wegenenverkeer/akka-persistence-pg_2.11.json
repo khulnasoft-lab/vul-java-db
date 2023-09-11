@@ -1,0 +1,47 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "akka-persistence-pg_2.11",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "5Gvs0wlzultydE6O6AENIIRX32g="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "2usZ3RuW4goTiEHtSPaDIMEjVQg="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "Q6fC9/++MvkiyGzrN2LynaWmuI4="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "FRf7uV3Vjen87sdA0goz8+kjQgA="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "BsnVeYDYQ8a7Zc2J3c3ZWA/1XN0="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "ijhZj/BbHm+W2JmGq35QbBy/lRg="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "ucBg2X8o6tHul802j8dv8tkMHS8="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "xWr4MNWa5KVX5cIJ77jZwXyGkhU="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "XmLlxgjLfy3gzdP8TuFcGwXsV4I="
+    },
+    {
+      "Version": "0.14.0",
+      "SHA1": "7zvfvItvZTWAsiemUYID2+r9IaE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

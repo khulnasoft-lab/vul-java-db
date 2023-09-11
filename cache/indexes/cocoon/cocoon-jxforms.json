@@ -1,0 +1,15 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-jxforms",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "n72alFTcPmZls6eegghCxNV9Hq0="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "nNnsZV/CfTrzGJm1w646T+GTPR0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

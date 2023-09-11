@@ -1,0 +1,23 @@
+{
+  "GroupID": "jp.skypencil",
+  "ArtifactID": "RuleSet-for-SLF4J",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "GW2P79C8HRYIZ0C35EjHRjQl0/Y="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "K61WcM8ztscxqxQ9XM9LSfJ2XcQ="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "L5XeZn5SSVBk7Um2LwDrI2+udDA="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "8Kr0AkKDqwrxq+sumIOUALKgcUU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

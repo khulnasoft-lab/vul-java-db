@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.hankai",
+  "ArtifactID": "hkanalyzer",
+  "Versions": [
+    {
+      "Version": "0.0.1.RELEASE",
+      "SHA1": "pjwmVIlCOUPgo0mfbTdQU1GqKew="
+    }
+  ],
+  "ArchiveType": "jar"
+}

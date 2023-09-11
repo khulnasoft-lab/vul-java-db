@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.jonaseveraert.utils",
+  "ArtifactID": "jonas-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lQJgP+06Xib0MoOgRpq+5hZiZOM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "YKi/BUhKki1K6yGzUWjLtKpi7Mo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "gK6EXLP20glEF74A5pWOJj7oj4E="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "7lhYHK8MWpAdR1q5F9xSW8wuriM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "zPntdn6c8e7GvJziX9YU+nYDkF0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "xhuJBHcg51U7QAfDO38P5rsG7ss="
+    }
+  ],
+  "ArchiveType": "jar"
+}

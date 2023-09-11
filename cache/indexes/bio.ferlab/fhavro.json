@@ -1,0 +1,11 @@
+{
+  "GroupID": "bio.ferlab",
+  "ArtifactID": "fhavro",
+  "Versions": [
+    {
+      "Version": "0.0.9",
+      "SHA1": "+jBH1EZ3Jy+4gqrcguxxMs0pfx4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

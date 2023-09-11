@@ -1,0 +1,191 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "affiliate-sdk-java",
+  "Versions": [
+    {
+      "Version": "19.0.13",
+      "SHA1": "LDo+1zQP4baGQdm0kBbS58Q9QqI="
+    },
+    {
+      "Version": "19.0.17",
+      "SHA1": "WIErEZsJARIfttQcYYhywGN2hAk="
+    },
+    {
+      "Version": "20.0.0",
+      "SHA1": "I/top++zW6Uwldey76P4fTJNwjI="
+    },
+    {
+      "Version": "20.1.0",
+      "SHA1": "VM6JkP9mH8+Wt49NQUH8bn4a+Zw="
+    },
+    {
+      "Version": "20.1.1",
+      "SHA1": "+Sy7139C4ZbNzJ8QM4ISvKV/ibQ="
+    },
+    {
+      "Version": "20.1.2",
+      "SHA1": "niO6NHXP5VxK6gzFjBNqiXymTSE="
+    },
+    {
+      "Version": "20.1.3",
+      "SHA1": "ELhJqNHEZYpWcvfEeVJgjtVDtXU="
+    },
+    {
+      "Version": "20.1.4",
+      "SHA1": "7Q0kkclXxGdJaRuFemUZde+QNlA="
+    },
+    {
+      "Version": "20.2.0",
+      "SHA1": "MSfHn32MvEq/pNc75/wg72BEgNY="
+    },
+    {
+      "Version": "20.2.1",
+      "SHA1": "YSFGPj+DJgVDnGFXXNvGo4GzOio="
+    },
+    {
+      "Version": "20.2.2",
+      "SHA1": "1LWu0z+G9Vm9HAtm5J3U9pY1Ra8="
+    },
+    {
+      "Version": "20.2.3",
+      "SHA1": "e3QiHT0q197ZP0miv+d2AmlYHo4="
+    },
+    {
+      "Version": "20.2.4",
+      "SHA1": "gSbeYMnPdZPXLrYmT/8Tc7gMXyA="
+    },
+    {
+      "Version": "20.2.5",
+      "SHA1": "yWJI3ye/kPhT60qATtb9jXUr5eI="
+    },
+    {
+      "Version": "20.2.6",
+      "SHA1": "o3bg+dRp5wfcdK/E9VcD/Auv+cw="
+    },
+    {
+      "Version": "20.2.7",
+      "SHA1": "LArc6Qy56pOZXM4DeBL3wRUxyng="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "j7nbeS2vVl5UtzgldxNiQXg9SxY="
+    },
+    {
+      "Version": "21.0.1",
+      "SHA1": "zQWrrDIj28gFYBCMfBGLXUdjURU="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "GAPfZ2kYhDKxmVvhKh33XK4EFVI="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "r3xW5FBh8fWl3C63rf2PninQ8s4="
+    },
+    {
+      "Version": "21.3.0",
+      "SHA1": "7ztBBY/Ez3pVMVycTlN2YPQlQDI="
+    },
+    {
+      "Version": "21.15.1",
+      "SHA1": "bKDRTKEohv6Wmmh+guxIUHP0KNE="
+    },
+    {
+      "Version": "21.16.3",
+      "SHA1": "POvFGRAVnQy/9jl4ad6JBUPV0f0="
+    },
+    {
+      "Version": "22.0.1",
+      "SHA1": "S7oUyZF/4Ar33jTubTq8Lv7uAvA="
+    },
+    {
+      "Version": "23.1.1",
+      "SHA1": "CNoVP0JbW2JyowlXuULW1+KZWmA="
+    },
+    {
+      "Version": "24.0.0",
+      "SHA1": "MdblrL85MHK2j7GK9QS4yV7stws="
+    },
+    {
+      "Version": "24.3.2",
+      "SHA1": "ZHwGivma3yoTg5LmDxPlV5/IxmU="
+    },
+    {
+      "Version": "24.7.0",
+      "SHA1": "R4QoZ1L0FtgCS4OSy7tFKtQm3VQ="
+    },
+    {
+      "Version": "25.0.3",
+      "SHA1": "Iwly+A2i6XfDX7MekMVMBKAvo6E="
+    },
+    {
+      "Version": "25.1.0",
+      "SHA1": "b1vqC6o7Wf0R5GooS+Sx/yZ2aYY="
+    },
+    {
+      "Version": "25.2.3",
+      "SHA1": "RG+JeIkVNrLsRqGUbdpENZ3qgZs="
+    },
+    {
+      "Version": "25.2.7",
+      "SHA1": "NWc0oTs86VJb+5MwJ0rsBmWfvV4="
+    },
+    {
+      "Version": "25.3.0",
+      "SHA1": "mNoJgiwR+Nsuvu6ACGZ/MZBAv9w="
+    },
+    {
+      "Version": "25.4.2",
+      "SHA1": "QVWWi+sKGvIG+1u9A13StxLGjWs="
+    },
+    {
+      "Version": "25.6.4",
+      "SHA1": "SuZr3BEZjb19KHApEgyy3AHuBAE="
+    },
+    {
+      "Version": "25.6.8",
+      "SHA1": "P4PLb0gqmlFbkPt+vE/80QQ8Kfo="
+    },
+    {
+      "Version": "26.0.3",
+      "SHA1": "LXS+ouVztwC64yHJCOLBTQCSuKg="
+    },
+    {
+      "Version": "26.1.1",
+      "SHA1": "L2jFRRTz6jM5FHyRnFMNdRvirjk="
+    },
+    {
+      "Version": "27.1.1",
+      "SHA1": "eING0EpwcjSKP0PjuFvi8bjF9pc="
+    },
+    {
+      "Version": "29.0.0",
+      "SHA1": "LtOLQXjDgWzThTRGDyw1rircXPs="
+    },
+    {
+      "Version": "29.3.0",
+      "SHA1": "7qtf1ps1e3DMKD5KEpicqCnN9gA="
+    },
+    {
+      "Version": "29.7.0",
+      "SHA1": "o+50lyzSbYkqUYpmI6cLFwvtrzE="
+    },
+    {
+      "Version": "29.8.0",
+      "SHA1": "FaYMc0dXqZPPB/ovxTUTQxyYdm0="
+    },
+    {
+      "Version": "29.8.3",
+      "SHA1": "7hvfdgoK3b3bRX25xw6r7lVGGJA="
+    },
+    {
+      "Version": "29.8.8",
+      "SHA1": "FAQ9VdEirdILyb1ILrKIpvIrm7o="
+    },
+    {
+      "Version": "29.10.0",
+      "SHA1": "4uAX2X7kbdhnA/Q6YMBM+O8IvI4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

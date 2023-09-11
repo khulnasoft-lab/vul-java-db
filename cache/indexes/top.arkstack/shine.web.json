@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.arkstack",
+  "ArtifactID": "shine.web",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "UoEG+gIO7BU6kwa6mCKuSzThPhQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "3/OXxKg3UHcMPUpclwTPOQJlhq4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

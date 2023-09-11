@@ -1,0 +1,31 @@
+{
+  "GroupID": "kz.greetgo",
+  "ArtifactID": "greetgo.email.real-send-spring",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "40Ad+A7gsFyAhqqH3LhBbLeAIY4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "lzHwzcj/5PE7XQqxtygcJPJsnfs="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "zZmxHX/UeeprAhnWwshZOskSQb0="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "fiGLpBefhe2smu4tlJy8c/+NX9s="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "xduuGdJyS946IUpG68U/QGpPWe0="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "wv35iwgvWrQoNPIzqLCPoN+LTPU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

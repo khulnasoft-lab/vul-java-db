@@ -1,0 +1,11 @@
+{
+  "GroupID": "asia.stampy",
+  "ArtifactID": "stampy-client-server",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "hMCzAFRRGRzYu8H70VGttPrQxw8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

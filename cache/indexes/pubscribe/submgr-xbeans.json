@@ -1,0 +1,11 @@
+{
+  "GroupID": "pubscribe",
+  "ArtifactID": "submgr-xbeans",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "aoGz5lkNFN7cm2rYbHyoje5jCrk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

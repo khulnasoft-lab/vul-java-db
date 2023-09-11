@@ -1,0 +1,11 @@
+{
+  "GroupID": "oness",
+  "ArtifactID": "oness-common-webapp-taglib",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "rfhNU0VSO80Th/zjKZFEgqrRXtE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-notification",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "wHkpDkZ2lbIDIMG0rSY1p8Sskoo="
+    },
+    {
+      "Version": "1.0-alpha-4",
+      "SHA1": "OdGwDnc5jkmdYbz+IocmCok+VNI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

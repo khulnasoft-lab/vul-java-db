@@ -1,0 +1,15 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "maven-gentaku-plugin",
+  "Versions": [
+    {
+      "Version": "20050105.013616",
+      "SHA1": "Q0dRNk0rPTlx32aMgE7qSz9I8d4="
+    },
+    {
+      "Version": "20050208.175858",
+      "SHA1": "M94f7t6t+Kz8SsnePZ+5j6QJSZQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.cwts",
+  "ArtifactID": "networkanalysis",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "TQ3Lxii8mnSdSp2ZuSwnuBIFtTI="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "QWtKTjdpJD6u6cbcfBZbsAD3gGA="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "ReOPHBw0NZ5nxFI135jaAj901Rk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

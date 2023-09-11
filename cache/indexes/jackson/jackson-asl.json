@@ -1,0 +1,11 @@
+{
+  "GroupID": "jackson",
+  "ArtifactID": "jackson-asl",
+  "Versions": [
+    {
+      "Version": "0.9.3",
+      "SHA1": "9ffsGP5I1Y2l9oXG06brRp6usuo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "systems.dennis",
+  "ArtifactID": "sd-auth-service",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "tQbSLMcb/UuzwEQHdcHYtQq22p0="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "sWrzWziyGgJPUbeTayjeOLsrT+s="
+    },
+    {
+      "Version": "1.2.1.1",
+      "SHA1": "JgW+hZ/6jQ5+mxuqnK0YCMFuqgo="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "kiX1UN2npetnrvr5EcjlCTPPH+k="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "+3vAmG4iDNnmS7h92H4+cvkyL6Q="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "EPaT3/3RxJAZ9096Mb8YCVcOTC0="
+    },
+    {
+      "Version": "1.2.4.1",
+      "SHA1": "jujyYaKFdW2Oy3zvpFD8wlAXjjs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

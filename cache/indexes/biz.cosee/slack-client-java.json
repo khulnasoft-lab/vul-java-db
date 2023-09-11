@@ -1,0 +1,15 @@
+{
+  "GroupID": "biz.cosee",
+  "ArtifactID": "slack-client-java",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "PqcXLQZs2XfArTYmcuZ/ZC0sO+k="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "JcdpB4a1HBImIM5uehaXO3LyGhk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

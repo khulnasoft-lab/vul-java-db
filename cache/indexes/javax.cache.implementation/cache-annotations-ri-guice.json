@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.cache.implementation",
+  "ArtifactID": "cache-annotations-ri-guice",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "P67vV4jNygScFljWYf5D+x/P4UY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

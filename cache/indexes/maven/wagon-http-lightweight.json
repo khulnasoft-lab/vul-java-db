@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "wagon-http-lightweight",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "PT8gVevaDwUEz2s8h29NxFkD5cs="
+    },
+    {
+      "Version": "20040714.210443",
+      "SHA1": "MDMqBJN4D3Gz8pkskYM4krNYEd0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

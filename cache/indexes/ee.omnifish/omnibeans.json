@@ -1,0 +1,19 @@
+{
+  "GroupID": "ee.omnifish",
+  "ArtifactID": "omnibeans",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "yrv8WWx1zUY+m5nNcibSH6Va05w="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "to6PgSemLBjnqqH3f3fkPOzX4/I="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "Qx5izJUk9aH0S7bygjecGdL4OnQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "network.aika",
+  "ArtifactID": "aika-debugger",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "22cZBA1lZjZr9Zn3lyzmoRhZj0k="
+    },
+    {
+      "Version": "2.0.2.ALPHA",
+      "SHA1": "W2Nz1kghzEsvuQWr2wyHahgZLDA="
+    },
+    {
+      "Version": "2.0.3.ALPHA",
+      "SHA1": "++oj4GLzpPzX5ZpEoRx/msL/K0U="
+    },
+    {
+      "Version": "2.0.4.ALPHA",
+      "SHA1": "uhDekaSeULSL5NPGQfkDw03jMBA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

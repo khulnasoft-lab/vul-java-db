@@ -1,0 +1,35 @@
+{
+  "GroupID": "us.fatehi",
+  "ArtifactID": "creditcardnumber",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "vXOCNvpTy8Ug53p884y5lnoK50M="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "HPRJ7Yxd9hu52c2r51dr7UxhRS8="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "0vNTxLt+2n3AGtxWrk+wxDHxPMk="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "z1IWM8omAn4uoQw1Tf0ZuOtKCQs="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "uFIcG05k2Y4NS6lE/5+K0Xw83HI="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "7KHPk+Qk8W9eh5G8ZPKtBBVod2w="
+    },
+    {
+      "Version": "4.0.3",
+      "SHA1": "MGYkjCWteFoHyIuvwouti0NzeOM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

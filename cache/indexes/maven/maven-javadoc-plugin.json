@@ -1,0 +1,31 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-javadoc-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "RnwJJ8gKLVkJuQPK+JLwFXzOwyc="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "AOgSpU7EJsacLysmnBBhoG2J0l0="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "y73wknPKZ7uNydEmn9l5rxYT+HM="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "bmmDZ//hwmlAcDLWKKHPPXwi+o8="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "uTOUbcH4bYmseqmj/1L4MDlzoSs="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "/a68FvykdNFdTFtgdsl4vIXusfg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "top.angelina-bot",
+  "ArtifactID": "angelina-frame",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "PZZB9Wm6OxIsg8Xrx/Rk0XatNEg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "NC38Y4fp4Vwvtxfzu/tYUV5J5U4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "8B4P0InCzWhLtSkuq1LDH7sJj/4="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "YbrnwmyoX3L4B1nwlllpJ89IhoM="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "laTNgEO6CCMj9rmRqHDNAqJjt1Y="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "cUm3cvWcRpbF8JxtT5gOh/yBr70="
+    }
+  ],
+  "ArchiveType": "jar"
+}

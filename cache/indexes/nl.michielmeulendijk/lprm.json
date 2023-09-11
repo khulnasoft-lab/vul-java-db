@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.michielmeulendijk",
+  "ArtifactID": "lprm",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "Hg32nMK+tmX0/LGveBHB00LM5tM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "B0cMmY2XJ6R6hcGwZROWBEOp3Nc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

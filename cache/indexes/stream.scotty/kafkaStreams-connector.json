@@ -1,0 +1,11 @@
+{
+  "GroupID": "stream.scotty",
+  "ArtifactID": "kafkaStreams-connector",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "OTPfQgp2/+nkXsgdiUb1GPjjr+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

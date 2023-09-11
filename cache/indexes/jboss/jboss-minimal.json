@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-minimal",
+  "Versions": [
+    {
+      "Version": "4.0.2",
+      "SHA1": "CPFTrbn9lw03yy//Uic/dGTUHOE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

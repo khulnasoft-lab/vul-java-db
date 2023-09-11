@@ -1,0 +1,11 @@
+{
+  "GroupID": "nf.fr.eraasoft",
+  "ArtifactID": "furious-javatester",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KRM3wixrc4Q/dZsXk9saYILwli4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

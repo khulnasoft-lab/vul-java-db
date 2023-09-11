@@ -1,0 +1,11 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-site",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "wC22v+B/68TDpcCeVNm89wO3phU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

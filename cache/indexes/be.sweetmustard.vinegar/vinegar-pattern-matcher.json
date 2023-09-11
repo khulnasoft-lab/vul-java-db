@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.sweetmustard.vinegar",
+  "ArtifactID": "vinegar-pattern-matcher",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "Lhp6Yh/YXB+083j4LAsP2YfYTZk="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "/Qe3QMduVqeO+XX5eo/Mo85T/xo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

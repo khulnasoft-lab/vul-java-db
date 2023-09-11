@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.jasan",
+  "ArtifactID": "groovy-closure-support",
+  "Versions": [
+    {
+      "Version": "0.6.1",
+      "SHA1": "J16MQjAzpSh3SO6YGIVhaMj6h38="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "dckRLLTJWTddq3yLKsF1iYJ1HzU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

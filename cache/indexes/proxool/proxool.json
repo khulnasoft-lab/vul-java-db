@@ -1,0 +1,11 @@
+{
+  "GroupID": "proxool",
+  "ArtifactID": "proxool",
+  "Versions": [
+    {
+      "Version": "0.8.3",
+      "SHA1": "5oZ7pbZOn6TtjDP8iYhxBekNADs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

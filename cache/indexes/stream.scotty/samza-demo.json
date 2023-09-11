@@ -1,0 +1,11 @@
+{
+  "GroupID": "stream.scotty",
+  "ArtifactID": "samza-demo",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "JGYP1W6wkBQf9YfaaEoD060Iv6g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "javax.enterprise.deploy",
+  "ArtifactID": "javax.enterprise.deploy-api",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "Ag/TON0CXq/CJsqQvXzcxgAV110="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "3i0bYV6eAnrb3UZ/QiMWLvNUBKs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

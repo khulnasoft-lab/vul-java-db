@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.arakne",
+  "ArtifactID": "swf-map-loader",
+  "Versions": [
+    {
+      "Version": "0.1-alpha",
+      "SHA1": "QqCQ4JDxY9qxdn6XvPp8UM5faUw="
+    },
+    {
+      "Version": "0.2-alpha",
+      "SHA1": "KRqDvx+PAdVagiQtcrsM4hgkfnc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

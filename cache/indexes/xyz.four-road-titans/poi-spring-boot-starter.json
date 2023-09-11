@@ -1,0 +1,11 @@
+{
+  "GroupID": "xyz.four-road-titans",
+  "ArtifactID": "poi-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "LA1P1Mp1834meja/t04AJfpagWI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

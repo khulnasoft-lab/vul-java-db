@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-classman",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "nsBNSZoStJ8DSZXStA/VYnMhk0s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

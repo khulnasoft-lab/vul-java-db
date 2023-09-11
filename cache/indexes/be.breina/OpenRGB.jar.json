@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.breina",
+  "ArtifactID": "OpenRGB.jar",
+  "Versions": [
+    {
+      "Version": "0.2.3",
+      "SHA1": "B72C/FMWuwNRsiTEFZdTHJXGHRI="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "l/J+cEZClMESCsA8MeVzL+YLRe8="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "kf0dDFnjaMuF/nA3Xullojardpw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

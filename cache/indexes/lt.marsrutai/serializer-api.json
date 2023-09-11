@@ -1,0 +1,11 @@
+{
+  "GroupID": "lt.marsrutai",
+  "ArtifactID": "serializer-api",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "gVoSEG26h+BvJOu6BByFKAn0QnU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

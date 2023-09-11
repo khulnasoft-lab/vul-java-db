@@ -1,0 +1,27 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-el-commons",
+  "Versions": [
+    {
+      "Version": "1.0-alpha2",
+      "SHA1": "0hB7PiqrHCi4bdEwvf81J8Ovvpk="
+    },
+    {
+      "Version": "0.1",
+      "SHA1": "eeW8WJCHaJr4lGSc9dqwTfuGwRs="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "dDZ5QKJqIjm6Jaj0JOf1qyiTgWM="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "HwL8iES6gMkh8JudxDb538bZ0xg="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "mnMm2Hviw50VjbDIJh+8K+sd8uA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

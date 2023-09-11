@@ -1,0 +1,23 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-tags-inertDoco",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "DeCZ11hG7d+IwABrwrb7HHjW8h0="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "vSdyOd0ElCbNt4um06VFzWxL/fg="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "lWnH6/3Zbv+rcRSo/22RkZWMmXg="
+    },
+    {
+      "Version": "1.0-alpha2",
+      "SHA1": "2bkfr2cyEwHrB5k6PRateJPTOhk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "openejb",
+  "ArtifactID": "openejb-assembly",
+  "Versions": [
+    {
+      "Version": "2.0-G1M3",
+      "SHA1": "R3bFjntJJNdU7qyH7PVSgOiJEfE="
+    },
+    {
+      "Version": "2.0-G1M4",
+      "SHA1": "hyB0ffSCv9aLTFltDx2HlOgL1F0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

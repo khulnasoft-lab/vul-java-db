@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.num",
+  "ArtifactID": "dohjava",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "BRF7EInh3jcx+F0OFvPBSpZ/TyU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

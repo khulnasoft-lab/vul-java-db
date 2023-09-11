@@ -1,0 +1,19 @@
+{
+  "GroupID": "builders.dsl",
+  "ArtifactID": "spreadsheet-builder-test-java8",
+  "Versions": [
+    {
+      "Version": "3.0.0.RC3",
+      "SHA1": "+hFxcaTvBgzUVAHKlRxduMQEHSs="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "rSHI2nVIs6eovHxesul+D6WZaxE="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "Cg5Kjavc3nwYXzZMD1E6gOL0pJU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

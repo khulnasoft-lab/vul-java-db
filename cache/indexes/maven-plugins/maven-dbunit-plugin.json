@@ -1,0 +1,47 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-dbunit-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "HofB2soarkAMWxxh0wg1q0aK0cQ="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "ZqsoZTTGn3K+DnRiwAy6bhbqMYo="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "xBC2uwbUyYtbA8yIOCwjyvtaJaM="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "HXGb4zutINTvUu0FVn2YHc2Rj5I="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "MfZUjupupzUHJLgtDBYr4BNrzek="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "KABOr7t/7Kogj6x9/8Hyd3QSJeI="
+    },
+    {
+      "Version": "20030413.024213",
+      "SHA1": "4ZDqmiIcdy3B5F94XFvQeVFWhWc="
+    },
+    {
+      "Version": "20030814.080708",
+      "SHA1": "uQjMN5gguU6nZqWTuJUwFqScrrE="
+    },
+    {
+      "Version": "20030818.022735",
+      "SHA1": "Ehk5JDPM2nuvS0FPdJD4pSSa8MU="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "vJ3yrMNh9vqrJ9m+kRyvmYorNQU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

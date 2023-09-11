@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.ars-co",
+  "ArtifactID": "scala-common_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "W8vWt7edKUvi7QCR2n5N1NArbXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "st.alzo",
+  "ArtifactID": "tranzactio_2.13",
+  "Versions": [
+    {
+      "Version": "4.0.1",
+      "SHA1": "pEPMfxDXUILp2BsqK8eWTc298vI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

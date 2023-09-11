@@ -1,0 +1,15 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "quartz-jboss",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "txRtO/GIBTI77aoRdABlK0wR1GY="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "85/FpVN+i0qIdJKpUFZNCYlk5iA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "hudson.queueSorter",
+  "ArtifactID": "PrioritySorter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Qtbd5zTBfZTijghnQVcXMIFXrP0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "VZTLWtnvbaN26yV22Cgeb+YPumo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

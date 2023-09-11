@@ -1,0 +1,11 @@
+{
+  "GroupID": "wang.jiejin",
+  "ArtifactID": "report-springboot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "xKGzp6xtzsU8wexCthsrxjDYznE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

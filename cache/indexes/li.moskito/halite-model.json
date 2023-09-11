@@ -1,0 +1,11 @@
+{
+  "GroupID": "li.moskito",
+  "ArtifactID": "halite-model",
+  "Versions": [
+    {
+      "Version": "0.0.13",
+      "SHA1": "pBm7I0uIyoUMCPDLjXJms8tbFDw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

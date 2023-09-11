@@ -1,0 +1,11 @@
+{
+  "GroupID": "freebxml",
+  "ArtifactID": "common",
+  "Versions": [
+    {
+      "Version": "0.9.1.3",
+      "SHA1": "52OLjG7KOrAjzhS474S64TCxnEs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-jboss-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ChgNGQj1stCGasl47mu0f0rDCCM="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "3mzkQ3vYu6iHyA0pv+gqm8zjykQ="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "LLKasGl/jhEgbMNwzvFjH7ArhjM="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "QjQGl1XhHclr71ohUtUiMEcStck="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "biCDEapaMj/Gn1KBS0o62sAcYLI="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "I32vfGFdd3A+DvlNOMfIeVRv6l8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

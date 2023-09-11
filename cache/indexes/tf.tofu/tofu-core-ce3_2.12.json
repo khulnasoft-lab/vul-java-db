@@ -1,0 +1,43 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-core-ce3_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.4",
+      "SHA1": "IXP0AUUqjE9PC+q+2u68Ixpf/hM="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "lYxzDFP3mMuyoeTiONCpIByOhYw="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "xJRkSdFWBjlEZwAMlwLW0mpMYSQ="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "nstG8drmGzgO/3OQA1wPZg1c/0U="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "Tu3msVRXrkIVkGnWfntL++iL/bo="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "9kSsUjchJX4m+SU6fViPfqJNInY="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "tIzl1rUCkPA+BKpMan2uhcGIMZs="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "Z8kjOFCQL5aTkyODK1Iqzm7MAEg="
+    },
+    {
+      "Version": "0.12.0.1",
+      "SHA1": "7Mdu2sU9+2CxoSImf/10bG0+S7w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

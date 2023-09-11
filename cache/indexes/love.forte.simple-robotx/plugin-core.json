@@ -1,0 +1,107 @@
+{
+  "GroupID": "love.forte.simple-robotx",
+  "ArtifactID": "plugin-core",
+  "Versions": [
+    {
+      "Version": "2.3.0-ALPHA.1",
+      "SHA1": "sMqjd/1B0A1PL7M5hAj94w1suxc="
+    },
+    {
+      "Version": "2.3.0-ALPHA.2",
+      "SHA1": "GZK08IXEE3+/7+iUBmn2CbD7U7A="
+    },
+    {
+      "Version": "2.3.0-ALPHA.3",
+      "SHA1": "Q6RrQVnMJRUFWy0pVgqK5+pwwG0="
+    },
+    {
+      "Version": "2.3.0-ALPHA.4",
+      "SHA1": "j19Nzy9UE0x5ZzFIlL3/AiJCeoY="
+    },
+    {
+      "Version": "2.3.0-ALPHA.5",
+      "SHA1": "sp9wY8Ead6dCJfAWp6G+ORO2FcE="
+    },
+    {
+      "Version": "2.3.0-ALPHA.6",
+      "SHA1": "T5Gm7yQ9Os1yNIDJ4jSopfzaXxk="
+    },
+    {
+      "Version": "2.3.0-BETA.1",
+      "SHA1": "lit3nQLfNjGAdXt7GPWls0eeORw="
+    },
+    {
+      "Version": "2.3.0-BETA.2",
+      "SHA1": "mzeGLxNWj4hywkRofGEChJ6p5BM="
+    },
+    {
+      "Version": "2.3.0-BETA.3",
+      "SHA1": "gD4cOgVmzEjxxWPrAF1qlSlo4wo="
+    },
+    {
+      "Version": "2.3.0-BETA.4",
+      "SHA1": "D+mrUsY3l94xliPVI/9/ZwD0hFs="
+    },
+    {
+      "Version": "2.3.0-BETA.5",
+      "SHA1": "q0tQr9LLFvUIoCGOzwGnHnNvEmg="
+    },
+    {
+      "Version": "2.3.0-BETA.6",
+      "SHA1": "GG+QKjexztirCtGR77+rowIuVjs="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "90BOkbNOIO+01QpS1KdM8i/YIPE="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "WeY2WxLNR6ogx9igzOm0a208Ipk="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "UsbimVUQdcIPaOEc5Ls1NCG8EOw="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "/s1ooPl+Whm4ZrSg258qKijM/JA="
+    },
+    {
+      "Version": "2.3.4",
+      "SHA1": "A8GTueILhzZZ/+3OTsmCYwpRkUQ="
+    },
+    {
+      "Version": "2.3.5",
+      "SHA1": "8oQsmgmNWlyKwn9wyYJI1Ze8WTM="
+    },
+    {
+      "Version": "2.3.7",
+      "SHA1": "1P7nIN9b520gXsstnk+Ne8Qtzfk="
+    },
+    {
+      "Version": "2.3.8",
+      "SHA1": "naqQD+7YcIWeNNRtAvvoW6qJqhM="
+    },
+    {
+      "Version": "2.3.9",
+      "SHA1": "K2W89nM7JXZ5jUkVCuMztKV+F94="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "F5Rc3qxjweNErLC4t2Sy8ixcmoM="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "5KnjP3jWNt7gimtWXlgr1rjaugc="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "xNUSLHlCZULSFZ2We7orx7STOEY="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "CKC9LSqZYX+LFto0PoIFjOcOOWQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

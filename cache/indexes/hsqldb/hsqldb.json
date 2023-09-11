@@ -1,0 +1,51 @@
+{
+  "GroupID": "hsqldb",
+  "ArtifactID": "hsqldb",
+  "Versions": [
+    {
+      "Version": "1.6.1",
+      "SHA1": "vzqilqrNjtZZxxZyxvT7p9ymqYU="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "E0xI+rxVHlZL/R0BKh4V7I1F+VU="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "jI4b2p0BhkMagEt7Nmkvr0jYkU0="
+    },
+    {
+      "Version": "1.7.2-rc1",
+      "SHA1": "DOMj+00xHL85eiC9cyId68AfDoA="
+    },
+    {
+      "Version": "1.7.2.2",
+      "SHA1": "Svq73W1n1McWN/meE5mxaXMUhks="
+    },
+    {
+      "Version": "1.7.3.0",
+      "SHA1": "WLEQtEySDmqI1SqyaYxh3JMjv8A="
+    },
+    {
+      "Version": "1.7.3.3",
+      "SHA1": "lHtUqQiTPktBnG7+aP5U1nrmnho="
+    },
+    {
+      "Version": "1.8.0.1",
+      "SHA1": "P08xZJEJ5yP9/uyHNpb2uHMj3eU="
+    },
+    {
+      "Version": "1.8.0.4",
+      "SHA1": "UW5AVLlkyg++zPlNU/v/E1vfdvQ="
+    },
+    {
+      "Version": "1.8.0.7",
+      "SHA1": "IFVJVBILPMnwiARSTskBE6c/MBU="
+    },
+    {
+      "Version": "1.8.0.10",
+      "SHA1": "fpl4/bdUvOX81RYRM+dzTstoMDY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

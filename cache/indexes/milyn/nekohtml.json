@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "nekohtml",
+  "Versions": [
+    {
+      "Version": "X",
+      "SHA1": "2uj/KKjbg5TKeSR/vUMn81wf2gw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

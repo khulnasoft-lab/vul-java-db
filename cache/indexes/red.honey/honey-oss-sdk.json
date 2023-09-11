@@ -1,0 +1,11 @@
+{
+  "GroupID": "red.honey",
+  "ArtifactID": "honey-oss-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0-beta",
+      "SHA1": "bfTp3UHqxXKNr1OBB2U/Kgc3RcU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

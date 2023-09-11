@@ -1,0 +1,11 @@
+{
+  "GroupID": "mobi.mofokom",
+  "ArtifactID": "graalson",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "Phda5Pz6lO06xKIOc8GoSJ8NvGg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "northside-io",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "/QjIFs9mP4giesJEkf2d3vGerwU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

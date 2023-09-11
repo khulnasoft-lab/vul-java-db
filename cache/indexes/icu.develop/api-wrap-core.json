@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.develop",
+  "ArtifactID": "api-wrap-core",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "CrxQm332ZKJhkYMBck9gRqEdxJw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

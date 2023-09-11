@@ -1,0 +1,39 @@
+{
+  "GroupID": "top.yuzhyn",
+  "ArtifactID": "azylee-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ssdPrgT8iAeE/aXcr+VH6sLrTlM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "SBBY7fqL46xeg1iQeksjegdLZDw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Z/8k0R81aqh06BCMnPv4gzfwEXo="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "6Jj7eJ9+Om0X/zP9mAQ/3mMwApY="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "WztTz0A4G3eVKvpcagvzzpDU5QM="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "++zccQBYgnkG6gBFgsAbh8gpUWg="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "+cmYzGag7z2O5LAYA5DlSqKQ94g="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "nhBPGuhPrbBGqTBDLjDTaX/QeCY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

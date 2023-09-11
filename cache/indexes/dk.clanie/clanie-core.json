@@ -1,0 +1,11 @@
+{
+  "GroupID": "dk.clanie",
+  "ArtifactID": "clanie-core",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "Aq79jX3gLq1KljIj4ZCCorlJ2xg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

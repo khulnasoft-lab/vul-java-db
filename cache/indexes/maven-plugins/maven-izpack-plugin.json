@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-izpack-plugin",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "dDIGbbOoGwoQ9M+/sO1jxbiJDz4="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "wSNiaV3IMRV9cBTKcvA6wOKWEjs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

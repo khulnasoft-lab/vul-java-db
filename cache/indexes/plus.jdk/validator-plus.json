@@ -1,0 +1,19 @@
+{
+  "GroupID": "plus.jdk",
+  "ArtifactID": "validator-plus",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "kVt6+3JpEu2s0j/mFvZbiBNZeI8="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "F9ScRrmqRus9Cx+DSPyPZPODZ44="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "HVw10LFaJfUNBcwsS5t5XSSB4KI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

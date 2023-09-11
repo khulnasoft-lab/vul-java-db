@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.alde",
+  "ArtifactID": "fourleafclover",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "4pKPLWdyp92PszuwD7OVHKRg2Ig="
+    }
+  ],
+  "ArchiveType": "jar"
+}

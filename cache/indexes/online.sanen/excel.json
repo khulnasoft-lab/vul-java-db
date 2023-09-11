@@ -1,0 +1,11 @@
+{
+  "GroupID": "online.sanen",
+  "ArtifactID": "excel",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "YAUJF1p38LrDkPgTs2rcx8jKQPc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

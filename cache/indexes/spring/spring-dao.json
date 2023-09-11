@@ -1,0 +1,11 @@
+{
+  "GroupID": "spring",
+  "ArtifactID": "spring-dao",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "+kl2qNlNbM0caaJ/x4OmkS3MjC0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

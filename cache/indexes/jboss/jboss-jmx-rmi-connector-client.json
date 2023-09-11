@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-jmx-rmi-connector-client",
+  "Versions": [
+    {
+      "Version": "3.0.4",
+      "SHA1": "+cylURSu+cP9zNAiOwkbWIDhwMQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

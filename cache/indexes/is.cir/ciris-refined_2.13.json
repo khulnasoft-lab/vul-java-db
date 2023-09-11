@@ -1,0 +1,127 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-refined_2.13",
+  "Versions": [
+    {
+      "Version": "0.13.0-RC1",
+      "SHA1": "25p/XNdY1imQcPk1ji5NkqCCeg8="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "KsaEnPuAJiMNmo0DkjHNSX3VTVk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "eK0WjLjiiT7wLrPwqOVqXU0AkAU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "iXJQO8TiPO/b5QsGsqpgNLY+ndo="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "YKxVbiw+7ezXofIvjBfXO6T59q4="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "ZOGU9VrAAtP7HpUo7NHfGnrcstI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "PVk69LYxhe4FJvNgDPDubo2pxdk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "EdzXZDjCVzJCpmwSDU6+sYtTNU8="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "ySLu20EaGHbj9ZDTZm+lFk0KCrg="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "Sw6jD0/3SxNIcAjw4UUcSvlpKm8="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "XIrgEsOzfIQoTjOYZ0wxZ0/BacA="
+    },
+    {
+      "Version": "2.0.0-RC1",
+      "SHA1": "fzo6QioeCd0Os8z+o7iQia91EaE="
+    },
+    {
+      "Version": "2.0.0-RC2",
+      "SHA1": "4mIpVVt5SeL8T0hfx2ikAD/O9c0="
+    },
+    {
+      "Version": "2.0.0-RC3",
+      "SHA1": "xoVMG/8fVFwljQzsAYW5PpsBEIY="
+    },
+    {
+      "Version": "2.0.0-RC4",
+      "SHA1": "q8skJIqnkgJQMRWyV17nJ3WN+88="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "XHNCuOv1/O9HBkPmCRUj9y3g3KA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "nSwaCk8kALt/LX9fRjzVDZNODIg="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "IgOU/3AQT1lUFyQpIg0Qt3NUn/M="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "f8HHMbwAAR+neh+airFQYaSF8xQ="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "4+SVGStX5xqCPCB8Nte7nz9JeJI="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "TxpUk5UtxsiSX8lUC3V7ljW6WOM="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "Lc/tLiWwgdHxdSkbN36qVUowzgo="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "0DvRBCqiIosXVlpJqFWCTItkC1k="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "K7a1s+er5qOoegHAZ2UoBwcRH2M="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "RmjnBO4hkvcQkg/332IzDQqK9m4="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "YGdYvSyZTMZ/1nnz+kfGka6DNR4="
+    },
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "xZak9fICqZPU6QO5ELrXtJF6Tek="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "JmYJGI2NwwzaprdXfWX3S2obtmA="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "EG49wFtQLjo+3zdT8n2tD/DwTpA="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "bZCmLuM8Bx0MKZHS1OJQAgK3SEU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

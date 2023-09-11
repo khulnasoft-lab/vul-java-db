@@ -1,0 +1,11 @@
+{
+  "GroupID": "vision.id",
+  "ArtifactID": "antd-native-slinky_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.7",
+      "SHA1": "HvWAXvxFPrigQBb1EvVdaQuQUjc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

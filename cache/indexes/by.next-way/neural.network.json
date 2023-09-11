@@ -1,0 +1,11 @@
+{
+  "GroupID": "by.next-way",
+  "ArtifactID": "neural.network",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "gkx75lIe2lVg2DT/7Puwin+wFZA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

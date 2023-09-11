@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.kiwibit",
+  "ArtifactID": "KiwiJSONAssert",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yOrr5Rq/UdA9V+ZlYx4jhM65HlE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "8+UYj0cqBv/stnK+QtW+athQq2c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-oracle-jms-provider",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "M53IO3+s3w1IZ15fbe6rSPBEsTQ="
+    },
+    {
+      "Version": "1.3-rc1",
+      "SHA1": "Pzz6C/KfEAHfse9GNiFn0whX+9E="
+    },
+    {
+      "Version": "1.3-rc2",
+      "SHA1": "NdEjEQEJRMzWGIpAKHEylBBcrXQ="
+    },
+    {
+      "Version": "1.3-rc3",
+      "SHA1": "k8p3i8BcLKSXLGNmxMXdcd+C/To="
+    }
+  ],
+  "ArchiveType": "jar"
+}

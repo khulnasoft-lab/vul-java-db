@@ -1,0 +1,35 @@
+{
+  "GroupID": "solutions.bismi.excel",
+  "ArtifactID": "Excel",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "tGvUfXQqMsf11aop64R+8ntFXHY="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "dudPEr8wYIgP4pcKq0w3pwz9b7g="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "vhJvHSLNmsam8pW+5NBN8kaoLEA="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "OYBqSO5y/anUtvs1L+Pq2RE/ZQQ="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "2zp1Ugpi5AK8tl4zjGkNrXA+82I="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "h6OdCUmKkF6IrYQBXOJ6Po3uUbQ="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "2sARLjqoaa234/8u5DzW8I8EXmw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

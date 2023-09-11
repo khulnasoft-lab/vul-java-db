@@ -1,0 +1,11 @@
+{
+  "GroupID": "openejb",
+  "ArtifactID": "jaxb-impl",
+  "Versions": [
+    {
+      "Version": "2.0EA3",
+      "SHA1": "tJ0rOmhZblQDc7h6KlN+3YEirWY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

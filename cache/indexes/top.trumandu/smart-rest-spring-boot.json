@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.trumandu",
+  "ArtifactID": "smart-rest-spring-boot",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "ObVYCTwH+S4As7EUHmYd7fzv9BM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

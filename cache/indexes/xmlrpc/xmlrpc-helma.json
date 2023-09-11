@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmlrpc",
+  "ArtifactID": "xmlrpc-helma",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "fQWqKdIYgAT1++GoE7G77r5I1qg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

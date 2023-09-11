@@ -1,0 +1,11 @@
+{
+  "GroupID": "sysunit",
+  "ArtifactID": "plugin-sysunit",
+  "Versions": [
+    {
+      "Version": "1.0-beta-11",
+      "SHA1": "tWFP9+RoROoZqu0pTpZ7cOE65e8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

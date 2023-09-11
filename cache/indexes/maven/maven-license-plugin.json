@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-license-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "WkW9vHWEZhDRMKUulZzBmsYUjjI="
+    },
+    {
+      "Version": "20030818.040938",
+      "SHA1": "Ur2JHETNlcVstHijI8EV7lKcLfI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

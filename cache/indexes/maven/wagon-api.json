@@ -1,0 +1,19 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "wagon-api",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "IDLHK/3Yhcv96U7QnfeEkOYs5/w="
+    },
+    {
+      "Version": "20040703.151146",
+      "SHA1": "7PDBs1wBpkEpYMTkhIcjGndXRsM="
+    },
+    {
+      "Version": "20040705.181715",
+      "SHA1": "/v8Ne6zRHTepyW2u2H3B2xYwZbE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

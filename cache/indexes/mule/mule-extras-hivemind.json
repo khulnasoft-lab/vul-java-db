@@ -1,0 +1,19 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-extras-hivemind",
+  "Versions": [
+    {
+      "Version": "1.3-rc1",
+      "SHA1": "qjboBlpcEXKR0zLQiImyi0EZODo="
+    },
+    {
+      "Version": "1.3-rc2",
+      "SHA1": "TBlsiDbV2gHLkEAo0LJH9BfZWMo="
+    },
+    {
+      "Version": "1.3-rc3",
+      "SHA1": "jr8qE0qMxBI2ECrSUP3dM92vvds="
+    }
+  ],
+  "ArchiveType": "jar"
+}

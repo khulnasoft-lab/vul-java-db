@@ -1,0 +1,15 @@
+{
+  "GroupID": "cornerstone-sockets",
+  "ArtifactID": "cornerstone-sockets-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ByBXKhbNZKR177Mq1rVm/7gig1A="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "4+YX5ggog5eYPUky54/JUkobEzM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

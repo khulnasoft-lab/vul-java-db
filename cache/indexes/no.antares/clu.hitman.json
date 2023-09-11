@@ -1,0 +1,43 @@
+{
+  "GroupID": "no.antares",
+  "ArtifactID": "clu.hitman",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "Uaec8v6KOSZW9Xj5pM4fJ8x5hUo="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "jZFGWmqDb5JxrQCcY1lcwWnuf7k="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "Qq+0O3KeeR6er8VdqZ8MdIH+8/k="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "9JIx1RLwjDWhID5ii2NruvD6Zus="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "5Z/+rGSFKyoOG2FIU9gD0awpMA0="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "ztej/68E64kJZe5rFgr+qwogmJ8="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "VVUIvLg1k2a2g7VGDF0OYCZNGoM="
+    },
+    {
+      "Version": "0.8.5",
+      "SHA1": "oX4UZ6zcjNVLBoF4PFjDWNGT6NM="
+    },
+    {
+      "Version": "0.8.6",
+      "SHA1": "UOrhN5lby4VmGXZqo+iiYQdtoZM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

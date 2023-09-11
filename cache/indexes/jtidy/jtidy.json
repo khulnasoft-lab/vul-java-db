@@ -1,0 +1,11 @@
+{
+  "GroupID": "jtidy",
+  "ArtifactID": "jtidy",
+  "Versions": [
+    {
+      "Version": "4aug2000r7-dev",
+      "SHA1": "KuzUTgw6f9zw7Bn3xY83oHeY8B8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

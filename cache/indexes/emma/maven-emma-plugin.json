@@ -1,0 +1,11 @@
+{
+  "GroupID": "emma",
+  "ArtifactID": "maven-emma-plugin",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "gHqmd99fRCgVOFbnaee2daYv7zc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

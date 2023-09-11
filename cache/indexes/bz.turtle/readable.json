@@ -1,0 +1,75 @@
+{
+  "GroupID": "bz.turtle",
+  "ArtifactID": "readable",
+  "Versions": [
+    {
+      "Version": "1.0-BETA",
+      "SHA1": "JoIO5l/Gu2Rs9IAbrRVbm9dgM2Q="
+    },
+    {
+      "Version": "1.1-BETA",
+      "SHA1": "owKcAgdpXnjlY2HhP5qO1ong3I0="
+    },
+    {
+      "Version": "1.2-BETA",
+      "SHA1": "NZSJpXIEJOGCPV41ZWysOy49ZlE="
+    },
+    {
+      "Version": "1.2.2-BETA",
+      "SHA1": "TfJ/LE4tVIQHhhW2OaviDUKod10="
+    },
+    {
+      "Version": "1.2.3-BETA",
+      "SHA1": "KIcB9W5bT6M7dYYQBiBjIxpxSNc="
+    },
+    {
+      "Version": "1.2.4-BETA",
+      "SHA1": "CMNLC1TqkZMr1o7SY2vLSs31Qjc="
+    },
+    {
+      "Version": "2.0.1-BETA",
+      "SHA1": "B+S0kb1o0gIHfojfOkWX36Nh4IU="
+    },
+    {
+      "Version": "2.0.2-BETA",
+      "SHA1": "by/V3fGMaR41u+uQQQRmkA31pkk="
+    },
+    {
+      "Version": "2.0.3-BETA",
+      "SHA1": "lxS+3Vx1ocUkGiCSfIl/c+566+w="
+    },
+    {
+      "Version": "2.0.4-BETA",
+      "SHA1": "mcrUrq759v4wTZrSKh2h6ELhlmU="
+    },
+    {
+      "Version": "2.0.5-BETA",
+      "SHA1": "Ozl5ix/3jzyMnEbBVl1uB9YK+Cg="
+    },
+    {
+      "Version": "2.0.6-BETA",
+      "SHA1": "BTWdqap/HTOPJN3Oin9QjmJH+d0="
+    },
+    {
+      "Version": "2.0.7-BETA",
+      "SHA1": "mBr+VQFJRXrPhzSJz93z4+fskh4="
+    },
+    {
+      "Version": "2.0.8-BETA",
+      "SHA1": "/KMgE7AlrVFs2r1Ge9BBpjCQrY0="
+    },
+    {
+      "Version": "2.0.9-BETA",
+      "SHA1": "ppfvuHBcWr0OU1H7AZxcNjBFzQ8="
+    },
+    {
+      "Version": "2.0.10-BETA",
+      "SHA1": "gculJBB5N06wR8je9Q/Jq6isRnA="
+    },
+    {
+      "Version": "2.0.11-BETA",
+      "SHA1": "zlYOqPa4MjeC9RliW+FVTFKPEz8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

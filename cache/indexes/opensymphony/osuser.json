@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "osuser",
+  "Versions": [
+    {
+      "Version": "1.0-20060106",
+      "SHA1": "VjjAPUOqVMVRw2R/bT+WttzetN0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

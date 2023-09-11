@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.kosmisk",
+  "ArtifactID": "postgresql-test-jpa",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xO/rXsQLnPlRoYrWqapsalqv0DQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "74TYMEFZ/CnzmHseMQNScJtZ3qg="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "W34YAE6AnLNM+yXBaY2O5lmEQSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

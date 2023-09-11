@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-xslp",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "cTSvs0XJAg6lUugbXz9bIiYBv+k="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "yrwtH4AiD6RPdbei8buYDTM47vs="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "MDcbLl1L7BVc6uHWc8A8MnTusQY="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "gaLm0Be1n1OuNRQ8WpsnpQdQAUM="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "1kUf8Q0nYS1yZkmKfhMvvpHPPK8="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "qjR6vtRvN+kcH47EQ6GRLGbm+b0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

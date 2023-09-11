@@ -1,0 +1,27 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-forms",
+  "Versions": [
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "f+zGKlHhGBK8JrGTF7UW0/Ad5xY="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "7umMnVOXsuDCdf2KvMBJ/htx8pc="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "RnSADr1MQcb2HzueHMN7c/+yPmc="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "BWDIgLVD1AGU4LbocjU3gv6jB1c="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "TDjE8aMb2FKPKaqRB56FUHYVYvY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

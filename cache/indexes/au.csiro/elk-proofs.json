@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-proofs",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "woaytELdNbyDohuqPfiS8+bIEw0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

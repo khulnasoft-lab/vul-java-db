@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-security-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "L5JPLcqh3KqcCMH+BfykuohHeb4="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "dKLTzcDZ3eMwfYWU3v+1rBVZ3Sc="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "6F4tFDQzlE4N6i4U8ovaqLo9CFI="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "IFTuJtFa+wi+HsVjEb+MSebNT5A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

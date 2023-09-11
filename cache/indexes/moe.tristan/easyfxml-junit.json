@@ -1,0 +1,27 @@
+{
+  "GroupID": "moe.tristan",
+  "ArtifactID": "easyfxml-junit",
+  "Versions": [
+    {
+      "Version": "3.1.0",
+      "SHA1": "sFvYFdeZlFUkxe0H2MERNyrdWvs="
+    },
+    {
+      "Version": "3.1.5",
+      "SHA1": "zfVomLL2IGUDqKlrIg/4WSt7fWA="
+    },
+    {
+      "Version": "3.1.6",
+      "SHA1": "qr9qz0y770nlkPtCzDfZdkPpNQA="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "+uNAD2HDxIzk2PZDXNkZeThpNVg="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "4r8Y7XRI/pmsAMpK5txJxXAzr+0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

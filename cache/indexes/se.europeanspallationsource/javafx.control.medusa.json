@@ -1,0 +1,31 @@
+{
+  "GroupID": "se.europeanspallationsource",
+  "ArtifactID": "javafx.control.medusa",
+  "Versions": [
+    {
+      "Version": "7.9.7",
+      "SHA1": "+iyrAZpXjsAeVV2sdSdqagHI09A="
+    },
+    {
+      "Version": "8.0.0",
+      "SHA1": "UGefGNSX4lEs2lvloeHssbEV3MY="
+    },
+    {
+      "Version": "8.0.1",
+      "SHA1": "wI6+Uo4os0LevG1y4/eMB4u5vYU="
+    },
+    {
+      "Version": "8.0.2",
+      "SHA1": "PeIhKCHBuzqf/KYJK3cnmX2CATc="
+    },
+    {
+      "Version": "8.0.3",
+      "SHA1": "OeRpT9nW5e873egGjO5OMwiELqk="
+    },
+    {
+      "Version": "8.3.0",
+      "SHA1": "Q4AT+XwgPaWWWzdNmMtWLrOkpyM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

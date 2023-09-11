@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.zywork",
+  "ArtifactID": "zywork-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "2021.10.1",
+      "SHA1": "dwR4JAtRhUsTLbYrJk9CiM1UqPw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

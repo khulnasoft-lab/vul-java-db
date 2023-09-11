@@ -1,0 +1,11 @@
+{
+  "GroupID": "ir.cafebabe",
+  "ArtifactID": "GoodbyDao",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "aSTmICZMVVNk6MKvi0HbfsboMe0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

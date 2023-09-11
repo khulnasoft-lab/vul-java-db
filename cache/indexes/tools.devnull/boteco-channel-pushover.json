@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco-channel-pushover",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "TJzvd5z3tB9g1CFlDYpA40f3QH0="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "WLE84OKIGzl28EBrv/CcfrMS+0U="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "lNbc9BME2Y9I4F/jzgceK28RCXc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

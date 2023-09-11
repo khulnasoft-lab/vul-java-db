@@ -1,0 +1,11 @@
+{
+  "GroupID": "westhawk",
+  "ArtifactID": "snmpOracle",
+  "Versions": [
+    {
+      "Version": "4_13",
+      "SHA1": "IcjOWtXddS2BsWyBv35buM11L1o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

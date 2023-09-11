@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.nille.jwt",
+  "ArtifactID": "jwt-aspect",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "2L/TS7MSCdnL5gmNo0ACWD2HwyY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

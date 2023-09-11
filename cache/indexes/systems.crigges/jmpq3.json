@@ -1,0 +1,31 @@
+{
+  "GroupID": "systems.crigges",
+  "ArtifactID": "jmpq3",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "QwtixsLgz7DzEmCaR0LYE8oBTlU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "QwtixsLgz7DzEmCaR0LYE8oBTlU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "p16SKYXUr4yej8i42uvbHxCnOh4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "p16SKYXUr4yej8i42uvbHxCnOh4="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "l12zeTtdS5kKUxVgqx12QjTiWSM="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "Gmp4kimS8bONzkR+0dEzjtBqqNo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

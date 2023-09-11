@@ -1,0 +1,35 @@
+{
+  "GroupID": "kg.apc",
+  "ArtifactID": "jmeter-plugins-cmn-jmeter",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "erVXy66ERrlg/ZubjcpHoNIvTD0="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "m71/9c/52UYg1/FK/ow4v3ej5f0="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "kK087OFpuU/zFMnrOphtIINcDCc="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "nmCGLqxJXzmm2iDaphJBBj6bUlk="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "VLr3zEWeslJ752T8fc1+LamKwwQ="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "/PvI+QSHXvIj33pWhygEYexKWwA="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "xqp1PhpELm1BFMwBj3rKs1xJHek="
+    }
+  ],
+  "ArchiveType": "jar"
+}

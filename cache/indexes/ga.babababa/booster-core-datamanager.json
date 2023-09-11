@@ -1,0 +1,47 @@
+{
+  "GroupID": "ga.babababa",
+  "ArtifactID": "booster-core-datamanager",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "GoqJjPmI06XwSWFAosnkyWhbS44="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "tx/q/QPM821SwFjrGUWLTyNXk4Y="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "FmMMqAdxoyeXp/5mKRdr+oAwLdk="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "l2YunstMvDXSMT5IXHso13CvX2M="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "/Kml4JfgZ7e9COYKhb7NKanyAtM="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "T6xmGYdAbKwI/oPCJf3lp4Crhv0="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "QwZPia27mgkMQm9ulLdevMu59F0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "Vsm+MUV2wF2G8qsL1lp/CTXCGu4="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "benw6/LJG3KJ2Fb/CAZlVEMA/zk="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "KfP/xlB033PlnuMvEojOd+s/aUs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

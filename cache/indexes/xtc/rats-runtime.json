@@ -1,0 +1,19 @@
+{
+  "GroupID": "xtc",
+  "ArtifactID": "rats-runtime",
+  "Versions": [
+    {
+      "Version": "1.15.0",
+      "SHA1": "0xo7tl+o5biTX+9YIqPXgPoLBDw="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "R+KR+cNjhnWxsWP8lCrBDbGLdAk="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "hUMCFp2L1dQmJLgv4Xlqew+IuTE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "space.controlnet",
+  "ArtifactID": "lightioc_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "fLafg8K+X45EB2XPoeOfKWKL4vw="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "OVsKep0cooc3DsZY+Kkm+15zdno="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "xIK7WNKYelySq4BzRMpwlIUTaMM="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "0C1CqtoUXD4xyTaWIwffqjoifzA="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "uwUleIRvg0EKSQZQjiWL7lGM0ao="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "Z8081SCCActh7RefzL9/QIRTSIc="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "bdIfnpK30rfW1yzcly6YJTbZjTw="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "dXbMnLhsBpqEHweQMCzwspGSRno="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "wj4X10aHky+983GRjQGTp1Jpqaw="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "aQJg8xzaOHmsU0Jt9FmaPigp2ho="
+    }
+  ],
+  "ArchiveType": "jar"
+}

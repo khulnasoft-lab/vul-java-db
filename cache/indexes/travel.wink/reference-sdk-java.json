@@ -1,0 +1,103 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "reference-sdk-java",
+  "Versions": [
+    {
+      "Version": "21.16.3",
+      "SHA1": "OCxv0uOIW7vLmveVS1r9j0TIwa4="
+    },
+    {
+      "Version": "22.0.1",
+      "SHA1": "oxlLF4KuYGCSwAzAgtBc6dndevc="
+    },
+    {
+      "Version": "23.1.1",
+      "SHA1": "VURB2/L3qrLNsBO8ZcSc+nTUXGk="
+    },
+    {
+      "Version": "24.0.0",
+      "SHA1": "fp/qHuRhtHKc45Gi3e/UCNnsRiU="
+    },
+    {
+      "Version": "24.3.2",
+      "SHA1": "ncFP/Qr5dU+06+A0jtrSAj7MRHw="
+    },
+    {
+      "Version": "24.7.0",
+      "SHA1": "BEbDdmOs5DYFTktD6C/JyjK3W6Y="
+    },
+    {
+      "Version": "25.0.3",
+      "SHA1": "IMT2c3cwdn9AFLBoRUYvBh88gyc="
+    },
+    {
+      "Version": "25.1.0",
+      "SHA1": "9rWmYhOiHNQnUwgghVx84zbeDe0="
+    },
+    {
+      "Version": "25.2.3",
+      "SHA1": "wCf9ts0phEM05AqLcgSqbvR9LW8="
+    },
+    {
+      "Version": "25.2.7",
+      "SHA1": "M2RZ0BOgS4Fa7OW+lGaqVCHtUvc="
+    },
+    {
+      "Version": "25.3.0",
+      "SHA1": "wYPOLA7Qvct3yfpV5dlxMIps1yA="
+    },
+    {
+      "Version": "25.4.2",
+      "SHA1": "ss+Z+eJUVc0dJj5khp6KoFn7OKE="
+    },
+    {
+      "Version": "25.6.4",
+      "SHA1": "q2ZOOsVbgWVaNm4Rm1Sx/mFOThc="
+    },
+    {
+      "Version": "25.6.8",
+      "SHA1": "i0FFcNpeh1kXzHFFo+vlE+D7B7A="
+    },
+    {
+      "Version": "26.0.3",
+      "SHA1": "B6PlB0RGvd2TSS8+i7aYL6tDFL0="
+    },
+    {
+      "Version": "26.1.1",
+      "SHA1": "8Egi6+tYwIfoMUiiqIsPdickzFk="
+    },
+    {
+      "Version": "27.1.1",
+      "SHA1": "0IhIGjaDLfmQ2yMn9zvpL2B5Yo8="
+    },
+    {
+      "Version": "29.0.0",
+      "SHA1": "6aRE1lP79CDAjJNlPn5i+6a+MAo="
+    },
+    {
+      "Version": "29.3.0",
+      "SHA1": "oRQXsZZvHMjAxJZsKLrfvfcy5ZU="
+    },
+    {
+      "Version": "29.7.0",
+      "SHA1": "zdncq7QDXfru0ruN7dJDT/w3xDI="
+    },
+    {
+      "Version": "29.8.0",
+      "SHA1": "StgH0DUGXDfX6WutIP/zW5zV17U="
+    },
+    {
+      "Version": "29.8.3",
+      "SHA1": "0c/GdON3uat+IU84JuFOdwsN8Uo="
+    },
+    {
+      "Version": "29.8.8",
+      "SHA1": "3tL0Nu2cNYJM/HTBH0FPj/i02JU="
+    },
+    {
+      "Version": "29.10.0",
+      "SHA1": "gqF6jUNASCeag++5bgUtu0Bofbk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

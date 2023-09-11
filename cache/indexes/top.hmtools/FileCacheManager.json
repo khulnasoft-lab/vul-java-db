@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.hmtools",
+  "ArtifactID": "FileCacheManager",
+  "Versions": [
+    {
+      "Version": "0.0.1.20180309",
+      "SHA1": "/7/QI2LgdOcbo/U5BBBEXsWPh+8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,71 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "cache-tests",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "gv7LeYlJXyRMJctKInVt2xImX/M="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "h8nnfhAJmGImSB/0Wxs/TmDkU1o="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "c1iOtGLcBQQUtBvixetKqirbzoQ="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "S219PspICRBIS86XDVQkABhSFAo="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "FSs1EsGsm+CNah8Qty2Zd6tcPt0="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "v2w1gQ+IvrAv0yYMBrgiyM4CEuE="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "VDJ50X6q8f3BkgYGWhuBqi7tZ28="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "xQBKVYZn1wUUtprcXiQLtpSV8mw="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "0rcbOKl+LMCbR0KLoiPCAlm2j6Y="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "cYe19dXQkwO5slq05FoXrDFhdaE="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "KJIW/s4SM13MQkQ/SxyrjK8Zoag="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "MfCWlAD/kscrPHdoBavZMIR8h50="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "KeihN59orQXaYOoQiZF+vYixcV0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "0C6bBHv3N2FJNAqt1tBHFN/QvpI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "U8Hw2gDOWno0iD+6sqKnrgusEDk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "TVNyfHYs90I2zU8sd66MPmXDbao="
+    }
+  ],
+  "ArchiveType": "jar"
+}

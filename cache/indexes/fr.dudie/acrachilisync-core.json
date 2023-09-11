@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.dudie",
+  "ArtifactID": "acrachilisync-core",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ZLkzimbGL4wu/akTZkYkx5v4Zxs="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "koduZ7Gjy5vLhfEtB3fmsZ4f7U4="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "nmnAw4Pwd9ygHAde2Mb6u6hx+Os="
+    }
+  ],
+  "ArchiveType": "jar"
+}

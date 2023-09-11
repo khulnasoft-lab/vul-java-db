@@ -1,0 +1,15 @@
+{
+  "GroupID": "systems.bos",
+  "ArtifactID": "spring-1config-sample",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "5tnMpcY1RF3dqtge8VTe9ol3Sp0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "xnYHZ/L4uevZp2mdBsNweTClGcs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

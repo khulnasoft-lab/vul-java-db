@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.amazon.konstruk",
+  "ArtifactID": "apigatewaydynamodb",
+  "Versions": [
+    {
+      "Version": "0.8.1",
+      "SHA1": "y6b4NCLIvyGzAnFSwafGQcgCtJ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "build.bleep",
+  "ArtifactID": "0.0.1-M2_3",
+  "Versions": [
+    {
+      "Version": "bleep-core",
+      "SHA1": "TNQ6SiNGn6JpSXiEDEyuXCZlQHQ="
+    },
+    {
+      "Version": "bleep-tasks",
+      "SHA1": "27O5t5Nag902g7xzfxK4qxodlps="
+    }
+  ],
+  "ArchiveType": "jar"
+}

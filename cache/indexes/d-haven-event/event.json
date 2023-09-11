@@ -1,0 +1,15 @@
+{
+  "GroupID": "d-haven-event",
+  "ArtifactID": "event",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "YABJqMg/dMrod+rPh0mvf7B+KwY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "/6na+8Ks0Or77SHN1dfITpbGrKg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

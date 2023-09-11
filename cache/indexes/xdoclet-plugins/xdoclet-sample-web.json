@@ -1,0 +1,43 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-sample-web",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "j9mOF/See5+NjqdPS3P/HdwyeQY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "AIJC0Zm+GDA9WfI9RAPwdmHLZGo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "LKX75yds25X19Q1Zx4nleuD8WH8="
+    },
+    {
+      "Version": "20050206.203813",
+      "SHA1": "b1iKe7R3i1b7Nx7lRfmglhIW22M="
+    },
+    {
+      "Version": "20050208.123504",
+      "SHA1": "yXIEtzR+oyKHkpU3Gq3jYMbHKf4="
+    },
+    {
+      "Version": "20050208.124656",
+      "SHA1": "KLbsaMLT1xpCUCWGASsDzMcuh6A="
+    },
+    {
+      "Version": "20050302.202439",
+      "SHA1": "xnqhuNNbcbyC8eI/nicJ6thsln4="
+    },
+    {
+      "Version": "20050302.205307",
+      "SHA1": "/LoYJfIHj/3gGQVAwny7sT4sZeU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "9cEa8kFDvNlOSPLabUqgNYblpXY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

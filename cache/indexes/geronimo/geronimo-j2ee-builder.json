@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-j2ee-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "rf+oNcM1ph1NB0ajfyWhx5zjsms="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "kCzVn1bpPafSW6jlWJWXOTncgOc="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "l5inEKDf3KuFZ6y8PHqOfMnRRr8="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "0/XolSDCf8w1qV6yAC/sD3Zs8Zc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

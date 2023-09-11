@@ -1,0 +1,35 @@
+{
+  "GroupID": "no.gorandalum",
+  "ArtifactID": "fluent-result",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA",
+      "SHA1": "PrH6h1j350DOwYd6byYe2KPmDPA="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "bd6N+dZXJjNDL3S600slHjOldbQ="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "e4ln30GkIPVGJQW7WRRr/djPVKA="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "HAoghHuWUF+P1bZGLJv4EJ/QrI8="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "G/YyTFYkgTFbPY7k32+ZTpgIwwc="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "Q39DwXkcJo+ernxKQ+fF1PTNjnw="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "wpU3D4QaijcsrPSewmAO1VfRBGE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

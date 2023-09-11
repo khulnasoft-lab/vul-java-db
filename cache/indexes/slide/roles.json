@@ -1,0 +1,15 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "roles",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "7PLSvZkMZuILxnu1AaP0AhjNCb4="
+    },
+    {
+      "Version": "2.1M1",
+      "SHA1": "+7NzCDIPHNBpgTqLIRB6ais9Jg0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

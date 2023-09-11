@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "velocity",
+  "Versions": [
+    {
+      "Version": "1.5-20060721.044818",
+      "SHA1": "IFSIFoFjiQi0xRQ5i496ouheWvI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

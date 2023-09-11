@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-mimetyper",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "t7/jNpIEN0SiVG5Ihf7ILCLMnL4="
+    },
+    {
+      "Version": "1.0-alpha-6",
+      "SHA1": "5QbPl7gUeC4SaiN4JwDTO5vkHb4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

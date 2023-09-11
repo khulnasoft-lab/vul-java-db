@@ -1,0 +1,15 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-storeconfig",
+  "Versions": [
+    {
+      "Version": "5.5.12",
+      "SHA1": "76KOGBNeKQBNrKH7SnWSnt6qH5U="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "iY8ObQPjXHCv5EbbLrxjTNSCcr8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

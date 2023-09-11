@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.alternet",
+  "ArtifactID": "ext-libs-pjba",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "TW/1/C9R8zAzzZppUOQgERpcOEs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.icandev.maven",
+  "ArtifactID": "maven-pattern-resources-filtering",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "CSCrIcjiEtDE7HcoNWl/rdCIrvI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "EBXfr/cOqMaccb4WCQFGEco2AFQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

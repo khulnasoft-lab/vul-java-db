@@ -1,0 +1,51 @@
+{
+  "GroupID": "guru.qas",
+  "ArtifactID": "martini-reports",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "mHeTfHTMDKy7NIK9DMm2uJKhyEU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "iYcSXHa4C3mpKH+1EUBkIDu3dqo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "8Gzv25q5a27abY4dWijYlBmc0Go="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "RtcxX2yE6otPxH3CYMFBUigQDcI="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "nV7wEGBXILrB7jBE9IRzl0GUVo4="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "YTd7iwvSHuJ66SgV+cy7cXcFldM="
+    },
+    {
+      "Version": "4.0.0-JDK10",
+      "SHA1": "3OF7PGwm6DLNGLT6Stdx6WxsJSE="
+    },
+    {
+      "Version": "4.1.1",
+      "SHA1": "WtcXQz/lxO8w+74uB8JrE3tWwXM="
+    },
+    {
+      "Version": "5.0",
+      "SHA1": "G5ML3AMqH1JeEh8/t2ZCsmgGdS8="
+    },
+    {
+      "Version": "6.0-JDK12",
+      "SHA1": "7p734tqx7AbzxRXuNmifXFoindQ="
+    },
+    {
+      "Version": "6.0.1-JDK12",
+      "SHA1": "gur3b3xrFHCkZLWKLhC253ZrS/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

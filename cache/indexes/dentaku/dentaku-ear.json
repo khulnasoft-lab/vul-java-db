@@ -1,0 +1,11 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "dentaku-ear",
+  "Versions": [
+    {
+      "Version": "20050208.180010",
+      "SHA1": "m56jU+2fWFXkTR/HmQzEjia+XeY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

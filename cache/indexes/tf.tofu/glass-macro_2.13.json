@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "glass-macro_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "PCtoi53eB3tde9XRZLly+IqRTKk="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "7IJgVXqATsU2dmYfDq8fntLOAIw="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "KwlXBUr/yBWTwsMKEsdpb9UIdZk="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "wN9EXgL+JvctwqoO47ohedE/QkI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

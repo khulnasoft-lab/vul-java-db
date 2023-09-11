@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.apyx",
+  "ArtifactID": "ts2scala-macros_2.11",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "RE2tnpoD2d90ILkQ0pjK4lOim6k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

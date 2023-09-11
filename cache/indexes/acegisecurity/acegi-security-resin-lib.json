@@ -1,0 +1,11 @@
+{
+  "GroupID": "acegisecurity",
+  "ArtifactID": "acegi-security-resin-lib",
+  "Versions": [
+    {
+      "Version": "0.6.1",
+      "SHA1": "ItzgyLjIkWk2Tniz/7dOA+ZhGFw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

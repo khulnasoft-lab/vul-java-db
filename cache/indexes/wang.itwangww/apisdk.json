@@ -1,0 +1,27 @@
+{
+  "GroupID": "wang.itwangww",
+  "ArtifactID": "apisdk",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "tiCr6xsjXbkDeIdlNKQQJvMjKck="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "5/Bs5ZOLK9k2zy3m5fdUNpJJ/pg="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "4DYSBl/kuIa0VO132/kEtAj0CCk="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "SE+bNdRIYkyYFJ9au0wehlRYVjQ="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "tzfPer0Fv4CIm4Gs9vwZEP4xJGM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

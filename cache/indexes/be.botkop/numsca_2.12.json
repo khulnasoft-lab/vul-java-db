@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.botkop",
+  "ArtifactID": "numsca_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "CZlVaAYC+AOLZIWkJAm5dq72N14="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "GLLECHPMVCDw1cy/dS+lWtWCkhw="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "CWE7Y5RY79ZKBGfIoESDRC9ickY="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "oPOFEfMItBBYkUdwgpem2c4HoP8="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "Xc21uV+G/YQS3XUpIzchpUFXG8g="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "tx1Z/Q9hVIcIMFR/frbGNkdQbvE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

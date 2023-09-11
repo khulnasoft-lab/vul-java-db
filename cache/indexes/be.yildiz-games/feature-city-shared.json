@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "feature-city-shared",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qloj1N7aglehUls85ks+PNXUk4o="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ynkXQ6xPClhgJy4uHJHG+97tzfA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "JExb6kd9G4GpUkF3vP6Lv1Z0BBE="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "OrRJ/G+kXILam9XtPt51XWoMcT0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

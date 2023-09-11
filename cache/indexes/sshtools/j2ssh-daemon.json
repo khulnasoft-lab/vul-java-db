@@ -1,0 +1,11 @@
+{
+  "GroupID": "sshtools",
+  "ArtifactID": "j2ssh-daemon",
+  "Versions": [
+    {
+      "Version": "0.2.9",
+      "SHA1": "+95cOIPMZOT70aMkAdxYGv1EkaU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

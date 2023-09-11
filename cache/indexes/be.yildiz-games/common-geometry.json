@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-geometry",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NB4Sq0i+hITDtrBZsFpyDcoj77M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "HcqpCtb9lnU3W3SsgksFczB9Q58="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "O7mX60WN6VxkJEirMlFlIEUq7CQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "WjwtiHdtnKvk/fv0Pe/KOGOizEw="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "yTmxP8ywfbrmKI9HxjDkc9LJqxk="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "DfQqtyxLYc0igR5yOwok0kIDO4c="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "YT7fPCbCqvCFT70ZOX6VKmmY+lc="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "k2tZ6JYmYouFglxQMeG3BRJVm/Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

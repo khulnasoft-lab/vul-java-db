@@ -1,0 +1,43 @@
+{
+  "GroupID": "ai.lum",
+  "ArtifactID": "odinson-rest-api_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "kLcjy1wP8kGThyCWQKCLL1csHzI="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "Fh2sj/ALtjWOFC7HzqKvgCnkyis="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "JfcZcGruHy25RunN5/55737JaFs="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "efBTP24R0raaSaIigb271ASz4ME="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "QU4x4o1tKDeZ0sUj9dslJU86W4Q="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "/xR9DBlqh9u2W4FlnvkMSGeXdbU="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "rxDdDGDlBe4ST6CkPEWXncMpO6k="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "H/n7l4EWK7MtUFBo6mZdyW6sSjQ="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "ZIk51dDHm6pLAJSaastxoY7a65E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

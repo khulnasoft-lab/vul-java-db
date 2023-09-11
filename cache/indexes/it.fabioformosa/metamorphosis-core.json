@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.fabioformosa",
+  "ArtifactID": "metamorphosis-core",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "iHkb9q7Eo7mZXUrcuM0zv9zOs7I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-querybean",
+  "Versions": [
+    {
+      "Version": "2.1.7",
+      "SHA1": "59wCmeAouAmSzGsZNcJKKQ26faw="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "AkIE/qYIKfsRDcolpcEaqD+cwrc="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "BHGdFY+xK7kw1zHmWruUgO/Dajc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

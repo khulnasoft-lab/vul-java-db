@@ -1,0 +1,19 @@
+{
+  "GroupID": "aspectwerkz",
+  "ArtifactID": "aspectwerkz-samples",
+  "Versions": [
+    {
+      "Version": "1.0.RC1",
+      "SHA1": "iZ89ltMIWEh8BI6xWoEKQmqxr6s="
+    },
+    {
+      "Version": "1.0.RC2",
+      "SHA1": "Owd9UttsQBfvF2KOVmcKv3aCqOw="
+    },
+    {
+      "Version": "1.0.RC3",
+      "SHA1": "RiEju+1xYmlYT+vBhQlIJAfCXxo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

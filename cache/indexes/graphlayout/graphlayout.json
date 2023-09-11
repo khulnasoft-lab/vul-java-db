@@ -1,0 +1,11 @@
+{
+  "GroupID": "graphlayout",
+  "ArtifactID": "graphlayout",
+  "Versions": [
+    {
+      "Version": "1.2.1",
+      "SHA1": "SfPCT8TW3rF0AnSyVc9R8fcp9CE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

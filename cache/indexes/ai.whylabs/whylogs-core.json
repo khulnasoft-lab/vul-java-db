@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.whylabs",
+  "ArtifactID": "whylogs-core",
+  "Versions": [
+    {
+      "Version": "0.0.2b1",
+      "SHA1": "kPGUG1ABxXmKb/f5FDqGaF7XF3g="
+    },
+    {
+      "Version": "0.0.2b2",
+      "SHA1": "cBY0UVZAnQS0Gf2ykaOu5eq+6aY="
+    },
+    {
+      "Version": "0.0.2b3",
+      "SHA1": "fjzdpYdNHK09/OPn2zfvUMsVr1c="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "UGchXLFwJh13lFTclvRtVPZjRsU="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "XNQhLQg1n/rLDft0BaBn/HFw7J4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

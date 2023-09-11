@@ -1,0 +1,15 @@
+{
+  "GroupID": "studio.raptor",
+  "ArtifactID": "cmdb-client",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "26M7A4eT9gph+4UTJP4MiCbK9K8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "x3FPs8+Mz8S0wN0bm8zgsfEfduI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "abbot",
+  "ArtifactID": "costello",
+  "Versions": [
+    {
+      "Version": "1.4.0",
+      "SHA1": "s9R9T1IpHDs2GmgXrcNKstYahwc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

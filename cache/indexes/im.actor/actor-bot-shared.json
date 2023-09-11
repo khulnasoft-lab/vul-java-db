@@ -1,0 +1,31 @@
+{
+  "GroupID": "im.actor",
+  "ArtifactID": "actor-bot-shared",
+  "Versions": [
+    {
+      "Version": "1.0.9",
+      "SHA1": "i9SG4HNFdv23LgRP0DI0kdK+Txg="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "TZSThy0xX69zKn9yPSRkRJ0ta0E="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "ZOIK5GeXkDJklfIFg9eY256UaWQ="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "kl8ouuZEf54OOytY+StS8YHE5Ps="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "Yoi5djKN7o+wEhSMag3lrYdwwNk="
+    },
+    {
+      "Version": "1.0.14",
+      "SHA1": "9XvYTGUMBc4BVJkHjquwheNSmgg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

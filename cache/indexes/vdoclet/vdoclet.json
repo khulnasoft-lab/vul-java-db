@@ -1,0 +1,11 @@
+{
+  "GroupID": "vdoclet",
+  "ArtifactID": "vdoclet",
+  "Versions": [
+    {
+      "Version": "20020711",
+      "SHA1": "AyrKbJzRNFXNM0SvYxdCLJKX3L0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

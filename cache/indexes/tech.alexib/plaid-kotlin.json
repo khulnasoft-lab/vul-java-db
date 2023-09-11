@@ -1,0 +1,19 @@
+{
+  "GroupID": "tech.alexib",
+  "ArtifactID": "plaid-kotlin",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "p7CwHFjr0cDb1k8bXhSiH8ep+CU="
+    },
+    {
+      "Version": "0.0.21",
+      "SHA1": "mWbHS3Kk5VtRUJAPHw/iZIIDql8="
+    },
+    {
+      "Version": "0.0.22",
+      "SHA1": "khkVzYqyW7aB/6hFAP63/tvVQaA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

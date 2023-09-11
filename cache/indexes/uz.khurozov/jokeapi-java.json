@@ -1,0 +1,11 @@
+{
+  "GroupID": "uz.khurozov",
+  "ArtifactID": "jokeapi-java",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "1wbmaCPIqj7wjJkbG/Q+t04MRIQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

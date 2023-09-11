@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-qdox",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "Cc14y4muS6zsJV4xkeywdDjresY="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "mWWmfYRNB+HmWn1kJdaq7qx1K1w="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "uGHnI0XOQzCnnqKqoRAUXBcChIY="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "HhsaLXFbIAhHJJrf9NB/nYDMO/Q="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "uqB1DVj2LSPbuRUklIIRQoJG3wk="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "v3F4RvHLT45tikdafftlHTOX69Q="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "z2BfEvcqpi9hYiHfx3UCOpc3eSI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

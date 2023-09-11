@@ -1,0 +1,11 @@
+{
+  "GroupID": "pet.orca",
+  "ArtifactID": "ascii-banner-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "kMGQh9Do+0awfHkwkseD5oZasXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

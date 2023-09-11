@@ -1,0 +1,15 @@
+{
+  "GroupID": "travel.liteapi",
+  "ArtifactID": "liteapi-java-client",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "e+6fODUeSnTtKmPmJh6f0odSqQ0="
+    },
+    {
+      "Version": "2.0.0-updates",
+      "SHA1": "GsqA4DUKO1awJx7ccZEGIpiXTLk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

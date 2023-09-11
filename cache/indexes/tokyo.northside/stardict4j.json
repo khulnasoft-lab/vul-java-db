@@ -1,0 +1,19 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "stardict4j",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "UkK/8yh1GCA5HrbtBLV9t1jScSE="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "HZTbb4QeGUAzKTIss8g1ur7STr4="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "JNp3byC4KWMQT2up6WRUJaOnVCA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

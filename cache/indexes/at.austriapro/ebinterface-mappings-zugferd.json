@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.austriapro",
+  "ArtifactID": "ebinterface-mappings-zugferd",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TLaSkj7GiihYzZxhtkJSKA5BwEo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "l0MCQ220Yoz+kQ0mblO/lE9f1nU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

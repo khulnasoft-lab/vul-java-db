@@ -1,0 +1,23 @@
+{
+  "GroupID": "store.idragon.tool",
+  "ArtifactID": "rest",
+  "Versions": [
+    {
+      "Version": "0.0.3-RELEASE",
+      "SHA1": "a4/PCDXExPU1EArsuQn1DAdagro="
+    },
+    {
+      "Version": "0.0.4-RELEASE",
+      "SHA1": "ldcHxId85mGo/GHTC5ZVSJYEzMU="
+    },
+    {
+      "Version": "0.0.5-RELEASE",
+      "SHA1": "G7NicsJbwRr73FRzxDQRsakA7Tc="
+    },
+    {
+      "Version": "0.0.6-RELEASE",
+      "SHA1": "WxrpbVMGEjNGmbtvrqS6TyPrRVo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

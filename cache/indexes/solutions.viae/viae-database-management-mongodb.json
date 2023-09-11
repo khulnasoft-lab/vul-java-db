@@ -1,0 +1,43 @@
+{
+  "GroupID": "solutions.viae",
+  "ArtifactID": "viae-database-management-mongodb",
+  "Versions": [
+    {
+      "Version": "1.45.0",
+      "SHA1": "73cECswFNk9tfiwSA79Nlgg8L4c="
+    },
+    {
+      "Version": "1.46.0",
+      "SHA1": "SA8jNufn6Ys7HfRdDkrnJyIW/a8="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "vjMv5OR36M5yVhqoDLf82yu0oVA="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "tXIhsInxu24IhGeXHRaw6AgJ9Cw="
+    },
+    {
+      "Version": "2.2.3",
+      "SHA1": "/4ouzSMZ4iQpZRPFUdi4kLUZpTI="
+    },
+    {
+      "Version": "2.2.4",
+      "SHA1": "9+LYbP7g3bBH/r+5yEhThRxD+Rk="
+    },
+    {
+      "Version": "2.2.5",
+      "SHA1": "oDWf9e1HW9JZCE+YUbXhPoEZwls="
+    },
+    {
+      "Version": "2.2.6",
+      "SHA1": "AN1+AWzVdX64PDAdZPOjfh24Iis="
+    },
+    {
+      "Version": "2.2.7",
+      "SHA1": "PZ++32dMvElCg2iWhOu2RQ35234="
+    }
+  ],
+  "ArchiveType": "jar"
+}

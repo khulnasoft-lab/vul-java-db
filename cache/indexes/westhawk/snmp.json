@@ -1,0 +1,11 @@
+{
+  "GroupID": "westhawk",
+  "ArtifactID": "snmp",
+  "Versions": [
+    {
+      "Version": "4_13",
+      "SHA1": "tvVHc01r93SOQB118p7CPCMliZ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

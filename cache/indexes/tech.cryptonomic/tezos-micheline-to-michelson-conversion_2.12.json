@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.cryptonomic",
+  "ArtifactID": "tezos-micheline-to-michelson-conversion_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "dvt9Ce6B5X9Ek9MU2fXI1Ey2M7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

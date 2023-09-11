@@ -1,0 +1,11 @@
+{
+  "GroupID": "ky.korins",
+  "ArtifactID": "swrng-provider",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "sWRAnNuAZLPv44Eyt6EmRm/u8E8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

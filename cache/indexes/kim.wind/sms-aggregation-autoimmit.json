@@ -1,0 +1,15 @@
+{
+  "GroupID": "kim.wind",
+  "ArtifactID": "sms-aggregation-autoimmit",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "uk63PNRy+/R/cpBN9q6pw7O2qdU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "9MrZ18Wr73gaHeptiBS6RTlJIjU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

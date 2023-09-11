@@ -1,0 +1,11 @@
+{
+  "GroupID": "acegisecurity",
+  "ArtifactID": "acegi-security-jetty-ext",
+  "Versions": [
+    {
+      "Version": "0.6.1",
+      "SHA1": "4FrFvpSMqsvLfjUAP3RvoiTnPAc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

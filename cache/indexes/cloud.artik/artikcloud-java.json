@@ -1,0 +1,55 @@
+{
+  "GroupID": "cloud.artik",
+  "ArtifactID": "artikcloud-java",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "P9pSTmRAf7n4hwnuYRLIYLWvjL4="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "xCALWPGduY4vNfWf+0Ne36HAYsY="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "qIZukDAiNL2KHOTgksfZjmOUlp4="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "db7J/Fn2YCCzaPljqtD9BCPrN4g="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "eind7NqwEBWpYb1HglmkOM/aZY4="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "ixa327/U2kyDSdOi7iQFPG8Q/Eg="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "49wzYJ5UEW5YDHu8o/gN7v51RBg="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "ht85PinjqApFrbgXlbp7B0w29DE="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "PM6CNCFNwtNI/qcNYg3soBHqOo8="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "frUsf/3FBMjGqLtnMlEPaagjKf8="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "yMc1SHHeKvICpOYcD/2ydUptlno="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "JObk8vSv35VgE+huIL1GM3UgXoQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

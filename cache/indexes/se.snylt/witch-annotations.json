@@ -1,0 +1,51 @@
+{
+  "GroupID": "se.snylt",
+  "ArtifactID": "witch-annotations",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "agBtVrqJilZk5WLdJJfmtdA8TDE="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "et+YorYrjUG7JxC5iSCqVkAj+MM="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "YzibyNQ7X2RZIgpeFXrzkOyQEvM="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "+QYe334c++IOA+KQCNRCT9YIWac="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "G1/mp5PB2OCoW7bfN/Fl0yXQRZw="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "Zi8bvlQ/vdzEygjinEqZ1IxIpMM="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "jC+rRqb+TEYEhtgAFMk5EvA8crw="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "FAH1EcPNGgFXzZS/Cacei7LCo6k="
+    },
+    {
+      "Version": "0.5.3",
+      "SHA1": "dOKnS3A5YfGxI71TUd6f4qqCN4Y="
+    },
+    {
+      "Version": "0.5.4",
+      "SHA1": "9VI39hUaAVjF/oSY2WXGmlbmUAQ="
+    },
+    {
+      "Version": "0.5.5",
+      "SHA1": "9HJx5r5zdueclAJ4dtzO/73ySbE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

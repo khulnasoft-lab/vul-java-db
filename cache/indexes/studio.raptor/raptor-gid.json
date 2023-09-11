@@ -1,0 +1,11 @@
+{
+  "GroupID": "studio.raptor",
+  "ArtifactID": "raptor-gid",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "cLB3+qs47LA521hOIRUYfCNwBOM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "cloud.drakon",
+  "ArtifactID": "ktuniversalis",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "BvX0w6pn0E8c7BAriMsxi48hGII="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "6cF38/MQzdmczodCoJTefMMZKRU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xJkWomldV66R+/Whz1sESHxnQZA="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "J50tIy9oU2jLbtcnGaINfjrJeSM="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "8izHskv7j9bWxDJeq5/iV8oD+yw="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "DzPUKFkBMbr2hj5yHrj7IRGaSYY="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "xuOaFogH9KAqrK3orEZjG3n1TSg="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "bseZeJkTgKh86uW8B+Q1PmGG8Ls="
+    },
+    {
+      "Version": "6.0.0",
+      "SHA1": "TzziGtzyHIdEc+lNwIw0tg/eUuc="
+    },
+    {
+      "Version": "6.0.1",
+      "SHA1": "5EMpEW6R+5caee2qsWmO1V5j/IE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

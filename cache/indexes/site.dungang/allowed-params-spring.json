@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.dungang",
+  "ArtifactID": "allowed-params-spring",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "KlQQJHf+VZI+GMxGQyX01PYJ2ag="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "P9yKGWBiRKaTab2YqbiQ0kntNtY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

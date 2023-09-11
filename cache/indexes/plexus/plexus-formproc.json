@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-formproc",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "xpI2iwG52WllVoVjs/yQnGI+PVk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

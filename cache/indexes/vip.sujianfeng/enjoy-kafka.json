@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.sujianfeng",
+  "ArtifactID": "enjoy-kafka",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "n2NofoaLgFuifYMVSrGkQpU/tDM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

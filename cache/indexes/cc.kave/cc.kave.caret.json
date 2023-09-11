@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.kave",
+  "ArtifactID": "cc.kave.caret",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "YTtm/2qmh1RgC61TQcxRAallDJ4="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "hjkfCVA4WysHzAS9NGYBSeJ3AJ0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

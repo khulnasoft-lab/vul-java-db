@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "daytrader-core",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "qeI13+YcWDrUzCYiTLMnw1kmsgk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

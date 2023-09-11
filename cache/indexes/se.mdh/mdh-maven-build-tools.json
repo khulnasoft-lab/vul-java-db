@@ -1,0 +1,35 @@
+{
+  "GroupID": "se.mdh",
+  "ArtifactID": "mdh-maven-build-tools",
+  "Versions": [
+    {
+      "Version": "27",
+      "SHA1": "zU3UnB7iRamj4/c5QucwhFRYfeU="
+    },
+    {
+      "Version": "28",
+      "SHA1": "YwS9xrtXtlAXTzqXulVNFzrKyiQ="
+    },
+    {
+      "Version": "29",
+      "SHA1": "9d6KBQLQwHLD3rutFl6RUucxqcE="
+    },
+    {
+      "Version": "30",
+      "SHA1": "6IZ7bhFHV++4nWD4KpdSyeAMOXU="
+    },
+    {
+      "Version": "31",
+      "SHA1": "PHAxo3vXoIQ3VxLYONFD48OUQE4="
+    },
+    {
+      "Version": "32",
+      "SHA1": "jZyWq+WNFXfsRUMw4hJPE8W4vgE="
+    },
+    {
+      "Version": "33",
+      "SHA1": "6/tunOXGohWKLGgtu4o+Oq8B8zQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

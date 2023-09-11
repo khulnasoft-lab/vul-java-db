@@ -1,0 +1,43 @@
+{
+  "GroupID": "cat.inspiracio",
+  "ArtifactID": "orange-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "T1qeeBGEqs4IBGjMyO02Kj2dBhM="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "mJ6aUrmtJGaxE+b0cKckmpzlkKo="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "NRdLL++Mq6kJuBzsaGmG1NpZh3I="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "FztUO31xegAZMr3vjOxU7UzMjfs="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "6TF907CfyYiwkm4kp6xT8NclBng="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "XRXa/Nu/33AIUv4NnWC0r9F16FA="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "jii+NDjUGbFf0m4VJg6hr30UH6A="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "P6mXdAJ3LYbPZe+ISddZX8M+c0A="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "UYlOOYCYlOd+iFVTwH3o9W5kqHc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

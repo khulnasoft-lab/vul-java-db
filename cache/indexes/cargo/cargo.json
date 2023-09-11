@@ -1,0 +1,31 @@
+{
+  "GroupID": "cargo",
+  "ArtifactID": "cargo",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "RTKWvf1xpBKbmkuGV+d9+bGqt9o="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "6s7IfZg/7gt5n6KbVApM9GZREvU="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "dUd7coLGg21es+oZ5+mO2qhwqHI="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "uaa+F0HqQEQicyinS3WHy3Mij4k="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "Bd+te79M7P+IhHjmfmeS8UbmUyQ="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "qoPzA4+Y3ZqnlftCSyCa1c8Thdc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-cache-jdk50",
+  "Versions": [
+    {
+      "Version": "4.2.2.GA",
+      "SHA1": "t9N1RyuyHDJ+FkUpgGOZWgUVaXI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

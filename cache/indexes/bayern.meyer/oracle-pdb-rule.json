@@ -1,0 +1,19 @@
+{
+  "GroupID": "bayern.meyer",
+  "ArtifactID": "oracle-pdb-rule",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "6Sn8OsKT4Kb6Cky7DxqqO46jJy0="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "iaVLIgg+bIzuwOaEN/snEm7sKNQ="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "JqGVD8Duqejrjl97obmF2JKSAbE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

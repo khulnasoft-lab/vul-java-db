@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.realengine",
+  "ArtifactID": "realengine",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "XNHrRL5vlFFgjVGlq3T3XMmfpw0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

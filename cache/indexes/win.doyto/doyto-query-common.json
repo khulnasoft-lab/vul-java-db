@@ -1,0 +1,35 @@
+{
+  "GroupID": "win.doyto",
+  "ArtifactID": "doyto-query-common",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "M0mCUxn9BE6QeOIRqpmcC/pDQys="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "mVeQZmhp9d8OvLcV/jjbvAX5Xfs="
+    },
+    {
+      "Version": "1.0.0-ALPHA",
+      "SHA1": "w8iWvnGwleLXeb+6Wg009ZfTjWs="
+    },
+    {
+      "Version": "1.0.0-BETA",
+      "SHA1": "yPP4Z3sp0vZCZH8zRuOiae0Q3J4="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "alyXPrBEwnbgGD/eh3dfPfAHV4Y="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "8iPITfavSxovYeHZ3lWFCGNqTj4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "vT18pnFh58IPlh+S7JyA987HT5E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

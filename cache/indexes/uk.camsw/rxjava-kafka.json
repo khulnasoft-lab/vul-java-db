@@ -1,0 +1,31 @@
+{
+  "GroupID": "uk.camsw",
+  "ArtifactID": "rxjava-kafka",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "1EXUjdvlol5tH9wtazsgLebDKog="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "/BeEO+mvpJrLB4pv/SOpG1GyHkk="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "l2dMpgswwJL26aS2ifyGq4skq8U="
+    },
+    {
+      "Version": "4.1.1",
+      "SHA1": "/tjZwVQbUCZcttizYytBQB8aL6A="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "94zDsFGfRij3WD/g7LdmBex+Im0="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "Vfm1XHpOVOOegneppM5ys5yEWKQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

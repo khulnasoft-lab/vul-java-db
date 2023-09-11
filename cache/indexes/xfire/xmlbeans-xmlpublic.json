@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xmlbeans-xmlpublic",
+  "Versions": [
+    {
+      "Version": "2.0-20041214",
+      "SHA1": "IsGFcqsRKI8HXVVCqUKU2CRpToQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

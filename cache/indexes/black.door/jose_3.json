@@ -1,0 +1,11 @@
+{
+  "GroupID": "black.door",
+  "ArtifactID": "jose_3",
+  "Versions": [
+    {
+      "Version": "0.4.6",
+      "SHA1": "OW6u9UeubhEx9lJYk3yOITTLPbE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

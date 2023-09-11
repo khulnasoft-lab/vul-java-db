@@ -1,0 +1,11 @@
+{
+  "GroupID": "cafe.cryptography",
+  "ArtifactID": "curve25519-elisabeth",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "XJozCvPKiLl4jNkqRoth9dLg+DQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

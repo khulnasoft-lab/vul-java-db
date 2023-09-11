@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.arkoit",
+  "ArtifactID": "finchrich-controller_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "vy8DmyFK0aLFzzZCi8C6FWM+6lU="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "KhLqeyvPLDi1uolwpUNC7gjnD5c="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "GnaM9CWyT5pnb2X4eKamECtzn5U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.mogo.generator",
+  "ArtifactID": "mogo-generator-model",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "3MojRfFi4HvvU8bfcgwb9gXhvto="
+    }
+  ],
+  "ArchiveType": "jar"
+}

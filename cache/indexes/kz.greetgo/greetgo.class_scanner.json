@@ -1,0 +1,15 @@
+{
+  "GroupID": "kz.greetgo",
+  "ArtifactID": "greetgo.class_scanner",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "BfA+jFux6RUOK3j/rU1F9RSzCYQ="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "OWN2j+4q/hH77uuw0tzB709s8go="
+    }
+  ],
+  "ArchiveType": "jar"
+}

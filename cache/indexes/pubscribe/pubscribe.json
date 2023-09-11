@@ -1,0 +1,15 @@
+{
+  "GroupID": "pubscribe",
+  "ArtifactID": "pubscribe",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "PMY5u2t55oOXZDqHR0LMirHt8qE="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "iRUP8VYqwHW+SQSXGMdsB+PU8Ms="
+    }
+  ],
+  "ArchiveType": "jar"
+}

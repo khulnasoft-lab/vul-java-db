@@ -1,0 +1,27 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "java-oxford-dictionaries",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "HOlkHJn6b8hDFbWiXDL443FiQTI="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "xeioJk9wjhuc6+pll2c+mBrtIGQ="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "EeJvtegZ2Rx5publuIIjVaqVkhM="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "vSbI4HZ01fBLUdVHihcWji2BkYA="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "pbJ3YPmaVYs97k6BP7j3nc5T2p4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

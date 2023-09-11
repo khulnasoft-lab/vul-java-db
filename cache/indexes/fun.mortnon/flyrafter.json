@@ -1,0 +1,31 @@
+{
+  "GroupID": "fun.mortnon",
+  "ArtifactID": "flyrafter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "gd7WDHOycbtATdXR/16LExCtVPM="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "XR2XT4nyfW7Jak0vyxrDtuTiuMM="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "m06UbtL7VNdNCYfnd8aOZDJJmHg="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "izaeJ5WyBCGTQxmQY/YT0F8sZ+M="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "Ks4KKJ5ujb9AmEwd1nzsSA877WA="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "7TyDfqZRGlYIbx/Ef5ac1+dODbo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

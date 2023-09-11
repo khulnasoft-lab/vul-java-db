@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.rseiler",
+  "ArtifactID": "config",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "LH3yFtbwIOer2ipYQujaHvSnZHg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

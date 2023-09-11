@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.eliwan",
+  "ArtifactID": "jfaker-mockito",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "I/C9oE/zWNjWM8PiIQQXZd/eVs4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

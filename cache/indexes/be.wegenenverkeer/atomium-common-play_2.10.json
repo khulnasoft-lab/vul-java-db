@@ -1,0 +1,47 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "atomium-common-play_2.10",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "4/Qp4blLvjQ9vVsPzcLaFlHjCAw="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "2aajHGnDiU60hABBt+9SleFQgiU="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "PWNBVZmuVGrs3lek3IRftwAXwKA="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "CEidafQNZXXFEo+SX4Z07ymPpCE="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "uwVrfHxik72xfTlCDAnO9Dd5aqc="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "Gmi7t697bBO+orhiEjv8HONOz9U="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "OxHGEHPs9COPNU3szh3zUGHMQos="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "9RrU0onK4gmoh5v9pjND5p8ssnU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Ddsdc9PTyBXsm94AQgAH/gqdNho="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "xd+pUsjXn2XnekxCO2hJKpG185w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

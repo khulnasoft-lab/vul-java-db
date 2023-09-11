@@ -1,0 +1,31 @@
+{
+  "GroupID": "nu.validator",
+  "ArtifactID": "jing",
+  "Versions": [
+    {
+      "Version": "20130806VNU",
+      "SHA1": "QWueal0cnu592ahK49pC3LYsOYA="
+    },
+    {
+      "Version": "20150629VNU",
+      "SHA1": "tUVqFBt4dPrVfCvuI/+liHToMbU="
+    },
+    {
+      "Version": "20171006VNU",
+      "SHA1": "cSgsnArA5hB8suey2yzfU2p2iuA="
+    },
+    {
+      "Version": "20180722VNU",
+      "SHA1": "kwpCDFwAIMrDfLDXMI8r4Yj+F2k="
+    },
+    {
+      "Version": "20190429VNU",
+      "SHA1": "ew1nr2en3BDeqxuVPr88EBn+aZY="
+    },
+    {
+      "Version": "20200702VNU",
+      "SHA1": "2fWFXyv6kWs9Zdf9OUvv6LskMXw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

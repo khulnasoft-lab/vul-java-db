@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.pinguet62",
+  "ArtifactID": "jaxb-xjc-javadoc",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "bYUUBD6gjrxKWNBErCfBwq8MkmQ="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "VlmIYO8nPFNCj56CLyYLIaqTvU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

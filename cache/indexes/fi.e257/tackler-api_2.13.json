@@ -1,0 +1,31 @@
+{
+  "GroupID": "fi.e257",
+  "ArtifactID": "tackler-api_2.13",
+  "Versions": [
+    {
+      "Version": "0.32.0",
+      "SHA1": "F6ATb5jRFTiiAtMXDGCbm6ip17E="
+    },
+    {
+      "Version": "0.33.0",
+      "SHA1": "aBBV6WeWFfjuY1ACqD6hkK4TAsc="
+    },
+    {
+      "Version": "0.34.0",
+      "SHA1": "s1sa88jYtxq8zLtOtIBiVyb5vP8="
+    },
+    {
+      "Version": "0.35.0",
+      "SHA1": "mX9oWIR6IqOXs9/Sd2bDwLVkyMQ="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "l5iSA19Asfcw2cFkjTjcN6JZQM8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "92EBg4cX2kaNlZ15/p5vGgrt8MU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

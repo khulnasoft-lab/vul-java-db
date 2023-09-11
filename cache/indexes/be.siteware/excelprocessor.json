@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.siteware",
+  "ArtifactID": "excelprocessor",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "Kjx6DhQjfPK2vHJwl2ax7KYMUFI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

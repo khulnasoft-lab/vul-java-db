@@ -1,0 +1,23 @@
+{
+  "GroupID": "openejb",
+  "ArtifactID": "openejb-builder",
+  "Versions": [
+    {
+      "Version": "2.0-G1M3",
+      "SHA1": "SbHeQgn8uxHkKeLslSJMTktGjDc="
+    },
+    {
+      "Version": "2.0-G1M4",
+      "SHA1": "ZpI38i0xN05BeI/i8bLy/j8r6hY="
+    },
+    {
+      "Version": "2.0-G1M5",
+      "SHA1": "Omctm3WPmuYEvEoSzCTzEldWLEk="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "SjcJ8db2XymNqZIFv+wM6m+ePBQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

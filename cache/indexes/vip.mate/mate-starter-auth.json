@@ -1,0 +1,103 @@
+{
+  "GroupID": "vip.mate",
+  "ArtifactID": "mate-starter-auth",
+  "Versions": [
+    {
+      "Version": "1.6.8",
+      "SHA1": "QVrxoLQ8kMZWoAKNWmbuDEL4AFs="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "uBcg0USISLNO3jQnGQfHu8h9QaQ="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "OeBFpwdzKj5c9o3YE7MRHe5m5Sk="
+    },
+    {
+      "Version": "2.2.8",
+      "SHA1": "B+bwQxiO3iqR3qnbAzofHs/anEQ="
+    },
+    {
+      "Version": "2.3.8",
+      "SHA1": "pqCIaouw5Q0pt+F2MUIYGY/4DiU="
+    },
+    {
+      "Version": "2.5.8",
+      "SHA1": "q33Xg3oQyw9W11aUoz1qghTu7Fw="
+    },
+    {
+      "Version": "3.0.8",
+      "SHA1": "6n12281llIgRMcP9Ir6ucmYUwus="
+    },
+    {
+      "Version": "3.1.8",
+      "SHA1": "IqIxTtbroxRa/BMxYYGSte/C1PM="
+    },
+    {
+      "Version": "3.2.8",
+      "SHA1": "+m1P6MZLjyMb9JzoQiu4OJ97PYI="
+    },
+    {
+      "Version": "3.3.8",
+      "SHA1": "eOHWl3q+tPvI4rVo6tJGhckUaX4="
+    },
+    {
+      "Version": "3.5.8",
+      "SHA1": "Wl5Zxmrmx9vjG2WH2Woa7TUq/Mk="
+    },
+    {
+      "Version": "3.6.8",
+      "SHA1": "vOK8koX6XkHC1ZZ0ic4C3Qdf1yM="
+    },
+    {
+      "Version": "3.7.8",
+      "SHA1": "ABnC2RIxZYcy+t6aGq14DzgnhjI="
+    },
+    {
+      "Version": "3.8.8",
+      "SHA1": "Hf//aqbFtm8l+zf83uN6Se1oCuo="
+    },
+    {
+      "Version": "4.0.8",
+      "SHA1": "A2tXSt3YEyIh2HVmeROMmpAlnds="
+    },
+    {
+      "Version": "4.0.9",
+      "SHA1": "QsDAdjyZXrtOt6zWSROfv1Uew0U="
+    },
+    {
+      "Version": "4.0.10",
+      "SHA1": "c3741JZmJM/4oiliWSNHnwmqIhU="
+    },
+    {
+      "Version": "4.0.11",
+      "SHA1": "uow4C3vNKKqZ/qCZsmisgW13GXU="
+    },
+    {
+      "Version": "4.1.8",
+      "SHA1": "VdE9YPqd7WQOPocUfzYfMih+G60="
+    },
+    {
+      "Version": "4.2.8",
+      "SHA1": "dZI5Km42Mod77/U8J1MHoTdlUqs="
+    },
+    {
+      "Version": "4.3.8",
+      "SHA1": "gAM/mjrA/r5S071Bu76u3XjzB8U="
+    },
+    {
+      "Version": "4.4.8",
+      "SHA1": "8gIJGvA/3sar6w5l76kVwl0Xc9Y="
+    },
+    {
+      "Version": "4.5.8",
+      "SHA1": "/doJhaEibQB/L0H5rOGxuK2iM3s="
+    },
+    {
+      "Version": "4.6.8",
+      "SHA1": "yj3Y7Yuuwy5Jkl8tEkFmPa3xbgw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

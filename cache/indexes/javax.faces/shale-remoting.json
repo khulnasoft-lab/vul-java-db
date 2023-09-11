@@ -1,0 +1,19 @@
+{
+  "GroupID": "javax.faces",
+  "ArtifactID": "shale-remoting",
+  "Versions": [
+    {
+      "Version": "1.1.0-swdp-a",
+      "SHA1": "9OkNZCuCjG++oFB3WkxZDLHVQ+k="
+    },
+    {
+      "Version": "1.1.0-swdp-b",
+      "SHA1": "/dLmaTF3C4A4ppbobznE73HU5+s="
+    },
+    {
+      "Version": "1.1.0-swdp-c",
+      "SHA1": "B5rXfYMB61k+kr2tgC1oq7wLD+0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "isass-service-auth-service",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TIHDE73BVF+JdYpjzFT/kHgbtBE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "ai.x",
+  "ArtifactID": "diff_2.11",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xkLKiTjZ/UUyy6REaNpd89CrH7g="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "75jhg7JTvSxvxY8aGxgCUDZ+nlM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "YvGIygU/owgz+X/GoIFiJHOTlYs="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "gJ3LylbNSBWYYHtYFsZ+4EmguWw="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "coNfxvbFsKaFkLZ/gKsryUj3mFc="
+    },
+    {
+      "Version": "1.2.0-get-simple-name-fix",
+      "SHA1": "h6P62lzommuCcF+wzS2xfInx9Vw="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "5MbYK7LtClEvgc1KCMpvMr5JL1A="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "KHMpYL+OWXT9gx5g7YdW47iaJYY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

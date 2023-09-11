@@ -1,0 +1,11 @@
+{
+  "GroupID": "freebxml",
+  "ArtifactID": "ebxmlms",
+  "Versions": [
+    {
+      "Version": "pre-0.9.3.1",
+      "SHA1": "yipKhXWhcf2989OZ75Nk+7Q+ils="
+    }
+  ],
+  "ArchiveType": "jar"
+}

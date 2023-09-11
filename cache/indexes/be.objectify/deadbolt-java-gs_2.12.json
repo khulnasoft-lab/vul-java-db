@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.objectify",
+  "ArtifactID": "deadbolt-java-gs_2.12",
+  "Versions": [
+    {
+      "Version": "2.6.0",
+      "SHA1": "0Q7fNQPhZYWIuX0iKS9vMBp1mdI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

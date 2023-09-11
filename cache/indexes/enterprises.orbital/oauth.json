@@ -1,0 +1,31 @@
+{
+  "GroupID": "enterprises.orbital",
+  "ArtifactID": "oauth",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "/AnWKeYNvv4lktIT1H9lhE7Jczs="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "QTCTAVZ+MGlYMiR6rpEBMrJKzds="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "SLRjo/XY6wFLHS0fU5paM2X2MxI="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "ktYr8UoOzMf+PRigz0rMb5Xdzr0="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "7NiH6owkLlY4boMvqWGwskWAyV8="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "t1zH8spPx3VGs1kDhhPLKP7cYKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,51 @@
+{
+  "GroupID": "fr.thomasdufour",
+  "ArtifactID": "auto-diff-generic_2.12",
+  "Versions": [
+    {
+      "Version": "0.2.0-RC1",
+      "SHA1": "9rDpClylufFBWF0X9GkZbfTELy4="
+    },
+    {
+      "Version": "0.2.0-RC2",
+      "SHA1": "vVldrp4daXQp1X6uUgTpr7fyqbs="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "d8poeMmj25WrLBBDwhvjGDKLxfo="
+    },
+    {
+      "Version": "0.3.0-RC1",
+      "SHA1": "Q0pEUoGCxtSVa2jx/IfKr4donaM="
+    },
+    {
+      "Version": "0.3.0-RC2",
+      "SHA1": "5R25YmCZGxpnwj1vHud9I+O+Mj8="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "rbmw3zy6tDN67DibqwGQ23Zcw+8="
+    },
+    {
+      "Version": "0.4.0-RC1",
+      "SHA1": "gZB8VLNiL7k3vginpai8mpTGoyg="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "JSwjmpXQmv8Kz9yUsWr3LKwcFw8="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "o2d1puMy0g/xkZF5BudQ3fMNlUE="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "JjkG7/qAh8tLlUphWllJPfAuHzI="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "AsDmy//vn396ExzG9D9wDAI90TU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

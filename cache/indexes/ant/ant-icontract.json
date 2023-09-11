@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-icontract",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "IHGtkO6c1nTcMni/HKg+5YuMLjA="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "4NspNdgI6oJZz8aSORL7JrL4q4Y="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "z5EdpKLC8NwVvLF0xKB1bMxspZ4="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "rLVe7D3kdJdIPYD98OXtGQrfK18="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "SPKQxXwVGIsA/WNsKs94lf4n+w0="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "izmoQSrFEQkuQ8mpV9UUTtGCc+0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "red.htt",
+  "ArtifactID": "wxpay-sdk",
+  "Versions": [
+    {
+      "Version": "3.0.9",
+      "SHA1": "jFx1hYyy4r/0GIYPklt1CJbub7E="
+    },
+    {
+      "Version": "3.0.9.1",
+      "SHA1": "IHwqkTOi4U+CWQzb/x1zb9fFwtw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

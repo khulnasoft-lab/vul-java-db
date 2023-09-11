@@ -1,0 +1,11 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "jasper-runtime",
+  "Versions": [
+    {
+      "Version": "4.2.20RC0",
+      "SHA1": "eQi3kQ0p3lKqZL0lUNlZa2Mm/qQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

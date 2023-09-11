@@ -1,0 +1,15 @@
+{
+  "GroupID": "ltd.vastchain",
+  "ArtifactID": "vctc-java-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "uGkMqrfQe4NG9WtlE3OIrZLABDc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "dHRDmo4/PNGyWxUAIBsbzZ/lE8s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

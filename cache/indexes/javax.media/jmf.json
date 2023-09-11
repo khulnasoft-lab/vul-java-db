@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.media",
+  "ArtifactID": "jmf",
+  "Versions": [
+    {
+      "Version": "2.1.1e",
+      "SHA1": "/pKHo2JXi/uLe526Qq8OyAopers="
+    }
+  ],
+  "ArchiveType": "jar"
+}

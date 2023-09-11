@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.blackawa",
+  "ArtifactID": "spring-bootstrapping-archetype",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NUWTnrQZnjyVv680NjfA0n7czS0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

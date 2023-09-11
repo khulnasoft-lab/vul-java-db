@@ -1,0 +1,19 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-sun-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "488tEpU1I34I5rfzSc1mWlFslqw="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "7hePVS1apPvkg4t8vjh1Kvp/I5Q="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "TksQ9Cjk1ieiNQivdiWDFVJPrRc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

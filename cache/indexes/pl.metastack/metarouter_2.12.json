@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.metastack",
+  "ArtifactID": "metarouter_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "jGsPQ/vZc0C2/tsRDwvUQSw3d90="
+    }
+  ],
+  "ArchiveType": "jar"
+}

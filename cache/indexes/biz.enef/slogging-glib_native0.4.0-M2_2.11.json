@@ -1,0 +1,11 @@
+{
+  "GroupID": "biz.enef",
+  "ArtifactID": "slogging-glib_native0.4.0-M2_2.11",
+  "Versions": [
+    {
+      "Version": "0.6.2",
+      "SHA1": "7eLP554W0F5pIvj0ud6x/6QmMdc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

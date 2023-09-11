@@ -1,0 +1,15 @@
+{
+  "GroupID": "cool.graph",
+  "ArtifactID": "cuid-java",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "Rv/CVvSU6KekIjH4CRFtzkfrT1A="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "oC2/kD6+B2o6lYGwJX5f0lVbODE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

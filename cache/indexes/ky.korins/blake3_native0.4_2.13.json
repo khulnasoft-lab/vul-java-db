@@ -1,0 +1,51 @@
+{
+  "GroupID": "ky.korins",
+  "ArtifactID": "blake3_native0.4_2.13",
+  "Versions": [
+    {
+      "Version": "2.3.1",
+      "SHA1": "EcayrQVRpZIYPbr4L6r/FCx9Vgw="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "2QOcJpbjk+WA0Kl6r6jUdMmlMcY="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "r45li1t/HZStK5wR9Zllrp4+PMg="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "ot+X5OKoNwcBshwQy3615jWpz1g="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "/vgkB4Cfs2fQpnMclENO3Qe0T5g="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "/Dh6/RkP7Ad7qMmGp0jBkZB3oYY="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "upJfYduUOKKFxfD6yKwL0qa97mk="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "No895WPge7Io6k+QhXkEnCknFjY="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "GzTCNUGIbs8FOVcFwkCOCLOqjIY="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "cdRF/ZqijKCit3ItKGwz5GZBo8E="
+    },
+    {
+      "Version": "2.9.0",
+      "SHA1": "O1Kws9NbAnAmX/Il+/xgZ9vB3kU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

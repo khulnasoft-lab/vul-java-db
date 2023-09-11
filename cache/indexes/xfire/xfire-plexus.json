@@ -1,0 +1,55 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-plexus",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "hIKo/ELcuLZLaySfloUP3+kLVyc="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "+tLFbUEhqnMUiPS6TaArK/vqrUg="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "bPLkmtjsbLGw5H7NjgnUZGK9lNc="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "SGxDM3ISIX6Pv/JzQnTG5LR4L0w="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "uAPA5X1D2o/YUsPsrHsw+vOHFKI="
+    },
+    {
+      "Version": "1.0-20050913.005153",
+      "SHA1": "6NN3X142PtjGqtcN1Eoa7wUh0pM="
+    },
+    {
+      "Version": "20041222",
+      "SHA1": "V96POCUHlGbVloz+Jx1lcQhuGSU="
+    },
+    {
+      "Version": "20050103.051819",
+      "SHA1": "9GXSBSYAOungpSi0tHUZEW8JmTE="
+    },
+    {
+      "Version": "1.0-20050917.231235",
+      "SHA1": "7tVk2iVoLHKPetPaVXZW8HZjdt4="
+    },
+    {
+      "Version": "1.0-20050920.032533",
+      "SHA1": "DNd9Wo/yszUAMSNOcPeH1YByUi0="
+    },
+    {
+      "Version": "1.0-20050920.035001",
+      "SHA1": "DNd9Wo/yszUAMSNOcPeH1YByUi0="
+    },
+    {
+      "Version": "1.0-20051009.200602",
+      "SHA1": "5HR1bvw4ZBwb7p+mVWBwrYAo2+E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

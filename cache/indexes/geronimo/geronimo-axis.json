@@ -1,0 +1,27 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-axis",
+  "Versions": [
+    {
+      "Version": "1.0-M2",
+      "SHA1": "cI5V1hk8mdSqaCrK0fTSDYTd6V4="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "Qq30fjVmqZ4A1WG2XybYSvTAcRw="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "q5VDcnlKvptAfMXgIf+rO9f374Q="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "Bfgf5yxvBySzd/4lLP3SxltzqQU="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "4x0gyDf78aTMXHOpKjiBgRz5OFE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

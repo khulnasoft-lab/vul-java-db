@@ -1,0 +1,35 @@
+{
+  "GroupID": "torque",
+  "ArtifactID": "maven-torque-plugin",
+  "Versions": [
+    {
+      "Version": "3.1.1",
+      "SHA1": "VfKPb730jE2VrByvPMUOvV/GOh4="
+    },
+    {
+      "Version": "3.1.1-rc1",
+      "SHA1": "AApV8EEr06mMRzZrGq7kiUDgIVE="
+    },
+    {
+      "Version": "3.1.1-rc2",
+      "SHA1": "XJe2L8IUkZ9s1Mfx10Fsg8yyggo="
+    },
+    {
+      "Version": "3.1.1-rc3",
+      "SHA1": "gTN+kYdcxqdCE6bhXAkOJUe+TzM="
+    },
+    {
+      "Version": "3.2-rc1",
+      "SHA1": "3Y2EsuGsGs2Zgv6n8o6ZxDhn7EY="
+    },
+    {
+      "Version": "3.2-rc2",
+      "SHA1": "boxuIAtssrXSbTKvWggx6x2zdl0="
+    },
+    {
+      "Version": "3.2-rc3",
+      "SHA1": "rkrobxkFyKjQPnPBxMumueRoNEw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,111 @@
+{
+  "GroupID": "company.jap",
+  "ArtifactID": "fields-cats_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "sbIZv2vwcG7FAehVvNAWuoTgsD4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "YyurMBEjUnJb75Nhd1I8cnpraCk="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "KIWK3gZV0ZhzwjjvCOoLCWvE/Fw="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "AGdng5i4nUomBVfko7kL20q1PCI="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "5cXeWC3z0c0EWkBChmHvmQ6qnlY="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "jOAA8H1u8pfJvwKj6nuYTcCB/+g="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "gIf0t1d3qGCuvCgiqhXevEdBuRw="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "1oTDAgzw4HCEIEAmiTQJ4Ovr+z8="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "g5W6wsx8N9mkqRy4UbhXOkGoLQw="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "KfQUV3uB311ZnvISpW1pHfEsst4="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "uRve0SwEJUnWCRgXvAwnoxHvms0="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "5hIhv80dt6y5rTco164BtiB0BGM="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "IacI03/nkcE5bNSMO7F2siuyX7E="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "okhdZl3trDV7ojWt51r8gPoONgM="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "4WR/0UY7qPV+g33LtgdlIRLBkNQ="
+    },
+    {
+      "Version": "0.4.5",
+      "SHA1": "gIddxQoC9fyJqPuwp9uuQFE9XS8="
+    },
+    {
+      "Version": "0.4.6",
+      "SHA1": "n4Hs999OxtjrxWw5iPwjg53jIc8="
+    },
+    {
+      "Version": "0.4.7",
+      "SHA1": "baJ6+/BGoorjXjqcu188dTYZMHE="
+    },
+    {
+      "Version": "0.4.8",
+      "SHA1": "YYL2cedXR2ICwz7rDSBkUu8p8cs="
+    },
+    {
+      "Version": "0.4.9",
+      "SHA1": "dUHAAyfjt8TXEagFF7GimO5NkF0="
+    },
+    {
+      "Version": "0.4.10",
+      "SHA1": "Jm9C0MtmoxJMTeIhcT7k0C8/pZg="
+    },
+    {
+      "Version": "0.4.11",
+      "SHA1": "J6qiAe6eLgCOs17DD2Z0HDxK0gk="
+    },
+    {
+      "Version": "0.4.12",
+      "SHA1": "hxsn0RpWfOAirxnLUpWSbGZM3Cs="
+    },
+    {
+      "Version": "0.4.13",
+      "SHA1": "8lxtneNJq9qX1I6YJ0gJUfhZPyo="
+    },
+    {
+      "Version": "0.4.14",
+      "SHA1": "sg34fhZJoB6sR5QppTrXFGT/inM="
+    },
+    {
+      "Version": "0.4.16",
+      "SHA1": "ysPXZlKOCbWtuMYfDEj7KpfZ3fw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

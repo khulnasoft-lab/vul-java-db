@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.opensecreto",
+  "ArtifactID": "jcommands",
+  "Versions": [
+    {
+      "Version": "1.2.1",
+      "SHA1": "ty76DgnL8+1rx8zAnW+N3ff7FgA="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "VoFlBNjwMiXPR8ilix47TetFPDs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

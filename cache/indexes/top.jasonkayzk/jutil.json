@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.jasonkayzk",
+  "ArtifactID": "jutil",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "JNSUAQiL/6edaENOffzDufMcZN0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

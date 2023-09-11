@@ -1,0 +1,27 @@
+{
+  "GroupID": "velocity",
+  "ArtifactID": "velocity",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "RcTc0ooNp+102YGdq+3Qe+ZG4n0="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "I/voHJVsPVFMglc5ZZoi/pb4kxM="
+    },
+    {
+      "Version": "1.4-rc1",
+      "SHA1": "f1tdqJlD1VWYzIUhWJ6T6TrCuxg="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "k21WyCEDZE7wQhOdnnlswM+O3DI="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "CfMGuvdSP/wOgaY1PQilhNJUEzs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

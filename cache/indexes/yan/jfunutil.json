@@ -1,0 +1,23 @@
+{
+  "GroupID": "yan",
+  "ArtifactID": "jfunutil",
+  "Versions": [
+    {
+      "Version": "0.8.2",
+      "SHA1": "M/jq0rwjiiP/H6Wh7UNkcjHEepQ="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "S5Y+wgZzT4unhIDSg0dJxfQnSqc="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "S5Y+wgZzT4unhIDSg0dJxfQnSqc="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "nAUzDNic8lwQK2PO7BFWjt6Wg5Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

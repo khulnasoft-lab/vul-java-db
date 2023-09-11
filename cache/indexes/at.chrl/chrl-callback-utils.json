@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.chrl",
+  "ArtifactID": "chrl-callback-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "DY+SgOhBkduERoCtf02ho1CbPCE="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "W46PIoyxbJMEt6NYkMcWeP55zB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

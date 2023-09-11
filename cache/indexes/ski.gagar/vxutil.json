@@ -1,0 +1,63 @@
+{
+  "GroupID": "ski.gagar",
+  "ArtifactID": "vxutil",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "PwNzCUi9KCb6vkBGgxkDCEfltR0="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "At75sBDuF4QUEw2IH1TfNs2u/+4="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "+4AUZIvul/fbyjYIuZlgJJKyy2s="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "noKgLq2cQodFDj+yNPjkEp5IwTw="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "F709LgTkLwZeJIjUjqVLuwNWmEc="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "jrWYUDLTX8PGykB7srrdkqPLmYU="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "3uI0NucP1hck6SeEc9/t8h2pcGk="
+    },
+    {
+      "Version": "0.2.8",
+      "SHA1": "A13qaV0v0rjVhlMzeRu3kzNnfkA="
+    },
+    {
+      "Version": "0.2.9",
+      "SHA1": "JmAAhTT4H3RiE1XE7pU0paAtW88="
+    },
+    {
+      "Version": "0.2.10",
+      "SHA1": "7HPe3UC7QW1oZsXyTMvFNgnQAXQ="
+    },
+    {
+      "Version": "0.2.11",
+      "SHA1": "pmQaii5UXUt5J2Uuy0rmHAWoR6I="
+    },
+    {
+      "Version": "0.2.12",
+      "SHA1": "S3e121o2q/DYh0vjfDhtq/uhMD8="
+    },
+    {
+      "Version": "0.2.13",
+      "SHA1": "0Nl95XXFQBH0lzGXv2twxM4Jcb8="
+    },
+    {
+      "Version": "0.2.14",
+      "SHA1": "XwegPHeNOp4DrdU57VChmdy3soc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

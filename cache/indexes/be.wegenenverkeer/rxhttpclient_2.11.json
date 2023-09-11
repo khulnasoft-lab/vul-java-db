@@ -1,0 +1,35 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "rxhttpclient_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "7f13PZxAODmmljiWKRvZWwaHYN4="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "ds9b8kKu7dx9PFn6vEpeUNqcKco="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "7EMa3Ct+S7ugSaiSY1tLgoxySbA="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "e+qEqHEUXAIqpfswdoMo8goN1dU="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "Y++lzEkyuDhk2uTf7RwmhkwZX4U="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "mgf6ZeI8SIq5GY1beItwmeA5cB8="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "/813SIoBtgM1UNtGeOqCd929D/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

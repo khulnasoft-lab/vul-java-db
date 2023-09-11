@@ -1,0 +1,19 @@
+{
+  "GroupID": "ml.dmlc",
+  "ArtifactID": "xgboost4j_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mb/Ed627RqvI9zaXCN3LqvrgL8I="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "mEhlveKBFuPfrXxMwzXHRYULy/Q="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "oZf4tkFse/R50wMiJpZIdCxyjko="
+    }
+  ],
+  "ArchiveType": "jar"
+}

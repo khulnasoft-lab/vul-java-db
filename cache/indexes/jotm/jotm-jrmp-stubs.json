@@ -1,0 +1,11 @@
+{
+  "GroupID": "jotm",
+  "ArtifactID": "jotm-jrmp-stubs",
+  "Versions": [
+    {
+      "Version": "1.5.3",
+      "SHA1": "cM/eXskc8LZBR4DI7R3PVhEpPYI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,55 @@
+{
+  "GroupID": "website.automate",
+  "ArtifactID": "waml-report-io",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "F6AEoIWChuKn4v//b+Q1dujrYQc="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "hy5mnB+CNDQZJmHzLMDjvAcBS7w="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "VRuYmbQZDGARH0sxQ3e1MboLAr8="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "xG3iWmy9nNmFlM8kfB/WSxjdRhw="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "vvB2pSyIGWdwgUVcm4LO7GCUjyw="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "pXqPunspS9rsb4QQSD4WqLI6ToU="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "LyTF24c7TPS6C3LlpkdSUY6R8aw="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "GITK6fIuOwIBDVL5QX/lIHqEM6c="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "zTjstz/rfsD92jl1GFfVEdLn1Ag="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "guHX3xHy48em5/aXJXqJ8ehOAoM="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "07mBEKXCTQafj67+PVjojc6x/yo="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "R2Biy6R1QyVldtk/pnGjhEsm1mU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

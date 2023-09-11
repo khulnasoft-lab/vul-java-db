@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.usb",
+  "ArtifactID": "usb-api",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "8K4NMiqZgRz3nVCNN/PcLYJ1MHA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

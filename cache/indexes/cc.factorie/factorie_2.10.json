@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.factorie",
+  "ArtifactID": "factorie_2.10",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "yFYYzHwjCAEwgqEDlrkDA4NIvjg="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2l0vfOmwg0Upx4mqd3kb94I/ysg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

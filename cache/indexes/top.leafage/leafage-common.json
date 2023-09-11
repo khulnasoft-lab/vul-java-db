@@ -1,0 +1,63 @@
+{
+  "GroupID": "top.leafage",
+  "ArtifactID": "leafage-common",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "cCdNYJXxpFXyqmoMY12kcHDG9YE="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "eH7/FTfbx7bdGL6jYR9qEY2Bk2A="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "zAnpLImBZV7HUcubxnULshkvA2I="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "G/j/m62TXTJHFZS+0Ho4Kj+kgI8="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "Sgi0PwrTDXKXwHwqr0/Ja3i80tA="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "Xgn1v9+c5ZV88W+IC8fr48IWg3k="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "9c6Mk1JMyyuJmgcfULB2sicjHus="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "fTlUXOCl42rNKiynjr2yTc1Ve44="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "FdqNV2ng9E51zug1mpI+EXug9AA="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "WRcw8kCe90Msd/cJE3wFSaPUXkw="
+    },
+    {
+      "Version": "0.1.10",
+      "SHA1": "RMRIsUnkYHrxAn2RLmXzZAOhS3E="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "1GLSzLUn46NzmXEFm2hnQlTed9g="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "+uW9uQYtrPtfS8AA7vucBY90G6I="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "gX4UiHdTCrg949uYz4dB7IT/RQc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

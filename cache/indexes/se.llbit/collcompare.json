@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.llbit",
+  "ArtifactID": "collcompare",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ouDH7IXmeu4sEzduZQOf7g23xFg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "MxvTRSxS8eJ08a62yM2V0msJ6OU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "link.jfire",
+  "ArtifactID": "dbunit",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ay3u4QUFcidazuVQ0pGaYnnWRDI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

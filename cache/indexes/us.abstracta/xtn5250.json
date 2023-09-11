@@ -1,0 +1,23 @@
+{
+  "GroupID": "us.abstracta",
+  "ArtifactID": "xtn5250",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "RlzQRlDXYnSmMmkxAy8rTN8WjJA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "1hjzk6ulLfUGwVPm9Ob/0O8SOjM="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "pMrZ1F9KsDWwuXd653AMKD2jTgs="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "8igowFOhWl6JkmDbLXAyBNa1qKU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

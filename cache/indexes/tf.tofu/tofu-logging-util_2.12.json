@@ -1,0 +1,27 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-logging-util_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "r8Wslopvj77s13GVb12Z+0GvIic="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "PSMfjzzn0MK/dYDCPyeEx2CETek="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "jqYUCKIfYcDU0ydz3W55Em86ORk="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "GroVN9OinyKWcKZMDjzS9F9GPGk="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "L+MPvOhKkm3xl9YiCVIZsVNKiTI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

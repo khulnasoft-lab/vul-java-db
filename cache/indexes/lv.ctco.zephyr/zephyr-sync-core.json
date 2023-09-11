@@ -1,0 +1,67 @@
+{
+  "GroupID": "lv.ctco.zephyr",
+  "ArtifactID": "zephyr-sync-core",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "78YOeybDDbWUyletEj2ZnNINg0Q="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "pM7wi3/gnEkULjrCObEtt30/fu4="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "EpR8YQm7LTdr0Ie1C0gvnRq2e6o="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "CRIUaPLuwcGM9/DbAIij5p4M2N8="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "tm1GpeWsPd8y3qL1lRBBJtKcbUA="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "s2HRbvwgPdxjrB63A8Jlt81GwyY="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "cRaNdQ3Tbd73Q1lBU0n1wQAxqts="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "wDfgN10EPmNWQaD+AU5gVcZtM4Y="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "H8vXCQcEn2/7U0GVICp9OnARDj4="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "jF2VBkyIB+nM9a/fMpyphH1yxWw="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "Dul3wOTMwSdpWXQnZaczd1ZQIoM="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "Np2G69lAtYvBHbtve7a9cMZ1pp8="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "5ZrQME03jXmY4va4eO6fPP5ajcI="
+    },
+    {
+      "Version": "0.0.16",
+      "SHA1": "qK2MNc5ZnUA36hwzSvvO0DauR/8="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "drABh+d8gZGtaRQa359Kq1UPZnY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "edu.fhda",
+  "ArtifactID": "log4j-papertrail-appender",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "7UP7tta8fl1EpfJ7WyqJIM7g69E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

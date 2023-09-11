@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.coley",
+  "ArtifactID": "extra-collections",
+  "Versions": [
+    {
+      "Version": "1.2.3",
+      "SHA1": "Dm/83eNB/ojDRo644/6oNQylzMs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "biz.jovido",
+  "ArtifactID": "jovido-webseed-fenicesfa",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "EZm5wjUq0AZMBJXlzsJc9BRM4CU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

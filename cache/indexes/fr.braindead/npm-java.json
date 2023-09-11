@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.braindead",
+  "ArtifactID": "npm-java",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "iId9nCVh2TwBgjK4J75pRE0VNzw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

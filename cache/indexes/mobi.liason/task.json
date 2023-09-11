@@ -1,0 +1,31 @@
+{
+  "GroupID": "mobi.liason",
+  "ArtifactID": "task",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "tIEBU9/PRGpAs2LE9V/p9FZbXIQ="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "b57kaNNSoLRPJUERqcpd2UfJnoc="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "pfSO4Tr+uCvrHhLfLSVVn+4eKX4="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "NXpe1rRTaNPglh4yrKvDI2+4sS0="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "QYup3wTbb9kZgx9bGc7l/A9livU="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "NGRttdEI+EBkrCjdjrOXjxiXX1g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

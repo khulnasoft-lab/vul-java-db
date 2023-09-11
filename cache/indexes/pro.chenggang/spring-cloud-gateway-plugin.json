@@ -1,0 +1,51 @@
+{
+  "GroupID": "pro.chenggang",
+  "ArtifactID": "spring-cloud-gateway-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "Sk9qI+E67rTgueqGIfUsWQcIS1w="
+    },
+    {
+      "Version": "1.1.0.RELEASE",
+      "SHA1": "s2kVXufAtvJXz+LBrBK5g1XxC+A="
+    },
+    {
+      "Version": "1.2.0.RELEASE",
+      "SHA1": "BvUEeykW5MKi0PsNVy9KytJOEZI="
+    },
+    {
+      "Version": "1.3.0.RELEASE",
+      "SHA1": "lOSpUnQs34dhRBVoiaO6A6AGwWU="
+    },
+    {
+      "Version": "1.3.1.RELEASE",
+      "SHA1": "Z0AdiEx8am097nfH9DdeIz57ZbU="
+    },
+    {
+      "Version": "1.3.2.RELEASE",
+      "SHA1": "RKf7aHETJsk7FzV+k2YO8740Rjk="
+    },
+    {
+      "Version": "2.1.SR1.1.RELEASE",
+      "SHA1": "kHMB2pBXkXWfcnkyHIHz2TkFSLQ="
+    },
+    {
+      "Version": "2.1.SR1.2.RELEASE",
+      "SHA1": "CQfzKjh9IUjJQVpMF/mGiia5uC8="
+    },
+    {
+      "Version": "2.1.SR1.3.RELEASE",
+      "SHA1": "FG8HbuoxnyTONEZ12twR5jCEY20="
+    },
+    {
+      "Version": "2.1.SR2.1.RELEASE",
+      "SHA1": "ZSZwpLk/jPSQvT5cYjSPrOrQJ74="
+    },
+    {
+      "Version": "2.1.SR2.2.RELEASE",
+      "SHA1": "oBciSan2OEaBJO8oZNU/7okci+U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

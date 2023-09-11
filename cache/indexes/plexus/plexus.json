@@ -1,0 +1,55 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus",
+  "Versions": [
+    {
+      "Version": "0.10",
+      "SHA1": "ityalCmRLLNFaeG4j0RI8EerQz8="
+    },
+    {
+      "Version": "0.14",
+      "SHA1": "VJDXNTBVJHpaY8flEFrA8IT+Xqs="
+    },
+    {
+      "Version": "0.15",
+      "SHA1": "Sqs2F3aWX9/iBUutqJoxdpxwEq0="
+    },
+    {
+      "Version": "0.16",
+      "SHA1": "Sudy34SXRlOOzmLdStmd9aERKYY="
+    },
+    {
+      "Version": "0.17",
+      "SHA1": "bEFARC/hO4L3lIN40h41Yafw9hY="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "Bvld1IbqLMBS5GLfRiHAYq2MzbM="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "rR+g3uXreq36c0jM+Iwlngz7CvU="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "nV6gklMcJUIrJlBDIWXjZ7kNB5I="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "k2dRu5UfnNqSbrtK3ddBhrkhhiQ="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "jaiKxdh209z4P2U9m1WihGKIhzE="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "r8FqbQSoE2LMn2RR7QwaR/As5lg="
+    },
+    {
+      "Version": "20030427.111009",
+      "SHA1": "kzHf5HQplvjDMLmmZpCvzmy8dFI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "mockobjects-jdk1.4",
+  "Versions": [
+    {
+      "Version": "0.07",
+      "SHA1": "gUnJ+Om6mBdyAfWEitxOd00b5BE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

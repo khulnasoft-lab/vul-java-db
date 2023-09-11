@@ -1,0 +1,63 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "cdi-weld-annotations-test-harness",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "Iw1SGwj4f60cH+TdAt6XX5YAkR4="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "uf3iBhlpl4GsVDui8yxsgnohaSc="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "LQJz28E8JC66ivGGewGaSqvMoOc="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "lLyBzG06lOUMtoKHcZ7Ns8mqc14="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "Gat+d1KeZpXlttjwHWu8RNapqDU="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "KLJTibdB6+wKM4d8/wow2blLihs="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "rfVANwBUvL3YjTfsUd5bEDPtG4g="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "cP24l1nxJPny8jFPz59pyMs/fTo="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "rcCY1VRT0/5JKjh6WYVYYICcV20="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "k+BGaZpd2z3KBsyDCFBu945dqgw="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "hEGu08yI+ObSqufy43AfKy4CGMY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Bzxu1sb/4HgMKtfzwJShgWZMy2k="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "9KVpbIPYFBURprcRuFha0gEhCBI="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "3pC1VHCD3lwvFiBs8rI14BI7uBo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

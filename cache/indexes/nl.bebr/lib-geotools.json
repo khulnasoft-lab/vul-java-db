@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.bebr",
+  "ArtifactID": "lib-geotools",
+  "Versions": [
+    {
+      "Version": "10.4-NB126",
+      "SHA1": "THLzLVTHohDzfQEbqiIDCrvkBR4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

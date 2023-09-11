@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.jumi.actors",
+  "ArtifactID": "jumi-actors-generator",
+  "Versions": [
+    {
+      "Version": "1.0.270",
+      "SHA1": "+OVX+wuDYR6ylFh/QjOuyUUu0mQ="
+    },
+    {
+      "Version": "1.0.277",
+      "SHA1": "DpnM3ffUj5bMTQx01CIqlPBc3kU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

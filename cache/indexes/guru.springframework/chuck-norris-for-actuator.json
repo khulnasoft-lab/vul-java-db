@@ -1,0 +1,23 @@
+{
+  "GroupID": "guru.springframework",
+  "ArtifactID": "chuck-norris-for-actuator",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "vYasv8K4ktSmxU4kYAB0Sr7xbJs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "ngXNA+n1MBOrGwh9494r0GBx054="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "a3pLAHIhPRtghl2CBn4LTqt9H3c="
+    },
+    {
+      "Version": "3.0.0-M4",
+      "SHA1": "aC9CSCiJX97eXmThuqjki8muWTc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

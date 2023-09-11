@@ -1,0 +1,27 @@
+{
+  "GroupID": "ro.ghionoiu",
+  "ArtifactID": "queue-client",
+  "Versions": [
+    {
+      "Version": "0.1.11",
+      "SHA1": "Ok7i0Sq1cetqmyI4xoKssS4P5nE="
+    },
+    {
+      "Version": "0.1.13",
+      "SHA1": "b4J6GGhkL6ZzUXMLrZV2BTXlkbo="
+    },
+    {
+      "Version": "0.1.15",
+      "SHA1": "dVBs3weSHK6FWg7l705UGtxHhig="
+    },
+    {
+      "Version": "0.1.16",
+      "SHA1": "WmXQnxJNlw8cBHffvz75cDIROwo="
+    },
+    {
+      "Version": "0.1.21",
+      "SHA1": "XJzHKafz56jDDKeP07JrEh4RhaU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

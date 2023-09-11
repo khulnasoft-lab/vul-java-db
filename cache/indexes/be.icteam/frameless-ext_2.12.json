@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.icteam",
+  "ArtifactID": "frameless-ext_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "sDpLahhgOBdDHhoS/dU4wf73Fog="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "0wETk2jWFCQEFD0eBBdUq1KLN/8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "XN0ZyGPBMxn6oIAPtvGLjk3CVZI="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "E+040PeCvM1m0mb3as0O8xntSC4="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "K4dSQcZvBVSOSzuTbVAq6tQqMCM="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "gYv6rVEByTq4bmw0b0oEhgFh4k4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "vd9HumB/tmyhiSXaLvbBB/cvdyQ="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "5bpNynsxxFojkhZ0WcccvRxwIqY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

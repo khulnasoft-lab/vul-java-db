@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon",
+  "ArtifactID": "avalon-framework-api",
+  "Versions": [
+    {
+      "Version": "4.1.4",
+      "SHA1": "vcD/oT/X5Pmd82SDV+q2LokIo4E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

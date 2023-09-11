@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.hazm",
+  "ArtifactID": "quebic_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "ZWRbP/1JJwa/Lqs6ND0xsF+QSjk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

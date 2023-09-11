@@ -1,0 +1,15 @@
+{
+  "GroupID": "monetdb",
+  "ArtifactID": "monetdbe-java",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "tavnT7QStLLmOk2xTqZsjL4wsAE="
+    },
+    {
+      "Version": "1.10",
+      "SHA1": "9UU23DMf+IOgerKtBTayYvzaBo4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

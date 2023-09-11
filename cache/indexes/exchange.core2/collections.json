@@ -1,0 +1,15 @@
+{
+  "GroupID": "exchange.core2",
+  "ArtifactID": "collections",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "Sfe66VIuJbEOpptREwvr21UZK3E="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "F0jfoOTN+lhfilvJ4QLQWUF0uiQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.scalapatisserie",
+  "ArtifactID": "muffin-zio-http-interop_3",
+  "Versions": [
+    {
+      "Version": "0.3.1",
+      "SHA1": "orJBViz67IDyBfDpv43L24By6RA="
+    },
+    {
+      "Version": "0.3.5",
+      "SHA1": "vLC1f8BeTdcru4sfXjcN4jwd5qs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

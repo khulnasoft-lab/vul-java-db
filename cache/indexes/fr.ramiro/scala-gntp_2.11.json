@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.ramiro",
+  "ArtifactID": "scala-gntp_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "hFQx9akAj6VABpnQLMwHAKlgjNM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

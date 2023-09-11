@@ -1,0 +1,11 @@
+{
+  "GroupID": "club.mydlq",
+  "ArtifactID": "swagger-kubernetes",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "1VEl/YHl0Uy29xC0AsknTm835No="
+    }
+  ],
+  "ArchiveType": "jar"
+}

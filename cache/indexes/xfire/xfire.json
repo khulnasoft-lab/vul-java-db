@@ -1,0 +1,35 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "OeTuHi7rQRgbN5at7FDj8n2O6UY="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "xA+ifi20v3CwLpOIKKt1aHFl81g="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "FtnK68kZFhvPHBlFIJNAcE5PXt4="
+    },
+    {
+      "Version": "20041222",
+      "SHA1": "B4bsyB2KGM5EzPhgLidIgiRo9QU="
+    },
+    {
+      "Version": "20050103.051333",
+      "SHA1": "FDKMxdMCZlWSS4HrcYtG6DchMEY="
+    },
+    {
+      "Version": "20050103.051604",
+      "SHA1": "FDKMxdMCZlWSS4HrcYtG6DchMEY="
+    },
+    {
+      "Version": "20050202",
+      "SHA1": "ERKMCMoXgsOyRC6hVhaZiEJt8ZA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

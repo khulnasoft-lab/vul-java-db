@@ -1,0 +1,35 @@
+{
+  "GroupID": "global.hh",
+  "ArtifactID": "biostime-openapi-sdk",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "LhmJ4xW+Z5hPZVU0QyCHhVE6vxE="
+    },
+    {
+      "Version": "1.2.1.RELEASE",
+      "SHA1": "hERsvwIfhI2R/dWcgusdOUzDCek="
+    },
+    {
+      "Version": "1.5.8-RELEASE",
+      "SHA1": "XGVlEyFvXKSPgijTZutmsw32dlQ="
+    },
+    {
+      "Version": "1.5.8.1-RELEASE",
+      "SHA1": "aEY8lYaY2phqyXKATecmSquhOBU="
+    },
+    {
+      "Version": "1.5.8.2-RELEASE",
+      "SHA1": "NPnLfAENCYFkvZagWOtc0xSlEfY="
+    },
+    {
+      "Version": "1.5.8.4-RELEASE",
+      "SHA1": "H9QhPd5/sArGHdQq3cRuuS+WRrs="
+    },
+    {
+      "Version": "1.5.8.5-RELEASE",
+      "SHA1": "qoo5AcQH0pNIyL1oizyZPzRTltE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

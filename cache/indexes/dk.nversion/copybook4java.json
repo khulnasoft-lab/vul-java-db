@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.nversion",
+  "ArtifactID": "copybook4java",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "fZXasrXSAfeMIAfbo3R4qiVakQM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "guNQhmCCeyjrPdoIRPQfPDqlFX4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "mYA32iDYKIwGORWQnLX2dvjbstM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

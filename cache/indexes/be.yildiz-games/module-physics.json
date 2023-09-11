@@ -1,0 +1,63 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-physics",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xuw9Vp6SfDGUl2KAZNeKKVAFd4U="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "uBGvz1hy9CjtrAP4bB9RcUKWW88="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "WIxgKWGz2Odsqcj6iWBdvHslJgg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "AhwEl1Y9FsuHMDZM5+30xKcZVRM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "XRnI0coG5DT98H3t9+wEzgHe06E="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "45+yZueao1c0jvJQleXrNnAjm90="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "nMqUF9CsMoGl+gm9at+zfMn4K+s="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "YbplaWcAxCZGAmGVTENlFkPmybI="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "m+8SjMz3Duuf7RkC9vum56VgCTE="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "IjsZ70yAQsre61B6kxqiqe52KF0="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "bA6NY5Jr9b0LndwcVtmVced03iI="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "uCkaZFtxsAXtbrJqx55l5ySs0Y0="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "VkzFBhtQlTluB0ymO1qhNIilZDw="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "KjL/CeX47m5mB/cWpLUJ0Eyx7l4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

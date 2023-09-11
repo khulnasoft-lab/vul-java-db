@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.plusminus",
+  "ArtifactID": "plusminus-configs",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "NHfJ5dr3aKShjV8qiHTxhG4a/Zg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

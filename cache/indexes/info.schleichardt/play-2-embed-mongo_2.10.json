@@ -1,0 +1,11 @@
+{
+  "GroupID": "info.schleichardt",
+  "ArtifactID": "play-2-embed-mongo_2.10",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "dafB6MUAjiGfZkgvl8FNXbxQdGk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

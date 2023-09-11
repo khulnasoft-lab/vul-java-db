@@ -1,0 +1,11 @@
+{
+  "GroupID": "skaringa",
+  "ArtifactID": "skaringa",
+  "Versions": [
+    {
+      "Version": "r1p8",
+      "SHA1": "cs+zCpXT78/BjMvd7w8Jddh0yNM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

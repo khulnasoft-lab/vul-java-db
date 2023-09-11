@@ -1,0 +1,43 @@
+{
+  "GroupID": "javax.faces",
+  "ArtifactID": "javax.faces-api",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "yCv6vstwUJjXKqLY+uNannZh2dE="
+    },
+    {
+      "Version": "2.0.9-05",
+      "SHA1": "zKn2zWkBT7n//fMkgKaSznx407o="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "KBG4yLSTxtTCtdTPqY3Dah9oOAk="
+    },
+    {
+      "Version": "2.2-m11",
+      "SHA1": "+KsjtPBZ4b+ntibIZxoqbA3+Y14="
+    },
+    {
+      "Version": "2.2-m12",
+      "SHA1": "g8j3qoSUmozIqKMhtn2+GeqHsww="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "4xRXOTUCO2FRZD6X6WKaLZ9vYE0="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "KmQkU6tc56UGtGFk3oJY7kY6kZc="
+    },
+    {
+      "Version": "2.3-edr1",
+      "SHA1": "m0ygokJ7q24368JDsf0IPl4vF6g="
+    },
+    {
+      "Version": "2.3-pfd",
+      "SHA1": "udcrNxfCW8+bgOInsEDH/dHabrA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

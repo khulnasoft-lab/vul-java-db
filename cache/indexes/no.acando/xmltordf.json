@@ -1,0 +1,63 @@
+{
+  "GroupID": "no.acando",
+  "ArtifactID": "xmltordf",
+  "Versions": [
+    {
+      "Version": "1.4.12",
+      "SHA1": "wQnxkgHZ4Ns/K8XXVlo6oRsTImA="
+    },
+    {
+      "Version": "1.4.13",
+      "SHA1": "nQ0jKr8xBrz4xZHQ5niiO3v65hM="
+    },
+    {
+      "Version": "1.4.14",
+      "SHA1": "AWYRmUFNdZnQOUS+0pULSy1ty+4="
+    },
+    {
+      "Version": "1.4.15",
+      "SHA1": "FXZAFr4Af5J48utoeKtANPns04A="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "UIBPPyREWbUmGifkV9vy+iE2ROo="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "gZyl1Qm/07+wZ2jJFtjnVsfRgp4="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "doPmLHUE+5CIz2SoET5Q+Eq5+Ls="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "5mKCSXfk0N80nEM0NkOqJyWBSg4="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "7l0EEZ2YtW0v4LnzMC8b6gM6xhk="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "oEHe+/RE/hNAhJ8iz1KXKs6zebE="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "LQBVDFHk1ugr82doZYM8LODx7k4="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "tyvg7pcvsoMw9gSvpInjvxFi5xs="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "EVFHqYSy1oEwiyXLe3X1riXSPwk="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "IJ+CpXA2r7GglGzSUJMn3jEvI88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

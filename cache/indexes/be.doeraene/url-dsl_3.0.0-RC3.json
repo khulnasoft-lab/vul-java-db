@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "url-dsl_3.0.0-RC3",
+  "Versions": [
+    {
+      "Version": "0.3.2",
+      "SHA1": "kmGDyiscniLVprWLIHPgoWxKklU="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "MvmrQ3kjkO8kvHZGNYF0fKZc9tU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

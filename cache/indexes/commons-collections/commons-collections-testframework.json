@@ -1,0 +1,23 @@
+{
+  "GroupID": "commons-collections",
+  "ArtifactID": "commons-collections-testframework",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "Nj4+vJGTlbaze3rF+Jq1gqJ/tv0="
+    },
+    {
+      "Version": "3.1",
+      "SHA1": "otfDq37QlTpss0JpDSXhqbS9i1k="
+    },
+    {
+      "Version": "20031027.000000",
+      "SHA1": "y6RCflVHCPyGDpErvKT1wqChIuQ="
+    },
+    {
+      "Version": "20040102.233541",
+      "SHA1": "VImUMv0HrM4lj8HtwZSESUN75fY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

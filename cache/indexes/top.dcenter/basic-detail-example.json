@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.dcenter",
+  "ArtifactID": "basic-detail-example",
+  "Versions": [
+    {
+      "Version": "1.1.2",
+      "SHA1": "E6KZUW1OnvN9QQAbcPRMjsnewys="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "hKTACsXBSGNd8dStl1s0cYCZG7A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

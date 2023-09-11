@@ -1,0 +1,23 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "naming-common",
+  "Versions": [
+    {
+      "Version": "5.0.18",
+      "SHA1": "K7Dd/DNRnHgxJMTrBA9QcZG9BZQ="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "v9OcNG01lK5kFNaiKuWCE40KHjE="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "O2Ot/VkAIVsmaohSaFSiuHc+Pxk="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "YaRiGrCybbJhRiVn4PbDDt0Rzwo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

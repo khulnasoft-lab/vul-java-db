@@ -1,0 +1,23 @@
+{
+  "GroupID": "pw.mihou",
+  "ArtifactID": "Mongosphere",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "uwBLwLHyq3NL99aFk801rkzum8M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "33iCHYSgkCgBV4jZJ61c/fypdOM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "kgM/me7dncHHYaGXaRXUV4l0KKw="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "0mBr9gfg/vun5u4Y6KA8A8q7KKU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

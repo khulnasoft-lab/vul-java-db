@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.rmz",
+  "ArtifactID": "rmatch",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "sEBzeacdpnek8tblh2UNJ2+/jIE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

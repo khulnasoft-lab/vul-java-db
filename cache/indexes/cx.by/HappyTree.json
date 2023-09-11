@@ -1,0 +1,15 @@
+{
+  "GroupID": "cx.by",
+  "ArtifactID": "HappyTree",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "B2p2V0YjWx2RKPbDGzvpYST8wJs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "YNPVkL831pVpV3we/s+Qxj4l8xw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

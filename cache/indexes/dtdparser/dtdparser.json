@@ -1,0 +1,11 @@
+{
+  "GroupID": "dtdparser",
+  "ArtifactID": "dtdparser",
+  "Versions": [
+    {
+      "Version": "1.21",
+      "SHA1": "yrcwmPwM877JrvnvkxJgB2y6QNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "directory-shared",
+  "ArtifactID": "apache-new-ldapber-provider",
+  "Versions": [
+    {
+      "Version": "0.9.3",
+      "SHA1": "xSRo45miHgoOXxDsTYh0i/Uo3gU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

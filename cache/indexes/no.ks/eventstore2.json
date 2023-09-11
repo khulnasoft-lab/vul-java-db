@@ -1,0 +1,39 @@
+{
+  "GroupID": "no.ks",
+  "ArtifactID": "eventstore2",
+  "Versions": [
+    {
+      "Version": "2.3.0",
+      "SHA1": "4/cSVl69oqEeI9UZq8KdWJ9PQjg="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "cpwwQkrb4Qm18mMSHdRugVGw7gM="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "UyzmgXP1QzoQnn/PhtTPlQBODdo="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "nIFCaCT6ZsnUfJCVzpOuIXWB0xk="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "ko2yjbMnB2mB8qfyh6SDCRyWI94="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "WpfznkalBwgCxyvTNUUyyFMpfPo="
+    },
+    {
+      "Version": "2.4.2",
+      "SHA1": "YBFMVkc9fLQJDO4JooGD73OrpeU="
+    },
+    {
+      "Version": "2.4.3",
+      "SHA1": "l0MjrQvrIylucRi7w6HoiI0DBQg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

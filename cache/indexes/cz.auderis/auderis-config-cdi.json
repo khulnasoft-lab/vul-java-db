@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.auderis",
+  "ArtifactID": "auderis-config-cdi",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "4uqg/vaj//LpYAFXzoDnH+Gmw9c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

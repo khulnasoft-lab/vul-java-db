@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.seco",
+  "ArtifactID": "lucene-fstordtermvectorscodec_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lhgRh7iOCex7JuqzIBaXe5NrqWg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

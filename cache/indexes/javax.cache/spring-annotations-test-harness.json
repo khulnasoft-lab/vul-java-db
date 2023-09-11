@@ -1,0 +1,67 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "spring-annotations-test-harness",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "jTdFl7YsyaHKS9Cz4wQx0GSbT6s="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "hW+mW0iCjGkWWhRhiW8gr/oeBcU="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "XUs3W52/lUiqWC2BSIKAYfKB1ZI="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "yUmFCO03mORBJdW22G5Q30dbhP8="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "dOrzM+apAfrkf9ywimwzhtKuUUo="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "kQnvyZyAd667qeGq5rk697C78Tw="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "FSqbBFqYvta/zBjy+nvbiSPhg2Y="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "ilfNph1/GcR4I8k7ZwHN+uE5Z0E="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "aUVgyru5QJxvBFHHLTZ1izBOn7I="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "VrQXDQMmtpyRt8uiXw1EuZfKEfw="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "J69MUlNJmi+SIKmDeIH+DBKqhvY="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "xx2mzJ8+TUC1n/2c8s9kv5yy4Yc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "tUEzNvexIOhPbrK9u5gkhp16XrU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Sj3DrkEI5mZITyf92ndnr4dxgFs="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "1S42poHt5GipH9PdmFcyLYGWiVw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

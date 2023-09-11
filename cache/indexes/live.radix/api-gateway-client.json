@@ -1,0 +1,15 @@
+{
+  "GroupID": "live.radix",
+  "ArtifactID": "api-gateway-client",
+  "Versions": [
+    {
+      "Version": "1.1.2",
+      "SHA1": "67+me2k1dbKhZAxB/Mtah0AY3do="
+    },
+    {
+      "Version": "1.1.4.1",
+      "SHA1": "AF1rEvfR1fa6mEu9IG9zDDoztRg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

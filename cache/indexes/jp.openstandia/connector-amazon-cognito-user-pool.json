@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.openstandia",
+  "ArtifactID": "connector-amazon-cognito-user-pool",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "Q7abytcRvzG0/nTZpWHT52QXQ/U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

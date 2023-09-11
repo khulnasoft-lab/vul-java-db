@@ -1,0 +1,39 @@
+{
+  "GroupID": "as.leap",
+  "ArtifactID": "vertx-rpc",
+  "Versions": [
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "njT0G4RkNSp80CbMXHhl26CeeTw="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "IXna74AQ6U5w7x/qdaFDTG84vug="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "Y5iEcyETDSfOj+ebGqYuU/oSDEc="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "Q8Vyckib9sL/Ja4Pz6hVgpJY/2Y="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "/0h1wSTTKGs3fbgDoUgP7uvom+I="
+    },
+    {
+      "Version": "3.3.6",
+      "SHA1": "Eiy2ys5/Z58dJQraP/kKp4FuJ40="
+    },
+    {
+      "Version": "3.3.7",
+      "SHA1": "qeBjaPNO7V7/4ZKB02O7bDuo9ss="
+    },
+    {
+      "Version": "3.3.8",
+      "SHA1": "Up/HN9tfhRZo5uLiw/WglZezV8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

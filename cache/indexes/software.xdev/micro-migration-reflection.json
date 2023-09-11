@@ -1,0 +1,35 @@
+{
+  "GroupID": "software.xdev",
+  "ArtifactID": "micro-migration-reflection",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "Tmx3BKUskc7WuLrVTqSIUctDOAo="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "JFjKcRbjr7Fj0f3fK+zgc16UUHI="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "vSRM6PffWBVUEOdFhGhVwTWRhGo="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "i1YI/CTLN3rP+JVoczAbwyjnFHE="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "LFm8JLtJq0CzL3kQSUUO0gPoFB0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "YRNRE4PFunxvYrsCk9vZXLkKUrg="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "s7+UJ4I9rDBXwYf54enNEFG8/g0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

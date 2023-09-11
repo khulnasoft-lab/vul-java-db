@@ -1,0 +1,43 @@
+{
+  "GroupID": "javax.interceptor",
+  "ArtifactID": "javax.interceptor-api",
+  "Versions": [
+    {
+      "Version": "1.2-b01",
+      "SHA1": "A0p0KAn9SOMh5KXTDuP4MdjJUTg="
+    },
+    {
+      "Version": "1.2-b02",
+      "SHA1": "WS04mGYoRPyLF5CIvjPRs1ovS/A="
+    },
+    {
+      "Version": "1.2-b03",
+      "SHA1": "528xWBWAY96aMeV0cHxAq2NEVLM="
+    },
+    {
+      "Version": "1.2-b04",
+      "SHA1": "XDudmMJs1rubmVl1bOo0dAyHLao="
+    },
+    {
+      "Version": "1.2-b05",
+      "SHA1": "mjWVexvWoVrurwe+mQOGXZRT2Vg="
+    },
+    {
+      "Version": "1.2-b06",
+      "SHA1": "boY2IRRpGu4MJPZCxMe/zr6289k="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "pcBYYQrrrMHriciej94ql4CQ43Q="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "2fUfty2KFqkLDdB2Gce/kxa9Mzw="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "sHbViH/xn3MR/XDL4D+j09hiio4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

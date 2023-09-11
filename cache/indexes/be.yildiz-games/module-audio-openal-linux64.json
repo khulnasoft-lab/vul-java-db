@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-audio-openal-linux64",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "RZSSpyKYQvRdZA7oulXnliu7NX8="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "gjQK0vsFrK/myShtkS1wmWFCBBo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

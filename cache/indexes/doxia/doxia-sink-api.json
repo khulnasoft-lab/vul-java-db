@@ -1,0 +1,15 @@
+{
+  "GroupID": "doxia",
+  "ArtifactID": "doxia-sink-api",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-4",
+      "SHA1": "xxSdq0NPb+OUc5f27dDiU50nRyc="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "VE2y5DTXbtLzYJrJtIIaF92Kz+Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

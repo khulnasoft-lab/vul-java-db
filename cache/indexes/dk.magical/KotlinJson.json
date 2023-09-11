@@ -1,0 +1,15 @@
+{
+  "GroupID": "dk.magical",
+  "ArtifactID": "KotlinJson",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "RDEFW3AnZsai8qKEL4kjCK2pmQM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "eTAw/evR+s8cgA6DO55o1BRRw/c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

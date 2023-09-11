@@ -1,0 +1,51 @@
+{
+  "GroupID": "pl.bristleback",
+  "ArtifactID": "bristleServer",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Wow1omtPcdWxsnwJ7nFI+NEWSxA="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "nhWy/ULJ28dAUB9843G2U7LRfcA="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "ZFQv2lA6xK+i5vl+O5eoURDzAdE="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "B0hf2lHTSqCu4xAyC/RqmEPFlAM="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "dvoyF3r7O8L3FgQzOyr1beMUcso="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "DGKQioZBfm+xrjWMtMSmtTtfdas="
+    },
+    {
+      "Version": "0.2.0-alpha-01",
+      "SHA1": "ramCGmRZ9MtrBPQepj/uRPwKDIQ="
+    },
+    {
+      "Version": "0.2.0-alpha-02",
+      "SHA1": "W8lfEySzR8PYNCNBKZ9xEn1I7iw="
+    },
+    {
+      "Version": "0.2.0-alpha-03",
+      "SHA1": "PasH8lqbpgR7kmIGQ72asbB1WxE="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "8/jK/7fDpmHKephEbiVqapkpkxU="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "kV69fltzg8NlavZqW4o8g7NtIBM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

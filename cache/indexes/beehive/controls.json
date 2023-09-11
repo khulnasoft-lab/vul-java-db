@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "controls",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "6tsWA3JslHwPHj5tlm/c8j9/y9s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

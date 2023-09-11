@@ -1,0 +1,23 @@
+{
+  "GroupID": "wstx",
+  "ArtifactID": "wstx",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "OQ3ND1se8Qg76veZ7HTyvf5y1AA="
+    },
+    {
+      "Version": "1.0-RC3",
+      "SHA1": "OKgEBkIdlkfrb5lk9+POFSPQkXs="
+    },
+    {
+      "Version": "1.0-RC4",
+      "SHA1": "snjEEXuaPqnPmwSqRVL2z9talwo="
+    },
+    {
+      "Version": "1.0-RC6",
+      "SHA1": "vQwOShLos7omD/uozEOFKzF4ayQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

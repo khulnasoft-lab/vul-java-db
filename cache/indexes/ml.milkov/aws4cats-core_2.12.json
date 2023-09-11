@@ -1,0 +1,27 @@
+{
+  "GroupID": "ml.milkov",
+  "ArtifactID": "aws4cats-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "+LBpc5giZ5e604v597xBT26Q4YE="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "zeFpiMVkixBV4YKDQBI5w/B+Jwg="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "NtDHRVfhxh/4uQKAFbWwSP/Ozfc="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "OFTyyzMEkFeexB43zoBHfpCH3Ro="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "76cmSCOWmhwtX9CO4sPFN/uL61g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

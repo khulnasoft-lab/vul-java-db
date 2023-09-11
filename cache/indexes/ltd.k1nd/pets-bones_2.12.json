@@ -1,0 +1,27 @@
+{
+  "GroupID": "ltd.k1nd",
+  "ArtifactID": "pets-bones_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.6",
+      "SHA1": "vricbz3DEKZRq9XUTqsqtrVhrHk="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "ZZwb9v8TyyPN+FbxyTw8xVPzBQo="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "AyPTGUi4uYnGen0Hv0CEMdsQsmU="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "BFZA4bB80LCyPh45EFYCLKsKgGs="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "P/v0Ct/nf4Vuud0UdGC218B4s+k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

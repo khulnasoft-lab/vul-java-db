@@ -1,0 +1,15 @@
+{
+  "GroupID": "moe.pine",
+  "ArtifactID": "heroku-addons",
+  "Versions": [
+    {
+      "Version": "0.3.2",
+      "SHA1": "nl2XtSWIIVv8ueTJGxurfSKr1n4="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "TXlvvQCv14CzFkGnbr7yk5hmerE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

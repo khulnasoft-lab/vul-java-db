@@ -1,0 +1,15 @@
+{
+  "GroupID": "tk.fishfish",
+  "ArtifactID": "rest-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "QPb9bEUykU/7V6DZ5d6PJpWEYrg="
+    },
+    {
+      "Version": "1.1.0.RELEASE",
+      "SHA1": "uNOP301HgP/3sJ80YvvJeS0/4PU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

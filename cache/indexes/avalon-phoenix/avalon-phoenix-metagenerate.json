@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon-phoenix",
+  "ArtifactID": "avalon-phoenix-metagenerate",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "zlSZlynf2OXQefwZ1PMlf5gwt+k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

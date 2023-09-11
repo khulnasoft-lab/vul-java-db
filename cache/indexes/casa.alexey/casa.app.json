@@ -1,0 +1,11 @@
+{
+  "GroupID": "casa.alexey",
+  "ArtifactID": "casa.app",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "uoyhPAfsHCZEt1qVXgKDrDI9U8w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

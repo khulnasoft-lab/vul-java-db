@@ -1,0 +1,15 @@
+{
+  "GroupID": "sk.softwave",
+  "ArtifactID": "softwave-util_2.8.1",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "VJiXB1fQdb5nBKHFR7LVnBwcUN0="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "PqOZiZTkN/H3OKF0G0Vn6V7ryT0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

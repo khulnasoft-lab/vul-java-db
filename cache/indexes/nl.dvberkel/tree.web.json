@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.dvberkel",
+  "ArtifactID": "tree.web",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "kL6DF5JZcvNj3WS6gufIo3HXPog="
+    }
+  ],
+  "ArchiveType": "jar"
+}

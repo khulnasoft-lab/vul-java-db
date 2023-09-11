@@ -1,0 +1,23 @@
+{
+  "GroupID": "vip.breakpoint",
+  "ArtifactID": "easy-tool-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "tguhmERxp8ZyU68n5DKwCuVTqGc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "mmPmX7SxoirBa19jEsVn3+bm3eA="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "Y+huGMULO7wr1VA5o7YJ/lrvtX0="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "4gAgOLTva/vcqDaeeRMP4HxoWds="
+    }
+  ],
+  "ArchiveType": "jar"
+}

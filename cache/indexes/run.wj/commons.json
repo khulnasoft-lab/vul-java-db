@@ -1,0 +1,39 @@
+{
+  "GroupID": "run.wj",
+  "ArtifactID": "commons",
+  "Versions": [
+    {
+      "Version": "2020.1.7",
+      "SHA1": "lUJR6RjeB+77oAsXN/QoWBLXMUM="
+    },
+    {
+      "Version": "2020.10.14",
+      "SHA1": "Lzz7vcFkHRonPg/Ai/7NhcFKF2M="
+    },
+    {
+      "Version": "2021.1.7",
+      "SHA1": "Cpc+F3WFoQ4u71fndMcXV2tk3EY="
+    },
+    {
+      "Version": "2021.2.30",
+      "SHA1": "ug2YMzXeOzdyINqZjIk35OY8CRA="
+    },
+    {
+      "Version": "2021.4.10",
+      "SHA1": "jKurup2r/mRTXHhzmj4esX/O3Wc="
+    },
+    {
+      "Version": "2022.8.31",
+      "SHA1": "bpnaqz4SrQ6V/ZHhA6BDp5LqEsA="
+    },
+    {
+      "Version": "2022.9.1",
+      "SHA1": "OWg+VmWcSHiGxMPAy/SqlfiyPQ8="
+    },
+    {
+      "Version": "20211.7",
+      "SHA1": "Qx52YxAUiOmTyIXgyUPope4Nctk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

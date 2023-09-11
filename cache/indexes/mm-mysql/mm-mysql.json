@@ -1,0 +1,11 @@
+{
+  "GroupID": "mm-mysql",
+  "ArtifactID": "mm-mysql",
+  "Versions": [
+    {
+      "Version": "2.0.7",
+      "SHA1": "tX5Xyko5iiVpDIhtEgZCLhEiMFY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

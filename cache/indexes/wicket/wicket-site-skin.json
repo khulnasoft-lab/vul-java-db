@@ -1,0 +1,11 @@
+{
+  "GroupID": "wicket",
+  "ArtifactID": "wicket-site-skin",
+  "Versions": [
+    {
+      "Version": "1.2.6",
+      "SHA1": "iwX1GeuFYNxJHdexw3fveo7mkWg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

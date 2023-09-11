@@ -1,0 +1,11 @@
+{
+  "GroupID": "jarsync",
+  "ArtifactID": "jarsync",
+  "Versions": [
+    {
+      "Version": "0.2.1",
+      "SHA1": "wFKo1ZhUwPT4pRH0d6BMkGUwNk8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

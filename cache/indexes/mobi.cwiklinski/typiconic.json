@@ -1,0 +1,19 @@
+{
+  "GroupID": "mobi.cwiklinski",
+  "ArtifactID": "typiconic",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "4iaIzhetjre/uGO4FIQSM+NcYuk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "CYxjiAlmgthZxi17ttgxq6Qzcfs="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "2CwGDjzcUTBE4uo1mlZJZzenGCc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

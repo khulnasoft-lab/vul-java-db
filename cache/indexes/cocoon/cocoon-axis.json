@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-axis",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "uiqP+lzCrdBmsg/LBh/ghuOB82M="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "PI6A9AHmwbpO/lOS59/+fzgNalM="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "n8a/9SDL7wUZTc6nXc3qakmLKMk="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "iEabt166BRluXUek66Kcthgqjm4="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "6kMNz/C7Dn/5Bc/kGX7wANzcPkg="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "cAmUJLXCMJO5v0tGVkHrcEofRD4="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "KzRaSLXl5s7vSPdZ1bciozFMt7Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

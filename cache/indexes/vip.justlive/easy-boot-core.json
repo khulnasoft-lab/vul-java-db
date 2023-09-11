@@ -1,0 +1,71 @@
+{
+  "GroupID": "vip.justlive",
+  "ArtifactID": "easy-boot-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "+lNeIF51pBOLSWVR0VssNE0I5Vg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "x7I9sEoPKSN1oz7K76HIrTPHqoc="
+    },
+    {
+      "Version": "1.0.2.0",
+      "SHA1": "6LQw7VPvSN5I58deA2Bhpya4uqI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "YBeLmTv7/arcOG3frl7bH9P92yQ="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "V1cUQXlroGIFPDreoCdVVgWiInQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "sH5fEN3zgc02Di65qrG4+Qu8XDY="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "BhlePRd2Dp9rA2voYdNIYotGku4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Lbue9Um1ZIGU1RZgOIuiu1AjJ5Y="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "yPbaGAHMklmn5rKnk8tsarubYX0="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "sgLKYdK0k4d1QJYvUY4+L1LRR0I="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "V27SZsbbbsc22HwJQ5gomHxTa84="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "dgLr8cb/QPoIjzikl9xM433DYW0="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "Ttd3sopigXbOUNj7vBzOyMYGRQE="
+    },
+    {
+      "Version": "1.1.6",
+      "SHA1": "P+UihW/gzVdaFG3Ny9EFKgdIzDI="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "aNgeUS0ed33jD3s/Gb4PEczUYZM="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "qcg0Y1MDDR4/58mhroJ9IvE8iZw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

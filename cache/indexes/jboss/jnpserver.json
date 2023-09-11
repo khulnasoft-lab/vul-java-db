@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jnpserver",
+  "Versions": [
+    {
+      "Version": "4.2.2.GA",
+      "SHA1": "O7TnlfNHhttlhhe6dQLnQznC0cY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

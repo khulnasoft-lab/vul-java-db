@@ -1,0 +1,55 @@
+{
+  "GroupID": "top.wboost",
+  "ArtifactID": "base-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "3.1.2.RELEASE",
+      "SHA1": "LjEf/t+2RcKDArlOkCcqXm9rGXs="
+    },
+    {
+      "Version": "3.1.3.RELEASE",
+      "SHA1": "uMDL0vMOxiG9ddjFpPOpmVTi6/U="
+    },
+    {
+      "Version": "3.1.4.RELEASE",
+      "SHA1": "QhY34knKcfq/8nZ31s9DWnqUwA0="
+    },
+    {
+      "Version": "3.1.4.1.RELEASE",
+      "SHA1": "RyTqzvPRoBtlkb3nH8wBOOMIR5I="
+    },
+    {
+      "Version": "3.1.6.RELEASE",
+      "SHA1": "doxe4w9ucOcNDbsLdLjTp5bGTzo="
+    },
+    {
+      "Version": "3.1.7.RELEASE",
+      "SHA1": "3d964wnHUm9UZvAPTV+XrWD9MeE="
+    },
+    {
+      "Version": "3.1.8.RELEASE",
+      "SHA1": "63KwLgZPJqVIz73LfFyGgqUXZd0="
+    },
+    {
+      "Version": "3.1.9.RELEASE",
+      "SHA1": "inVfX4Eu6ezRtjkK3e9ANUdeRgA="
+    },
+    {
+      "Version": "3.2.0.RELEASE",
+      "SHA1": "9NkO03xlxndcZVQPLbnO7plozkI="
+    },
+    {
+      "Version": "3.2.1.RELEASE",
+      "SHA1": "SC4lf45mEYtZ/apzEwHvpskZXfE="
+    },
+    {
+      "Version": "4.0.0.RELEASE",
+      "SHA1": "LSGi2CIMLyXLLG4EQLjh3fVQ6c4="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "EICcKt8+y+TOSnAxw3qrXp0/aEY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

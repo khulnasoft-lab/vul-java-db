@@ -1,0 +1,31 @@
+{
+  "GroupID": "games.mythical",
+  "ArtifactID": "ivi-sdk-java",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "ndh+oX2AMXtUk/bHzlEKFMwhNJY="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "nct8Bso9BX1a9272D0k8evJbkqA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "woVsWydwdNxhqmGlbeIM4AvUXmQ="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "5mdGdPIEBhQKGiQCOf356UtTOho="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "67WwHFjLcAExroVIaG4JeTnyEuA="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "tPsyN5AtwQN5O+lK0NrQ+P/NPDI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

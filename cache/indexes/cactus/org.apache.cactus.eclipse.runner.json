@@ -1,0 +1,11 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "org.apache.cactus.eclipse.runner",
+  "Versions": [
+    {
+      "Version": "1.8.0",
+      "SHA1": "PvcdeGwRtCxjb50hxQXWppJ5Fsg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

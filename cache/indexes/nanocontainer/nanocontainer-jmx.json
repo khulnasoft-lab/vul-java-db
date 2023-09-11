@@ -1,0 +1,23 @@
+{
+  "GroupID": "nanocontainer",
+  "ArtifactID": "nanocontainer-jmx",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "ffE9GhnC/EKelnchRLY5W4fgS0Y="
+    },
+    {
+      "Version": "1.0-beta-1.pico-1.0",
+      "SHA1": "1qdEk0dNZhQy7RreDbrp9/MmlMw="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "+vuZ8xxj9Haa8nyRUBNL+u60vdY="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "tfVoFcrR60XDYK+yx7F9IVQ9DrA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

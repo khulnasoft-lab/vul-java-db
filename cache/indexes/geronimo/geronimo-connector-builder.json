@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-connector-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "JV2bZDOL/AcPJX36P6lt4tgvdUY="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "CUSb75QdI6YQZZVbzxtOzDgJ1Xk="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "RV3tFkZgV04MccR2oeROtWW9dfY="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "7iM6K5WMMxG/obyTeY2kQDe0SGs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,79 @@
+{
+  "GroupID": "tk.mybatis",
+  "ArtifactID": "mapper-generator",
+  "Versions": [
+    {
+      "Version": "1.0.0-beta2",
+      "SHA1": "lnvspwCvAUNGlU6F1fRES8MX4zY="
+    },
+    {
+      "Version": "1.0.0-beta3",
+      "SHA1": "ROjlKgY/S28Q5vOfcxfQGKTfzhg="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "H/wslrtHNCOiNLyBF8uHCujqoMA="
+    },
+    {
+      "Version": "1.0.4-beta1",
+      "SHA1": "riq4ush8nmFjOR/JaAKts0S4vCA="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "kF0n1gww6d3L9sMe8ph1mCK0gPY="
+    },
+    {
+      "Version": "1.0.5-beta1",
+      "SHA1": "RnGuKbVNOSeMU7CkIABYrTuvC1c="
+    },
+    {
+      "Version": "1.0.5-beta2",
+      "SHA1": "S6+O/LikODRuWwsz7NvWES5vsmI="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "uimtKGZuKAqIaF/CAmkLLbbIzNU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "WZxByuRqTrYew2v9i5BXn631bME="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2fnoaQ+NKkybHWcZtM+k78QrWV4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "PlKvUE1SeOUNUM7T9B8MTz0ofA0="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "EjStdIPAJmrAW4JvmVxFXBn1Plw="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "3NWUvDUGDFvnENGNLH7Xywg66w8="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "/qoUQt4KjGRIIiSe62Mmiuyddzs="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "Hr7SXQCHhj+4twx61GZd9koyOpY="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "8PyXWqnOXrcC1dSgrQYObE7Iu6Y="
+    },
+    {
+      "Version": "4.2.2",
+      "SHA1": "ISI8nmAn69K66h2aZhln8YKSLWY="
+    },
+    {
+      "Version": "4.2.3",
+      "SHA1": "xjOP/R/O7qPHgfYKLa7Pv9o8o+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

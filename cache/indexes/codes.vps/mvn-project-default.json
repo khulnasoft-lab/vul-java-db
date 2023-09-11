@@ -1,0 +1,11 @@
+{
+  "GroupID": "codes.vps",
+  "ArtifactID": "mvn-project-default",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "RI7IZoWL+kILNXim4PKXhn8imyg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

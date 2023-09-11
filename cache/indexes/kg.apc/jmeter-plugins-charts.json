@@ -1,0 +1,11 @@
+{
+  "GroupID": "kg.apc",
+  "ArtifactID": "jmeter-plugins-charts",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "YRefNHb/9QiFEe/MEe6uQTMjCPo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

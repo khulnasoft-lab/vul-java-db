@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.quatrevieux",
+  "ArtifactID": "single-instance",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BID1yt2lH/3HhjKVbnVBGgK0IY0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "/m1lfBJmUbvrKI3P+D2CZge7C+0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

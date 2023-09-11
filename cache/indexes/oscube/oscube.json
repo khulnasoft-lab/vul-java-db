@@ -1,0 +1,19 @@
+{
+  "GroupID": "oscube",
+  "ArtifactID": "oscube",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "NhiIci8c76mIppWsAA0biEAcXxw="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "HIBvpxHmWrJg6x615LWJ/vu68OU="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "khELzj/OV0/lOkjn7tjaTVU0gj0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

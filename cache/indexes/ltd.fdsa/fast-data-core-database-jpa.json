@@ -1,0 +1,23 @@
+{
+  "GroupID": "ltd.fdsa",
+  "ArtifactID": "fast-data-core-database-jpa",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "jgHls995+jwblfj3gnE7ddCmUd8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "thIbfvyRhiGgITjHCkoW0HeNlnc="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "VtuC3zj6Z7x0JspIWg6k7RPRraM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "itmHN2ynT0Lrr0Phnnd4KoORGUw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

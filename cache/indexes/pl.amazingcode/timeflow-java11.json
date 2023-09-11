@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.amazingcode",
+  "ArtifactID": "timeflow-java11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BJYWEZ7bodHlXP8N6tis1R4pN94="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "pZZ955AON2wDeBmQTrfo4+ivP6s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

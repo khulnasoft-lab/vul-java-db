@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.mashroom",
+  "ArtifactID": "mashroom-db",
+  "Versions": [
+    {
+      "Version": "v1.0.0",
+      "SHA1": "vICvVuJ6pjsEVcNvlyRXVFNCNGY="
+    },
+    {
+      "Version": "v1.0.1",
+      "SHA1": "6v3mKD0sSFWL6zGzA2nnta8+8lM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

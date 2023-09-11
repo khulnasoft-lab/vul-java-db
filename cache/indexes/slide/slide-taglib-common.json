@@ -1,0 +1,11 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "slide-taglib-common",
+  "Versions": [
+    {
+      "Version": "1.0.16",
+      "SHA1": "iUHDsR9b/U0lF98kRKzcelcjjqg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

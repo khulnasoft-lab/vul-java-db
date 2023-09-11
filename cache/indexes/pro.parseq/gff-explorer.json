@@ -1,0 +1,15 @@
+{
+  "GroupID": "pro.parseq",
+  "ArtifactID": "gff-explorer",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "gcKzlZFak6pkJ34xEx8/p7+F6fE="
+    },
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "gvz7JM7/iaqY1Z//JFHiymOgG14="
+    }
+  ],
+  "ArchiveType": "jar"
+}

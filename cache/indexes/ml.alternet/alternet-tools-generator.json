@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.alternet",
+  "ArtifactID": "alternet-tools-generator",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "+EoH44bxILwZDSD4wYy9ByTdCek="
+    }
+  ],
+  "ArchiveType": "jar"
+}

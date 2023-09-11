@@ -1,0 +1,31 @@
+{
+  "GroupID": "qa.justtestlah",
+  "ArtifactID": "justtestlah-applitools",
+  "Versions": [
+    {
+      "Version": "1.8-RC1",
+      "SHA1": "0ZjxrA05jeTJ4jdeGlaSGTG15KU="
+    },
+    {
+      "Version": "1.8-RC2",
+      "SHA1": "9IpUXfBv3s7S8/54+GTD3bXzpLM="
+    },
+    {
+      "Version": "1.8-RC3",
+      "SHA1": "PflWO2sLFQVSIWiHR9Giuu1kb1w="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "yNRlWd2Uq18wFSfO1AiHCR1CSdU="
+    },
+    {
+      "Version": "1.9-RC1",
+      "SHA1": "/Te014fFfFrJnQk1kfWFoA1iXPA="
+    },
+    {
+      "Version": "1.9-RC2",
+      "SHA1": "BrSnhO4B8VANkx2rmn628qaO8TA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

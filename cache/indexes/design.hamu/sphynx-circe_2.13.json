@@ -1,0 +1,15 @@
+{
+  "GroupID": "design.hamu",
+  "ArtifactID": "sphynx-circe_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "oA8nwHJeu27036SjevgvktRITLU="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "5FXNw9vwRkYmoVScIPNJ1Zwpl1Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

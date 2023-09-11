@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.adaxisoft",
+  "ArtifactID": "Flat",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "fNbqicdNWZbe/DprMI/wnrLztAw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "yTWPSudJxvTt5EHmQ283LG2dzuY="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "wn47nozjdRU3IpKsBCDnYG/owMQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

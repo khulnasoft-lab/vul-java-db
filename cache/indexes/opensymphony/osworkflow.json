@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "osworkflow",
+  "Versions": [
+    {
+      "Version": "2.7.0",
+      "SHA1": "AYHeQg0zWKGcrBAfqL5mVyuSUO0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

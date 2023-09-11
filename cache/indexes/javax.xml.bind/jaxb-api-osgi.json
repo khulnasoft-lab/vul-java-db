@@ -1,0 +1,27 @@
+{
+  "GroupID": "javax.xml.bind",
+  "ArtifactID": "jaxb-api-osgi",
+  "Versions": [
+    {
+      "Version": "2.2.3",
+      "SHA1": "kIUfLwoAXAWdFZ/ITVluzBJCog4="
+    },
+    {
+      "Version": "2.2.4",
+      "SHA1": "vnbZw/3Pqh8aMM1bUchhJ8OQHzk="
+    },
+    {
+      "Version": "2.2.5",
+      "SHA1": "iFLZR5gS2sug/9032tSiZmQoHPk="
+    },
+    {
+      "Version": "2.2.6",
+      "SHA1": "k5Nl6rWYULrubRxPC5tV0TLmJKU="
+    },
+    {
+      "Version": "2.2.7",
+      "SHA1": "ReuosFIKcHh9XdLqFUrOFS+BfA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jbossjmx-ant",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "jHh93e43+1zwTiG/i/IHtLvI2dQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "ml.calumma.web",
+  "ArtifactID": "CalummaBackend",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "Dw/Zx645VS4qTpKN+ic62fubdjI="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "H/JCsxZzHCLrDjj5t+kHT5MxtR8="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "ff6Ipk2EM6vGwEVPGPK4Hgb8DPU="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "9pj8KJv7IqCC7qb0W1wSZQ0QH3E="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "+oZGcc5hFApXJBE47jp/AM1kfPU="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "C3RFZ5Ek6ywsmoHi/nYrW+3KrVg="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "2G5BBOQCoDSS0hql20sBE8rCYs4="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "wLjuF3QbWcVT0LwNoE57SRlnL2s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

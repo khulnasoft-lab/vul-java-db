@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.heaven96",
+  "ArtifactID": "tools-validator",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "/7hd5bBHFJIJf4H2VbbrD4IPQdE="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "PWDuaRaS86rPpx4/yjy/qeKt5U4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

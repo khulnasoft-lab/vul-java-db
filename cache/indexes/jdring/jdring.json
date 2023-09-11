@@ -1,0 +1,11 @@
+{
+  "GroupID": "jdring",
+  "ArtifactID": "jdring",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "bvGi8AivM8IjIZCcvBAe4NcAaAA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

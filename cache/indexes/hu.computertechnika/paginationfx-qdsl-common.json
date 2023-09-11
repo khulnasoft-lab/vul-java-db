@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.computertechnika",
+  "ArtifactID": "paginationfx-qdsl-common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "jy8Dc/ZpxQNXICjxYtYqD5LuPvw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

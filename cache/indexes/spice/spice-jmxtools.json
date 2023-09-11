@@ -1,0 +1,11 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-jmxtools",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "LU9p5VIrhKv2EH90Z6jE/1AggpQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

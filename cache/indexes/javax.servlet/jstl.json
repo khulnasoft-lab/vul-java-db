@@ -1,0 +1,47 @@
+{
+  "GroupID": "javax.servlet",
+  "ArtifactID": "jstl",
+  "Versions": [
+    {
+      "Version": "1.1.2",
+      "SHA1": "M3XkPGIN9PERSVlAD/m7kNEqL+s="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "vKIB5SMzYpxZ5FnodOXs2PmJnhU="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "jfzOBeEz7kYp3bRdTgBdIOQsxjs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "XUrnqKF6M+ASg+duDf9mxLzmRWo="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "NXisjUmjmRIBREJ2kVtLEYkQgns="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "1JTPU5aCEn7GNxV7hSkRHKNlpns="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "nFgd5jPpS+HnqVW9ToKS8W5VQ4c="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "QOnVOGKNlmYdxe1LDcXz6Q5R1MM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "FqkWDMZjPOXeKB9IjZCZ4aE6Upk="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "MuzNEXH0Pcr+UA0jB+kCGdSTX5Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

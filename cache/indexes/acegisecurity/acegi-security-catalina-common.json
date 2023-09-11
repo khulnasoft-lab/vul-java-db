@@ -1,0 +1,15 @@
+{
+  "GroupID": "acegisecurity",
+  "ArtifactID": "acegi-security-catalina-common",
+  "Versions": [
+    {
+      "Version": "0.51",
+      "SHA1": "N+YdI/WfZZsn0DYZoRVwiioisOU="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "r1DXqf9Xy+UFo5VS+9ozRHkETY4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

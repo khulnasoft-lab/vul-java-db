@@ -1,0 +1,11 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-testframework",
+  "Versions": [
+    {
+      "Version": "1.2.0-beta-4",
+      "SHA1": "XPJ3oQjnDex5/xP6Te5qikI6SZE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

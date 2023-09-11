@@ -1,0 +1,23 @@
+{
+  "GroupID": "lgbt.princess",
+  "ArtifactID": "platform_2.12",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "mPYnY8ElaYcqDRfERUJBlzeurXo="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "ZRrzh2UJ/t97ws2u3U+kxPVNp2E="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "tk8LZ9qTY/r/2BPsNxch3GeYcWw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "32y4NNTbke+IB6B2YUkH9pzk/RU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

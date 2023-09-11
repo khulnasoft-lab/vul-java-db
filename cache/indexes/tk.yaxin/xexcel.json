@@ -1,0 +1,15 @@
+{
+  "GroupID": "tk.yaxin",
+  "ArtifactID": "xexcel",
+  "Versions": [
+    {
+      "Version": "0.0.1-Releases",
+      "SHA1": "zdRYevNGs0AkCz/ZOcGvCdQ3CgE="
+    },
+    {
+      "Version": "1.0.0-Releases",
+      "SHA1": "9NuQ3Wj5KL+QNTlqjlviq85RYIs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

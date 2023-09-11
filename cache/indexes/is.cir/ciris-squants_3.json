@@ -1,0 +1,39 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-squants_3",
+  "Versions": [
+    {
+      "Version": "2.3.1",
+      "SHA1": "kEOJGsNu9i7OKriBuiUFH3kXhM4="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "FhLgjtgToteKOgbY2pKg5it3UXY="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "bEcmyOfwumwB/+m2b2mI4gdDHY8="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "0gSiSnrniARRf2A6LmRLwz2aiZw="
+    },
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "x3LQqnJbFTY2s1gqaTsZWfBkKcY="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "W4eVD2/hCQqnoELaQ+Q1rlI+glY="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "hqCtbaiBmRmN1UGfw4FojTEC6Rw="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "oVXo8xZNpmUCf5JMmb8Vf7aCtXg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

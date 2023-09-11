@@ -1,0 +1,35 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-itest-ejb",
+  "Versions": [
+    {
+      "Version": "1.1-G1M3",
+      "SHA1": "9tdM+en5jSOTAMEdW7aqbHjEHsY="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "bbtI9tTA7upARD1VatFEWsxPc4c="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "TWxkvBvOzttRhYrpra5O30wkydM="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "ZQvfgMGB9bqD1lKkl10MLx7c91k="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "BjsQ48RHtLao8gKbsy4U3to2R8I="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "wFdrevjzGS2fTQGBfDOyQCnWA9Y="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "b4sURMmOf+Uda4W7dmyGccsVX38="
+    }
+  ],
+  "ArchiveType": "jar"
+}

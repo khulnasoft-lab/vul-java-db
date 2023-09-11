@@ -1,0 +1,11 @@
+{
+  "GroupID": "jakarta.enterprise",
+  "ArtifactID": "cdi-api",
+  "Versions": [
+    {
+      "Version": "3.0.0-M3",
+      "SHA1": "Dcm6gqe7HTGpypESvu0e7cZ/b5s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

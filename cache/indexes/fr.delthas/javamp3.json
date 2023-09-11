@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.delthas",
+  "ArtifactID": "javamp3",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6FHZcTqBozqCDthrnBkYybqMm4U="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "3JHNNhlyTLdJEnnRR4p/yAq5xhM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

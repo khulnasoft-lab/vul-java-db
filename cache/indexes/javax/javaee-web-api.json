@@ -1,0 +1,23 @@
+{
+  "GroupID": "javax",
+  "ArtifactID": "javaee-web-api",
+  "Versions": [
+    {
+      "Version": "7.0",
+      "SHA1": "sfzkW6lBCOv34crOZCfsh2HKvsE="
+    },
+    {
+      "Version": "8.0",
+      "SHA1": "3SFYfddRX43a0oXPAZpqyxjW47o="
+    },
+    {
+      "Version": "8.0.1-b5",
+      "SHA1": "Iw7aVwspkUGgVscSlnY6qx8ZQR0="
+    },
+    {
+      "Version": "8.0.1",
+      "SHA1": "h2NVIQc4xvLsr3XoT+WbmVfN1JY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

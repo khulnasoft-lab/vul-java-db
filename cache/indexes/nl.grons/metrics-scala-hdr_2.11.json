@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.grons",
+  "ArtifactID": "metrics-scala-hdr_2.11",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "eATBKr+ERN6EjbzWqlm+I8y2Ens="
+    }
+  ],
+  "ArchiveType": "jar"
+}

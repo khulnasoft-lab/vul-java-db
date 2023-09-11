@@ -1,0 +1,39 @@
+{
+  "GroupID": "blue.starry",
+  "ArtifactID": "penicillin",
+  "Versions": [
+    {
+      "Version": "6.0.5",
+      "SHA1": "XCIuAFI688GhnMUWwWAPx7mNBdw="
+    },
+    {
+      "Version": "6.1.0",
+      "SHA1": "EQxTedJBm2kULp4NE+/HR3fIODg="
+    },
+    {
+      "Version": "6.2.0",
+      "SHA1": "zF7GxargyoYaCJskGbCL4cpL8Fw="
+    },
+    {
+      "Version": "6.2.1",
+      "SHA1": "MlE21LtwEFTiKl2JYd9+G0hByPE="
+    },
+    {
+      "Version": "6.2.2",
+      "SHA1": "X/3yjihD+oAQj++waAm4xeqBTr4="
+    },
+    {
+      "Version": "6.2.3",
+      "SHA1": "07ZMt7aniEGyGANYr9Cii7P8idg="
+    },
+    {
+      "Version": "6.3.0-alpha2",
+      "SHA1": "wZGrhiWMtJsTrZKClSdpc3USH3g="
+    },
+    {
+      "Version": "6.3.0",
+      "SHA1": "fX4/ALXPv1UYdYwjcTmEKOge3fQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

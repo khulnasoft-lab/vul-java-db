@@ -1,0 +1,95 @@
+{
+  "GroupID": "vip.justlive",
+  "ArtifactID": "oxygen-ioc",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "sTCD+bzuikEhtHT9mM8E5ZML0Fo="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "pGIptBTtlJbBbB5MNQPFD0pncCs="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "pydmqg7Aqs0AmjoRz7GDmOxcT8M="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "AuqaQQJXxnCGkH3S7TAUyXUve40="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "vYKCcGBxO3cUH6YKblciVrHLD54="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "91kJ0nHx/8loseV9r83fR7gsP38="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "aRNBsyokMiGYZKMfoeCQxIxR/po="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "1B6uOKYNi/mnlP2cSVXOsQaTc8c="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "wibfAcnOGVv6T4P0SAJFBCkCCEc="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "CZocl1zCKpUu2lOMxQL3KJo9LTw="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "ex5+aGfyj5HPizhfF3N8EPfwuJM="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "f6gcu+d8NcP6FU484tonrNiYG4s="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "+5pw9O8uotKOMbCOazziosT5zc0="
+    },
+    {
+      "Version": "2.1.5",
+      "SHA1": "2RQb/1vfdyBR577GKMQfsOIC/G4="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "GisbD/dhUobKgszCFHbRc/gPak8="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "oEyocHFGjk8pBzug9uzR7xCs66Q="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "fNju3zZWuIntMH89nra+BM3l9As="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "rjCaEFnCFkiWA7XoO865kV27qQI="
+    },
+    {
+      "Version": "2.1.10",
+      "SHA1": "Ryzuxj19EadHk8HlasLaSoBQoJM="
+    },
+    {
+      "Version": "2.1.11",
+      "SHA1": "j9M+wV7zCO8du8lCVBbfIXWBCmg="
+    },
+    {
+      "Version": "2.1.12",
+      "SHA1": "K6QLq8FCKVjb3uVfk1XTfD9WRhM="
+    },
+    {
+      "Version": "2.1.13",
+      "SHA1": "Mx8KrRUTcQzJW97Jad1XQ+nEG4g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

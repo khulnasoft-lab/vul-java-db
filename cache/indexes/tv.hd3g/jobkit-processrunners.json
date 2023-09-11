@@ -1,0 +1,11 @@
+{
+  "GroupID": "tv.hd3g",
+  "ArtifactID": "jobkit-processrunners",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "SySKkt3N0KVjzp+Wx1hGKsYDMkA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

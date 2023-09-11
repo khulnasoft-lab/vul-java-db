@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.d-shap",
+  "ArtifactID": "base64",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "o2QBWPZ8JUgJ484jKSOhr3c6nUA="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "SgiEnIDiplbJfhMPWk34083ZN5M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

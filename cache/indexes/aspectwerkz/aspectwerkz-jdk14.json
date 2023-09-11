@@ -1,0 +1,19 @@
+{
+  "GroupID": "aspectwerkz",
+  "ArtifactID": "aspectwerkz-jdk14",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "IOrU/Z4Y4RBPtVMKUvNhtiGrFSA="
+    },
+    {
+      "Version": "2.0.RC2",
+      "SHA1": "oqF5ePyPpdYvIbMD7g6/bYltX1s="
+    },
+    {
+      "Version": "2.0.RC3",
+      "SHA1": "8WvQoza6Ivn3Z8oxusJcjhbrNcA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

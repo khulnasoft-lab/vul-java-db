@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.fessional",
+  "ArtifactID": "mirana",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "lQMRCTgSEpbNmOG5c62utUXp1J0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

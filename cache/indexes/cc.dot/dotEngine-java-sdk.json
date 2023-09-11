@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.dot",
+  "ArtifactID": "dotEngine-java-sdk",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "hiTLhlhwD4gThNVczG283MWTChg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

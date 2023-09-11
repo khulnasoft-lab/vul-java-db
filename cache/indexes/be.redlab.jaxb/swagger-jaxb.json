@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.redlab.jaxb",
+  "ArtifactID": "swagger-jaxb",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "i4BN5h4Fqh4rAA7vJ3ftD92HAtg="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "4ZB8EEW7pkeMYbkpkhurX93Oobo="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "bIC+1JYn4e6pnxD1XW1PbaRN3Mc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.devforma",
+  "ArtifactID": "apsara-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "O3u3MdjWNG7TXSFG8rGTEPymj4k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

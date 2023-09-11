@@ -1,0 +1,23 @@
+{
+  "GroupID": "nl.f00f",
+  "ArtifactID": "test-smell-detector",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "B1VQH53xCTJkFTm8siEQUzoCn5Y="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "mhbZeWspI3o/F/hUOr+DqkaUp7E="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "PeNaVIFi3ADgW6UrKumsXtAI+jw="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "orLvvaPakRdBn86Hvq48Tcgwg24="
+    }
+  ],
+  "ArchiveType": "jar"
+}

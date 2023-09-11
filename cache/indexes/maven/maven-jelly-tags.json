@@ -1,0 +1,27 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-jelly-tags",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "N9bMl4pQ3cXIE7EWBEpnh6fC2xQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "4FuuhZeCm5re6VfiVC4kapq3oGY="
+    },
+    {
+      "Version": "20040423.083312",
+      "SHA1": "mLfqXC2SaKsTlrEkJOfy6huw2gk="
+    },
+    {
+      "Version": "20040427.080410",
+      "SHA1": "IQ7ZkwX8zZ2SDj4LsDJRrdgEPlw="
+    },
+    {
+      "Version": "20040429.235300",
+      "SHA1": "Nr/jMG7eDuDE7i+9sCPSLET6WSU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

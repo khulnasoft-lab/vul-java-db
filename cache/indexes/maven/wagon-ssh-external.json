@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "wagon-ssh-external",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "lL5Lv55XZd0hXWUA3GE/o2xX+4s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-c3p0",
+  "Versions": [
+    {
+      "Version": "1.1.0-beta-3",
+      "SHA1": "8edgU84xfTKSb5x6zjtlZgftS7c="
+    },
+    {
+      "Version": "1.1.0-beta-6",
+      "SHA1": "OEiGQ/e30Tsx4VUIyms9LWVOpZ4="
+    },
+    {
+      "Version": "1.1.0-rc-1",
+      "SHA1": "d0E88AGWFsPtf9p9SiK0+vNCWKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

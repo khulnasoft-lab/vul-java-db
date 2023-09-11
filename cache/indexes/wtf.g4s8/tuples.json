@@ -1,0 +1,11 @@
+{
+  "GroupID": "wtf.g4s8",
+  "ArtifactID": "tuples",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "VsY5tIBPRUYyIIFMjZcOtF4LK74="
+    }
+  ],
+  "ArchiveType": "jar"
+}

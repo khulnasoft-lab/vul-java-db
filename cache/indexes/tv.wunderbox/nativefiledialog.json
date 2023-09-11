@@ -1,0 +1,15 @@
+{
+  "GroupID": "tv.wunderbox",
+  "ArtifactID": "nativefiledialog",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "9BmUZjnv0hUb5/EFZbXl/IFpbXA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Us9cmq1HgPFUlhs5licceTLY408="
+    }
+  ],
+  "ArchiveType": "jar"
+}

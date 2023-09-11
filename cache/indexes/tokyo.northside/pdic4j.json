@@ -1,0 +1,15 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "pdic4j",
+  "Versions": [
+    {
+      "Version": "0.4.2",
+      "SHA1": "NsVWudRKK76o+xVliFnryeUbKgM="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "LPDcMfA7Qeo9O6PowSAvPMFltU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

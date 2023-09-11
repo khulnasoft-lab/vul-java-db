@@ -1,0 +1,23 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-marmalade-factory",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "uGBJ002GXy8Bdv7nHWo1G5MYqa8="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "eifjb4A+tTSuO1kjGqWDP/UAF0w="
+    },
+    {
+      "Version": "1.0-alpha-4",
+      "SHA1": "53AtC04n0gwGMPlYOQt+avw2vj0="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "Hu7+2IA/ADFtnobjPYkhraVpLAI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

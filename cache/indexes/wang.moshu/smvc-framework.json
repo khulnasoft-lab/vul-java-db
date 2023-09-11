@@ -1,0 +1,19 @@
+{
+  "GroupID": "wang.moshu",
+  "ArtifactID": "smvc-framework",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "RcX4RAp4YsWFCNZ0uKlG40AUwk4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "EvjFvuuIkad9gjeGwjCNZWgOk98="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "i2Gg9lIS1jRAKUNIFPFajZToiTc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

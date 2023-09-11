@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.templates.api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xqqnn+PPteoV3CbWIlxVJQO2BQg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

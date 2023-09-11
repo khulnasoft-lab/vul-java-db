@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.l3r8y",
+  "ArtifactID": "unixized",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "GP8BW5VhqsseSmgcLef8TEyBDws="
+    }
+  ],
+  "ArchiveType": "jar"
+}

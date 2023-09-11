@@ -1,0 +1,103 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "gentaku",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "9SeEyDcfCvVzYyIHcoMH7pPfsSU="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "C4uhkzKQaf/ECqL0F1SWK0JjZoo="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "4O4ivuDqxUDNx9qjCfYI1aX1Nzs="
+    },
+    {
+      "Version": "20050105.012341",
+      "SHA1": "EYrQRlIyPKyes2QBMSOAuVKYwMg="
+    },
+    {
+      "Version": "20050105.013151",
+      "SHA1": "EYrQRlIyPKyes2QBMSOAuVKYwMg="
+    },
+    {
+      "Version": "20050106.213357",
+      "SHA1": "SCbQHM7YGDIcYcjKh513mNOyo+o="
+    },
+    {
+      "Version": "20050107.230430",
+      "SHA1": "SCbQHM7YGDIcYcjKh513mNOyo+o="
+    },
+    {
+      "Version": "20050109.071514",
+      "SHA1": "eTkubFfya1E0R3ktlwYyEgEDWdM="
+    },
+    {
+      "Version": "20050109.073852",
+      "SHA1": "BpKcuwOL679V3oPz3cXPQ7VW8d0="
+    },
+    {
+      "Version": "20050109.084403",
+      "SHA1": "BpKcuwOL679V3oPz3cXPQ7VW8d0="
+    },
+    {
+      "Version": "20050110.114524",
+      "SHA1": "6CqIXV8rQnpNqz3KIrmwfnTK/N0="
+    },
+    {
+      "Version": "20050110.120631",
+      "SHA1": "0KsBwJQ5jkqy4Tq+SbcTKquf94M="
+    },
+    {
+      "Version": "20050113.005257",
+      "SHA1": "3zT/BmoLMMsEJRHXO9EBmsOQ1F0="
+    },
+    {
+      "Version": "20050203.034727",
+      "SHA1": "AKN3+cugPaWaBKLJvWCksZ+fn+M="
+    },
+    {
+      "Version": "20050208.164436",
+      "SHA1": "51jolq9mG0JP48DKGoyfL2ckSmA="
+    },
+    {
+      "Version": "20050208.173035",
+      "SHA1": "51jolq9mG0JP48DKGoyfL2ckSmA="
+    },
+    {
+      "Version": "20050208.174335",
+      "SHA1": "51jolq9mG0JP48DKGoyfL2ckSmA="
+    },
+    {
+      "Version": "20050208.175138",
+      "SHA1": "51jolq9mG0JP48DKGoyfL2ckSmA="
+    },
+    {
+      "Version": "20050208.175725",
+      "SHA1": "51jolq9mG0JP48DKGoyfL2ckSmA="
+    },
+    {
+      "Version": "20050706.201932",
+      "SHA1": "RvR856PbSe/NmyURCpfNNmwKFHg="
+    },
+    {
+      "Version": "20050708.030707",
+      "SHA1": "yOYapHPtbW1VTc9evW7xTe8SCvU="
+    },
+    {
+      "Version": "20050708.040658",
+      "SHA1": "yOYapHPtbW1VTc9evW7xTe8SCvU="
+    },
+    {
+      "Version": "20050708.205425",
+      "SHA1": "rv11uM0nBnazMkpKyoqlguXoUg8="
+    },
+    {
+      "Version": "20050708.210102",
+      "SHA1": "rv11uM0nBnazMkpKyoqlguXoUg8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

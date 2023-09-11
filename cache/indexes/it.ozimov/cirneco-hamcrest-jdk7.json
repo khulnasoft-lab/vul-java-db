@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.ozimov",
+  "ArtifactID": "cirneco-hamcrest-jdk7",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "iUcK5Dj2j8yER8P1IAWt96UwzKw="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "Ca161f5XUmqZXKXC7P4bQbRTUnI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

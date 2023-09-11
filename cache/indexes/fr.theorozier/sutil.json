@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.theorozier",
+  "ArtifactID": "sutil",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "FStgio7YcO0zNoUZTitHDPq9xyw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jencks",
+  "ArtifactID": "xapool-without-pool",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "kzgfJ9st36U1pphqHUPUctL88qo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

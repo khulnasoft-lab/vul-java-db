@@ -1,0 +1,11 @@
+{
+  "GroupID": "loom",
+  "ArtifactID": "maven-loom-plugin",
+  "Versions": [
+    {
+      "Version": "1.0-rc1",
+      "SHA1": "D5FWKFxwVTgNDq5LDLWfkarAWEg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

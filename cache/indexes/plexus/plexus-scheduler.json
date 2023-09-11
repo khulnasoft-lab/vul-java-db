@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-scheduler",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "D9Rl2v+eWFM6iA0D8fB40cMDX1E="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "GH6bgvx0Mnyymw323w/huAY4rRU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

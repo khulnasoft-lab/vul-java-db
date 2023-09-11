@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.afri",
+  "ArtifactID": "smg",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "0mfhqBaru5p/Z8s5tTmahTrZ8Ow="
+    }
+  ],
+  "ArchiveType": "jar"
+}

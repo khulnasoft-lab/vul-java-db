@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.heaven96",
+  "ArtifactID": "req-filter-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "JJvgOpzgLwgUbuLR9cgT4r81gEM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

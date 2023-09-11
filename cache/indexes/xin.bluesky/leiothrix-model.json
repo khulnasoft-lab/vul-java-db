@@ -1,0 +1,11 @@
+{
+  "GroupID": "xin.bluesky",
+  "ArtifactID": "leiothrix-model",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "ltFNPpZhIiUW290SBB+sMBM2w+U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

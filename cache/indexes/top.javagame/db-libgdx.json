@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.javagame",
+  "ArtifactID": "db-libgdx",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zgtT7M9l/feHW4hOiI87Tgc5djE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

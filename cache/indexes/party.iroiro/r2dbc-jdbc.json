@@ -1,0 +1,39 @@
+{
+  "GroupID": "party.iroiro",
+  "ArtifactID": "r2dbc-jdbc",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "s7lLJ2WP+CyeTY/XiXdIeqgTMd4="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "WZm2r4QN4hHH5AuyBXmE/SAGK/0="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "AsA1y1vr3wyZA7jnq63GzskmiGc="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "Ydpedq3Sh1kkZHRer0idMz/0JMQ="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "nLgJ2SCdfM0o1bFn9CaqfLHZyZQ="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "NiGzCQtvmLB2R68naAh8Xi8+yJo="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "fZPTfKhCrhhyjkUc+GEpkb+drX0="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "zl3iJYmB6DO0RqNWqgg4zqVjLI0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

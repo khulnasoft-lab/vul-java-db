@@ -1,0 +1,19 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "easyutils",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "xRAYvXs9HesBawsEfgQ5N5EuF6U="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "mvkjCEW/2Vn3atNavZzeg/SOu4o="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "7fIEn1gdQeelqLz33wDUGuAOcUQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

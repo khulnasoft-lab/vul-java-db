@@ -1,0 +1,15 @@
+{
+  "GroupID": "store.kalvan.framework",
+  "ArtifactID": "kalvan-core-admin",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "Kh/SW/4jiWSDc175c7A18k5qGRs="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "ZjPjN5Eay84W3iWJqKO9w54xvkw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

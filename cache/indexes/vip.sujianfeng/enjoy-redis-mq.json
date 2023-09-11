@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.sujianfeng",
+  "ArtifactID": "enjoy-redis-mq",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "haN9yP6p+ktDC8WoJAdIYaJGAO8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

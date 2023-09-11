@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-jbuilder-plugin",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "pzJTFBkO4BItX2dtJBFdky5rV28="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "vTZJaTXei9pLH7VQtSimUn6WQ+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

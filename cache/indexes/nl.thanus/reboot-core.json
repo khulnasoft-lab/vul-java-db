@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.thanus",
+  "ArtifactID": "reboot-core",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "6mnmFLcWwn9U2aGhoF4Jurf+r6k="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "1helCLc6Ep1UJv8jmNyToLQ58q4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

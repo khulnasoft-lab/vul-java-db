@@ -1,0 +1,35 @@
+{
+  "GroupID": "money.terra",
+  "ArtifactID": "messages-jvm",
+  "Versions": [
+    {
+      "Version": "0.20.1",
+      "SHA1": "b6qgOPN1juHwSTqSlpYP8j9j0k0="
+    },
+    {
+      "Version": "0.20.2",
+      "SHA1": "PMKsV+q2pvksHYEOckTaWiwvT5c="
+    },
+    {
+      "Version": "0.20.3",
+      "SHA1": "gBV44qTrGORuueG2ozfIkvSe0jo="
+    },
+    {
+      "Version": "0.20.4",
+      "SHA1": "tCVIPHArS1VxBapfioND0S4YOOg="
+    },
+    {
+      "Version": "0.20.5-beta1",
+      "SHA1": "ZYDdWhwxE+4UGMTTuoUw+XgVAHY="
+    },
+    {
+      "Version": "0.20.5",
+      "SHA1": "DduMAvP8892GPVD1pSVNXI9hIW4="
+    },
+    {
+      "Version": "0.20.6-alpha1",
+      "SHA1": "wvQoOhrS9VBtCxl2Ph4C1FBkhxo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

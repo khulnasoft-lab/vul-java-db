@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-console-standard",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "sVcm9xDs19tUccNpqSte6mdYphY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

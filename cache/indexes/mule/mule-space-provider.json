@@ -1,0 +1,19 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-space-provider",
+  "Versions": [
+    {
+      "Version": "1.3-rc1",
+      "SHA1": "ieBYDX7nb4xazZl2sFp7A8cB+Lk="
+    },
+    {
+      "Version": "1.3-rc2",
+      "SHA1": "+3c3rRKFT+6I6QM1+H/Hc+EF1GE="
+    },
+    {
+      "Version": "1.3-rc3",
+      "SHA1": "fPOJ1ihAAezUGXvurH/qwq8bzh0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

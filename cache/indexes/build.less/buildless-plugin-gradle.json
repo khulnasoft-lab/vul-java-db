@@ -1,0 +1,11 @@
+{
+  "GroupID": "build.less",
+  "ArtifactID": "buildless-plugin-gradle",
+  "Versions": [
+    {
+      "Version": "1.0.0-beta1",
+      "SHA1": "jvpByOwi+fiuVARQYg7XzqqgiQM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

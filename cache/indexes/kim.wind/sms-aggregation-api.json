@@ -1,0 +1,27 @@
+{
+  "GroupID": "kim.wind",
+  "ArtifactID": "sms-aggregation-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "uwy3x9+6uqSCX1SFtoCGJlX+M5k="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "mHLbddVjAdqAOqmVhSAjetr4w0Q="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Q3fgolB/QV4acZ5FcI3nb3fR48w="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "8wPSbEOHG9aju+M6TY9zwRdRBwE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "aN7WVAtlsOWvAluP9vt6B2ebW7E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

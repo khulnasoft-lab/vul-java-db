@@ -1,0 +1,15 @@
+{
+  "GroupID": "app.jackychu",
+  "ArtifactID": "simple.google.translate.api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lEj3USfpRN79SC+vUDaQBgpwaZk="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "utKOqPx3p1F0PvwYglqZF2bzuMY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

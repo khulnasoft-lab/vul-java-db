@@ -1,0 +1,15 @@
+{
+  "GroupID": "jcache",
+  "ArtifactID": "jcache",
+  "Versions": [
+    {
+      "Version": "1.0-dev-1",
+      "SHA1": "TIjL4ny9Z8vophvXZlW409TfMl0="
+    },
+    {
+      "Version": "1.0-dev-2",
+      "SHA1": "s0/k2QF6sI2u9L+UujcXMgSMac8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

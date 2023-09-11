@@ -1,0 +1,11 @@
+{
+  "GroupID": "im.shs",
+  "ArtifactID": "tick-cloud",
+  "Versions": [
+    {
+      "Version": "3.0.0.0",
+      "SHA1": "KgP5oohI7VZvJ/ndIdmqrEGFKis="
+    }
+  ],
+  "ArchiveType": "jar"
+}

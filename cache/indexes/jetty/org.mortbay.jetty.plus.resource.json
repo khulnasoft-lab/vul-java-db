@@ -1,0 +1,11 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "org.mortbay.jetty.plus.resource",
+  "Versions": [
+    {
+      "Version": "4.2.20",
+      "SHA1": "zRyQtv7LdJ41NsPRt6r6UABOjZc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

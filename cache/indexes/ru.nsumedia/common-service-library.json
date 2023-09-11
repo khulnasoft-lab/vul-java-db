@@ -1,0 +1,55 @@
+{
+  "GroupID": "ru.nsumedia",
+  "ArtifactID": "common-service-library",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "XpeZqy6zD71OuSoYBNV6qAc8Tgo="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "XpeZqy6zD71OuSoYBNV6qAc8Tgo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "WS3RUoOgiKi5499XmN7tGEL8i+w="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "d2H025KXYaGHj/aYqYHSczWHMms="
+    },
+    {
+      "Version": "1.0.2.5",
+      "SHA1": "aYrZthi+tSdrXo5xaMqEtFf2NyM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "VynGraW6R1MK7dGvaOfCdoq0TLM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "TnVY7LXJA3l3kAuifN8E/c1K+/E="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "nDH9JCxfJfcQ5FbfqD9GIqISoOw="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "eInUtB1xR6V8w9S3qDMciviU6Lg="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "1myP9QGYZF99iZNHbgixocRmZVU="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "+mPZiuilzuV1eslsPDXj6I4UoZ8="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "Zz0XV9dEjTL89raUACe2XvYIODQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

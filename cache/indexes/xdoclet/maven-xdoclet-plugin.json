@@ -1,0 +1,15 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "maven-xdoclet-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "JCyuccVD+7WmDXHRQEHiONuyLMA="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "PY4bcjBu9/vrD38okN03EDKsBjs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

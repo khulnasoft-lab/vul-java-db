@@ -1,0 +1,15 @@
+{
+  "GroupID": "gg.pistol",
+  "ArtifactID": "lumberjack",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "2G3qcRPo+vLZpo78UVGiY7+cig4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "Y3oK+fvBwhCw1nV26MGXdIcMFg0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

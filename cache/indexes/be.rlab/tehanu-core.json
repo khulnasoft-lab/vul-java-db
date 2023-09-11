@@ -1,0 +1,55 @@
+{
+  "GroupID": "be.rlab",
+  "ArtifactID": "tehanu-core",
+  "Versions": [
+    {
+      "Version": "2.2.0",
+      "SHA1": "PUzXkVIAqmQqFqHcSy5vBnxNXe8="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "a6eZWiqudRcVkiot4rDiA5WF7Xw="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "rVrwQ2/wyS2O/CNlmxIH7oK+288="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "Vc/J3/9mX83dDsHV4wnc6XMeihQ="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "ZpWuwIivpno4bduNouwPU5DP8Tc="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "4BAeRiXhpgaSuiiSeQUpp24yaGI="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "/jWrxGzKsfLhDw9eIAs6gKAhzG8="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "MYX9Srs20UwUor3zId6gKGOPIU8="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "kRHFKI/BckL7ORa7wm28aGVBK6g="
+    },
+    {
+      "Version": "3.3.3",
+      "SHA1": "hHr0aA29n89rJshIFJel+7rtZQk="
+    },
+    {
+      "Version": "3.3.4",
+      "SHA1": "sPl8vJr3el+uSEPMnB+BTugSbls="
+    },
+    {
+      "Version": "3.3.5",
+      "SHA1": "YIho7AuQKRmWOlAoZ9A47VMCawE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

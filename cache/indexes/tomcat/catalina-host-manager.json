@@ -1,0 +1,11 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-host-manager",
+  "Versions": [
+    {
+      "Version": "5.5.12",
+      "SHA1": "xP4DeDELaZGmGAGyGPZ2N8MBTEM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

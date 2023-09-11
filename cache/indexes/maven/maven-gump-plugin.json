@@ -1,0 +1,27 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-gump-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "B/kq9vdihNjr9pBLiDsaFYIME2Y="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "mXlmUZeFus3QRS9qN+ZpUzbNIJM="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "AxPQSMBz6aq/XPfEdNF5zjKtluU="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "Kf59wxZiX1Qc6S6ohkcWDwD6Hbo="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "CD/k+CNL7yRHEJBnLHf2r8t7J1w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

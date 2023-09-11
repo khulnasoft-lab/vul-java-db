@@ -1,0 +1,23 @@
+{
+  "GroupID": "ai.tripl",
+  "ArtifactID": "arc-dataquality-udf-plugin_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "9eCivMWyQcIfiJ3vr/2t6d2eMj8="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "4ydJg2DEbwOZqOJhhcMVbGrkvis="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "ZzciZQbnRnn9ZM6PRprhEzt8d2A="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "X5nskbOgCb8khzQpu3hfJ0WOFmQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

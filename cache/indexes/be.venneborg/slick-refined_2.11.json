@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.venneborg",
+  "ArtifactID": "slick-refined_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "neZS6XtFqwVEuVb3+KH1PVLsE2o="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "2xc3VUHo2ujHYt+toitCPyPr+Vc="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "Nhc8B6IDPJ8FbdbVfXaetbT0ol0="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "U3NP6d0zuYwsHw7NJCuR1QD1TiM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

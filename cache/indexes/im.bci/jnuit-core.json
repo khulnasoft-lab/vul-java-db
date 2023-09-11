@@ -1,0 +1,55 @@
+{
+  "GroupID": "im.bci",
+  "ArtifactID": "jnuit-core",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "BQ0F1kZuh3IgowFwyVZ5rCtPU1g="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "wywUZTbOpMVTEgJ2/IcGZBeNkbU="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "uIf8gaHMgOPLnjvBvuarlhKwOLY="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "zPS/V9MZuzWtGPoC9qLYOwNIUaE="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "qP1JXNP3aeFV/2wE3YI0k8MHBDY="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "fh/38SAGNadlO9dfrQoeQSOWefQ="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "vP/dECHe0oCCVpdcjbP9tATeomE="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "rzLPAzDnMpfhsvzpyrhcmqumNII="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "Nadt/0P3MBwrYCdQKG3wQvq8LeE="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "QALWtL2Q6U8+rBr1okY8Qd/pJV0="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "yCQFQ9YKjMLBoP4HwNrmfo3q9a0="
+    },
+    {
+      "Version": "0.13",
+      "SHA1": "nsbijmrvK1TAchY1gXyqHb1/y7k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

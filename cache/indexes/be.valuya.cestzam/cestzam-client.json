@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.valuya.cestzam",
+  "ArtifactID": "cestzam-client",
+  "Versions": [
+    {
+      "Version": "2021.9.1",
+      "SHA1": "7ys1qKZFwt0SF9745tI7K6IyQ8k="
+    },
+    {
+      "Version": "2022.1.1",
+      "SHA1": "uj6hG5Kedh9Jpyum/G/JEi5fclE="
+    },
+    {
+      "Version": "2023.1.1",
+      "SHA1": "dtJ30QOvMLbKdkDgVKzuZ38R0fE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

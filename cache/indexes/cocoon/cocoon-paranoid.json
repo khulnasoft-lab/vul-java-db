@@ -1,0 +1,31 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-paranoid",
+  "Versions": [
+    {
+      "Version": "2.1.4",
+      "SHA1": "HwjnkRvjC352HyNiJnQ3qjr4HEs="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "FjrMN9q14KXzgfMgFfWW9k3EiW8="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "QYmP10dS1iFvLCWhU8CcLy71IZ4="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "mjOUMOxYp0ZPdNrXvB2JTwUhWZo="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "3Fn3KKNuxf68VS+wzyT2tpDO2EI="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "duqQ3dMHWqDU2y7VaklexcaFMEI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

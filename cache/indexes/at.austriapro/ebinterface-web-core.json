@@ -1,0 +1,19 @@
+{
+  "GroupID": "at.austriapro",
+  "ArtifactID": "ebinterface-web-core",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "zmT9Th6sDCt8diZ/BtEXTCDwZCE="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "u71XzGmuJW64umOVPMzbh0zdLko="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "WN3Ko22eDvmGdSVcHVoAMHyym+c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

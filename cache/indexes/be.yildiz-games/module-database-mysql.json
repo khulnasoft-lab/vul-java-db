@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-database-mysql",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TrKct/ibdxnVSGcs7uct7xkFkcU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "bhkXfQXA4ndgsVnkXJAYWs/ERtM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "vocxOwJC4iEtkM2gKItfqxfWVqc="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "G2r6eFdXjVXoU3j0iiFzk68Az4k="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "FNbqL6v3GyqS30b3QGO8nLZSEHY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

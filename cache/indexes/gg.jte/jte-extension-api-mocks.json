@@ -1,0 +1,27 @@
+{
+  "GroupID": "gg.jte",
+  "ArtifactID": "jte-extension-api-mocks",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "vae/dQS8ISAI1OFlOcl7WwtZPxA="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "+4axg7wpzSXl3Co8OJItE/EhAW0="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "lewRSInvUiCe0nOqlsJCUCXM5Q8="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "OccNiaukrUNrYUQSf227774em6M="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "TAQsjBWNMqCYaaoWw4kINmEeATQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

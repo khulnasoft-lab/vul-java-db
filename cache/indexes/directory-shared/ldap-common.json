@@ -1,0 +1,19 @@
+{
+  "GroupID": "directory-shared",
+  "ArtifactID": "ldap-common",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "ECceJ7NF4gjIe+snD6/pAzLorl8="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "2aJTdmZ8OKbRoo0uLdLz2K3IlAM="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "snGzv4Hslfok6cCkfbuS53yrteY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

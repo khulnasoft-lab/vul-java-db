@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.tfij",
+  "ArtifactID": "result",
+  "Versions": [
+    {
+      "Version": "v1.1.0",
+      "SHA1": "1wYxPpdYpDUVNUKEHmpjPZW/E0M="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "1wcH/qR2elxqPRdaGUHncm5LTT4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.wavesoftware",
+  "ArtifactID": "glassfish-console-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "KymeM6neBiG2NNyZUwHpyTCisQc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "controlhaus",
+  "ArtifactID": "beehive-netui-util",
+  "Versions": [
+    {
+      "Version": "unofficial-1",
+      "SHA1": "xmVZvw7ukRTJy/9+ZRmk6n4s4dQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

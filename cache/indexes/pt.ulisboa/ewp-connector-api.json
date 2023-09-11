@@ -1,0 +1,83 @@
+{
+  "GroupID": "pt.ulisboa",
+  "ArtifactID": "ewp-connector-api",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "88Oco9DLvDp+BvdfJ0R1uzAxSlI="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "hb5UK4hvA/Usv8UtmvPhSDwWVg0="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "6cbyoHWYB6OGth7l1Iw8mS/FaJI="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "mxKCAwOI+0Y0jdaaDQi7R805YTc="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "P8pPZIsGqkVzMWN6SP19WFFZnbE="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "DdRUYozKJdTZsMBkuqUTjlwjI9U="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "3Hj8MJQze+X29Q3TQ65nSgviVNM="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "74rJSeR5d31zbl7rrHx0ZZ5qZOI="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "dTehlkhYNetLpsrFm0TJZZBbkGM="
+    },
+    {
+      "Version": "3.5.0",
+      "SHA1": "nn5XxKBcReDUEfExsWne/BuHvpw="
+    },
+    {
+      "Version": "3.6.0",
+      "SHA1": "KayJvAyY4JKh7JKluGIskP/cSEo="
+    },
+    {
+      "Version": "3.7.0",
+      "SHA1": "SfdQJM+qIAwdKf/Tw61rWIv7f9s="
+    },
+    {
+      "Version": "3.8.0",
+      "SHA1": "V8AXvquN0PcIplLi64ZjTagEoi8="
+    },
+    {
+      "Version": "3.9.0",
+      "SHA1": "ubsd7uzF5AqLJDDmB2z96m66JT4="
+    },
+    {
+      "Version": "3.9.1",
+      "SHA1": "BtdB6sEO20tkagqJU7GLY9tTL3Q="
+    },
+    {
+      "Version": "3.9.2",
+      "SHA1": "BqVRoImi3yW2NTlRpi351o09oYA="
+    },
+    {
+      "Version": "3.10.0",
+      "SHA1": "KV6B/zMa+6z9ClzPjP2PMI99DTE="
+    },
+    {
+      "Version": "3.11.0",
+      "SHA1": "w9Bk2avuj4KXQ9WxhnTtZb++B6A="
+    },
+    {
+      "Version": "3.11.1",
+      "SHA1": "BAVmP+wJhLHhWHfNVd706jFFNxk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

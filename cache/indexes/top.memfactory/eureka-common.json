@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.memfactory",
+  "ArtifactID": "eureka-common",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "dC2E9mJJEApuPiuZ26yTXSMoA8E="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "Isu1sOsmB4JTUlFW9kQzgBLtJX4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

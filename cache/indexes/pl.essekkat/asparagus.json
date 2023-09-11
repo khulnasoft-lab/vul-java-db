@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.essekkat",
+  "ArtifactID": "asparagus",
+  "Versions": [
+    {
+      "Version": "1.2.1",
+      "SHA1": "wvbJ4J6f13T8cG4g862us1PgvTA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

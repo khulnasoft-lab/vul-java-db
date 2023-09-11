@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.erebusit",
+  "ArtifactID": "dyndb-testkit_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "G8/QYCJJicuNPry4cL2N297JQno="
+    }
+  ],
+  "ArchiveType": "jar"
+}

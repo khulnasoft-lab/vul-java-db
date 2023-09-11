@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.hankai",
+  "ArtifactID": "weixin4j-spring",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5UdS9NlLD6V0V6aSR4DQkLpG+m0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

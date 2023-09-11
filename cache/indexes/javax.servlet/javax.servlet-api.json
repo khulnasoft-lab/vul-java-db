@@ -1,0 +1,87 @@
+{
+  "GroupID": "javax.servlet",
+  "ArtifactID": "javax.servlet-api",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "a/Drt+/Zk+Ii/BESN3tekqE7ON0="
+    },
+    {
+      "Version": "3.1-b01",
+      "SHA1": "+IGRAarFtJBGLkP7jCllPSK9vx4="
+    },
+    {
+      "Version": "3.1-b02",
+      "SHA1": "X93DbmvssYaE6N/W6A2hYJdMFbY="
+    },
+    {
+      "Version": "3.1-b03",
+      "SHA1": "DMK+5qbVX5KhEbQPNF9XOwOPM7w="
+    },
+    {
+      "Version": "3.1-b04",
+      "SHA1": "BP0Q46JAoIRf1SpDUzOVU8uwnzk="
+    },
+    {
+      "Version": "3.1-b05",
+      "SHA1": "ZX/SfSyb19OEOgvAS/XQ7sbKUQ4="
+    },
+    {
+      "Version": "3.1-b06",
+      "SHA1": "4Qk0SfMrXE8kqWvhb4rjfFtWzn8="
+    },
+    {
+      "Version": "3.1-b07",
+      "SHA1": "egApoP3vNvqMrKL7DwpbI3f2oNU="
+    },
+    {
+      "Version": "3.1-b08",
+      "SHA1": "q/+nAmxgt1ayWi1vQMYs/F7Tkx4="
+    },
+    {
+      "Version": "3.1-b09",
+      "SHA1": "o+lUoWEDj8TNYceWORulzSMJJao="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "PNY9B1SXdReEsvqEvllDL0kFv3w="
+    },
+    {
+      "Version": "4.0.0-b01",
+      "SHA1": "vTJCMi8zjIpGIZnUnUjIZHeaWY8="
+    },
+    {
+      "Version": "4.0.0-b02",
+      "SHA1": "+Kcxbq39GJZndneUAY+vupJJdh8="
+    },
+    {
+      "Version": "4.0.0-b03",
+      "SHA1": "pcF5iUNRa4kT0WIRTPOk2iRkFSQ="
+    },
+    {
+      "Version": "4.0.0-b04",
+      "SHA1": "AksWccKia/g8fR9h5+ogTz87jgs="
+    },
+    {
+      "Version": "4.0.0-b05",
+      "SHA1": "k53iVQ9Xt8BN5BrZm+ObrsCR0g8="
+    },
+    {
+      "Version": "4.0.0-b06",
+      "SHA1": "ZjudOsIfzta3+HgglxwfhnijLoY="
+    },
+    {
+      "Version": "4.0.0-b07",
+      "SHA1": "7fEfwVXa2uW7/+czozAn7UOdIaQ="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "YCAK/8L+AWUTbtNpD68AtmrtWBo="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "onCCaEov8L85dmbDlDSWxEVB0co="
+    }
+  ],
+  "ArchiveType": "jar"
+}

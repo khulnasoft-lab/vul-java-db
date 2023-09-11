@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.faces",
+  "ArtifactID": "jsf-impl",
+  "Versions": [
+    {
+      "Version": "1.2_09-03",
+      "SHA1": "YZhizZxHOEc631rU76cdI6hTfCo="
+    },
+    {
+      "Version": "1.2_15-03",
+      "SHA1": "u6uBWlKOx/UugaZz+FK6UzupYjo="
+    },
+    {
+      "Version": "1.2_15-04",
+      "SHA1": "IpxqFRR7YDu19Ra9lwmLVrToonY="
+    },
+    {
+      "Version": "1.2_15-05",
+      "SHA1": "Uq2aWeurslSxXWlDIFc1wCe5+ac="
+    },
+    {
+      "Version": "1.2_15-06",
+      "SHA1": "atsBVi7Rit/kE0PL2w1DIe2f5t0="
+    },
+    {
+      "Version": "1.2-20",
+      "SHA1": "GaEZQdmBDOCt/7rkB/APrs1RsrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

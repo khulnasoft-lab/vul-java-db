@@ -1,0 +1,15 @@
+{
+  "GroupID": "avalon-util",
+  "ArtifactID": "avalon-util-i18n",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "AkczkhoopdegF0pXkqrqUbvzlgc="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "swoYFd3O6NzTydn3mBc54Ob7F2M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

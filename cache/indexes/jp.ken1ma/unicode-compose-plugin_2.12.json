@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.ken1ma",
+  "ArtifactID": "unicode-compose-plugin_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "dsAI9EUOi6pkFt1jL4qVg+bflyQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

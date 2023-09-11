@@ -1,0 +1,19 @@
+{
+  "GroupID": "ml.sparkling",
+  "ArtifactID": "sparkling-graph-operators_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "H1r/vQU9MSPvR7ElLHWAjruD0Us="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "ULSroEHb6ElSd3GQX96w4KLQ58c="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "CPvH19V4c5NUTZRp++CYy5popP8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

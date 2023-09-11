@@ -1,0 +1,35 @@
+{
+  "GroupID": "party.iroiro",
+  "ArtifactID": "reactor-locks",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "ARK/5lxY7ft4zlHgaPPYNMzw8Xo="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "RQFsYWfvkuO0m5Q3oPhnbtnFOlA="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "gBoSqTeRW8mGpmX0VJKAUTRVvFo="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "ZsiArFhY0uxGDqR41XEW8U/1HUg="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "1Ch5yhcQGMvFMxj85N1fmYOLD0k="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "g6OmBoYGevBAJlsYb+YaVH8JHsw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "+hwi+arnfNnzOdJCx1PpHe5VK/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.ratamaa",
+  "ArtifactID": "dtoconverter-hibernate",
+  "Versions": [
+    {
+      "Version": "2.0.2-RELEASE",
+      "SHA1": "0uEjYU3HGRirmQrVx+KpxuQ3FG8="
+    },
+    {
+      "Version": "2.0.3-RELEASE",
+      "SHA1": "/6+zl5qY/gkY9LfQSg3M6kDv7rk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

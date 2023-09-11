@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.mixi",
+  "ArtifactID": "AndroidDeviceCompatibility",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Djs+//Kuk3KXBMlY8ITsEfU60x4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

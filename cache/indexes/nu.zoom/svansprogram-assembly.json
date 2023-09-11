@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.zoom",
+  "ArtifactID": "svansprogram-assembly",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "v3jypi8uKXp1ptHOvEV/XwYCsi8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

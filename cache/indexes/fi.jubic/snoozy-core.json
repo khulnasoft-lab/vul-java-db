@@ -1,0 +1,35 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "snoozy-core",
+  "Versions": [
+    {
+      "Version": "0.7.1",
+      "SHA1": "OAxDJ9bTXynRL88Z3Pg5h5rr8kg="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "NmVE5R9ZewVrqyKF4mLvFOgCtps="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "5IwuSK+D4QoLn993R6FHCl84ed0="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "B0WdpX6qsnGlQeSGSQy94BF1r4k="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "qx/KaijOqv2SIZr4pRBzSdaraQE="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "Hy18nPJikb39RKlhu/vfMX6mNnE="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "5iORa5qMex0dfnoKPM6ophoxaaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

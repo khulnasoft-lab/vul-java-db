@@ -1,0 +1,23 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-core",
+  "Versions": [
+    {
+      "Version": "1.2.0-beta-4",
+      "SHA1": "48aeTPFCPujzRQB5pyhD+yAhwkk="
+    },
+    {
+      "Version": "1.2.0-beta-5",
+      "SHA1": "9fadsdM6oJhMLeoQwd7n60fcop8="
+    },
+    {
+      "Version": "1.2.0-beta-2",
+      "SHA1": "RZyx/KpDW29CO6V5Ft4GAiwJJPM="
+    },
+    {
+      "Version": "1.2.0-beta-3",
+      "SHA1": "Fi+amrCAgInAV3n9GDoBnTLAqhk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

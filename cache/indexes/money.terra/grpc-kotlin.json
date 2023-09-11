@@ -1,0 +1,27 @@
+{
+  "GroupID": "money.terra",
+  "ArtifactID": "grpc-kotlin",
+  "Versions": [
+    {
+      "Version": "0.5.5",
+      "SHA1": "czD7TcP620AGGur15v4kvPqyESg="
+    },
+    {
+      "Version": "0.5.16",
+      "SHA1": "5crR965oPBvpHSGtgKKMHqOeAHI="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "op1JZ5oG5kW1iJozR9q5aCc5AtM="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "pZxADKfSFSkPJxa8cxWZ1A9n49E="
+    },
+    {
+      "Version": "2.0.1-beta1",
+      "SHA1": "WvxtESTYzESzIc9RnbrQWubCh1U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.mantik",
+  "ArtifactID": "engine-app_2.13",
+  "Versions": [
+    {
+      "Version": "0.4.0-rc1",
+      "SHA1": "Do60YVt8GlOGv5Juc687Uu+gTNo="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "+aeYkjpLkRBqPkp9pQ2KyDqYM9A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

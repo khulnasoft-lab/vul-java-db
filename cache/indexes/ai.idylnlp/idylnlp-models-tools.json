@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-models-tools",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yCWpvWJtULUSi8NuqZuR9hQi67Y="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "oT/7dQg8TizWEurreoHKIkKKj5U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

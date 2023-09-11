@@ -1,0 +1,11 @@
+{
+  "GroupID": "jparsec",
+  "ArtifactID": "groovyparse",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "3L81QT+VtaV0fB5GIvibGyso0Yo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

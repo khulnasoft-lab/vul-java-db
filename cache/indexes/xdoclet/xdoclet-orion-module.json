@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-orion-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "4OdoMvu/QMbRXsQ5HxGnmhwC9WA="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "DwBhzLvxU0FS6ezF4CihmbiBvg0="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "vvW+byAoRJCpGfmOgMTGO+DrW5s="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "H6r9EBbK0AgEjv84Fzf0vAupZvI="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "Qn+ooyRPnC6L+T6A/Rxh6qsM6V0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

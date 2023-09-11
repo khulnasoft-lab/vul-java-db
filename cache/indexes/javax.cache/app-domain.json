@@ -1,0 +1,59 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "app-domain",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "EtFgFGoGn859pHBToQ1RG8supfc="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "305Pn4gq/Ga/hjoHTXfqajOyJgc="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "UrTLg6MagC9nnk1f/tbhqp5RH6o="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "Ffi1+FErfjENjAKngNbU7K1GPFg="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "U59fn+1IDWP2z2inb4Gs6Goxe3k="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "72h7GP+Uj8GX0AVikWpu8dMss/I="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "n94b/m3u82D+bnCW9V9AhOqfvB0="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "QESFYcp9l772TWjYgviRBkXJU1c="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "d4ZkaWG5KRG9ftMHLOveXzLl8Vs="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "nIdJSxlZJFBXqSBcImgLMXp/vFA="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "03m1anHDaI94r1jrmA366ftgSZI="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "oTEsQhWp2kJoGb9Zlm6C/nmUdQE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "GFpY4FISCKbPAot6e8vemBB/Yps="
+    }
+  ],
+  "ArchiveType": "jar"
+}

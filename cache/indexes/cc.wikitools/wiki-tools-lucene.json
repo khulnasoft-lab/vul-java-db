@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.wikitools",
+  "ArtifactID": "wiki-tools-lucene",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "J1G+es1GgUqBeX4vDMhP4WOOFYU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

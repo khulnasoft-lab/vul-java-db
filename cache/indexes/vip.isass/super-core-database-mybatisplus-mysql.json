@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "super-core-database-mybatisplus-mysql",
+  "Versions": [
+    {
+      "Version": "super.3.0.3",
+      "SHA1": "7wnvzNnK6WGNT8PCTQAk5hm8xsE="
+    },
+    {
+      "Version": "super.3.0.3-release",
+      "SHA1": "DDZsYYHD/K0TYUHbdjS24g1Q8qA="
+    },
+    {
+      "Version": "super.3.0.4-release",
+      "SHA1": "gy2EhmzkExaMiKSynnmKmMQifKo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

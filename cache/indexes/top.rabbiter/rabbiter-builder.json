@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.rabbiter",
+  "ArtifactID": "rabbiter-builder",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "VvN8y7uiuDLDIolY4iXWw4GdVuE="
+    },
+    {
+      "Version": "2.0.0.RELEASE",
+      "SHA1": "bcD+HaAKrMzP+HrNHQCwQGmj+9A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,83 @@
+{
+  "GroupID": "tapestry",
+  "ArtifactID": "tapestry-annotations",
+  "Versions": [
+    {
+      "Version": "4.0-beta-1",
+      "SHA1": "6RTp43t8HRfrJpjQCWnmWbhRHas="
+    },
+    {
+      "Version": "4.0-beta-2",
+      "SHA1": "6q98v5EDyKBFgdOcHgLE8VaDD6A="
+    },
+    {
+      "Version": "4.0-beta-3",
+      "SHA1": "ulW87Jsv2HEliyKABIxtRJB48po="
+    },
+    {
+      "Version": "4.0-beta-4",
+      "SHA1": "vVGFHpHt6b1KQXPk0Nx80d8uA74="
+    },
+    {
+      "Version": "4.0-beta-5",
+      "SHA1": "H+EVTF8CFXgTTH4KOvMDYT5JB+Q="
+    },
+    {
+      "Version": "4.0-beta-6",
+      "SHA1": "d/eJ0gOVnULboDCeeGerTfBfFuo="
+    },
+    {
+      "Version": "4.0-beta-7",
+      "SHA1": "mLqVgfXvZ6jm7lRuV/MwTkCaWbQ="
+    },
+    {
+      "Version": "4.0-beta-8",
+      "SHA1": "OBcQ1c2UYoMU7xcbEEJzFLiEt6c="
+    },
+    {
+      "Version": "4.0-beta-9",
+      "SHA1": "MibGUz5NXF1g4qCpO8vc2lwGOnw="
+    },
+    {
+      "Version": "4.0-beta-10",
+      "SHA1": "qcdQwv1K/WZ1STZafuVYe4tKTPo="
+    },
+    {
+      "Version": "4.0-beta-11",
+      "SHA1": "UOUxsp9kFB/Y+BEc2sQ3hI4D2bE="
+    },
+    {
+      "Version": "4.0-beta-12",
+      "SHA1": "l5GZ4oC/58gLF/ndDRQe07ynst8="
+    },
+    {
+      "Version": "4.0-beta-13",
+      "SHA1": "McAVUjhPyGfeNe9KHT6OQZsQnZk="
+    },
+    {
+      "Version": "4.0-rc-1",
+      "SHA1": "mPN9LklkDVa9FZa6tLQIorSONBc="
+    },
+    {
+      "Version": "4.0-rc-2",
+      "SHA1": "pUXq2OpWwZ/teuwLTxGuqowNSAE="
+    },
+    {
+      "Version": "4.0-rc-3",
+      "SHA1": "7O4kaKmTQtVXGh7OEntXXh+r8KY="
+    },
+    {
+      "Version": "4.0",
+      "SHA1": "iZt7WFVSEfJFa0weFnjoIZ/E8YY="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "JPKqhT9GpeXLscGdSHojl4ioTLc="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "f/DhYsMuUKBgCtmUAnDFST69KW0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

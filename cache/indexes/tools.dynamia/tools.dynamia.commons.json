@@ -1,0 +1,95 @@
+{
+  "GroupID": "tools.dynamia",
+  "ArtifactID": "tools.dynamia.commons",
+  "Versions": [
+    {
+      "Version": "3.6.0.Final",
+      "SHA1": "woU200LnDgSSTlKknz5aR2Y6UMc="
+    },
+    {
+      "Version": "3.6.1.Final",
+      "SHA1": "6Mj7KgfvtQfseQ+BkYZkQDdieq4="
+    },
+    {
+      "Version": "4.0.0.RC",
+      "SHA1": "/2xFhYOW/ZJmWfV/b2M8evJmOaE="
+    },
+    {
+      "Version": "4.0.0.Final",
+      "SHA1": "KYapiHQcGJuGXgcfvwo02g6D42k="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "YMyZOGAYzIeiqbVFvFmg+XICyII="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "4xgOfa0VyAhilYHq2anYBsmQxcM="
+    },
+    {
+      "Version": "4.0.3",
+      "SHA1": "Dg955XV2RIKg/vKWWFh4XSeWrTQ="
+    },
+    {
+      "Version": "4.0.4",
+      "SHA1": "TipV95QRjne4lrO7ZnhmGyVjt3Q="
+    },
+    {
+      "Version": "4.0.5",
+      "SHA1": "0srMl9f0fPpWucKojIQREA5F5aE="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "mS3tRbMQwnuvTbUaXRnSlwbG2xg="
+    },
+    {
+      "Version": "4.0.7",
+      "SHA1": "5uJLnBVlQyDaduJrX0TtZclpQ6A="
+    },
+    {
+      "Version": "4.0.8",
+      "SHA1": "+WJfsYPkwxxbwYONvA4fZK0mVn0="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "ixmpad9bxKtgLTxXopG6KKSvImw="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "ilx6BP5RL2OFmzGVMxhO4/SKUFA="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "byofHmkt1BzCOBGugz41AT/Ybkg="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "j4fgPrlCTyMhOQWmkI0MBWosQ5c="
+    },
+    {
+      "Version": "5.0.2",
+      "SHA1": "3/IiP6Ou4CyjkJrgQPm8Q/6bt4s="
+    },
+    {
+      "Version": "5.0.3",
+      "SHA1": "TGoLEKA2rseXdEP/tiDnOe0SmDM="
+    },
+    {
+      "Version": "5.0.4",
+      "SHA1": "yfzJjyvCLmVGaCOniCwRHa/HXGc="
+    },
+    {
+      "Version": "5.0.5",
+      "SHA1": "5B4JUd/XgK46GVDgNuITiuOEPoY="
+    },
+    {
+      "Version": "5.0.6",
+      "SHA1": "IVQ9J8DOQIchdmK0J1MPpV4tZ5g="
+    },
+    {
+      "Version": "5.0.7",
+      "SHA1": "/pizByrfHUAKcoXU9zTLetVefNQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

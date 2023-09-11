@@ -1,0 +1,15 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-concurrent-ce2_2.13",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "klfZ5hVhPx06fHJ7eJ6t+z9UGks="
+    },
+    {
+      "Version": "0.12.0.1",
+      "SHA1": "/h0/JSFnVHuQxYR69fA45Ju/XQI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

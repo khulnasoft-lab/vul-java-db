@@ -1,0 +1,27 @@
+{
+  "GroupID": "biz.neustar",
+  "ArtifactID": "loggly",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "VXXhOnSt3UXHD6Y0mndVof0swdY="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "EFkCHSwKhCC6Iq5oPjHbpVW4qrY="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "MUyjqdsTmDiBusL0UZfXdqxKcAM="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "waJjVM1YfzjCe6F3Hb0xzIMABJM="
+    },
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "1a1fU7Hqx0rKHxB+16ACjeakdIM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

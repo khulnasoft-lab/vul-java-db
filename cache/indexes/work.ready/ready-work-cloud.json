@@ -1,0 +1,11 @@
+{
+  "GroupID": "work.ready",
+  "ArtifactID": "ready-work-cloud",
+  "Versions": [
+    {
+      "Version": "0.6.6.rc6",
+      "SHA1": "q3UgxETSnCJwmTVEmOaZA4XvXf8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

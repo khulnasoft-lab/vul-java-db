@@ -1,0 +1,19 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-tags-jelly-core",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "08l79johXBoUk7r1+Cpy9Y0Fv6s="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "160NQ5BlQl0BXf4p9/MLIMLbEiw="
+    },
+    {
+      "Version": "1.0-alpha2",
+      "SHA1": "PgzR5NKS5tVftLZCL8HA5t5DUE0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

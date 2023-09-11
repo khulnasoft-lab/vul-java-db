@@ -1,0 +1,83 @@
+{
+  "GroupID": "be.zvz",
+  "ArtifactID": "KotlinInside",
+  "Versions": [
+    {
+      "Version": "1.9.1",
+      "SHA1": "N6Y+9RiDH2XT1TyWpLGLUwjDV2E="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "JHcXLgC6D1whQA6mqD7vuhqYsOQ="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "SB2TcqdgTs9ToISS3ZPJRwoXUAk="
+    },
+    {
+      "Version": "1.10.1",
+      "SHA1": "tuykymmep0Wwzjo/0VwDjSSSlS4="
+    },
+    {
+      "Version": "1.10.2",
+      "SHA1": "L3F5kpeT1/H0vVkpK2yRKB+EW8o="
+    },
+    {
+      "Version": "1.11.0",
+      "SHA1": "Wi/DWS1p60AkmSwkMEQy+zf7w5k="
+    },
+    {
+      "Version": "1.11.1",
+      "SHA1": "qVG+dHobWTR+HZo4WBWl0fc9FE0="
+    },
+    {
+      "Version": "1.11.2",
+      "SHA1": "epM5vtnmlQNIv3FGNuXrnb0b824="
+    },
+    {
+      "Version": "1.12.0",
+      "SHA1": "XMLydlCsvG+357owoUix2NAS6h0="
+    },
+    {
+      "Version": "1.13.0",
+      "SHA1": "iGZZo4mMZ1+c58iRafoR9ETzhuM="
+    },
+    {
+      "Version": "1.13.1",
+      "SHA1": "8jBy99yXGnsGN40qgv1DyU05RXk="
+    },
+    {
+      "Version": "1.14.0",
+      "SHA1": "H4Aj5wTW8KrgJwcnc1mgGc6GjG8="
+    },
+    {
+      "Version": "1.14.1",
+      "SHA1": "/XQV8w2dB6rWI02j58QQVSqrzao="
+    },
+    {
+      "Version": "1.14.2",
+      "SHA1": "kbBDR+iaht8MmnAwGvdSCp7oGXk="
+    },
+    {
+      "Version": "1.14.3",
+      "SHA1": "XNxean5lg9PIDMKmHdBzuY3nmFQ="
+    },
+    {
+      "Version": "1.14.4",
+      "SHA1": "kwQm3pnb137m72CHrBRw09ABuEc="
+    },
+    {
+      "Version": "1.14.5",
+      "SHA1": "jFtFQaDTJZHK7C0NV8GSAWSlZO4="
+    },
+    {
+      "Version": "1.14.6",
+      "SHA1": "pPGfTyWs7wvC3QV+p4H4ojhQtvI="
+    },
+    {
+      "Version": "1.15.0",
+      "SHA1": "+Qv1TKGzQpfEcvV03QNwFqSstVg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

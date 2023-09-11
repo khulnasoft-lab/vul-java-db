@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.iothub",
+  "ArtifactID": "gateway",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "Z4Hk5N6oPxEiJKiVh5iyAuvoqBc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

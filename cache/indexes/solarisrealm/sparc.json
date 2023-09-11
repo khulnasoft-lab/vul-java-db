@@ -1,0 +1,11 @@
+{
+  "GroupID": "solarisrealm",
+  "ArtifactID": "sparc",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "o5Bq9lawinsJ/t2RQRfJ4s69jos="
+    }
+  ],
+  "ArchiveType": "jar"
+}

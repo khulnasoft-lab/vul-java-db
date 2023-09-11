@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-ftpserver",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "0iOVSzNBsiIIK+0buvXNGyTarEo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

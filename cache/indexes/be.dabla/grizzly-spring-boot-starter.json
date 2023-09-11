@@ -1,0 +1,51 @@
+{
+  "GroupID": "be.dabla",
+  "ArtifactID": "grizzly-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "F48XPlETnWuLXY2DWQhslndAMj0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "5eNbGDor/bzOxEGNKX7zxH/QLzA="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "+DjWiX7BUBeDJX+MQ2+1hqEh960="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "qv4azV/QG+cGtmV5FBNOswccJ30="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "M8U415fP/Pi9JpKcCZBmVwBEyTI="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "hTbhSF3lgg4Vd/IywAILqKKYjNE="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "0WcdoVagZoEbIAnfbBfq5aP4zU8="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "zE0e37Gn1ZuM3Zewn6ZKMqbMahE="
+    },
+    {
+      "Version": "2.5",
+      "SHA1": "e+48C0ydTGBA3zQYgLUbcz92BA4="
+    },
+    {
+      "Version": "2.6",
+      "SHA1": "J4M3gVcae5siyuh04x6ipEjSLks="
+    },
+    {
+      "Version": "2.7",
+      "SHA1": "ioFaIqDImq1uYgXyc3MuBkxbPHk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "nu.validator",
+  "ArtifactID": "cssvalidator",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rxx2depMw/USLNm0hwt2jJN+GUY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "nlAtmoenNxNjQIWrH7dobt7grv4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "COnLtz01WWiQKWbbtBMIR6JgzzA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "6eS8wGGmfZAxnG+H5TMwjd5IKIA="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "lQwJKvVEVzvRLrwL0q+P8Pxfdeo="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "V+TSopkZ7uyNxg3WcUuBfQg0URE="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "aCK8WfN1VCkIrs1inTdLvGBI9O0="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "Mg45JpeQ6pmljlYzfxKRxsgNy7g="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "qNHSfVhAP2YzieQUIGDUduupGA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

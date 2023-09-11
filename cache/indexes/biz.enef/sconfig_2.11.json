@@ -1,0 +1,11 @@
+{
+  "GroupID": "biz.enef",
+  "ArtifactID": "sconfig_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "4E9xl2neyKkJEjHGkiDkZUubPA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.pelam",
+  "ArtifactID": "pelam-scala-csv_2.11",
+  "Versions": [
+    {
+      "Version": "1.3.0",
+      "SHA1": "if3E9BbXOlr0/3p0EqS2V6yNolo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "nanning",
+  "ArtifactID": "nanning",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "YXFdgdl0v1ZyK5mSoB/ONgXUVXY="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "dhEhxt6fHQlDHAym5jJN/ELg6I8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

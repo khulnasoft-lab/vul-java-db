@@ -1,0 +1,47 @@
+{
+  "GroupID": "cz.augi",
+  "ArtifactID": "gradle-wartremover",
+  "Versions": [
+    {
+      "Version": "0.13.4",
+      "SHA1": "UPUEpwQnme0iVgBLTSXYmSVjqQk="
+    },
+    {
+      "Version": "0.14.0",
+      "SHA1": "OnYmedm4xVnJFL8uw4RTpR4MDMY="
+    },
+    {
+      "Version": "0.14.1",
+      "SHA1": "pf1j8yJay+g9oUXZQHfqcajfNPY="
+    },
+    {
+      "Version": "0.14.2",
+      "SHA1": "YYOQhur7UwZ9ppxc9e2WU63zjpo="
+    },
+    {
+      "Version": "0.15.0",
+      "SHA1": "X4FHBrqz44EtGORJFFDqg9Lf11E="
+    },
+    {
+      "Version": "0.15.1",
+      "SHA1": "+kH25BcpoOwc/EMdAsZi8WW6KTo="
+    },
+    {
+      "Version": "0.16.0",
+      "SHA1": "Y7szX4UDh+183WG6+eqfalla47o="
+    },
+    {
+      "Version": "0.16.1",
+      "SHA1": "GJOpVNOylTAIscIpr92WwL0ErZc="
+    },
+    {
+      "Version": "0.16.2",
+      "SHA1": "2gUB36hQciWGgsBunK7hPlLd69c="
+    },
+    {
+      "Version": "0.16.3",
+      "SHA1": "eU06Bpm6x94iJQbZuqcFYt6hqsY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

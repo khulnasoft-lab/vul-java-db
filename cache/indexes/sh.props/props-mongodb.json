@@ -1,0 +1,11 @@
+{
+  "GroupID": "sh.props",
+  "ArtifactID": "props-mongodb",
+  "Versions": [
+    {
+      "Version": "0.2.1",
+      "SHA1": "BIt0nGE85A3k8peJFLpcPpyfsLE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

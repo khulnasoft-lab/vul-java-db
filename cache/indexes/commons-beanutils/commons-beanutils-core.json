@@ -1,0 +1,27 @@
+{
+  "GroupID": "commons-beanutils",
+  "ArtifactID": "commons-beanutils-core",
+  "Versions": [
+    {
+      "Version": "1.7.0",
+      "SHA1": "UvdwHh6f0dK5M3lQPAvIOdLK9o0="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "F13HIfh+S8XMBXP5kOKMPPkRdQg="
+    },
+    {
+      "Version": "1.8.1",
+      "SHA1": "WhU3m1/axvPd4SVb5yadhkrDfY0="
+    },
+    {
+      "Version": "1.8.2",
+      "SHA1": "PeqJF2LpQL5/wOXFU23VW36sqrg="
+    },
+    {
+      "Version": "1.8.3",
+      "SHA1": "dYEmmOXoWfLLWHxiLEzfzWFnZCY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

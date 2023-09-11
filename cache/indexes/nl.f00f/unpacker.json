@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.f00f",
+  "ArtifactID": "unpacker",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lOjHCy8psT3zDNfvdPfTJvvyTv8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

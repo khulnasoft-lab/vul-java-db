@@ -1,0 +1,11 @@
+{
+  "GroupID": "wsrf",
+  "ArtifactID": "j2ee-xbeans-src",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "9QsNZ2LabIgzG4wu/dYR5urpkIg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

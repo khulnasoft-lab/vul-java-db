@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jpl-util",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "Dq48uXEsaT4wLoiV186NoiE029Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "commons-jexl",
+  "ArtifactID": "commons-jexl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "sjS9NPZexhzr/FQzprlFd+MiSAM="
+    },
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "los6HsG+PQ1VN5cysBy940PsEd8="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "ZDtgUkndrALlb//GAGS160NoT+Q="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "hiMht7jaCXw5qrs/W6rG4sjriRw="
+    },
+    {
+      "Version": "20030307.151331",
+      "SHA1": "E1MyWzHOZArfzjI33ZiEn2T3nmk="
+    },
+    {
+      "Version": "20040821.000101",
+      "SHA1": "tcr2lvGK/+KaTRWaix1Fp6CRzW0="
+    },
+    {
+      "Version": "20040901.055348",
+      "SHA1": "E1MyWzHOZArfzjI33ZiEn2T3nmk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ee.omnifish",
+  "ArtifactID": "transact-cdi-beans",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "tBPYkMMrWAW4gf/zzh0fw5uV3as="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "2IvtEfqGmv9zaFhxFvnNQsNWedA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

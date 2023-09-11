@@ -1,0 +1,79 @@
+{
+  "GroupID": "pro.panopticon",
+  "ArtifactID": "panopticon-client",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "ejwhUyFVr7Uly3hqJ3CPHYtjN0Q="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "HgH2wQGdHkFvKh1fay/FHZLRPaA="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "uegJxyAB3PuTv1h5f4wf7KP31qM="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "1JkS1BE5kMPC3TrVnOFk70nwiTo="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "U3mzzOfCDxIZs5PO5nwpqvknZCM="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "Z/FgyGxCI4yh1FikEK8Bn4c2eAY="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "zxX9r6JmnGjLQEKf4A+Q83m+PD4="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "ztNP304Tt3yK7tJG0EoXetU9FSw="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "CArZooezoZ3XSorQokhgC+hWuz0="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "Rc3pNFvefoqgCQUipdVIEobyXxU="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "8+PTgid5qA/tAoQvY+zzgXrV784="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "rOTZJpN+M7/WvjbzL491Hi2p36Q="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "TNCeLKE4KjS2eXujelYeR2TOnBs="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "43HmarHaRootwwAo07qhspUdrsc="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "LCFAvRr3rE4B1vNw+36jmg1tvFU="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "i6z+B0SdAEngVhRErqJLTKfbfAs="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "V4by5xJ+KWsoc1gvs3juvFtyBlc="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "+DAWOUbLywbDRKFBrP7xDml/f5w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

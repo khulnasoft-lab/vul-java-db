@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.flowarg",
+  "ArtifactID": "flowupdater-curseforgeplugin",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "Wrw6m1qR5NIE8myBYkmxXATGBE0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

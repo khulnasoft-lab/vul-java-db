@@ -1,0 +1,19 @@
+{
+  "GroupID": "store.taotao.docbook",
+  "ArtifactID": "taotao-docbook-xsl",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "Y2mowSvJS+I5v2O2K+/9ggN6PNo="
+    },
+    {
+      "Version": "1.0.1-RELEASE",
+      "SHA1": "YStXzhzHzddTbQ0zKS55/PL2AJM="
+    },
+    {
+      "Version": "1.0.2-RELEASE",
+      "SHA1": "Agj6tHeU0+vzMCQmp3XzmudKurA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

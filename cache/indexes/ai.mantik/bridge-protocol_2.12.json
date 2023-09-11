@@ -1,0 +1,47 @@
+{
+  "GroupID": "ai.mantik",
+  "ArtifactID": "bridge-protocol_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0-rc3",
+      "SHA1": "IXlZdkv8PtNTGcXNDXDb6OFK/F0="
+    },
+    {
+      "Version": "0.3.0-rc4",
+      "SHA1": "RL658Ae+DZgmed8Qee64kLV4PVA="
+    },
+    {
+      "Version": "0.3.0-rc5",
+      "SHA1": "EhrPpyW+kctE0ZCTWaH4hinkxfA="
+    },
+    {
+      "Version": "0.3.0-rc6",
+      "SHA1": "7e/kCLco+RHy75AVlcIXKHStK8c="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "hOBQctNj/Qxqk5hL4e5aun5p5lE="
+    },
+    {
+      "Version": "0.3.0-sonatype1",
+      "SHA1": "N/KjQGB/8qZmFdYtwQ/2nYTD7Tw="
+    },
+    {
+      "Version": "0.3.0-sonatype2",
+      "SHA1": "GIPObKTKwVj4R0rd3UaShzAx6ds="
+    },
+    {
+      "Version": "0.3.0-test10",
+      "SHA1": "M36XOmhBFuHVhH8fxQMZXcdOpSA="
+    },
+    {
+      "Version": "0.3.1-rc1",
+      "SHA1": "eFCnEjfUgK5y0YHa0Rr/aURfSVY="
+    },
+    {
+      "Version": "0.3.1-rc2",
+      "SHA1": "+dkrA6uRoQ5e5H8+saA4p1WvHgc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

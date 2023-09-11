@@ -1,0 +1,23 @@
+{
+  "GroupID": "fr.exanpe",
+  "ArtifactID": "exanpe-t5-lib",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "+GHkPjHcaevCQ37ChrWA5niGQ+M="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "3Phc4qgphtP5AkI77hfpGyA1yps="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "Jztr5ot30kuvld1MLA3lcUdW908="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "3YYFPJSvEhFp0BowheDVKVawrvk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-summit",
+  "Versions": [
+    {
+      "Version": "1.0-beta-6",
+      "SHA1": "mtW4p98kS4vwq7yhUQEa5y/1dl4="
+    },
+    {
+      "Version": "1.0-beta-7",
+      "SHA1": "/P+ssYfENieHysCCgIqPi1B7W4c="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "KGZZ+VqaQMuvb6ZW6OEDEhc0OMI="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "ji+UBVaJHnlAjj2A9ovutf93bf0="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "avZi4W/JSF0cBuuqG9mfdf4AxyY="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "0OaIRoKctKICXp7xXn99Y2A40hM="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "u6Srx+3q6HiZTYzleRTU6a9n+FQ="
+    },
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "A8OrDsn1pnIAd9qntGttqZpolpY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

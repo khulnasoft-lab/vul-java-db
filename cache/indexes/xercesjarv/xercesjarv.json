@@ -1,0 +1,11 @@
+{
+  "GroupID": "xercesjarv",
+  "ArtifactID": "xercesjarv",
+  "Versions": [
+    {
+      "Version": "20020712",
+      "SHA1": "Ea1nqQ+mMc9E+arvOQ+tF0Oy7uQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

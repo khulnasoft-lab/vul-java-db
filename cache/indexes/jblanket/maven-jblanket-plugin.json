@@ -1,0 +1,11 @@
+{
+  "GroupID": "jblanket",
+  "ArtifactID": "maven-jblanket-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0503",
+      "SHA1": "GLjedofUf87D5nAIZyedE6eeSNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmlrpc",
+  "ArtifactID": "xmlrpc-client",
+  "Versions": [
+    {
+      "Version": "3.0b1",
+      "SHA1": "gGqB7Zx1xmPNr78OtZamrNagIeY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

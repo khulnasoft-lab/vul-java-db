@@ -1,0 +1,11 @@
+{
+  "GroupID": "info.jitcom",
+  "ArtifactID": "JBridge",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "RBDXm5fLoGqJt8k7tDTBiJDgv60="
+    }
+  ],
+  "ArchiveType": "jar"
+}

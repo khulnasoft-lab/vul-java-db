@@ -1,0 +1,11 @@
+{
+  "GroupID": "love.forte.nacos4k",
+  "ArtifactID": "nacos4k-server",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "x2enMWfH3gB2TmZSYEpUnQQR/HU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

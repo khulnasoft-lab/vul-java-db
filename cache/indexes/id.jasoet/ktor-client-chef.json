@@ -1,0 +1,11 @@
+{
+  "GroupID": "id.jasoet",
+  "ArtifactID": "ktor-client-chef",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "oeCVNasJdMA+brnEwaIf4ZSLdeY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

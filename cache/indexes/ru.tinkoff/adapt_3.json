@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.tinkoff",
+  "ArtifactID": "adapt_3",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "iF8kLHWx96gIkealiPX4ogjRSIg="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "Zu4M+jfZ1KRk7+aOnLBYOfNa7xU="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "zhzQuY3ocxZ6Ote/+hfoeuUJKNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

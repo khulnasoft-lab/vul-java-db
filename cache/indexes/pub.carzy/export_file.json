@@ -1,0 +1,15 @@
+{
+  "GroupID": "pub.carzy",
+  "ArtifactID": "export_file",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "EcCE+PE+3nUSA/AobrleNx4A3fA="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "tmDKLdRFd53+88b32ithOJ4mUEE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

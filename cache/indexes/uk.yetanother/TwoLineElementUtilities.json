@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.yetanother",
+  "ArtifactID": "TwoLineElementUtilities",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "vVQXvOAi3S1YPb3Vm3BYEMfIG0g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

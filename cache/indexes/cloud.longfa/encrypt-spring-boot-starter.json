@@ -1,0 +1,27 @@
+{
+  "GroupID": "cloud.longfa",
+  "ArtifactID": "encrypt-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1-alphal",
+      "SHA1": "tQqMS7PKsm3UO7zLm2MiW8mIrnU="
+    },
+    {
+      "Version": "1.0.2-RELEASE",
+      "SHA1": "JNXk4E9Y9wucflrhHpzfJkTAkA4="
+    },
+    {
+      "Version": "1.0.3-RELEASE",
+      "SHA1": "YnIaOLM0mqRqI/ylXXulPYcwWeE="
+    },
+    {
+      "Version": "1.0.5-RELEASE",
+      "SHA1": "SIWVeuzaiWCICeR0AWMXr2gdKsE="
+    },
+    {
+      "Version": "1.0.6-RELEASE",
+      "SHA1": "tAbOj0DLBupkRzQkPO0CIV1iLCI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

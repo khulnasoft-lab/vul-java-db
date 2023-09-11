@@ -1,0 +1,11 @@
+{
+  "GroupID": "works.scala",
+  "ArtifactID": "macro-helpers_3",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "5hTT3bcK0AaLRU0S/7cL8Rsu2y0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

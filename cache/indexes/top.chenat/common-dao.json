@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.chenat",
+  "ArtifactID": "common-dao",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "ikDGdYxCK30L2i3H4ISW6SCH6uo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

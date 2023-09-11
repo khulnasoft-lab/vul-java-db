@@ -1,0 +1,27 @@
+{
+  "GroupID": "fop",
+  "ArtifactID": "fop",
+  "Versions": [
+    {
+      "Version": "0.20.3",
+      "SHA1": "LyVzbwW6Yd3g3+MncvgJsacdkC4="
+    },
+    {
+      "Version": "0.20.4",
+      "SHA1": "eukUt/fGqX8/RbjvgEAYPV7S94Q="
+    },
+    {
+      "Version": "0.20.5",
+      "SHA1": "/6nY64SJd0aqGW0/MzbQNN2yb1k="
+    },
+    {
+      "Version": "0.20.5-rc3-alpha",
+      "SHA1": "yJ2WqeqSxOXllGB2ufYXMQTdH9c="
+    },
+    {
+      "Version": "0.20.5rc2",
+      "SHA1": "wdHZ8YEaDubIMEnbL3Ev0PoQXnM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

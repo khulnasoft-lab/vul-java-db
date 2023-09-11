@@ -1,0 +1,11 @@
+{
+  "GroupID": "xxl",
+  "ArtifactID": "xxl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Ak00U4o1IyP5QoRDTSgzJxbzETE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

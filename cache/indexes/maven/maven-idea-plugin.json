@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-idea-plugin",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "y9VQrEL1Qe7PQkKsvPsZ6Gm/b5A="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "sG3ua+OJFXmTFkmDojV7oGE9WME="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "XyqIF01EXY6u/WDvmAPQLrfT6TE="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "x2/nCIGqYgky22J8kvjvnXBXaDQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

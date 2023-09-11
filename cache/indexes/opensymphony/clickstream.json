@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "clickstream",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "+kMtSlD5CVpzLGmEVToz42Yf7bE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

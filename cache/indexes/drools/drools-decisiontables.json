@@ -1,0 +1,15 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-decisiontables",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "TIqoHxm7oFuo5afuh2lvVGH98rE="
+    },
+    {
+      "Version": "2.5-beta-1",
+      "SHA1": "W4DZxThSOUfyvQW4JoqD6il8flQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.kaja",
+  "ArtifactID": "pegdown-rst-serializer",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "MEvWvnCdT0d1q+bmQHTPWfqQ+D8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "kWu6vKiCkH53AaEAQBOSvkxBJHQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "wZLFwD7x8YPDR2OxhDJYV1mj4Is="
+    }
+  ],
+  "ArchiveType": "jar"
+}

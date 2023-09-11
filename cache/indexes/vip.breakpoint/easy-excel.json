@@ -1,0 +1,31 @@
+{
+  "GroupID": "vip.breakpoint",
+  "ArtifactID": "easy-excel",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "80eLqOIFy5pVVgIyc0Ai7HoLSNc="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "yzedEoH00zh7qSUP0nNLX+5vSR8="
+    },
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "gUHnAlNhHhvSQsTjD43fs9MZS50="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "AGXrqdyIwwBebYtPOCHYWkZ50+g="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "+JPW/bnOCdh3v6mMpFnh6OtoQWQ="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "M52OqAGR7MRsQf91CYroqG8Cec8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

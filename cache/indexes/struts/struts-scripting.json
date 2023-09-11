@@ -1,0 +1,11 @@
+{
+  "GroupID": "struts",
+  "ArtifactID": "struts-scripting",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "YKljSCxtXSS3B3VMHUOGymsEtgs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

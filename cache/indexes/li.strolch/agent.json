@@ -1,0 +1,11 @@
+{
+  "GroupID": "li.strolch",
+  "ArtifactID": "agent",
+  "Versions": [
+    {
+      "Version": "2.0.9",
+      "SHA1": "w806TiKvvxlTO4rNmFZnW44UEL4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

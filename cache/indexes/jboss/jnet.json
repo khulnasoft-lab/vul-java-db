@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jnet",
+  "Versions": [
+    {
+      "Version": "3.2.1",
+      "SHA1": "3FqDFwxJSb3FtORktkBqdfxyrGU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

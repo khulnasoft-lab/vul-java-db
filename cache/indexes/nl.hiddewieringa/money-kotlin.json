@@ -1,0 +1,23 @@
+{
+  "GroupID": "nl.hiddewieringa",
+  "ArtifactID": "money-kotlin",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "Piua5jovuysBHV0wS0dej660QF8="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "73LntOcWkyShDl1XD1f9UKFN16I="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "nXdTbt0bpfnt66mAouwcniEB+Vw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "dH0SWP+44HEtl9TuPb29Q7kWXTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur",
+  "ArtifactID": "excalibur-configuration",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "3C2YB3QWKLBl9UnRUEiw2w8tOVs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

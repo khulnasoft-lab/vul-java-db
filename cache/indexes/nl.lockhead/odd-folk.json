@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.lockhead",
+  "ArtifactID": "odd-folk",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "SXhsQePkX+nPWRLUeIK0t+aDomg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

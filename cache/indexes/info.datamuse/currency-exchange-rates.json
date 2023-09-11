@@ -1,0 +1,19 @@
+{
+  "GroupID": "info.datamuse",
+  "ArtifactID": "currency-exchange-rates",
+  "Versions": [
+    {
+      "Version": "0.1-alpha",
+      "SHA1": "UzrhKHzWbVrow2KOQMr782t8B2g="
+    },
+    {
+      "Version": "0.2-alpha",
+      "SHA1": "ECWYTBvLowaRUBSkPbHYZqp9dQk="
+    },
+    {
+      "Version": "1.0.0-alpha",
+      "SHA1": "66P0N/7BIvl4beZk/i2WbHudGv8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

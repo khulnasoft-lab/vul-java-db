@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.coley",
+  "ArtifactID": "extra-observables",
+  "Versions": [
+    {
+      "Version": "1.2.2",
+      "SHA1": "PiccIuVAxJgsurJOummxgA82DUU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "directory-shared",
+  "ArtifactID": "kerberos-common",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "lJTR6ARpGMpB2iBv23R3kEDvBcw="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "klqv5mlsOFWmRXTn36Xz0PXPmBI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

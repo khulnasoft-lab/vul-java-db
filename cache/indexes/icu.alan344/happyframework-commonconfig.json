@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.alan344",
+  "ArtifactID": "happyframework-commonconfig",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "dr8CVKxJjHFvTNLXewSmFAMFJaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,91 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-jsr94",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "YpKHRpibqbPtUQPJLS/IuRjG44Y="
+    },
+    {
+      "Version": "2.0-beta-12",
+      "SHA1": "b0s4KkYOF2rJzzBOc/24KhiLfu0="
+    },
+    {
+      "Version": "2.0-beta-12a",
+      "SHA1": "yvJB1dQvbZI+HHzGvwm/F/l7zdU="
+    },
+    {
+      "Version": "2.0-beta-13",
+      "SHA1": "hlrCnnOClHwdEhrClmAHFgHQuTE="
+    },
+    {
+      "Version": "2.0-beta-15",
+      "SHA1": "6oxosSnmRKz+ECOLf60lBpWXRWQ="
+    },
+    {
+      "Version": "2.0-beta-16",
+      "SHA1": "1/RlY7iCFy3vtwwyCWC+N6ZoC0U="
+    },
+    {
+      "Version": "2.0-beta-17",
+      "SHA1": "TW8gEv15rT43+mLG8otsmYQSjlc="
+    },
+    {
+      "Version": "2.0-beta-18",
+      "SHA1": "iKM7jeade1sZOrtUsYza4jPWDIk="
+    },
+    {
+      "Version": "2.0-beta-19",
+      "SHA1": "J4Mc4lMVarAPq1PxgCqkQo4GYI8="
+    },
+    {
+      "Version": "2.0-beta-20",
+      "SHA1": "QqBKoqQgp/BilwsHP8yAr2CIB0I="
+    },
+    {
+      "Version": "2.0-beta-21",
+      "SHA1": "x0ZWUjT+509E1s1CabQVMaQu9I4="
+    },
+    {
+      "Version": "2.0-rc1",
+      "SHA1": "Pu3foeHSDN3AVHNzwcy6b/HMixA="
+    },
+    {
+      "Version": "2.0-rc2",
+      "SHA1": "4cQWVMg1th+TeES7KK4ZdNOMYMU="
+    },
+    {
+      "Version": "20040622.175014",
+      "SHA1": "5P03TOtzfYSdqqvmSuxUCV8gwfA="
+    },
+    {
+      "Version": "20040623.065045",
+      "SHA1": "tVuBr8O7+X5k96NCrzDZTszJPt0="
+    },
+    {
+      "Version": "20040630.215714",
+      "SHA1": "AA/uRpN89M6qm45Ni8vrMNRjaIo="
+    },
+    {
+      "Version": "20040701.153737",
+      "SHA1": "aNhbJRt8P0e/Q9bLp+41y7QHagU="
+    },
+    {
+      "Version": "20040726.171843",
+      "SHA1": "G4MMP1OlVlVCsfhLvYkmj7vXNv4="
+    },
+    {
+      "Version": "20040726.195413",
+      "SHA1": "tfWGxejV3wfbHUUIAdWpW0LNwXM="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "YMjID+hxP73NfM3mtYtRU9Y7CAY="
+    },
+    {
+      "Version": "2.5-beta-1",
+      "SHA1": "SUYk+YFPYawgnLQe+hxJ3zByDMw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

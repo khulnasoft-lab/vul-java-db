@@ -1,0 +1,27 @@
+{
+  "GroupID": "ru.divinecraft",
+  "ArtifactID": "custom-stuff-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "GFbu/mo33zcc0CPl19PTk5cHa7E="
+    },
+    {
+      "Version": "1.0.1-beta.1",
+      "SHA1": "cWAc/bLFma2Hv/GS/etAcl4mtDY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "s3NMKxqNhp2S6O5DvWakXvVhKZk="
+    },
+    {
+      "Version": "1.0.2-beta.1",
+      "SHA1": "2ILbd+LaZwxhmQtL4+2ks061Vvw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "IVTqQwdlc0+HU58nxJsh8PVrtfo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

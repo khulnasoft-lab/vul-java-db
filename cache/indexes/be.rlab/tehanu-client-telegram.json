@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.rlab",
+  "ArtifactID": "tehanu-client-telegram",
+  "Versions": [
+    {
+      "Version": "3.3.0",
+      "SHA1": "A1Rj8jrJqbcjRCkxE9KX/vcaHdw="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "dHiGGHugdNfXrTHlV85zJkFTgDo="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "BSFu27/NaFaOSVKzrvHebW5jaHc="
+    },
+    {
+      "Version": "3.3.3",
+      "SHA1": "B8kNi+JMwiEpD38K/93hphIPm3Y="
+    },
+    {
+      "Version": "3.3.4",
+      "SHA1": "4rLDIFtp3XfgVh14KmCVQyfiHjw="
+    },
+    {
+      "Version": "3.3.5",
+      "SHA1": "ELPYQMMtZeoPTxcadeoTZz9FVs0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

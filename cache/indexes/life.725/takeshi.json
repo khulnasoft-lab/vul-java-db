@@ -1,0 +1,63 @@
+{
+  "GroupID": "life.725",
+  "ArtifactID": "takeshi",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BP0rlhWzeoQ2wTMY2zxf1fRd7jM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "HVmil07ma8QBeqibDe6zmnDujXE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Z2GVHAiv3F+bziUP+bVTuUrT1DE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "9Ncr6pXIgbBPZGylBkiKRCdbzKI="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "WQXL60BDeGTGwulp4G/iBigsXWQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "7uD8K0eTImdTwRIEH0RjaFCuyLg="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "KWeBo8TY3Llgk4Fc+dmmXv8pQHw="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "Id0MLoti2Ue3AkodlosiqDXf8Pw="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "uvbJ7m7C5cg386pX+c/8RtZjiAk="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "n6sDa6Rhi+OjzqucmQVogd3rwl8="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "OzcwplpjvY/saDXorxsQ5N7njHc="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "Dz1ippPZjEYrJj4jKWnUpkWL10Y="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "PkMz2USSYnFC+2qNjEEctUbFq7Y="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "m70hzGGLTWERoHujyg3XwXRmEk4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

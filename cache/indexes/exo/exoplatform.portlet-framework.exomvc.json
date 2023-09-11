@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.portlet-framework.exomvc",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Kpo88BI1OaKWXopjIhCXDXINd2w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "store.idragon.tool",
+  "ArtifactID": "content-search",
+  "Versions": [
+    {
+      "Version": "0.0.5-RELEASE",
+      "SHA1": "WT8Sy5GsuEpPq+sVLjof7LlQZ1c="
+    },
+    {
+      "Version": "0.0.6-RELEASE",
+      "SHA1": "wYXzXuSDLdqB7kKQX+TRt/5hIow="
+    }
+  ],
+  "ArchiveType": "jar"
+}

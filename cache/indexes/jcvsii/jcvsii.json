@@ -1,0 +1,11 @@
+{
+  "GroupID": "jcvsii",
+  "ArtifactID": "jcvsii",
+  "Versions": [
+    {
+      "Version": "5.3.2",
+      "SHA1": "dqSgFrUSyxvKAICi4I1acXjIOKw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

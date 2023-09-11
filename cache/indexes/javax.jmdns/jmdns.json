@@ -1,0 +1,19 @@
+{
+  "GroupID": "javax.jmdns",
+  "ArtifactID": "jmdns",
+  "Versions": [
+    {
+      "Version": "3.2.2",
+      "SHA1": "srLujvIvCuSw3jcKSVdPCeaSEQg="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "GfNooXNtjpHkGkIuLS6eN+Z8sH4="
+    },
+    {
+      "Version": "3.4.1",
+      "SHA1": "e6Lc9+/7XKmwBzayoGb/890B1DI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

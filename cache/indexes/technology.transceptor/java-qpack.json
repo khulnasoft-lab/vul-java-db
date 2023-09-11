@@ -1,0 +1,11 @@
+{
+  "GroupID": "technology.transceptor",
+  "ArtifactID": "java-qpack",
+  "Versions": [
+    {
+      "Version": "0.0",
+      "SHA1": "qOwdj+WhhLVuXPs7BaYqRyms8CQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-window-swt-linux64",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "2oyamjBIp2BHfrrsbJFKC5W7fRE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "zhrpE1CmL0lvurqrpaWEvCcd4HQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "MIS16sGNkDOLVHgW88bTZGqxW0Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "solutions.elevation.camel",
+  "ArtifactID": "camel-openhtmltopdf",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "ywVrgCGLx+rXOB+djhNtY81eNd8="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "4UeaDVK3CsPwgm5ZHHo6NVfwDr8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

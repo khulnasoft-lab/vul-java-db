@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.idamediafoundry.sofa",
+  "ArtifactID": "mapper-api",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "oW7lMmeokh9QR8xJob1JEX5vWIo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

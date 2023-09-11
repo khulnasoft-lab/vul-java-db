@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.eliwan",
+  "ArtifactID": "tapestry5-high",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "NOOWVMB5M6C3jmHhW0D/qqqFZDo="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "EPR04uytVO/nbtPXjPYJ+VshyU0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "se.europeanspallationsource",
+  "ArtifactID": "javafx.control.thumbwheel",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "MMmGoOlCqk1j4CnaxsxyGpfhxqU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "2kIUqYa3ujl0jWHARz2IG6hX0dg="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "U/LrQz/HTOxEkpTmhqZ85gsZEqk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

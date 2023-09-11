@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.wboost",
+  "ArtifactID": "cache-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "4.0.0.RELEASE",
+      "SHA1": "BNEvCDT40G407+dx9gf/EYUGm40="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "Eot3RfFMwQUR74/iSVbIEgxxzbw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

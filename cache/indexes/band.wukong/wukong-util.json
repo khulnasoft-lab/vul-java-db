@@ -1,0 +1,11 @@
+{
+  "GroupID": "band.wukong",
+  "ArtifactID": "wukong-util",
+  "Versions": [
+    {
+      "Version": "0.1.5",
+      "SHA1": "fhL3QKR1pWyMSTadrK/naUkqpQs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

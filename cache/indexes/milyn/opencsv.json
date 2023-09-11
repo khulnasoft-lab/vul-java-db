@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "opencsv",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "6lF0TcMnc5RCwTsOfkfFk9Y1Vk0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

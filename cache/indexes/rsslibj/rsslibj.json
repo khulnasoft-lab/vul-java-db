@@ -1,0 +1,11 @@
+{
+  "GroupID": "rsslibj",
+  "ArtifactID": "rsslibj",
+  "Versions": [
+    {
+      "Version": "1.0RC2",
+      "SHA1": "25qrbnk5d7q4iEm1Xz5/tnCH/mk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

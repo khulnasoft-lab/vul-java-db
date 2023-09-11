@@ -1,0 +1,19 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-oracle-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "FLxQ8KawW+FC+53biPzp7m5uVr8="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "BxfQLpg84Plpi1krZFFAAe9P1yU="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "OZXw1aoiqOHP0QdjG9rsLSNd64w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

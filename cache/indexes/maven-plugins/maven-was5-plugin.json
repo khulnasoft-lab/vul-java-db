@@ -1,0 +1,31 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-was5-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "pgguN5uIj443teToPLvBqW+fgGc="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "abtr+uAy75cbhJagEF12N/YNqs4="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "KKcT4M0EJgpXZQL3Ved2f6RaJ0Y="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "qyswsjCT1WbHw552w/KR1ihGGow="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "8iYt1HxZT28KbhOBlBNUoJX9WgE="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "Jqh3U8Hy8jG/5/KWzHShG91IlgM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

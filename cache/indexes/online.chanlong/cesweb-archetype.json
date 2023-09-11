@@ -1,0 +1,15 @@
+{
+  "GroupID": "online.chanlong",
+  "ArtifactID": "cesweb-archetype",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OuMJsJA8lpEkTU1tM7XKTZkQHf8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "EjpMi1R3Q245EL8Pt9a/jXYv4G4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

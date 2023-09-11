@@ -1,0 +1,31 @@
+{
+  "GroupID": "tools.aqua",
+  "ArtifactID": "bgw-docs-examples",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "taDhj+/GfugDWEOKtsgLW7Emhcc="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "hpmydNuJlNen1EHB0jZNFNJ6U9M="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "IIpnTPvNVUz1xDGM4xQ9wd4BfKg="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "SPUGNM8ejK0XqjWuqGDmFUrrFGs="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "2y5aK2iUxRs7b/G+EURGebVPWLY="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "wxIGQaPh3yopDx6We+H7OQCF12g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

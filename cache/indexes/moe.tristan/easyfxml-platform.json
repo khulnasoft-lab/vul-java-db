@@ -1,0 +1,15 @@
+{
+  "GroupID": "moe.tristan",
+  "ArtifactID": "easyfxml-platform",
+  "Versions": [
+    {
+      "Version": "3.2.0",
+      "SHA1": "ptWVU8STdExodIsJ0C269rRA9Hk="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "FFU2rftBVICNzsB3jQDxQKyYSAU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

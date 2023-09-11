@@ -1,0 +1,11 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "rate-gain-channel-manager-ws-soap-client-java",
+  "Versions": [
+    {
+      "Version": "5.0.1",
+      "SHA1": "vUmU/okNVg1FG3QmeKvv5BezHR8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

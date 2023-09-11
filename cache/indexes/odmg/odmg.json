@@ -1,0 +1,11 @@
+{
+  "GroupID": "odmg",
+  "ArtifactID": "odmg",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "X4lCJcIhvR5vHwcsr5EfeihwrZ8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

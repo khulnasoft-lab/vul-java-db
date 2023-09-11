@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.test.webunit-framework",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "/Nb/5Yl6c9RpqnSHXyQh86wb7K8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "commons-compress",
+  "ArtifactID": "commons-compress",
+  "Versions": [
+    {
+      "Version": "20040530",
+      "SHA1": "GmNu0PcoyhiThJKWwDl8W5VgpPY="
+    },
+    {
+      "Version": "20050911",
+      "SHA1": "pfx5ypwwYLFuXJe++dx7o11nWGY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

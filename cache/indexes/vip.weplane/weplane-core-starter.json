@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.weplane",
+  "ArtifactID": "weplane-core-starter",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "KOcgbcK2C4q3TrCQ3Np0DljYHBk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

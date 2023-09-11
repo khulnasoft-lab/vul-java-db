@@ -1,0 +1,15 @@
+{
+  "GroupID": "kz.greetgo",
+  "ArtifactID": "greetgo.conf",
+  "Versions": [
+    {
+      "Version": "0.1.4.0",
+      "SHA1": "wN8tno28pnCLLXL9crK26fS/LM8="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "ENVoXwHESkEVH0usy5zFM+P0TuY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

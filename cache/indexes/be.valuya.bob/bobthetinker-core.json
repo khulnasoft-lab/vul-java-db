@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.valuya.bob",
+  "ArtifactID": "bobthetinker-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6H0y0k6weyF/JpPa6fZDCPl/lTY="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "RE6hFivCplhukErkAbjmSSUPous="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Kd9LvYTuJb6y9rqUHtkLsrVZqOo="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "aWy0sqwSBGQE1c62f4Wb7xhEUPE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

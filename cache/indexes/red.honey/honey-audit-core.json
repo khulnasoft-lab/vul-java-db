@@ -1,0 +1,11 @@
+{
+  "GroupID": "red.honey",
+  "ArtifactID": "honey-audit-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mkP2bymhyLsYZVTrL9CbNnrT564="
+    }
+  ],
+  "ArchiveType": "jar"
+}

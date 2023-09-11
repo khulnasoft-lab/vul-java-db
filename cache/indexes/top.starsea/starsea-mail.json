@@ -1,0 +1,35 @@
+{
+  "GroupID": "top.starsea",
+  "ArtifactID": "starsea-mail",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "jbfebUfItKrQnY7yoHmkow5R2EI="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "ofU2tXVaLy8fJ17uJEFcF0D5SRc="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "A4dmbBO3ImjxrNTLLUrYAdSWt10="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "842zb13f/SdF22NL2/5+1QvASUw="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "g6BqEYLAfB9sBby5dln50kwjkpQ="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "6pOpKZLLw90PZ+FyK+FZkEa58KQ="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "AQ+/yG1iQCQZUQr81tsXJ0i7eNM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

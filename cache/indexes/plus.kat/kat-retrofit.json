@@ -1,0 +1,19 @@
+{
+  "GroupID": "plus.kat",
+  "ArtifactID": "kat-retrofit",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "nzVMy2CJOrdQdrz/lpM4DvR/cKE="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "Gq0VheJEhTVr5dBTrchsSYAXoRY="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "up7wyIoMFlR9DmjBCQcBaHLQG+8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

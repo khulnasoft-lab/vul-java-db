@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco-amq-client",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "AFdjSA53FbkeW1WeujHVoFNIt1A="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "+yQ/E2Fe/hvkBIVyOq3gJuVZQbM="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "EBOcsWN2t8wjjE287/YBNIQ3mAk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

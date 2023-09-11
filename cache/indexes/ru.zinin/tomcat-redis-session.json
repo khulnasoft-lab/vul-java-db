@@ -1,0 +1,27 @@
+{
+  "GroupID": "ru.zinin",
+  "ArtifactID": "tomcat-redis-session",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "1OQo1jrILDJ2K3quLABz7K3qjeE="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "oL4ROmYWFOucmwBp0b4EHhG56sI="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "c315Np+YM89q9MdIF/RM9BOxCow="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "nbDwdzTTVAX0I0wVw7BCqz6XDVQ="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "WTT6UFGvvooIcHm+vODJtcoszoU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

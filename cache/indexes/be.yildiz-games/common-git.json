@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-git",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "dsYPX0aNmxRZEpYotC/yXtGdeLI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "mo/qQvSNSJXVCHqhxvFVyYMNUHk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "EcJ2iHs3x1EssjwMsfVeLDoT/88="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "4rQJDXtiTbCnJ7vloN3yMO87ODw="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "3RKgvboRlnsokooR1PQX2DdPcWc="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "yS88rBiAv6dhDONZoEcc8qAY1Bo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.muninn",
+  "ArtifactID": "hocones-environment-files_2.12",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "6+QiPYquGG6losvhh3RqgcKNANg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

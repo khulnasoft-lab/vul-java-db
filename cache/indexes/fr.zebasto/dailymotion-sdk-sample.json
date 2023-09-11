@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.zebasto",
+  "ArtifactID": "dailymotion-sdk-sample",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "njipSpgmCdFMkMC+EON8uHsv7ww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

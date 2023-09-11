@@ -1,0 +1,11 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "dentaku-drools-semantics",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "39DhD5DrUqe2Fgz+ETruffa6erA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

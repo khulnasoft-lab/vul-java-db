@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.qiuyuan",
+  "ArtifactID": "base4jpa",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "AbFwKisFVQ4GuQbUFN6KZCQ6c0w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

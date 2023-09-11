@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-j2se",
+  "Versions": [
+    {
+      "Version": "200504122039",
+      "SHA1": "uj3hFu2mGKKpTxh1eKkJSaCuNXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

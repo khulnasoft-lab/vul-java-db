@@ -1,0 +1,35 @@
+{
+  "GroupID": "jmock",
+  "ArtifactID": "jmock",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OGPjFmU5GPC+XapDHefc79vlCUM="
+    },
+    {
+      "Version": "1.0.0.RC1",
+      "SHA1": "ynhnBPYulwsR9BqLhKoR8pneIAc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "h6OdGmLqlL5UU+zbuXzYHJeGItM="
+    },
+    {
+      "Version": "20031129.200437",
+      "SHA1": "TgHXMmPWMCSS0zyB46qHMkc8V9w="
+    },
+    {
+      "Version": "2004-03-19",
+      "SHA1": "2iUwnr+xWRvrPkJNMH2voKvtSGs="
+    },
+    {
+      "Version": "usedbypico",
+      "SHA1": "M/KrJg6ndNyKAcOlIzhs5Ohds0o="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "CQ6HGUyBE+GQHXGWs1nkj565xj0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

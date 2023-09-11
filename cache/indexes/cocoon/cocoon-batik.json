@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-batik",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "8kLQ2u/KWbE9bOi3HOsWs9P59VQ="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "rlXaxW4+zL03BfZwcwkw1CFywBQ="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "pWaDUSjB79Q6SFxx+Re1hhrqUrY="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "3gGRCIYGAROy/rVggW+KUTxqSL4="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "Qp6iphVvuT499GRqV4rxcAhh2XA="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "kI30HHZQSa47P+P1ppuoLc3KnmM="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "TC0cidcE9AJm3GX3x900VxFR4/k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

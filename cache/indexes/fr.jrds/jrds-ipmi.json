@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.jrds",
+  "ArtifactID": "jrds-ipmi",
+  "Versions": [
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "zhCwh6PKSkbhtx0a93HkCUYUDeg="
+    },
+    {
+      "Version": "2020.1",
+      "SHA1": "2anldSgrfX0+D18FtfUAl7AooHo="
+    },
+    {
+      "Version": "2021.1",
+      "SHA1": "tVOvxHuUhl+2Hp3JMP3PvxbVcfQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.rrd",
+  "ArtifactID": "rrd-utils",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "FXW0Ye/7ZK3emXweb1zmxrnCJ30="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "XXy+02+5d6RFu4nyoXS+hYj4Qg8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

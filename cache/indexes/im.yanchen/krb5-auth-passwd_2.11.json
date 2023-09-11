@@ -1,0 +1,11 @@
+{
+  "GroupID": "im.yanchen",
+  "ArtifactID": "krb5-auth-passwd_2.11",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "nnclJgDQ6g3LKn+qjD5Ld7I8EU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

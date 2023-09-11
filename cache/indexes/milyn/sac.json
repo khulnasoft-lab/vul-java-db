@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "sac",
+  "Versions": [
+    {
+      "Version": "X",
+      "SHA1": "N2QJbyifOHNszGdV2XpYSPzn0SU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

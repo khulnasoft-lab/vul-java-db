@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "rxhttpclient_2.12",
+  "Versions": [
+    {
+      "Version": "0.5.1",
+      "SHA1": "gIqclNVaAToq0gJwKV7b8oR9s1s="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "VZa6I55QFKe9d6ja5CxUf8a6VaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "cglib",
+  "ArtifactID": "cglib-full",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "EoNkCs77LSB0Q5jZ7ahI1tTZAzk="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "TblQsRRLyxL0bGEhFOzXA5F/TmQ="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "CFhgtKWYcJLqH5k+QauJ6PxceSg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

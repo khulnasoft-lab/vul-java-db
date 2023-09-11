@@ -1,0 +1,39 @@
+{
+  "GroupID": "berkano",
+  "ArtifactID": "berkano-seraph-taglib",
+  "Versions": [
+    {
+      "Version": "20050616.002340",
+      "SHA1": "VL4zVxS/JiS+RfAZNHKYjdPbmT8="
+    },
+    {
+      "Version": "20050616.004242",
+      "SHA1": "y97hp3YoUFxDNBajGBtWLTVKao4="
+    },
+    {
+      "Version": "20050616.015741",
+      "SHA1": "1HP9nbj7bWaWWq38lHUPBIAhYLo="
+    },
+    {
+      "Version": "20050809",
+      "SHA1": "WDK62NH5DL0ZwYnwDTrlC630as0="
+    },
+    {
+      "Version": "dev-20050723",
+      "SHA1": "qUaOy6/LJmjRU1w9B5GcQJ6yGzA="
+    },
+    {
+      "Version": "20050725.114841",
+      "SHA1": "whCxbUxzhfOXnNxJGv87TNMUjq8="
+    },
+    {
+      "Version": "20050901-2",
+      "SHA1": "qHoMU5Gfoyc6HxzTjnpQR1o002g="
+    },
+    {
+      "Version": "20050805.043756",
+      "SHA1": "dYzZRqJqaz4c+ggdnh8qywBcGLM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

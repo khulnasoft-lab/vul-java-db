@@ -1,0 +1,19 @@
+{
+  "GroupID": "software.amazon.checkerframework",
+  "ArtifactID": "aws-kms-compliance-checker",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ArXftRYFitpmqa4pIqhgTQZx/Ro="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Xa05Q/IUoZDyYOvll1SGEsvYC34="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "3miKTR23l8U4N8ZQ0p55ohqGqWg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

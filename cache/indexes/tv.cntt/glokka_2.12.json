@@ -1,0 +1,23 @@
+{
+  "GroupID": "tv.cntt",
+  "ArtifactID": "glokka_2.12",
+  "Versions": [
+    {
+      "Version": "2.4.0",
+      "SHA1": "yvIbnn6ubUcxCK7t9XP7N4l2NDs="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "8sT8/IJuNi1Jr9n51SlGPZUmC1M="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "+yyvXkoY2LmprGfbbGWXXZwV1Jc="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "DEAcZNH83d7YGdINMWyOv7gRgKE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

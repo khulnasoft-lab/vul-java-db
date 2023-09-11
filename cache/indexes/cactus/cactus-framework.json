@@ -1,0 +1,15 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "cactus-framework",
+  "Versions": [
+    {
+      "Version": "13-1.5dev-20030322",
+      "SHA1": "4rSdoDW7k2FcS7VmNK3DV+prN/8="
+    },
+    {
+      "Version": "13-1.5dev-20030407",
+      "SHA1": "4KY68A8TVLq1fDw45O4DzE4K1Ys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

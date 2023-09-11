@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.yannickl88",
+  "ArtifactID": "natural-language",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "E9ZclusLrYi3rqHjiTZe398s500="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.joao",
+  "ArtifactID": "nirai",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "JTa3JBT6WR0sbOzffi0e1RONCTM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

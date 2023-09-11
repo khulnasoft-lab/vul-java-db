@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.cryptoevil",
+  "ArtifactID": "cryptographer-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "aZopq42Y9yCpq91JItt4JI601EY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

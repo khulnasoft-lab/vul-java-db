@@ -1,0 +1,47 @@
+{
+  "GroupID": "springframework",
+  "ArtifactID": "spring-jdbc",
+  "Versions": [
+    {
+      "Version": "1.0-m4",
+      "SHA1": "sMQmaM1QwvUs2KTeepNMQ9Vpl0E="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "6wCmNFsVvpg/Zy9bcGIzmFZWAKA="
+    },
+    {
+      "Version": "1.2-rc1",
+      "SHA1": "Dh7XMDS8Zr/gNpgsWAa7/lkFkZE="
+    },
+    {
+      "Version": "1.2-rc2",
+      "SHA1": "OLpVJ874SoHQga+2wRnsuXcTpZs="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "7ryJe5vBmOm3CMNhoPskE8cAWXI="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "bam35JSKTNx8Q4HhaNxN1kGNWB0="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "cRBHlftGcls45qhv4YsPlHQR5C8="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "TOFH5IDVFpcNXHthHLSLh71Dsj4="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "VAJnEvCXL5DWLwQRsttIYa+NDdc="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "Od1YXq0xwQlCFJSfsrUn+TV4Fqc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.seco",
+  "ArtifactID": "lexicalanalysis-resources-fi",
+  "Versions": [
+    {
+      "Version": "1.5.13",
+      "SHA1": "tbQYi5ki6JUfxlw6XCTnb+pBRAA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

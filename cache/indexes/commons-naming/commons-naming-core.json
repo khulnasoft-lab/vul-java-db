@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-naming",
+  "ArtifactID": "commons-naming-core",
+  "Versions": [
+    {
+      "Version": "20031116.223527",
+      "SHA1": "TT0G0YP4rz2d+Lz8zfdjiq69ZpM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

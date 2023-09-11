@@ -1,0 +1,27 @@
+{
+  "GroupID": "us.springett",
+  "ArtifactID": "alpine-model",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "vKB4roUrCMRsfnfC36OaFF2IBkc="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "9unr9E0zMAhLOXnOSJqBFhQxM30="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "eWZxhow8V4SYa8qwFbHPLuAJbWo="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "Tt+kqtiyEOirPboSIs7S60uTFgI="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "vjFqMMid/cWlne4m0SDwL/x64EQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

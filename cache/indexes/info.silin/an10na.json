@@ -1,0 +1,11 @@
+{
+  "GroupID": "info.silin",
+  "ArtifactID": "an10na",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "J1EX+QtSgePA9CRxo1nzHlyKgCs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

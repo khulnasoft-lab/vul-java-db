@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.aeizzz",
+  "ArtifactID": "auth-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "oz0jgRzF3vY1QtVWp6/LK1kHyVA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

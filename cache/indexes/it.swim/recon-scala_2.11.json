@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.swim",
+  "ArtifactID": "recon-scala_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "8u39h1ObMZi7ggQtA5P64nhzcc8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,59 @@
+{
+  "GroupID": "software.tnb",
+  "ArtifactID": "system-x-amq",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "mrhk6UYSNYFgUsxKoZ3mD0vxpRk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "vrZwtotST9+nKHfhEY8xqJNVo44="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "3toiEK+5TFH7FDvrdxwkjQxCZ0s="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "+2aVmltyP7B06zwb7PtEg/MIzDw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "tS2TeLFFG6AsOZ4tQ8bvU6XyoUY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "ptTg/fdzJrLuiOPlQdRJAuwsbfE="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "LQkwoBkOMpVaV7ras++GpcUTYT0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "7nz0VQcJPBv60pquLhKIV9P8juA="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "LgqxJnVpB+feVK/TXKz4UkUst94="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "JaBakDVRAKy9yfj6geXEfMIcZAE="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "4Fq+E8JmorhHPyQk0JaMJ3Pjpqo="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "bAzxX3gZEgMVZBfOkN/RwIBJIjM="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "1xA2OUeUdhyxjGj0k+9C/MRo9k0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

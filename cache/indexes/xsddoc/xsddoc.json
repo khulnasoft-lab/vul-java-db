@@ -1,0 +1,27 @@
+{
+  "GroupID": "xsddoc",
+  "ArtifactID": "xsddoc",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "EC2yCUA9tS+jamqROfVuixP7pwk="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "JDx+0Mhcxvsh2BSVTRaVYfz29jU="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "MwNEKjuDHRnRDF3wmprbeR3p8sY="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "GM7A1RemGx0BAk3woiSpUn5ayzM="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "0PWeOLup376cXLIhfT4MBBJECBw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

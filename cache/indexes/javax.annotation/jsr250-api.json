@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.annotation",
+  "ArtifactID": "jsr250-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "UCVCJ2dzKhq0XZOr/qhGUT10Lc8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

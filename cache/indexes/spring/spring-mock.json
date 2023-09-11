@@ -1,0 +1,11 @@
+{
+  "GroupID": "spring",
+  "ArtifactID": "spring-mock",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "u+SDwyIKxZu/hWCpGtBLK8IZAG0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

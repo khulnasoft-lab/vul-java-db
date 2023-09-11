@@ -1,0 +1,15 @@
+{
+  "GroupID": "tv.kazu",
+  "ArtifactID": "elasticsearch-action-updatebyquery",
+  "Versions": [
+    {
+      "Version": "2.4.1",
+      "SHA1": "U7nh12iT8ugjVFckKlkrDYwBpQ8="
+    },
+    {
+      "Version": "2.4.2",
+      "SHA1": "9O7gPn4W8LblRU35aJanfCtbwSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

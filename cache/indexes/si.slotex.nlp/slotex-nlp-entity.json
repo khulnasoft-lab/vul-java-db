@@ -1,0 +1,11 @@
+{
+  "GroupID": "si.slotex.nlp",
+  "ArtifactID": "slotex-nlp-entity",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KP5R+UJLIbNVWhW3ZOhp8J4hvs4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

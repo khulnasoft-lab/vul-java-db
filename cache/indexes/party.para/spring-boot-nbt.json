@@ -1,0 +1,19 @@
+{
+  "GroupID": "party.para",
+  "ArtifactID": "spring-boot-nbt",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rMj17Huzw93feCE+AlAfnNHLWg0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "gkt/RLV20VJ3RE4+HA6g2GiuhC4="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "V1rG2VGksfFeyaFUadIn7KYFeNA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

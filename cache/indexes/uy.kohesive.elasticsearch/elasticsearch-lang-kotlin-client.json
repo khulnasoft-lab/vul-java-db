@@ -1,0 +1,27 @@
+{
+  "GroupID": "uy.kohesive.elasticsearch",
+  "ArtifactID": "elasticsearch-lang-kotlin-client",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA-01",
+      "SHA1": "Jx/2WQ8IedNeMI66kopmSu0di0k="
+    },
+    {
+      "Version": "1.0.0-BETA-03",
+      "SHA1": "k6znrxarAMXAbOwzz7eREwmR8qA="
+    },
+    {
+      "Version": "1.0.0-BETA-03.01",
+      "SHA1": "9sbH0Kv2ZKONBi/bBgB9JUHCa7Y="
+    },
+    {
+      "Version": "1.0.0-BETA-03.02",
+      "SHA1": "mtjJVbsBVQqh6jOfkVn4MOaGnec="
+    },
+    {
+      "Version": "1.0.0-BETA-06",
+      "SHA1": "hLtcQXq0mGCGOGPWPeFbV8IbnMg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "pl.ksdev",
+  "ArtifactID": "slugify",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "bSnzMEg6IyLDafSa1ErXWg2L+Bk="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "feR3iGNnFr2TDso9fjK/i+sWeiE="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "9ZCUUaqzArRnsoXBUNjdrqK8NYI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

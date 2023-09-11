@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.tulz",
+  "ArtifactID": "laminext-validation_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "jdnuvsQxXTNbk8vgv5zkJY1xANU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

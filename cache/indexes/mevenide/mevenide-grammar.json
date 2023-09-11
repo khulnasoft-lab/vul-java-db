@@ -1,0 +1,11 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "mevenide-grammar",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "/Qt/zAKeUoUnYDFIejoORqIgY2A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

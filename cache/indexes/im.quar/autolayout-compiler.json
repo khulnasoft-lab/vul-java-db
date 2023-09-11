@@ -1,0 +1,27 @@
+{
+  "GroupID": "im.quar",
+  "ArtifactID": "autolayout-compiler",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "K4Va0jX2fUclwtraUYY4kLaOhdg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "wIYIzFyTNmI0H3t7WX1gpmXbM1Q="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "EPXe9R2BsurORWd0kcSW+OhtheU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "H2vSA0UHcvRwwLCgy+sypujC9eA="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "eECvZFRmwycYw/ViwvjXU5ZlDnI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

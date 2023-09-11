@@ -1,0 +1,31 @@
+{
+  "GroupID": "fr.groupbees",
+  "ArtifactID": "midgard",
+  "Versions": [
+    {
+      "Version": "0.15.0",
+      "SHA1": "xBh34Jh7cwYNfmya7AOnxa95X+o="
+    },
+    {
+      "Version": "0.16.0",
+      "SHA1": "wR37kXnf3JXKH2ZXsZJZHdAtFBw="
+    },
+    {
+      "Version": "0.17.0",
+      "SHA1": "Nq4J5UEEYaBFYC52avbkRTTtFuo="
+    },
+    {
+      "Version": "0.18.0",
+      "SHA1": "SKdaxPrjgU1m1jfFmTXrUEc1Qt4="
+    },
+    {
+      "Version": "0.19.0",
+      "SHA1": "sAXu/DnHQnl8+8x++gYHvTkC1SM="
+    },
+    {
+      "Version": "0.20.0",
+      "SHA1": "0A4FP5NX9E/ct1alcgXDii4ow50="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,63 @@
+{
+  "GroupID": "club.javafamily",
+  "ArtifactID": "dingtalk-notification-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "2.3.2-beta.1",
+      "SHA1": "glMwygTMT+jrWKFg5Z3zu1w9wIE="
+    },
+    {
+      "Version": "2.3.2-beta.2",
+      "SHA1": "rfnxrIByzaOq8fQs6jc92wVJyJc="
+    },
+    {
+      "Version": "2.3.2-beta.3",
+      "SHA1": "AtQnytbPr7n+r0ZfmKo96RZqCt0="
+    },
+    {
+      "Version": "2.3.2-beta.4",
+      "SHA1": "CXpTQZijEF/jn8IIBKzQKNcf9WM="
+    },
+    {
+      "Version": "2.3.2-beta.5",
+      "SHA1": "+SjQ2nrtqXd19rrOZWAc5XFDTHA="
+    },
+    {
+      "Version": "2.3.2-beta.6",
+      "SHA1": "MOPx1YzIct0qyZ3GJi9WFkh4cek="
+    },
+    {
+      "Version": "2.3.2-beta.7",
+      "SHA1": "phlxMZx9lIS6WpI6mG8GHCm+mGs="
+    },
+    {
+      "Version": "2.3.2-beta.8",
+      "SHA1": "ylb0x3aRZr468eJ/Ifz7pt1/rSU="
+    },
+    {
+      "Version": "2.3.2-beta.9",
+      "SHA1": "+tpfFa3SO0YIddttORW3apyDb/8="
+    },
+    {
+      "Version": "2.3.2-beta.10",
+      "SHA1": "0WyJrsnpfXAHagoxYqOhxSPJLX0="
+    },
+    {
+      "Version": "2.3.2-beta.11",
+      "SHA1": "0aU3LGioDVHm55tuPuGB+GS+AG8="
+    },
+    {
+      "Version": "2.3.2-beta.12",
+      "SHA1": "hHNVSL+U9d7vnSYBpxoqciV2ikE="
+    },
+    {
+      "Version": "2.3.2-beta.13",
+      "SHA1": "WxNcjIUR+AVNlma0kY9kyP6SGiA="
+    },
+    {
+      "Version": "2.3.2-beta.14",
+      "SHA1": "Qbh6InyDZco+OLeDkAQc/Iv8+ZE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

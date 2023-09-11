@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.jiaojinxin",
+  "ArtifactID": "jln-dependencies",
+  "Versions": [
+    {
+      "Version": "0.1.5",
+      "SHA1": "TS+v1lRSFWFkH0y7qYo9b2w+9tE="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "d5LhFHHgNtq/uO5UfXLa4SxAw0s="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "JjSPcZQL7xQD5hm0bYBacAtKLvo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

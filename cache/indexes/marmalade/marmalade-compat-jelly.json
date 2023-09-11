@@ -1,0 +1,19 @@
+{
+  "GroupID": "marmalade",
+  "ArtifactID": "marmalade-compat-jelly",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "lmlRB3K245fLrs5UnCRjVbi6BWs="
+    },
+    {
+      "Version": "1.0-alpha2",
+      "SHA1": "0gxJ6eoZ8p6FNrX/ts7878mvH+Q="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "Q3ZGFw6T1AYvjGgc3HSV895DCGQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

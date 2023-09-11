@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.madara",
+  "ArtifactID": "madara",
+  "Versions": [
+    {
+      "Version": "3.2.0",
+      "SHA1": "xCoP/avTFQy89OnqJbVEyN0xqmI="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "yUgb0jJq7SWbqRB85NzcqvYhKnE="
+    },
+    {
+      "Version": "3.2.3",
+      "SHA1": "k8/azFnQ/bsNSbLSM6UwjIwMl+Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

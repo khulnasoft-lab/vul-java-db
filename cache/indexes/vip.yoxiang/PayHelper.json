@@ -1,0 +1,11 @@
+{
+  "GroupID": "vip.yoxiang",
+  "ArtifactID": "PayHelper",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "zMnltgeX2s0rzJ0laX8ICX8JjwU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

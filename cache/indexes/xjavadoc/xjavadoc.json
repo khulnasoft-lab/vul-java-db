@@ -1,0 +1,15 @@
+{
+  "GroupID": "xjavadoc",
+  "ArtifactID": "xjavadoc",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "ca+A3/l8Oy5vo08q37iWyKAIfq8="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "B5JWQL0FERFFhp+q9MgieWI3byo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

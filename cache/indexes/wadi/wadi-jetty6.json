@@ -1,0 +1,11 @@
+{
+  "GroupID": "wadi",
+  "ArtifactID": "wadi-jetty6",
+  "Versions": [
+    {
+      "Version": "2.0M1",
+      "SHA1": "NLU/bZHocSoXITTVRu9LXv/BBiA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "id.jasoet",
+  "ArtifactID": "fun-pdf",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "mSlVslKPKe8y/jdp59i1wQv+7ho="
+    }
+  ],
+  "ArchiveType": "jar"
+}

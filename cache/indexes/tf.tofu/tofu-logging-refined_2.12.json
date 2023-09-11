@@ -1,0 +1,59 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-logging-refined_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "b0A1q41Me0sTDeBd/HqccJsHavM="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "TfCcMzYswko3r8JFtOSBaFBl7Ms="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "x7t2QulKyFDN66pWaBZsR083CJU="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "9ggNCbkcLfBS2FcE9/QcJhlme2s="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "Zef6C2qiRkSKFejCit2ho9r+6lY="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "ZL+P8Bm+DTuc2Euk168X+HEF9XA="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "GNXo9dxbAIHfkNT87DThJMErCl0="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "LPwQ842drq6nEvKlTQReTX1GNKk="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "7lKfVQTh2VQ0F8vksmkGFNyrcDo="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "IcUBP7ffGsconqZpAXVQzZOHh2o="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "svMaQWlE7W378uY+lRo0E4KDoDc="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "HyrfnmZmIxMTVR1oT80QTbcV3BM="
+    },
+    {
+      "Version": "0.12.0.1",
+      "SHA1": "Gy9I4BpZBPy/BMsOo5khQ9h2v0E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

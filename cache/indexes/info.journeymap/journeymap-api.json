@@ -1,0 +1,55 @@
+{
+  "GroupID": "info.journeymap",
+  "ArtifactID": "journeymap-api",
+  "Versions": [
+    {
+      "Version": "1.8.9-1.0",
+      "SHA1": "6AiT9ywf2XwNbMa5nD1d/nJjG+k="
+    },
+    {
+      "Version": "1.8.9-1.1",
+      "SHA1": "J75Z3JPKmeVAEPCl/X/WwJGNZ00="
+    },
+    {
+      "Version": "1.8.9-1.2",
+      "SHA1": "h0J6aJ8Nd6tg09T2HeZxCCbYgQk="
+    },
+    {
+      "Version": "1.9-1.2",
+      "SHA1": "nNY4uA1RFFczHgBtFFNTVEktub0="
+    },
+    {
+      "Version": "1.9-1.4",
+      "SHA1": "KkkEv96QD18CtDSrPDNzq7jpVgk="
+    },
+    {
+      "Version": "1.9.4-1.2",
+      "SHA1": "8mZbLWxDPxbnNjkuNQJRBzgLgI4="
+    },
+    {
+      "Version": "1.9.4-1.3",
+      "SHA1": "QHUUYkoVAdbuzW+9YK0tTHJKAQw="
+    },
+    {
+      "Version": "1.9.4-1.4",
+      "SHA1": "u++eOei50YLhCeTCHPx8tyHPTrA="
+    },
+    {
+      "Version": "1.10.2-1.3",
+      "SHA1": "1R81ulpvUSEXj3oYyDDJcXuxC1g="
+    },
+    {
+      "Version": "1.10.2-1.4",
+      "SHA1": "HojG/HSsOe0u0jB1hCkP60+rDeo="
+    },
+    {
+      "Version": "1.11.2-1.4",
+      "SHA1": "a7cOY+lVFMCJDQOG9pSzb2bVCVc="
+    },
+    {
+      "Version": "1.12-1.4",
+      "SHA1": "5fTR4GBlR00XsSMQxmW425PUfEY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

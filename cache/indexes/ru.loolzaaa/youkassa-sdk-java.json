@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.loolzaaa",
+  "ArtifactID": "youkassa-sdk-java",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "yMhozm5/XuVqjkjV31yzKXAoFPA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

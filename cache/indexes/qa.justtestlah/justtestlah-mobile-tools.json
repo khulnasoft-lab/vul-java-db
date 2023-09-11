@@ -1,0 +1,63 @@
+{
+  "GroupID": "qa.justtestlah",
+  "ArtifactID": "justtestlah-mobile-tools",
+  "Versions": [
+    {
+      "Version": "1.7-RC1",
+      "SHA1": "4NyDYKUPWT9GFz5M0GQ5TlCqGmk="
+    },
+    {
+      "Version": "1.7-RC2",
+      "SHA1": "+K2Be4GmYQAkSK20s2Rjz+BlPAE="
+    },
+    {
+      "Version": "1.7-RC3",
+      "SHA1": "4Gq1Jeh2NLdanDuaULG6EcJGaPM="
+    },
+    {
+      "Version": "1.7-RC4",
+      "SHA1": "jd0VX+Ok6MVnlmOYI2GJUmbSl5E="
+    },
+    {
+      "Version": "1.7-RC5",
+      "SHA1": "eRkc+peft67MlZIyWBeGPy1ymAY="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "pJ15HVAkEogUUAQzocGnuDb5i3I="
+    },
+    {
+      "Version": "1.8-RC1",
+      "SHA1": "yzdZs/FJahxrI+1dJJZ4fAoCpHw="
+    },
+    {
+      "Version": "1.8-RC2",
+      "SHA1": "jDmZVuE0xsWfPr0l8We1/7g++18="
+    },
+    {
+      "Version": "1.8-RC3",
+      "SHA1": "c4S9sqm1qUz5rzQ9grj5o2NhZBs="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "ywxVn89ElhzbyKiiplszjpNbQdU="
+    },
+    {
+      "Version": "1.9-RC1",
+      "SHA1": "ajEcaxIT/1pdvIojgcsCyVj2cWY="
+    },
+    {
+      "Version": "1.9-RC2",
+      "SHA1": "oXeRG2aQWRdZU07LbISPa8qiQPQ="
+    },
+    {
+      "Version": "1.9-RC3",
+      "SHA1": "ix7yjy58z6ZSSzZa2dntQIyjOzM="
+    },
+    {
+      "Version": "1.9-RC4",
+      "SHA1": "UnSLMNLY/QU693fXqWXhEu8ctT8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

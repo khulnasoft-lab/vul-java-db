@@ -1,0 +1,11 @@
+{
+  "GroupID": "andromda",
+  "ArtifactID": "andromda",
+  "Versions": [
+    {
+      "Version": "2.1.5",
+      "SHA1": "TqVDILmzQQAThCnOO58d81uLmLY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

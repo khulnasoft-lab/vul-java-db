@@ -1,0 +1,15 @@
+{
+  "GroupID": "radeox",
+  "ArtifactID": "radeox",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "zcxevEe6wZ9LDICHOXG4RhIpfwo="
+    },
+    {
+      "Version": "1.0-b2",
+      "SHA1": "45pNnbT3AqCv8dpjejldNWPLpFc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

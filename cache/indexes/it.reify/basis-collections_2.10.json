@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.reify",
+  "ArtifactID": "basis-collections_2.10",
+  "Versions": [
+    {
+      "Version": "0.0",
+      "SHA1": "vISqg1X+ZlCCCfIqY1Njt7LOwnc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

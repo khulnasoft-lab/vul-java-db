@@ -1,0 +1,19 @@
+{
+  "GroupID": "cloud.gouyiba",
+  "ArtifactID": "mybatis-max-core",
+  "Versions": [
+    {
+      "Version": "1.0.3-RELEASE",
+      "SHA1": "/x1rBzxJ9rPXthABJO6khwCab7Q="
+    },
+    {
+      "Version": "1.0.4-RELEASE",
+      "SHA1": "4mnb6kvDvD1bj5T0UuoawF9dgIc="
+    },
+    {
+      "Version": "1.0.5-RELEASE",
+      "SHA1": "NIK0rBv6d9wpFdbW6QyclXsdjX8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

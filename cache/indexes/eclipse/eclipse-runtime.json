@@ -1,0 +1,11 @@
+{
+  "GroupID": "eclipse",
+  "ArtifactID": "eclipse-runtime",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "T0CHLvANoM6yqelt/GhpmoYrmB8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

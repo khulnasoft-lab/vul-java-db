@@ -1,0 +1,11 @@
+{
+  "GroupID": "mockobjects",
+  "ArtifactID": "mockobjects-jdk1.3-j2ee1.2",
+  "Versions": [
+    {
+      "Version": "0.09",
+      "SHA1": "3wXL1O6mvzYlA5QD5jsDk/1t5i4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

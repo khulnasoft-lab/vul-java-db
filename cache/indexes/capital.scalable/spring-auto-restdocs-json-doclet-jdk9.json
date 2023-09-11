@@ -1,0 +1,47 @@
+{
+  "GroupID": "capital.scalable",
+  "ArtifactID": "spring-auto-restdocs-json-doclet-jdk9",
+  "Versions": [
+    {
+      "Version": "2.0.2",
+      "SHA1": "5inwRff28To37MzVZBpvqSlPIXU="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "mkI27/uUw641+Jd0hecd3PJ3I9g="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "FpjeL2cRZ7QG8aLLDkqW6bhzTaU="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "tU8frOqizq1MfUuBQXB7r/qUONU="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "G09sikwnQqxfFuxJC7fIJuzWTQg="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "Hr0P2ixTonQveVxYK0i+af6Fqys="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "T80+WFsv32jOv8rw/RCI3aDHi54="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "nW9M7iiZpFEih9C1MIRgjYroRmE="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "Yd9YgiuPy3NE3ub5j+OI9/aTdtQ="
+    },
+    {
+      "Version": "2.0.11",
+      "SHA1": "gftF9hAn4Dd7DGQDqOFtRG7Rl8o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

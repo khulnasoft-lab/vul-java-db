@@ -1,0 +1,15 @@
+{
+  "GroupID": "bcel",
+  "ArtifactID": "bcel",
+  "Versions": [
+    {
+      "Version": "5.0",
+      "SHA1": "jXwMihvrWRPvG3R/aqCnkTNo6Dk="
+    },
+    {
+      "Version": "5.1",
+      "SHA1": "oyiHhMrNl6QpwM8XfIQiVSN5D4c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

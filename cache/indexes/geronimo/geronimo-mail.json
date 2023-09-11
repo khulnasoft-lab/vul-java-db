@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-mail",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "T7+zZeBZt2BGiOC4GAvQicyB8Nk="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "uUY+aoCoGDHmSi88PzK6J7xX1a8="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "FAPcX7i6PWp3I+jE7iU++b7U2hs="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "wlB8o/1lVk9Rhts4ac+AFHo/Ajg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.codecraft",
+  "ArtifactID": "express.java",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "dTfjuI/0iqd96Bzm9s1zRCjnQHw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

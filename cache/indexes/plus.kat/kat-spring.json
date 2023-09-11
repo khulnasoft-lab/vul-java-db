@@ -1,0 +1,23 @@
+{
+  "GroupID": "plus.kat",
+  "ArtifactID": "kat-spring",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "qw6ACWGCHfci5sSA6W4k245ZOp8="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "x6W2WUAcQ9WTztpRNdiYoy0ob68="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "SKZ47yx8Tw2SBxoEshdugWN5pI0="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "k3KBBoYNwmgSMq9LyYUVlx2CKcA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

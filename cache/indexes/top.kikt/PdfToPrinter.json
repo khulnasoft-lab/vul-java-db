@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.kikt",
+  "ArtifactID": "PdfToPrinter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "S0/n0bsrQxyfUofjG3cfe0almWQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.ecore",
+  "ArtifactID": "spring-jfinal",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "tZPS2L9hgnOIKGuWvWFbTitUY5k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

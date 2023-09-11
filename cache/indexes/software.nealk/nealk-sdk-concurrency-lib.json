@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.nealk",
+  "ArtifactID": "nealk-sdk-concurrency-lib",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "l7eoliciK2xZqvhK1qsO8aBQLsM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

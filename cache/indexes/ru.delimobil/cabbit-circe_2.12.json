@@ -1,0 +1,35 @@
+{
+  "GroupID": "ru.delimobil",
+  "ArtifactID": "cabbit-circe_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.17",
+      "SHA1": "mnWtisJEOQVkMvtH8mI46OjQ7tA="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "h45AXyRQp5lgRV5GaUAJlYgNy5c="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "zK/i7pvXJmkaoCYkvQsPPD4fwTA="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "qo36uuq3Npdw18lccbrFfnZC29Q="
+    },
+    {
+      "Version": "0.2.0-RC1",
+      "SHA1": "SdeMWZi59hhsd/nV94Lw04kTGgY="
+    },
+    {
+      "Version": "0.2.0-RC2",
+      "SHA1": "f0c+B2W6RJANY9KojHbtXFN6H1c="
+    },
+    {
+      "Version": "0.2.0-RC3",
+      "SHA1": "kk4MWGaOtA92w5BKQ1d0umdJdmg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

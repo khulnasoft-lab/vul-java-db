@@ -1,0 +1,15 @@
+{
+  "GroupID": "servletapi",
+  "ArtifactID": "servlet-api",
+  "Versions": [
+    {
+      "Version": "2.4-20040521",
+      "SHA1": "1msOnHipBVIEKrb58vCvsdh6Jo8="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "P8VC/ou4Fk6NPoQP50A7wFGAU8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

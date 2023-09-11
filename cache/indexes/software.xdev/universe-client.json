@@ -1,0 +1,15 @@
+{
+  "GroupID": "software.xdev",
+  "ArtifactID": "universe-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Xlggwcaz/IwzzNAHwgedgp5wXHo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "8kEOAhpOlOtm3aHkIogkB/+lEII="
+    }
+  ],
+  "ArchiveType": "jar"
+}

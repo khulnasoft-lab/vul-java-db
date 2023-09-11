@@ -1,0 +1,11 @@
+{
+  "GroupID": "clirr",
+  "ArtifactID": "clirr",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "j/DkMoIoKaQ5xto8ZSwpehgnCg4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

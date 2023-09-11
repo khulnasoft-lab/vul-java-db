@@ -1,0 +1,47 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "atomium-client-scala_2.10",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "hrLy50c0Py1/PhvkitgVPGBq6kw="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "kaHBLylrzdiWYNiG5FcDynF2psM="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "xmqAEG736/BpkJi1q6/DXJaN27k="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "6dRKjUG+uGhokgAgmW4UE3H/lTQ="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "kgJ9KVSXCCHhy1Rhf6lbqMU6DZQ="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "tXuXMg3Wb7uNBorIkboUMHC5QqI="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "JQbmDjnJuvDS0J08osA4CUn2OkA="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "7zzMPXjq6Y6ePeCs6zJgidM7mpI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "1qa5kDKuKICddfOLdLIhLqgbnKM="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "MXpcPgT+KcFziZm4NG0NXvNAKIM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

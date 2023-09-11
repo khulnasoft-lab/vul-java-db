@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.swim",
+  "ArtifactID": "swim-client",
+  "Versions": [
+    {
+      "Version": "3.9.0",
+      "SHA1": "YAFUeTo8H3w4xHyJJ4EbfgZSmC0="
+    },
+    {
+      "Version": "3.9.1",
+      "SHA1": "Da2apA0H9qcSo2MFJbDLSHIrwmQ="
+    },
+    {
+      "Version": "3.9.2",
+      "SHA1": "ikaqvy49a22yavy2ApTN8501aKs="
+    },
+    {
+      "Version": "3.9.3",
+      "SHA1": "SS6YCMcrPu5G2NbXgjAUM23BOcI="
+    },
+    {
+      "Version": "3.10.0",
+      "SHA1": "UtDoZZ81t1WKzy0vvQtGCAZnQGM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

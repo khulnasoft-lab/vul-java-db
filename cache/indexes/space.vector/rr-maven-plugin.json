@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.vector",
+  "ArtifactID": "rr-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "J0xfjhzwUeC17hqD4AvZ+qwir/Q="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "jd502/z01u8xMgzTMbtrCJ5saDU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "dropwizard-cmd-dbunit",
+  "Versions": [
+    {
+      "Version": "0.3.4",
+      "SHA1": "+LntAsQEa9dXkn4HJN2pdCXPCEU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

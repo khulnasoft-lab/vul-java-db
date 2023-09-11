@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.faces",
+  "ArtifactID": "jsf-api",
+  "Versions": [
+    {
+      "Version": "1.2_09-03",
+      "SHA1": "9jEuco1vN+eTCpy0gfFYhIdBp/8="
+    },
+    {
+      "Version": "1.2_15-03",
+      "SHA1": "1e9YFIHPViLJrEsyQqxMkXV4lwg="
+    },
+    {
+      "Version": "1.2_15-04",
+      "SHA1": "Z8yKgoqRUl2qmicIH0R9SuRSz94="
+    },
+    {
+      "Version": "1.2_15-05",
+      "SHA1": "gRCjipEgchy3Qqt/9rz7Zyj24U4="
+    },
+    {
+      "Version": "1.2_15-06",
+      "SHA1": "+1qnhDyNblSUSqOsMog7RZXNW6M="
+    },
+    {
+      "Version": "1.2-20",
+      "SHA1": "wLtKIrSH2ijHlXYWVKyZjI/jD38="
+    }
+  ],
+  "ArchiveType": "jar"
+}

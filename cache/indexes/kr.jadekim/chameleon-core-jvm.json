@@ -1,0 +1,19 @@
+{
+  "GroupID": "kr.jadekim",
+  "ArtifactID": "chameleon-core-jvm",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "W4+G/qA1Mo/J6MZgdzA3o0Ac4l8="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "W4+G/qA1Mo/J6MZgdzA3o0Ac4l8="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "W4+G/qA1Mo/J6MZgdzA3o0Ac4l8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

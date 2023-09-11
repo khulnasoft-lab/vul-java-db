@@ -1,0 +1,23 @@
+{
+  "GroupID": "builders.dsl",
+  "ArtifactID": "spreadsheet-builder-api",
+  "Versions": [
+    {
+      "Version": "2.2.1",
+      "SHA1": "xfgBeB1KERdXrrXWtin8Yp8I+HM="
+    },
+    {
+      "Version": "3.0.0.RC3",
+      "SHA1": "W4susAWRPEz6KtY7bYqSBYtFnLY="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "7ALLDdO11GMHTUzuWGmj1te1MuE="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "kbHw33jVfH7W/cPExz4qCYJ64ns="
+    }
+  ],
+  "ArchiveType": "jar"
+}

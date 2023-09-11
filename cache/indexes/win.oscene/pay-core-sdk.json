@@ -1,0 +1,11 @@
+{
+  "GroupID": "win.oscene",
+  "ArtifactID": "pay-core-sdk",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2jwGeO6KJOlivcmDVFz0qsOFoGg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.nextbillion",
+  "ArtifactID": "nb-kits-turf",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "s2fiP6Q7vvlE3HF3n7YTOwGMbUY="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "mQ8CuiJOgXJW1hjFNWuI0RzNZkE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

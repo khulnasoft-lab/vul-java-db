@@ -1,0 +1,11 @@
+{
+  "GroupID": "tec.uom.lib",
+  "ArtifactID": "uom-lib-assertj",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "X3ZSuFFH+HlN2t5C7RuWVivyJOk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

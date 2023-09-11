@@ -1,0 +1,19 @@
+{
+  "GroupID": "fun.mortnon",
+  "ArtifactID": "flyrafter-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "1Fwc3dCl9xoVVMvfES9qWkoKJCw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "JGecCS7lcF0pUoImFRWRZnm+Fjg="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "5L2jHp9kq5eqMm59SnI/7DWXg5I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

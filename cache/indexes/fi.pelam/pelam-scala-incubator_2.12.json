@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.pelam",
+  "ArtifactID": "pelam-scala-incubator_2.12",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "Zfut4by34skdgN7LcUNJbBb7zK8="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "GfSq3kG0JSRgFCYugsJAEdnUirw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

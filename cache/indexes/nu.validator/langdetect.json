@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.validator",
+  "ArtifactID": "langdetect",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "RWgAN1eAKt1Yd3ax3CMTP2rXcB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

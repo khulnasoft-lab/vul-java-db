@@ -1,0 +1,15 @@
+{
+  "GroupID": "no.obje",
+  "ArtifactID": "checks",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "wF/oFFORCkHuPE9ooGweAtdJjRw="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "5lJkh8KCqEuY6caFGMQLkpyHPZc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

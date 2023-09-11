@@ -1,0 +1,155 @@
+{
+  "GroupID": "pt.lightweightform",
+  "ArtifactID": "lf-kotlin",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "FiHtbfTsDhK9lzMP76vZYmrhmR0="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "aGTz1XvVftovWD/A3WtjX9vOAsU="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "DrPSz3DAV8HOERlROshV+CJ/ZBE="
+    },
+    {
+      "Version": "4.1.1",
+      "SHA1": "3Iw0NlPeqydf6Pb3d9QhN6Qc1cQ="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "Y6QOXIndeOlhfqzrUM8FRDLNesw="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "ggcmOPpupFm42tBQf+RO0oNSsF8="
+    },
+    {
+      "Version": "4.3.0",
+      "SHA1": "QPSi/rQv7a5NHvSldPsI6IAlsuI="
+    },
+    {
+      "Version": "4.3.1",
+      "SHA1": "RUG8h2FSxPe8Tdl+LRcjP+cDwwg="
+    },
+    {
+      "Version": "4.3.2",
+      "SHA1": "uc9ANHZKlx54ABS7uJ0GiGfimHQ="
+    },
+    {
+      "Version": "4.4.0",
+      "SHA1": "OFsYQKcUYhzpQs7iBmkGVXSGEsQ="
+    },
+    {
+      "Version": "4.4.1",
+      "SHA1": "DT2QLuXNxEUdvZ/XjfcKZPg5e7g="
+    },
+    {
+      "Version": "4.4.2",
+      "SHA1": "bno8NkK0B//cfjY5NyNcZkBdjms="
+    },
+    {
+      "Version": "4.4.2-legacy-ie11",
+      "SHA1": "apw0dYZuo6sC+SfvDKjNHI6aMdo="
+    },
+    {
+      "Version": "4.5.0",
+      "SHA1": "vnAg/EkYJma3d76BECJpb3U+q8g="
+    },
+    {
+      "Version": "4.5.0-legacy-ie11",
+      "SHA1": "uTd5vgSeGqx61oiIN2sPJgD/d+0="
+    },
+    {
+      "Version": "4.5.1",
+      "SHA1": "pqPbbt68HGnpFevlgcTP2yQO67Q="
+    },
+    {
+      "Version": "4.5.1-legacy-ie11",
+      "SHA1": "IkpKnszV7M28JotCNxgyUUDbqyM="
+    },
+    {
+      "Version": "4.6.0",
+      "SHA1": "rE1pnGd0apW7AO1AtM9KEPEacKE="
+    },
+    {
+      "Version": "4.6.0-legacy-ie11",
+      "SHA1": "qKPfUDOC7LUvbrZ3ju64H4wbQOg="
+    },
+    {
+      "Version": "4.7.0",
+      "SHA1": "Yc0c4cPHzoVNBda8rQ/tHrl4IL8="
+    },
+    {
+      "Version": "4.7.0-legacy-ie11",
+      "SHA1": "KuSwKUHbnjOKV6pAB+2HR2aafhE="
+    },
+    {
+      "Version": "4.7.1",
+      "SHA1": "yhc3ojp2DPP21cmAY7uuFc4TXIk="
+    },
+    {
+      "Version": "4.7.1-legacy-ie11",
+      "SHA1": "0Xo1bv+IAhPeLkimv17yi63BRfM="
+    },
+    {
+      "Version": "4.7.2",
+      "SHA1": "QYQbIMtWsSGry3jPWBm5/S1CPwk="
+    },
+    {
+      "Version": "4.7.2-legacy-ie11",
+      "SHA1": "vR7MRB+gsxlrhVmavXZHk0eQMts="
+    },
+    {
+      "Version": "4.7.3",
+      "SHA1": "oqxFOBz49PHFnrA5rJ3ZrJHSpVE="
+    },
+    {
+      "Version": "4.7.3-legacy-ie11",
+      "SHA1": "9FroCkKCFN8BrtJkvRjpidEpccU="
+    },
+    {
+      "Version": "4.7.4",
+      "SHA1": "+INZrp1vJ4Hoov+7jG14/K8nhDQ="
+    },
+    {
+      "Version": "4.7.4-legacy-ie11",
+      "SHA1": "gD4xM2Zgmo5xVmIegQlOIVLDOnE="
+    },
+    {
+      "Version": "4.7.5",
+      "SHA1": "6cczprYbqNXwbAaljwN9y8HC8jA="
+    },
+    {
+      "Version": "4.7.5-legacy-ie11",
+      "SHA1": "nJw/xQmBr0syL2ChW+zJ0wh31L0="
+    },
+    {
+      "Version": "4.8.0",
+      "SHA1": "aN9jDfSDo2sZ2tAcaSh47CZlyzw="
+    },
+    {
+      "Version": "4.8.0-legacy-ie11",
+      "SHA1": "fph2Jse2GuSJvyuJabngWyW4l1o="
+    },
+    {
+      "Version": "4.9.0",
+      "SHA1": "1zTQ5IwzZGJ4mvjsryyoWahv3lE="
+    },
+    {
+      "Version": "4.9.0-legacy-ie11",
+      "SHA1": "CH4rGCpG19xO3OybFBNZjJ4Ttxs="
+    },
+    {
+      "Version": "4.10.0",
+      "SHA1": "qah9ytsUGGP7V2KIKI2+6aYsMzM="
+    },
+    {
+      "Version": "4.10.0-legacy-ie11",
+      "SHA1": "zY2T+u6yOklnXdR4As6n5eWLLOE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

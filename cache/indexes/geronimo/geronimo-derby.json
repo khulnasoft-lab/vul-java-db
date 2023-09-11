@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-derby",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "ILuRKLfVCv/ywCdcOvba5Qf+puo="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "2pTSgsisqS4TuJWxTuazRVrIFuI="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "GeSJnxdjfJYVwUKBBPxRZLYB98o="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "abtJuTlb+cy8QA3xOinWuF+aXs0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ink.siera",
+  "ArtifactID": "siera-utils",
+  "Versions": [
+    {
+      "Version": "alpha",
+      "SHA1": "3gUhIVL7FCHibphCG915jZDRxQo="
+    },
+    {
+      "Version": "beta",
+      "SHA1": "OID9naxttITsJotk2El+TRSPg3I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

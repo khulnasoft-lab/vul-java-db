@@ -1,0 +1,31 @@
+{
+  "GroupID": "xin.xihc",
+  "ArtifactID": "spring-boot-iview",
+  "Versions": [
+    {
+      "Version": "2.9.0",
+      "SHA1": "WR368toQ4EvbmhFxJ/dYldTko8s="
+    },
+    {
+      "Version": "2.9.2",
+      "SHA1": "IJ0mqTR0xLI6jp6xBpSEySjn010="
+    },
+    {
+      "Version": "2.10.1",
+      "SHA1": "dkJi9FDyqEZWExJey5GTwU9OmIM="
+    },
+    {
+      "Version": "2.11.0",
+      "SHA1": "pAuXoSHvAZOy/P6+gO6KBQn6YRo="
+    },
+    {
+      "Version": "2.12.0",
+      "SHA1": "FWQvoNdQqTp8BQE4CxMtWcbtuCQ="
+    },
+    {
+      "Version": "2.13.1",
+      "SHA1": "SVTx+2a61h6JjLPSYNwCogF0vH0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

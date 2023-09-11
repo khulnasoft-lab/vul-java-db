@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.radley",
+  "ArtifactID": "play-plugins-salat_2.11",
+  "Versions": [
+    {
+      "Version": "1.5.0",
+      "SHA1": "b8Sr3Gv57FpSqKClDtftW+4j6io="
+    }
+  ],
+  "ArchiveType": "jar"
+}

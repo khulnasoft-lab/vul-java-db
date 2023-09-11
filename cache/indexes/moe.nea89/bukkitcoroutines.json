@@ -1,0 +1,15 @@
+{
+  "GroupID": "moe.nea89",
+  "ArtifactID": "bukkitcoroutines",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "jFhM6EHPb8Qaq9Pdj6gv1IAkCSQ="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "TEsBtGneffiyGfv1+DuuuADK8m8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

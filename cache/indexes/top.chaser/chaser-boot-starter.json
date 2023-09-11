@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.chaser",
+  "ArtifactID": "chaser-boot-starter",
+  "Versions": [
+    {
+      "Version": "B-1.0.3.RELEASE",
+      "SHA1": "Dq2w02DF2212A3EB2SezQf9f5OE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

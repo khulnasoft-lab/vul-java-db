@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.tnb",
+  "ArtifactID": "system-x-apicurio-registry",
+  "Versions": [
+    {
+      "Version": "0.0.13",
+      "SHA1": "Sf6uSk9gfvWYN7CyQ7wGBjnwbqg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

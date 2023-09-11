@@ -1,0 +1,15 @@
+{
+  "GroupID": "vip.appcity",
+  "ArtifactID": "celery-core",
+  "Versions": [
+    {
+      "Version": "1.10.4",
+      "SHA1": "+bHXVKpgOt2q8cL7l6x+3dUsJzQ="
+    },
+    {
+      "Version": "1.10.5",
+      "SHA1": "jMhlRpZvALvgdXSluFqLQaT7CUE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "club.pizzalord",
+  "ArtifactID": "galadriel-authority",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "MNPq8nyGaZ8w/1gcJb4hhXnNoN0="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "j5U0GT5mDrML3Zy80Dejinj28Y4="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "VW0rli8vYz2pIc+aNbsVLXLih1o="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "A/808F4WLxVzKddOrm5CtW4dyjI="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "w0pWrAAfhcaVnUbGfg9RqhYQQsk="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "jN9q0OMfNzWxojuaTJDJxrNPAG8="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "3kVTyfpSkLdkUTUgA0hXr12lJ/c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "studio.raptor",
+  "ArtifactID": "ddal-sqlparser",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "wNr2GLbJE/tX9V22osM+KJkEiQg="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "Gsh/rAgxjJbyZRxp3m/vJ8Q0ODk="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "f5VlHBZtaJ3yL3AC5G0WVFj3k3A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

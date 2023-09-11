@@ -1,0 +1,55 @@
+{
+  "GroupID": "ai.quantnet",
+  "ArtifactID": "qnt-scala_2.13",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "3bTGO4n+FWXQn+jgm5KbJmSoDBo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "p5p3KXlw5D9u4ooIQNyO+IOvL9M="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "mW61LQx+ehzixPgeYzcig0r5GoA="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "CzBKGjXCeUZ23v1zE5HsvVkaJCs="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "iSQdEMXIX66CehlUJbppvgWYHS4="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "jPFJ9CAXk9F1BFyIKnFFnU8EI/0="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "2936s6Di8dGBP9FRYN8H38cA9Go="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "4SYW+NTxJDSZ1pyjiUKu4sXUcAo="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "aJRlZOj2pQUYLZlZZaqgLDF9eyY="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "Kxx0jAz6a5mZ4vZg6rd8HowzkPQ="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "g7aYVAjCiL3tldlu5DcFqAfjMk4="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "V54IZ88m24VBNHPG6dhOSkPSwJ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

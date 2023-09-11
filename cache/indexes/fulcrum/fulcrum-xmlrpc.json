@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-xmlrpc",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "da0kncy4qn8LV1i30n1XBXXRZTM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

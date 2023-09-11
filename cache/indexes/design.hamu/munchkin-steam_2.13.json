@@ -1,0 +1,11 @@
+{
+  "GroupID": "design.hamu",
+  "ArtifactID": "munchkin-steam_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "W5htwT3eixQtt/f9OzVcqH5uMXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

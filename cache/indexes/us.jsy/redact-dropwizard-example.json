@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.jsy",
+  "ArtifactID": "redact-dropwizard-example",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "DU57LZQtr472qgjOBrppWboHBok="
+    }
+  ],
+  "ArchiveType": "jar"
+}

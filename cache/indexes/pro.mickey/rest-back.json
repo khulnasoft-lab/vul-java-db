@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.mickey",
+  "ArtifactID": "rest-back",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "2L3XM/f8i9me9jzs8mr76jS8/TI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

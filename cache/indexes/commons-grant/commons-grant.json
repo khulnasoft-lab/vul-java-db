@@ -1,0 +1,27 @@
+{
+  "GroupID": "commons-grant",
+  "ArtifactID": "commons-grant",
+  "Versions": [
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "bX/5Xo+q/PTUFdUbRHVQcRmUNNk="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "+lX8Ihy7IqJea9dipVcAiAK/oaM="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "BZEcCzjNoThVNtaWCZDxuSTaoi4="
+    },
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "E6N1QeKH0qHoFD1L9aCX8uAFq+s="
+    },
+    {
+      "Version": "1.0-b1",
+      "SHA1": "ptIrLRg3ke9s870gSOKe0YYKadk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

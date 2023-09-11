@@ -1,0 +1,19 @@
+{
+  "GroupID": "javax.mail",
+  "ArtifactID": "mailapi",
+  "Versions": [
+    {
+      "Version": "1.4.2",
+      "SHA1": "9RSfCq8B2vS7L4eMKAPOY03TJWk="
+    },
+    {
+      "Version": "1.4.3-rc1",
+      "SHA1": "/+w+4krP1VCPCq/xrnEYR/NXUag="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "EkYA412QMdpQ5fZ2Yf+nQVQfj2o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

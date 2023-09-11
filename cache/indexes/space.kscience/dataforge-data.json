@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.kscience",
+  "ArtifactID": "dataforge-data",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "WEiYM+BrGBn+WbkXbeuHhUaHuPE="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "5O8Z0Vjj6eBG+Ifd6f9A0qeksaQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "log4unit",
+  "ArtifactID": "log4unit",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "YX0Z6Dj3xKDj+Fr5MT7dfUO+Ifw="
+    },
+    {
+      "Version": "0.2.0_1",
+      "SHA1": "M8Z2GtowTufvCcR27AG4VlQ1myQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

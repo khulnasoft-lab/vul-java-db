@@ -1,0 +1,67 @@
+{
+  "GroupID": "ai.whylabs",
+  "ArtifactID": "whylogs-java-spark_3.1.1-scala_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.2-b6",
+      "SHA1": "ERtuT9VBpaGhGwC4bTpkUVj+b+8="
+    },
+    {
+      "Version": "0.1.2-b7",
+      "SHA1": "IojZEuU9Cy//EmUz13kKCqilBzk="
+    },
+    {
+      "Version": "0.1.3-b1",
+      "SHA1": "r0ucvYEhiq1kxztyr0xXs8uFXqg="
+    },
+    {
+      "Version": "0.1.3-b2",
+      "SHA1": "vQB6rIyPCm3UTYS59hkm37CdKOM="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "sYOKuAamsqnOyf18u9z+QmdorOo="
+    },
+    {
+      "Version": "0.1.4-b0",
+      "SHA1": "Qx3PIJSimLlWaUOo3VGsapOalyU="
+    },
+    {
+      "Version": "0.1.4-b1",
+      "SHA1": "7IbRAIQcXejSaeq1RnmFNR0gKt0="
+    },
+    {
+      "Version": "0.1.4-b2",
+      "SHA1": "ch/EfADeFn0WyVl/N82jfEVIhh4="
+    },
+    {
+      "Version": "0.1.4-b3",
+      "SHA1": "59MYPbs+h+RSEcZvecFjiVzFO+k="
+    },
+    {
+      "Version": "0.1.4-b4",
+      "SHA1": "LnBKloUoffI+z+fi8BWaAvYxIcc="
+    },
+    {
+      "Version": "0.1.4-b5",
+      "SHA1": "JmtO4zjJoxPVz6brYWSTA2WV7N4="
+    },
+    {
+      "Version": "0.1.4-b6",
+      "SHA1": "0aeyUK8NRyAl8W9MvXB0iBsHLyA="
+    },
+    {
+      "Version": "0.1.7-b1",
+      "SHA1": "2Z+x1rV0zn+r4qyspOmHqYH6hkg="
+    },
+    {
+      "Version": "0.1.7-b2",
+      "SHA1": "gV77aHbJTPj5ur+k6gEjP/2B0PQ="
+    },
+    {
+      "Version": "0.1.8-b0",
+      "SHA1": "sIJO7LzE1zg5tBnwfSI7/WhSQ5I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

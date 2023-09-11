@@ -1,0 +1,43 @@
+{
+  "GroupID": "xmlrpc",
+  "ArtifactID": "xmlrpc",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "HxCaYzoPlkxUCQfsKZ5COp64jpU="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "cKNdjLXBvJ9c/VHTKmDChSjsd/s="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "+rE08IgnKHVmbBqClBPLZEAa2xQ="
+    },
+    {
+      "Version": "2.0-beta",
+      "SHA1": "iYb/hAuX7DbJXw4QojfKwh+Ppbg="
+    },
+    {
+      "Version": "1.2-a1",
+      "SHA1": "9TcJnARlk7KmZgTDjlHR1g8gz8U="
+    },
+    {
+      "Version": "1.2-a2",
+      "SHA1": "HxIpskk0BQ7W0lzv2aJJBk73XsA="
+    },
+    {
+      "Version": "1.2-b1",
+      "SHA1": "L+ifub5N7e4u7l28nyJgT+kq+Yg="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "qzw1A4Rqjz4JsAxp1EAm8iTwjj4="
+    },
+    {
+      "Version": "3.0a1",
+      "SHA1": "3tnxpQYUw9EPYs/J22H0VIKxRxo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

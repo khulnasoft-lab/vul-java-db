@@ -1,0 +1,19 @@
+{
+  "GroupID": "ltd.icecold",
+  "ArtifactID": "OrangeAPI",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "GaR98DuHigrnthyWKd914L1jtic="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "rYeicPn4qF749W7Uh74p5QNXgWE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "osB0CKGn/m0w/4ycN+5yBJQt1yU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

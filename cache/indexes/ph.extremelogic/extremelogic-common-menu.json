@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.extremelogic",
+  "ArtifactID": "extremelogic-common-menu",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "a+gMOuo+qDKt6nO0vQaYLuhFR4U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

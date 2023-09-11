@@ -1,0 +1,19 @@
+{
+  "GroupID": "ms.dew",
+  "ArtifactID": "dew-maven-agent",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "hu6OIQJs6wpfhsTE30WnqWMPjyo="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "9nl7AvkOv6/q+roLFh+95adhETQ="
+    },
+    {
+      "Version": "2.0.0-rc",
+      "SHA1": "J6sK+KxPhXtxH40kuf8kEcxxNpE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

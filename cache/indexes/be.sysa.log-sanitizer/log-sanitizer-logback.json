@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.sysa.log-sanitizer",
+  "ArtifactID": "log-sanitizer-logback",
+  "Versions": [
+    {
+      "Version": "1.0.2-beta",
+      "SHA1": "y7Zs2bF46riWgDvmQL8BekekQ0g="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "4PMGw1QkglkClAzOHmMnNAw6FD4="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "GBG24aGdw6q8szSScUBCTtiuPMY="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "2jw6MS0yrf88DOrw3Tue+rOxyo0="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "IAhtgLO1AtbdVtjX+RdvjQq478s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

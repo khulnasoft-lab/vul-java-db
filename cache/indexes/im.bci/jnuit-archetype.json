@@ -1,0 +1,43 @@
+{
+  "GroupID": "im.bci",
+  "ArtifactID": "jnuit-archetype",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "WfiIlyf9StahquYKs4W4V71AjEk="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "1dTO641HbMJCGHYCTf1FUYjRe18="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "T1UzfY+nuzjr3Y3w8U8/cVtz4Lo="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "3oSDIUGdWckfCxoVDVkA0pI6niw="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "GcGpZNy3MLZC6uPMhaAt/OE5QEY="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "nEcsisghwvZGMrJPio6nh5azdUc="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "sFsxEBuN5x7OoUzKR8ZK640Z/Mk="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "3czZCHmozIOLaZnsvQkux74IlZE="
+    },
+    {
+      "Version": "0.13",
+      "SHA1": "hnTrWvkuZ11iZ0+XlzfJ6ci5ioQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

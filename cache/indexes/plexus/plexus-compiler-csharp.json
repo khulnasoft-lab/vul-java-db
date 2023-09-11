@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-compiler-csharp",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "Gt7CqWNm3Y8eJK2bvJ2wFQRKCNQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

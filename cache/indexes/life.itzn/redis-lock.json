@@ -1,0 +1,11 @@
+{
+  "GroupID": "life.itzn",
+  "ArtifactID": "redis-lock",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "AJnPoRsqYpd3ydNSkgYZcT/MAe4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

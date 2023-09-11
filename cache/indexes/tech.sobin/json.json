@@ -1,0 +1,19 @@
+{
+  "GroupID": "tech.sobin",
+  "ArtifactID": "json",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "S4tkJEqlo77H8j1mrkW2haLWsk4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "UpiExleDkwe5G5i0yG34y/TOZLM="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "/B39pY8EcO2wAT48WpGq3WGv7Bw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

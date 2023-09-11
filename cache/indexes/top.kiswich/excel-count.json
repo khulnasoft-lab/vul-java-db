@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.kiswich",
+  "ArtifactID": "excel-count",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "F/JOoK2nB/fvuN4eykYNWWeK6v0="
+    },
+    {
+      "Version": "1.0.1-RELEASE",
+      "SHA1": "QerU2F7wkkhj0lTBy/fEwION38I="
+    },
+    {
+      "Version": "1.0.1.1-RELEASE",
+      "SHA1": "aIKDk4z6iikFXR5cguF0ZL6m+wo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

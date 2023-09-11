@@ -1,0 +1,43 @@
+{
+  "GroupID": "edu.gemini",
+  "ArtifactID": "benchmarks_3",
+  "Versions": [
+    {
+      "Version": "0.1.8",
+      "SHA1": "onSWqCk84xL6xxgHlyStMeieXh0="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "dn+WUjK8XshIk2wN845uKWo0R8U="
+    },
+    {
+      "Version": "0.1.10",
+      "SHA1": "xrHZLZ+v+WOG9IDUVqhPc4QnJTw="
+    },
+    {
+      "Version": "0.1.11",
+      "SHA1": "FOswIuRvbZsJl2KESK4xvYLswWU="
+    },
+    {
+      "Version": "0.1.12",
+      "SHA1": "/s2leQBjVsLuSnqK9uHj33QPoOo="
+    },
+    {
+      "Version": "0.1.13",
+      "SHA1": "2K58jsILB5XttxAFFQVuOBdbO9Y="
+    },
+    {
+      "Version": "0.1.14",
+      "SHA1": "acvHmGH3lzlEzOwTTgTNWPYpH3A="
+    },
+    {
+      "Version": "0.1.15",
+      "SHA1": "GwyLKYYOs/U2hpq3GRlq+TJbCWs="
+    },
+    {
+      "Version": "0.1.16",
+      "SHA1": "ha0m1ubQ8SUo7ne0zG23z0Ny6uo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

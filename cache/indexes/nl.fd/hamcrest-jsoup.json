@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.fd",
+  "ArtifactID": "hamcrest-jsoup",
+  "Versions": [
+    {
+      "Version": "0.1.11",
+      "SHA1": "b4BangFySRgSZ9n5c+CGKopWEaA="
+    },
+    {
+      "Version": "0.1.12",
+      "SHA1": "VHQokSVR4+QBplRc8/xJ5CaukFc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

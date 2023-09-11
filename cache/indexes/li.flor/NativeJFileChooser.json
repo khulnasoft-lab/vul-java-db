@@ -1,0 +1,11 @@
+{
+  "GroupID": "li.flor",
+  "ArtifactID": "NativeJFileChooser",
+  "Versions": [
+    {
+      "Version": "1.6.3",
+      "SHA1": "Nq71QIffcyzXYIDnAGmzjv76MKE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

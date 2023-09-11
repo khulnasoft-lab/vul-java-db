@@ -1,0 +1,15 @@
+{
+  "GroupID": "emberio",
+  "ArtifactID": "emberio",
+  "Versions": [
+    {
+      "Version": "0.2-alpha",
+      "SHA1": "jq+o8mqLzfQqjsK+yRIC4F18FiA="
+    },
+    {
+      "Version": "0.3-alpha",
+      "SHA1": "hmjwWMqhoyws6d/Y6s7SouGt5QU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

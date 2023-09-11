@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.samson.maven",
+  "ArtifactID": "checksum-enforcer-rule",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "T30fRxDfK+l/sxPOZII8sn0qHY0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

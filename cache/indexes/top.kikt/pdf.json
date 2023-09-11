@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.kikt",
+  "ArtifactID": "pdf",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ZMWA57nR5HFR7EBe9zrwVhx3tG0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

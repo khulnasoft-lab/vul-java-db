@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.zenyoung",
+  "ArtifactID": "boot",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "xdbu+8y9gtuLjapfcYaCnR2xNL4="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "tIHC2iyV1pA8rpulaRv71jlRWk8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

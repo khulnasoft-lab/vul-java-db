@@ -1,0 +1,15 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "swt-linux-gtk-pi",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "wpwpmVbEbLLLVdh3xmJ07bHPvYE="
+    },
+    {
+      "Version": "3.0m7",
+      "SHA1": "XDJJfKCSKucvIaFpHFAS4lcO4Mo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

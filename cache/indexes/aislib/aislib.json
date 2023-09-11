@@ -1,0 +1,11 @@
+{
+  "GroupID": "aislib",
+  "ArtifactID": "aislib",
+  "Versions": [
+    {
+      "Version": "0.5.2",
+      "SHA1": "VFaEH1KsqIxNbgGc7MB30v130ak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

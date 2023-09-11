@@ -1,0 +1,11 @@
+{
+  "GroupID": "wrapper",
+  "ArtifactID": "wrapper",
+  "Versions": [
+    {
+      "Version": "3.0.3",
+      "SHA1": "X7vUIKdY5cIjg8QFi3/zbhPm/jA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

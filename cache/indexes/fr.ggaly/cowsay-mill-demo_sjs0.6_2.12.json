@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.ggaly",
+  "ArtifactID": "cowsay-mill-demo_sjs0.6_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "yacyCSIUNNDIr35py+MhEL/RNDE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

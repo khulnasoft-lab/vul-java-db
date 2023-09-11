@@ -1,0 +1,11 @@
+{
+  "GroupID": "graphics.scenery",
+  "ArtifactID": "jopenvr",
+  "Versions": [
+    {
+      "Version": "1.0.5.3",
+      "SHA1": "aeAuT6kvmUQOJZL3rPNiF4akMG8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

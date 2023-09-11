@@ -1,0 +1,11 @@
+{
+  "GroupID": "gnu.getopt",
+  "ArtifactID": "java-getopt",
+  "Versions": [
+    {
+      "Version": "1.0.13",
+      "SHA1": "uymsLCq4uSlF8BcG3ktWyXmJxqk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

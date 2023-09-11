@@ -1,0 +1,15 @@
+{
+  "GroupID": "us.oyanglul",
+  "ArtifactID": "finagle-prometheus_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "nk3ruFSR8KTkNW4y0pyMxPHX56U="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "wAqMraeNtXy79Eu+uM8lPeCMP1w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

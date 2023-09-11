@@ -1,0 +1,11 @@
+{
+  "GroupID": "edu.eckerd",
+  "ArtifactID": "google-api-scala_2.12.0-RC1",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "kcqZWS36w7kei12FD4FuNgcPAkI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

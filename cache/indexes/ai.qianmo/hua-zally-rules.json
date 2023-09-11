@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.qianmo",
+  "ArtifactID": "hua-zally-rules",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NkfIYOQZnAFujChxIThsm/014yo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "+6Bfm3gnzE5m/Xj/flKj90EJquE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

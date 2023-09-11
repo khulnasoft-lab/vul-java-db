@@ -1,0 +1,35 @@
+{
+  "GroupID": "se.llbit",
+  "ArtifactID": "chunky-core",
+  "Versions": [
+    {
+      "Version": "1.4.0-beta2",
+      "SHA1": "8Toa8b1IkFEXkBEfBoJ77OAy0wk="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "UsMIug5jfBWsIVuKdvMcYxTzr0g="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "m33GoysRxLfE/NIP10b9XSh4SIk="
+    },
+    {
+      "Version": "1.4.2",
+      "SHA1": "FeOW6P2Fo0X870QaWngYLUwStd0="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "nTVwDNw9hWuyhKqLIZfxrwbhJ/k="
+    },
+    {
+      "Version": "1.4.4",
+      "SHA1": "pFruQIPFzy2k/U8m5ij+x9Whx5U="
+    },
+    {
+      "Version": "1.4.5",
+      "SHA1": "5shmXPYTI59rgHJhZVpA5b3mXg8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

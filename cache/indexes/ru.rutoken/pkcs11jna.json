@@ -1,0 +1,27 @@
+{
+  "GroupID": "ru.rutoken",
+  "ArtifactID": "pkcs11jna",
+  "Versions": [
+    {
+      "Version": "3.2.0",
+      "SHA1": "uwhpaNpB+hseJcODX72U/Yg0Ooo="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "nUeEON6z29wJ8187BL3SEanh0kM="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "I8o2qXXyfV0TXBca9hgvD7P7mA8="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "T0bBQw9RXXy4KlEKNOeF3LTTFkE="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "zE7hCNd9NbIMcePgvjmTybiTBf8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "edu.illinois",
+  "ArtifactID": "nondex-common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KsOUGnu6y6pq8H508FKDQ1pwezg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "yToMZG/fK4AVJnzNbxTn+dfzAjs="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "ZuTJpvZ2OR7E3rXuNwfYCG/XagM="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "oa2gCjNXgA1TXGB2UNzLXb5TIIM="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "IpsaJMvPkl341wwk9ZL3T92KUuA="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "wYXK3uqjzi+dp/FkwU1zap9naWY="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "SwyoulcrqnjRX4ofPs8ruRjL6bE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

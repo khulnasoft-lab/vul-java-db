@@ -1,0 +1,19 @@
+{
+  "GroupID": "it.davidepedone",
+  "ArtifactID": "spring-cursor-pagination-common",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "XlGPwVrws86nXiK3wJsFvRpCEuI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "n7QxuKTbzj6dWtgAuPkb/ynzRMw="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "A87BsFX8cpu2nS6W0TuV4worEGs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

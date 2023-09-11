@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "wsm-axis",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "FYF4Ooh6aCRT0ejTkpOaHm8ZQ/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

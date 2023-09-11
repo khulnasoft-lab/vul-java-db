@@ -1,0 +1,31 @@
+{
+  "GroupID": "lt.tokenmill",
+  "ArtifactID": "beagle",
+  "Versions": [
+    {
+      "Version": "0.1.7",
+      "SHA1": "I4Q/un71aoWHzsTf3K3he/r0GRI="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "UkceW9TXG6GXCeHTgLJmf5/UDXo="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "D2ZNeluET+TfhmGZY5Yb93K2zWk="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "IMOkygiVmPcJFy2JGnGSyLtvA20="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "A++anY82Tu1gYiefXJfwN2qL5NU="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "73tUzxZe8V72G5cHTrL/EEMIzmY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

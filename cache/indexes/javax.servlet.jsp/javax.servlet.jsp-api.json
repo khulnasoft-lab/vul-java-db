@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.servlet.jsp",
+  "ArtifactID": "javax.servlet.jsp-api",
+  "Versions": [
+    {
+      "Version": "2.2.1",
+      "SHA1": "nQ27xEWz2Pg9g3YipODIJGebQKc="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "N5UzT0MGsZQAPhbfukERoEZ6Sb0="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "lcYwkCVl/tqBVesy1GBk7zSENfw="
+    },
+    {
+      "Version": "2.3.2-b01",
+      "SHA1": "Bw3hHpMIXyJdBIA+FO52uTdE9fQ="
+    },
+    {
+      "Version": "2.3.2-b02",
+      "SHA1": "Aoc4cBWzi7T8XV8IXJOKtRv4KwA="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "gRkauA40KRLcnOpzXDD/Tt3GTeM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

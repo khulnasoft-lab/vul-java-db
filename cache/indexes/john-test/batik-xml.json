@@ -1,0 +1,15 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-xml",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "DV4mRcY+Lb3qzDNrs3iN+ajvdMk="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "TywYoNQbiATm/STxg6VntBySjtA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

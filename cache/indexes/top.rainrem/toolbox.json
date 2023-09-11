@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.rainrem",
+  "ArtifactID": "toolbox",
+  "Versions": [
+    {
+      "Version": "1.0.0-RELEASE",
+      "SHA1": "b6SqkJN2X1X6NhNc+yxV/hLDEnU="
+    },
+    {
+      "Version": "1.0.1-RELEASE",
+      "SHA1": "yy2lmUv788Q6ta+f1YgEfLNDc+A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

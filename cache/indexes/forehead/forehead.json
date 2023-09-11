@@ -1,0 +1,27 @@
+{
+  "GroupID": "forehead",
+  "ArtifactID": "forehead",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "13q9FpaJ4oQgPqwYfo04x/U0y40="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "d//6LnonAbyKnnRHHVN4oU+dmZk="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "hR3c+tLIiDdgIcAS1hW/IDskUmM="
+    },
+    {
+      "Version": "1.0-beta-4.20020727.110713",
+      "SHA1": "YjHFCajTWwBMcH23VUQfmr+1/9o="
+    },
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "5zQ8uD7STt5/DY9mUHLDN3kCcFk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

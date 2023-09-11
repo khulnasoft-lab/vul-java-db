@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.e404",
+  "ArtifactID": "skiko-util-apt",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "uT7ItWUqIto9vTgdW6g6vjS8kxQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

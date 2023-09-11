@@ -1,0 +1,23 @@
+{
+  "GroupID": "pl.raszkowski",
+  "ArtifactID": "sport-trackers-connector",
+  "Versions": [
+    {
+      "Version": "0.1.0-alpha1",
+      "SHA1": "o4g4uXZ+KagLo7giCP7JUqAP59k="
+    },
+    {
+      "Version": "0.1.0-alpha2",
+      "SHA1": "H8kiPg5VOKhv13lPtm7l1DCqahA="
+    },
+    {
+      "Version": "0.1.0-alpha3",
+      "SHA1": "+TyluFuPLr0Jl5lVl70FxOmpMUU="
+    },
+    {
+      "Version": "0.1.0-alpha4",
+      "SHA1": "ouZ7ndz+eTWzYZ2pb2T+CtcBrxo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

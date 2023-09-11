@@ -1,0 +1,27 @@
+{
+  "GroupID": "tk.labyrinth",
+  "ArtifactID": "jaap-examples",
+  "Versions": [
+    {
+      "Version": "0.2.4",
+      "SHA1": "S5O10HV1ktPGl4fOU94981cR8bE="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "+3aIQ005QuVj4zsNbmUaipsx8oY="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "dcbtI58eD7mDrlY3LT6N4mOUwvg="
+    },
+    {
+      "Version": "0.2.6b",
+      "SHA1": "OkYKfK8DSnVDvC4wmez+/IAuHEw="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "KD0IFn5nEa4ljNHIFSyTil+MvU0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

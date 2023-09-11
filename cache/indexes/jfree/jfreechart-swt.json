@@ -1,0 +1,11 @@
+{
+  "GroupID": "jfree",
+  "ArtifactID": "jfreechart-swt",
+  "Versions": [
+    {
+      "Version": "1.0.17",
+      "SHA1": "xOL+070snbm28q4DtXue1T5gi6c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

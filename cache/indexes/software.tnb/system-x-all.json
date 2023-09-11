@@ -1,0 +1,15 @@
+{
+  "GroupID": "software.tnb",
+  "ArtifactID": "system-x-all",
+  "Versions": [
+    {
+      "Version": "0.0.12",
+      "SHA1": "tenwOQ6Vffy55IMaueZh81Wo9jU="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "NisdXIwpwluPtzjU1XyRpDcn0AI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

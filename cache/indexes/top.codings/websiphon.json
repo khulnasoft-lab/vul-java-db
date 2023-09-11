@@ -1,0 +1,43 @@
+{
+  "GroupID": "top.codings",
+  "ArtifactID": "websiphon",
+  "Versions": [
+    {
+      "Version": "0.1.16",
+      "SHA1": "8X4EnFxX/W1wU1u0WiHKJo8Vn+A="
+    },
+    {
+      "Version": "0.1.19",
+      "SHA1": "YMQleeehNqMO8MWunnB80zUgtS8="
+    },
+    {
+      "Version": "0.1.20",
+      "SHA1": "AHyTTkHj63yP2wQYRHiUajqfFqQ="
+    },
+    {
+      "Version": "0.1.21",
+      "SHA1": "qkxEBd+sjS1kqTOmPYvmGCDqymI="
+    },
+    {
+      "Version": "0.1.25",
+      "SHA1": "DaXSrdWA6CKLQcbqrJW9ZQ7IY5Q="
+    },
+    {
+      "Version": "0.1.27",
+      "SHA1": "eUsCeWVuYWbyB7AxCWrhoOzU4hE="
+    },
+    {
+      "Version": "0.1.30",
+      "SHA1": "EL5/DD/LZLxxEXXtAXgEQ/FTYrw="
+    },
+    {
+      "Version": "0.1.31",
+      "SHA1": "BxMYNikoIiAeybueTTIxhErSFSg="
+    },
+    {
+      "Version": "0.1.32",
+      "SHA1": "LxOV2wfi3uS2IopicE3TyOJ8IEw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

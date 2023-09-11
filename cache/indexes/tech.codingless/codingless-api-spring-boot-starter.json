@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.codingless",
+  "ArtifactID": "codingless-api-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "tAvXl2dajZik+enKrjqb6yhsMhI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

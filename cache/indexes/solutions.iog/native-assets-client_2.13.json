@@ -1,0 +1,19 @@
+{
+  "GroupID": "solutions.iog",
+  "ArtifactID": "native-assets-client_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "a60A+4DQYqqbi5xC7AyVtR0+jrw="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "51ZCpm1R9enKcTYZVsRz0Dje+yQ="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "nZK443i9rASmN2zyHqs0BEYA4DI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

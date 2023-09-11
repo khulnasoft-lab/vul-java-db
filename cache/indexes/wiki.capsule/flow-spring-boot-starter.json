@@ -1,0 +1,11 @@
+{
+  "GroupID": "wiki.capsule",
+  "ArtifactID": "flow-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.2.0.RELEASE",
+      "SHA1": "lUBSEQ64bO1Hre62e4gAVFjqXgo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

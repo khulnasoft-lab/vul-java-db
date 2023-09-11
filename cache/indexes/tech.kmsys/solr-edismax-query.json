@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.kmsys",
+  "ArtifactID": "solr-edismax-query",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "hniGLLBxIzeVbA2/1EmMDGHfEhU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

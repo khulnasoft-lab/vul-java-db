@@ -1,0 +1,15 @@
+{
+  "GroupID": "kg.apc",
+  "ArtifactID": "jmeter-plugins-autostop",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "kJATbwak6xViVWsjfAYYzXwn3hQ="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "/ZoM8CAQpHJf9IqFYOfGPreXwGA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

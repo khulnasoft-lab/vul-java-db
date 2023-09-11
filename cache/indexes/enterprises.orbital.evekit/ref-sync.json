@@ -1,0 +1,23 @@
+{
+  "GroupID": "enterprises.orbital.evekit",
+  "ArtifactID": "ref-sync",
+  "Versions": [
+    {
+      "Version": "4.0.1",
+      "SHA1": "J1QFIaFCPu7EiuKSvTt7Xh5Bv4Q="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "k/nxKwx7f0VPMny3Wc279SqR9EQ="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "cjNj26Zt6S0icUMWAtEvXB081OA="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "9NlJ9Uhmij67OInyI/V/jrZQbLA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

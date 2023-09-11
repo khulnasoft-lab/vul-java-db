@@ -1,0 +1,35 @@
+{
+  "GroupID": "it.andreuzzi",
+  "ArtifactID": "CompareString2",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "n4rE+98LURRh7A71jNYTa4ggeYU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "XeZeoSkJvznAcZUAAlhp8NTIpk8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "WBe46mCKkebVl6HfWmaDL3CEtmA="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "/7Ac90Qb0QJoNa/Rw2tZJtV5TeY="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "eSOIDCaelUZWBBV3XKhbfEL7HPo="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "ZKNjYH/aINSApSymTi55wLIGnMo="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "tyw1EaraEAn+lfBArgyPPZGvgXA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

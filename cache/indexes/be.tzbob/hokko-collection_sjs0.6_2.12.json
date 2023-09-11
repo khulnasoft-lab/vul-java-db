@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.tzbob",
+  "ArtifactID": "hokko-collection_sjs0.6_2.12",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "fTGMVfa0KkhtULQnBIIj8MfywEs="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "KbinnTyed3XAZYC96mQyWH6pkmg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

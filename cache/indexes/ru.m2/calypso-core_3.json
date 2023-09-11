@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.m2",
+  "ArtifactID": "calypso-core_3",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "77gOKcI71lh6NZQh1kBZs/Uk84k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

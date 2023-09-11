@@ -1,0 +1,23 @@
+{
+  "GroupID": "at.meks",
+  "ArtifactID": "easy-validation-args",
+  "Versions": [
+    {
+      "Version": "2.0.0-RC2",
+      "SHA1": "PAS5YxqdssJRvfhX23iQ+Wh6eP0="
+    },
+    {
+      "Version": "2.0.0-RC3",
+      "SHA1": "hs8Yht7BNUytoLcwKZ2GhzgdJU8="
+    },
+    {
+      "Version": "2.0.0-RC4",
+      "SHA1": "DyLlXbW00Kl1Rs8IDKAyXYCtVuA="
+    },
+    {
+      "Version": "2.0.0-RC5",
+      "SHA1": "lWGdDHoRUiPQ4T5TKa5qOUS6leg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

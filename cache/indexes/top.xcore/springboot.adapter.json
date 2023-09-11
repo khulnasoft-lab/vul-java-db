@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.xcore",
+  "ArtifactID": "springboot.adapter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "z9LBzQHcRMBqw7xL7Ape9v1CCh8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "fTzy2RxtvdubfzMa+PoalAFrFDs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

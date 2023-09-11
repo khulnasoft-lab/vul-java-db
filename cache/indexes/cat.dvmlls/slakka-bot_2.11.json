@@ -1,0 +1,59 @@
+{
+  "GroupID": "cat.dvmlls",
+  "ArtifactID": "slakka-bot_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "2PBlrmBNn2kVH/E9/m43/5KY8V8="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "HeoSAhtxdg51JiS2bWeZxiWLcgU="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "a6nCC/WA8XaUmGfopyAqxLXc0ZA="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "kXVqwhO0sv0A4Qkab+Fbz6K49UM="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "ibFdZ+Q0P0s/EgGvSMlrwTDpZME="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "RG7LoepWc8JdQTnjtlvbkI5qGGQ="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "UZTXiMMEW6uXl2iNYAV3gzgbjVM="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "hoS+f39k1PL5cHtALFlTGklRxdY="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "psYZ+eyqW00QM7dDIg9ARWlqXUU="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "Jw068R6vvnu0f3H/B9yAd4PpuxQ="
+    },
+    {
+      "Version": "2.9.0",
+      "SHA1": "ZvASZiP9zlaPIJ4t4lyhpfyYWbk="
+    },
+    {
+      "Version": "2.10.0",
+      "SHA1": "tc8lXD2lEygOYN7w4Bw/CJlsbPs="
+    },
+    {
+      "Version": "2.11.0",
+      "SHA1": "7UpVQrVgP0hXPniAcI4lZbjcDlU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

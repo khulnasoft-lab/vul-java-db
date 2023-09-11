@@ -1,0 +1,35 @@
+{
+  "GroupID": "top.xserver",
+  "ArtifactID": "idempotent-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1.RELEASE",
+      "SHA1": "njVyD31swvvKV2x0aOXtgDj9bRI="
+    },
+    {
+      "Version": "0.0.2.RELEASE",
+      "SHA1": "CpisS3D3+6lSwK/pV17EiFVooyw="
+    },
+    {
+      "Version": "0.0.3.RELEASE",
+      "SHA1": "LMLhBvhZE1lKkVUe2v0nc4GGYe8="
+    },
+    {
+      "Version": "0.0.7.RELEASE",
+      "SHA1": "PUeoAcZ6AmCw0N78QX2aBwhhPpQ="
+    },
+    {
+      "Version": "0.0.8.RELEASE",
+      "SHA1": "D/YHsvm3JcLc7G48IslMw4nPLKQ="
+    },
+    {
+      "Version": "0.0.9.RELEASE",
+      "SHA1": "cImyTY/JsegfnF+ha4ehXAtVDmw="
+    },
+    {
+      "Version": "0.1.0.RELEASE",
+      "SHA1": "3fAgN18UWUdrVUsKtUta4HKCp+I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

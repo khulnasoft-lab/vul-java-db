@@ -1,0 +1,95 @@
+{
+  "GroupID": "cactus",
+  "ArtifactID": "cactus-ant",
+  "Versions": [
+    {
+      "Version": "1.4.1",
+      "SHA1": "MB0zjTLJz0/Hf+2R+4EC3sXU8/c="
+    },
+    {
+      "Version": "12-1.5",
+      "SHA1": "CAB+ESzjtZdci453tDQkWZrfk9Y="
+    },
+    {
+      "Version": "12-1.5-beta1",
+      "SHA1": "BFnyKVSTDOJd97xr2MpkB8BcWYc="
+    },
+    {
+      "Version": "13-1.5",
+      "SHA1": "MoBlfTgck2vSzqPMKzWsrLE6NSo="
+    },
+    {
+      "Version": "13-1.5-beta1",
+      "SHA1": "rq1Qp80n6WAGmw8IXr4VYebD4bA="
+    },
+    {
+      "Version": "13-1.5-rc1",
+      "SHA1": "7JiJfa4+dUECcbMca6pnNwZRe1Q="
+    },
+    {
+      "Version": "13-1.5dev-20030522",
+      "SHA1": "1386rarCi9FgHwXiSS+tyDZhsWM="
+    },
+    {
+      "Version": "13-1.5dev-20030607",
+      "SHA1": "lbwDk0raP9tQWLTQx/ESB4A59DE="
+    },
+    {
+      "Version": "13-1.5dev-20030619",
+      "SHA1": "3IdQen6kg12IFj3C9ezA+GMmFwg="
+    },
+    {
+      "Version": "13-1.6",
+      "SHA1": "ZFhH1LD3s2YVU9fBV00dl4OV8XI="
+    },
+    {
+      "Version": "13-1.6.1",
+      "SHA1": "hwUjgnxkPu3zaSTmpyucSEKIXTw="
+    },
+    {
+      "Version": "13-1.6dev-20030807",
+      "SHA1": "dauBzYsHk+UVCXkXTHXaQZ/3WC0="
+    },
+    {
+      "Version": "13-1.6dev-20030809",
+      "SHA1": "CbHSuLXtSnovSysHIE2j9nXZRkM="
+    },
+    {
+      "Version": "13-1.6dev-20030829",
+      "SHA1": "2hW9TtvpIUIdelFFAvYveYkMryQ="
+    },
+    {
+      "Version": "13-1.6dev-20040115",
+      "SHA1": "S+AHzMgzMNsDdzMAkTlDm6gGn0A="
+    },
+    {
+      "Version": "13-1.6dev-20040226",
+      "SHA1": "a6kMcrOgGpMCAzWblet6fc9q2d8="
+    },
+    {
+      "Version": "13-1.7",
+      "SHA1": "SoT4/hZ3Hhh/Hx+6zdLFqsmXTKs="
+    },
+    {
+      "Version": "13-1.7dev-20040815",
+      "SHA1": "ZM97EHrZaq6qAlxLgZUv5VUg7qE="
+    },
+    {
+      "Version": "12-1.7.1",
+      "SHA1": "RukiGPbj9OTB9nG/RxzJ8wUO2/U="
+    },
+    {
+      "Version": "13-1.7.1",
+      "SHA1": "jIfsnw+AcoQVHM6+q/nuvvDDMpY="
+    },
+    {
+      "Version": "12-1.7.2",
+      "SHA1": "lk4IOQz9+boYxCAsTCUFOvcMoDw="
+    },
+    {
+      "Version": "13-1.7.2",
+      "SHA1": "hVP7jtBt/ZAGpSq7jkaomPFEbQg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

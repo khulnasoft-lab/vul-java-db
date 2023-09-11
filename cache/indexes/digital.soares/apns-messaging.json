@@ -1,0 +1,11 @@
+{
+  "GroupID": "digital.soares",
+  "ArtifactID": "apns-messaging",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "nF1kSOpZJ9Aa1nx0NwBnWnVCRSA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

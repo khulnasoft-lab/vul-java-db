@@ -1,0 +1,27 @@
+{
+  "GroupID": "javax.transaction",
+  "ArtifactID": "javax.transaction-api",
+  "Versions": [
+    {
+      "Version": "1.2-b01",
+      "SHA1": "HAt+pHp5GR7AAl8ervxHL6OiGbE="
+    },
+    {
+      "Version": "1.2-b02",
+      "SHA1": "zbvvamIP/pM0IH8tPUUsCWzxgWc="
+    },
+    {
+      "Version": "1.2-b03",
+      "SHA1": "cck2qqDk55U6GwSwnRayYo3xt98="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "2Br/l51gPt2Q3NjbKrwfTOZHnj4="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "4Aat9c88yiGB0WvWQOy4AUjsD84="
+    }
+  ],
+  "ArchiveType": "jar"
+}

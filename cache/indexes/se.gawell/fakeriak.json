@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.gawell",
+  "ArtifactID": "fakeriak",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "c8on8rlZ8OVm/rw75fRP0XMAoEQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

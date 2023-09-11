@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.howaric",
+  "ArtifactID": "spring-boot-starter-graceful-shutdown",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LAdiIjVI1IpE/n4fyZJTGm72ALU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

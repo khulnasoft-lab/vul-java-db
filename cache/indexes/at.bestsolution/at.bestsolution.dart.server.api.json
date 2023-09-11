@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.bestsolution",
+  "ArtifactID": "at.bestsolution.dart.server.api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "gs0JFiSglIhHscjwDxri1s7bU08="
+    }
+  ],
+  "ArchiveType": "jar"
+}

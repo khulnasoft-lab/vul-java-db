@@ -1,0 +1,19 @@
+{
+  "GroupID": "cz.diribet",
+  "ArtifactID": "chystat-api-client-java",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6rVtdCHL2lHJ/KLX84AyAsib0lw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Qnpp/VKdxlQAqaszHAcbgGEUeCk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "nIpngSUs47ySTu9+0l+JXWqFlEg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

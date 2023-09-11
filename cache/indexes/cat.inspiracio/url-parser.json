@@ -1,0 +1,11 @@
+{
+  "GroupID": "cat.inspiracio",
+  "ArtifactID": "url-parser",
+  "Versions": [
+    {
+      "Version": "0.0.0",
+      "SHA1": "WtwvOSUzoK9KrkpgMeMj/qBCs44="
+    }
+  ],
+  "ArchiveType": "jar"
+}

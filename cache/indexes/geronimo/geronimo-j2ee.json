@@ -1,0 +1,31 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-j2ee",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "F3Ax1PWocAtbCK2RTETKORDwprA="
+    },
+    {
+      "Version": "1.0-M2",
+      "SHA1": "zKbHCq+2rlOYRDud2BnHDZZEkaQ="
+    },
+    {
+      "Version": "1.0-M3",
+      "SHA1": "z/0mB5KtZSd/WaS638+mn6fCMM8="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "fBsdEPvGo0GkJfHYK3TqEVtcoKg="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "kzTQ6ly2IFtXn3EMLQihf3dAWec="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "3+hoZ+TdL3GZAIrUEb3RY8rrRBE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

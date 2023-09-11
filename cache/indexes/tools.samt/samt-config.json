@@ -1,0 +1,23 @@
+{
+  "GroupID": "tools.samt",
+  "ArtifactID": "samt-config",
+  "Versions": [
+    {
+      "Version": "0.0.8",
+      "SHA1": "GolwH3iX+19Mawqg3lAAYINwIH0="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "8FZuZy2w0NHTH4FaWkK7KUh8A60="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "Eg/yZxjNo8wHWPXvviyFxWAdC9I="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "vFnWpsKtQ89/SmQXOVkDs0qgJtk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

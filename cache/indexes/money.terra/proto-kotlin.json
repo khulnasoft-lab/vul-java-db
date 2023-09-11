@@ -1,0 +1,27 @@
+{
+  "GroupID": "money.terra",
+  "ArtifactID": "proto-kotlin",
+  "Versions": [
+    {
+      "Version": "0.5.5",
+      "SHA1": "qmWLEoP3oBlHOSfajNSYPNwaKjk="
+    },
+    {
+      "Version": "0.5.16",
+      "SHA1": "3P5uO37nXn1K00AejB/beFxx7lE="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "M72wG/8qJAVAZkBzi0XNKLbecQs="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "y4Z17JAwHsPtjhvePCwSc7TmQsc="
+    },
+    {
+      "Version": "2.0.1-beta1",
+      "SHA1": "1hOvibknX6NJZ8JD9+HCnO4qjUY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

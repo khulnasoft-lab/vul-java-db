@@ -1,0 +1,11 @@
+{
+  "GroupID": "plus.hutool",
+  "ArtifactID": "hutool-plus-extra",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "5tf65qg4l3JbuFUJacMDNPh+toc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

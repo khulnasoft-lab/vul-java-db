@@ -1,0 +1,19 @@
+{
+  "GroupID": "tk.nrktkt",
+  "ArtifactID": "ninny-json4s4-compat_3",
+  "Versions": [
+    {
+      "Version": "0.7.3",
+      "SHA1": "dZIb0ikiiws3+dSH3mUo/YShVe8="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "k0VXMBNu7v3hHOM8YtC6TWQgf1U="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "ZDhhLG0ZchKOyfZ6NdkTC1jY0xs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

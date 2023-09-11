@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.slee",
+  "ArtifactID": "jain-slee",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "gpF4/fvqCEpYnoqmPQZIkpW9FT8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,75 @@
+{
+  "GroupID": "si.uom",
+  "ArtifactID": "si-units-java8",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "8O3vgpgg88o62r2uNqX0g7TKwIg="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "rlUWkPNEumxJXtIKthgnbuFzYAI="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "dvd0ouMNisOMPYX+/NfVdRNL6zk="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "Lmj/U9YtLxxz44PRi8hgyWr/KSI="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "t2AHeXAHR3zlaT1G5vIjks2Wdv4="
+    },
+    {
+      "Version": "0.6.4",
+      "SHA1": "uyFky1PM+SFHQZIpAbkdeGGBUAs="
+    },
+    {
+      "Version": "0.6.5",
+      "SHA1": "5yA1/Hwi7TElLui63900LjWH9o8="
+    },
+    {
+      "Version": "0.6.6",
+      "SHA1": "BqItUEN0HZx7x4TKYtHchnIJHFs="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "3eCrdi7Q2RmEj4624qNnP0GLnys="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "LEFe+c2yatBdjZFIsGFsfpDyrKw="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "9hy2yIjc4E2FyGx63QNnwhjjbH0="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "wih8CyZ62kADb1WSs61kG1fdO0U="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "l94a2ScM4KDMiEkXDpBOGoPlRiM="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "nRKcZvb89OS0wxwrgo+EPc4gwQk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "+X9/q8c7oqSMEZVJkX2v5Ic2zbQ="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "nX1TyBM/j32ii71Eb1mGPCaEHbY="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "e7Iw8WXoZ44wNr0SvaoHPFrPZDc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

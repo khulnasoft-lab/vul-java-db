@@ -1,0 +1,11 @@
+{
+  "GroupID": "work.keane",
+  "ArtifactID": "xh-common-core-db",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "7y7Y6BFRgQf66dphutqo67U9kUE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

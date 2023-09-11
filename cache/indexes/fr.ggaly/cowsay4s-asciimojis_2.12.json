@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.ggaly",
+  "ArtifactID": "cowsay4s-asciimojis_2.12",
+  "Versions": [
+    {
+      "Version": "0.2.2",
+      "SHA1": "Y9dy4r9fqLpStIUKcfHYptMeRlI="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "NnMB05/q90VDB+XAhWLHHXFjBwU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

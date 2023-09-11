@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-vfs",
+  "ArtifactID": "commons-vfs",
+  "Versions": [
+    {
+      "Version": "20030518103800",
+      "SHA1": "B1DPnIaPrTRXDwMm/gMZZUy+JQ0="
+    },
+    {
+      "Version": "20041214060500",
+      "SHA1": "HftiHqbp+bCvX6eiPxaMQ5vMbBI="
+    },
+    {
+      "Version": "20050307052300",
+      "SHA1": "j8Y/D65oZQKfYI9Fdr+862DNt/k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

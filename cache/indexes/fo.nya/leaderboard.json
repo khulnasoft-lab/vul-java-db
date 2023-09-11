@@ -1,0 +1,15 @@
+{
+  "GroupID": "fo.nya",
+  "ArtifactID": "leaderboard",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "LWauVZEwg20XOQdv4YZ9dE8It6g="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "Qq+5QCVX/m4d/HfrtEU2kgXxBOg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

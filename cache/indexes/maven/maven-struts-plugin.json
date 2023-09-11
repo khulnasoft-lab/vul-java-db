@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-struts-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "dq/37oLOqIpdjangcrvmyO3B+AI="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "LIX9OBH1/E7Y0P9q0+RlL9kF1cU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

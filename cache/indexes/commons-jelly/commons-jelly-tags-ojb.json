@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-ojb",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "cC3gjy665URvE6vt5IaswIaCNJQ="
+    },
+    {
+      "Version": "20030211.141630",
+      "SHA1": "/vyyvG/z/bVHPimJg5w7hArloXc="
+    },
+    {
+      "Version": "20040902.073352",
+      "SHA1": "/vyyvG/z/bVHPimJg5w7hArloXc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

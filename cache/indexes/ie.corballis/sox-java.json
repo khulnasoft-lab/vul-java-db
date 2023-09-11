@@ -1,0 +1,19 @@
+{
+  "GroupID": "ie.corballis",
+  "ArtifactID": "sox-java",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "vcssgu6KDrAeC7hphYKxAoocqno="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gEanWIQJHwjKpYICkkLIRcGjo+E="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "CsyQttMeCKqOggW7QmfnkgdXc5o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

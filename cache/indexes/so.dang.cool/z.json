@@ -1,0 +1,35 @@
+{
+  "GroupID": "so.dang.cool",
+  "ArtifactID": "z",
+  "Versions": [
+    {
+      "Version": "0.0.0",
+      "SHA1": "acDvcIihoMUX9ZDnRyR45wnWtQ0="
+    },
+    {
+      "Version": "0.0.1",
+      "SHA1": "jMwTWT8FGdT0IYVqNSYzJZy15l4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "XVxOoe89vqqfNlGQ/HB1tfQM3WE="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "QfkCp2qUbn3RQ7EnPhZwNjUEnis="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "dyfv7JWpLpRxyDA93fOIN0wJLfk="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "+1mrUYZWx6gisMxraKH8x0Ql4qs="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "gK2X7pA0f2LAA3sXQmMcUhLu7v0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

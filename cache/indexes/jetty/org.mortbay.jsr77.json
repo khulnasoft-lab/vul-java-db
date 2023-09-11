@@ -1,0 +1,95 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "org.mortbay.jsr77",
+  "Versions": [
+    {
+      "Version": "5.1.0",
+      "SHA1": "5uxfp7EwZauBctAfCJdFKatU+0s="
+    },
+    {
+      "Version": "5.1.1",
+      "SHA1": "v3JThj4ZuxDvikNZbMXfaOjAXWs="
+    },
+    {
+      "Version": "5.1.1RC0",
+      "SHA1": "K68AwHJ48djip4+NmEQfphmcO3Q="
+    },
+    {
+      "Version": "5.1.2",
+      "SHA1": "JCCLBJYjkKd7xvjYpmK9BNU4PzI="
+    },
+    {
+      "Version": "5.1.2pre0",
+      "SHA1": "SRyvMTSbRM7LIhmrQtTVjxo1dxQ="
+    },
+    {
+      "Version": "5.1.3",
+      "SHA1": "OjUHlZIsP0F7wMQSRKnUq3+l5QQ="
+    },
+    {
+      "Version": "5.1.3rc2",
+      "SHA1": "QiY4fLuMCojMKbmCOUrQ0NK1jiQ="
+    },
+    {
+      "Version": "5.1.3rc3",
+      "SHA1": "wckdI/BFUGflakioGIT49thOV9g="
+    },
+    {
+      "Version": "5.1.3rc4",
+      "SHA1": "//uMextSqQv3jFS03NqqzW/88kQ="
+    },
+    {
+      "Version": "5.1.4rc0",
+      "SHA1": "sNZFuwpUSkv/l+P8yye1PLJr7CU="
+    },
+    {
+      "Version": "5.1.4",
+      "SHA1": "wAA72D80hyuQaTYz24YvEPMgCyA="
+    },
+    {
+      "Version": "5.1.5rc0",
+      "SHA1": "d6KO0tFbAh/7kRNEkXQPxgxoC/c="
+    },
+    {
+      "Version": "5.1.5rc1",
+      "SHA1": "U/34b06k97fuMTEEaLjZWO5T3TA="
+    },
+    {
+      "Version": "5.1.5rc2",
+      "SHA1": "mUXTiuORVC1GB4u4eWDvc+S9Iqk="
+    },
+    {
+      "Version": "5.1.5rc3",
+      "SHA1": "2kGCZOs7Zwyu5F+xgqH2de5w2YA="
+    },
+    {
+      "Version": "5.1.5",
+      "SHA1": "3CUssN9XoP0WkJ5lmzAvsqMmGDM="
+    },
+    {
+      "Version": "5.1.6",
+      "SHA1": "MEM95f2R/AL4e/elmrL1046XI4M="
+    },
+    {
+      "Version": "5.1.7rc0",
+      "SHA1": "bTHmJBYooWqNVs97mhseQQUzpbs="
+    },
+    {
+      "Version": "5.1.7",
+      "SHA1": "OYEn7XBt3ZJaAsbY3dWm+qX5R1U="
+    },
+    {
+      "Version": "5.1.8",
+      "SHA1": "1Tnm2rvVOZLah0FakUMdjT8QZPE="
+    },
+    {
+      "Version": "5.1.9",
+      "SHA1": "Nsmo9jOMixAbNpMJCN8pNf+df5E="
+    },
+    {
+      "Version": "5.1.10",
+      "SHA1": "57jOnVt4Mg/TZH9p4dzAvIPKQYA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

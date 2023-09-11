@@ -1,0 +1,11 @@
+{
+  "GroupID": "tw.cheyingwu",
+  "ArtifactID": "CKIPClient",
+  "Versions": [
+    {
+      "Version": "0.4.3",
+      "SHA1": "jius8IAiTqqFkypXh3yBu3CcX2I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

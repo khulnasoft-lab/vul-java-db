@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.sn127",
+  "ArtifactID": "utils-fs_2.12",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "l6CKjFZgnXfBNYvwZMNUB64d8KM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

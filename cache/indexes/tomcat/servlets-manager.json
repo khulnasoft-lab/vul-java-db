@@ -1,0 +1,15 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "servlets-manager",
+  "Versions": [
+    {
+      "Version": "4.1.31",
+      "SHA1": "nuOWKc7jbB59rKeiK6SrhC1Qc50="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "IY2OB/DK+hFSVPoTqw69dUtJZSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

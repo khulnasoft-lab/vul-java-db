@@ -1,0 +1,79 @@
+{
+  "GroupID": "dom4j",
+  "ArtifactID": "dom4j",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "BpCzEIpQLI8DPqh+cniuwwn/pmg="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "sC5afFTKXbj2ikXeCr/Q7wkAy2M="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "jey34sBMk0A3Wq991Dp6apuaRrE="
+    },
+    {
+      "Version": "1.4-dev-2",
+      "SHA1": "RCcP8JE7nGe+eld75LSBtPZfvsY="
+    },
+    {
+      "Version": "1.4-dev-3",
+      "SHA1": "2RucFR2OQF4lIDEnLjm9PRFswzM="
+    },
+    {
+      "Version": "1.4-dev-4",
+      "SHA1": "5bIOJmVPfxPDtnDaRdsnySWpIlM="
+    },
+    {
+      "Version": "1.4-dev-5",
+      "SHA1": "c3X5bPcuCTqCjlpRyyTY3AxNfYY="
+    },
+    {
+      "Version": "1.4-dev-6",
+      "SHA1": "swnMM216F4GY2VdimycZUjgK6ZE="
+    },
+    {
+      "Version": "1.4-dev-7",
+      "SHA1": "/EXLH+j+W5YPmn8o9YJdZaWEYHc="
+    },
+    {
+      "Version": "1.4-dev-8",
+      "SHA1": "c8qn1WeVV+tBhSzW4+pU069aTzs="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "RnQsO7UcHivEhnhLu8JGrHHW+c8="
+    },
+    {
+      "Version": "1.5-beta-2",
+      "SHA1": "WAjxiplN+s/MrJ9ADnq5vtsyGtU="
+    },
+    {
+      "Version": "1.5-rc1",
+      "SHA1": "0RJY0JvOY2pPCCZ/YquOccC2B0Q="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "jzMYCdfM74cQiFSRwai9UxrlQeU="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "7b/LIaeVUj0NieVYF8V6PJztkOM="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "UpVV3U04cqWfWsIUz76P4TOcJx0="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "XTzMBWtvBW2/Dd399DiUuQZaj5Q="
+    },
+    {
+      "Version": "20040902.021138",
+      "SHA1": "fHn5ep0+VTwzd0819bKHG0+IQO0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

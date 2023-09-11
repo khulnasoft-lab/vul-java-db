@@ -1,0 +1,11 @@
+{
+  "GroupID": "bsh",
+  "ArtifactID": "bsh-bsf",
+  "Versions": [
+    {
+      "Version": "1.2b7",
+      "SHA1": "HNWMZVoBXwxl2TJ14r2Yjfo937k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

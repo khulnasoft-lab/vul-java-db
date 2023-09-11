@@ -1,0 +1,23 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "CryptoPlugins",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "zxGTsDwlilBe4umNMBD1bVZlOPs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "MTtiIjSVofya7cIuEaoClUomjSk="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "ZjXBzOLmOByJUJCPiK7oC+HAF/c="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "5bwqWYpv/KeB9rXdLPjBs092Tgc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

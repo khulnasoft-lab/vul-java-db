@@ -1,0 +1,91 @@
+{
+  "GroupID": "se.vandmo",
+  "ArtifactID": "dependency-lock-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.0fcba43c95c016556b4ef8d51d8aee999a0c51b3",
+      "SHA1": "Q4Ff9DXAVItcrGt50oXb8Y8wrII="
+    },
+    {
+      "Version": "0.0.1",
+      "SHA1": "49mKqmVjis81Km8dcWc3GSoquLE="
+    },
+    {
+      "Version": "0.0.04d7dd844a26dcdd085a71fde56b36f1747b2cf9",
+      "SHA1": "wg1KrQUzp4lAUczJYp2xNscnSwo="
+    },
+    {
+      "Version": "0.0.78f56707b3a1d639c8e769bba1686587e9a89564",
+      "SHA1": "hWCnfjspO+ZqEvuLwc35L5TGcrs="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "+tOocRDhBXZ/20FEm1PxW8KyccE="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "kV/J/MaCTAuG53DEdgtiBsrKcyA="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "IwkDMPuJHEQ8fvjbOPxSAvZAn/4="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "pz8BiFLy4/L/S+JyUtsUJAppQts="
+    },
+    {
+      "Version": "0.13",
+      "SHA1": "gmbapuavrbKnCoAQcu2bqvzy4R4="
+    },
+    {
+      "Version": "0.14",
+      "SHA1": "HZDVEmbdsWE2qsoWAyiaYwC0u6Y="
+    },
+    {
+      "Version": "0.19.0",
+      "SHA1": "u8WgDiqF7EzxzVlRlPwlkZt+MZo="
+    },
+    {
+      "Version": "0.19.1",
+      "SHA1": "PMerSmg0ZN1uFmQzJ5nRSqRact0="
+    },
+    {
+      "Version": "0.21.0",
+      "SHA1": "bT3tt1PBTTSeCC2yrFCFCaise4E="
+    },
+    {
+      "Version": "0.22",
+      "SHA1": "5oCtNGc/PotA5y16Z88Dx/xw4xE="
+    },
+    {
+      "Version": "0.23",
+      "SHA1": "VXYd+dMOusArvaNfpFu77Gw0sPM="
+    },
+    {
+      "Version": "0.24",
+      "SHA1": "PRxp0esYb29uzpR8MZ/Phc2I8kQ="
+    },
+    {
+      "Version": "0.25",
+      "SHA1": "d1o0zHEG2nZU5ZgfHBVzhqH61uU="
+    },
+    {
+      "Version": "0.26",
+      "SHA1": "UnGs9DOlsc0I9LedcJDTn7h6qZg="
+    },
+    {
+      "Version": "0.26.1",
+      "SHA1": "86ESQSNtvCzi916YJ45rTW9T780="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "/gpS4FFyRWngzclC3pjh3TTbz7c="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "bPC9zykw5LVD3ILj8s7Fe3WgsuI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

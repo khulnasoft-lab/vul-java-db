@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.molindo",
+  "ArtifactID": "aws-maven",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "U8zEzen442zHUdlbJHRo1CTEMUs="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "VruTsupe+971k2NnANXaWobKB7o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

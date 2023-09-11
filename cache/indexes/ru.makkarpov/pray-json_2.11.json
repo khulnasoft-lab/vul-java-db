@@ -1,0 +1,27 @@
+{
+  "GroupID": "ru.makkarpov",
+  "ArtifactID": "pray-json_2.11",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "+Zdv7dTIQQ7pVgoosDZnZa1BEck="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "7uzMk03HauTrJ6YM8lWa+d1xgJQ="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "gUkgzhTtigjdKAQ9yWVmxoHIHKg="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "ceT2v179rvLWAoyEQwYJZb7k6Us="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "P1ddWCcO9JvYLpjYZMhRdAXbhYQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

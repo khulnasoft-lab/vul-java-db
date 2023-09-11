@@ -1,0 +1,27 @@
+{
+  "GroupID": "africa.absa",
+  "ArtifactID": "inception-scheduler-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "67GG2eC6+eRwC92Cgr6k2RZBCQ0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "+6uTZDeQ6sVCaB860ThWqkEB/y8="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "ULLec2Fc/Esmyfpn3jF8WQNVUv8="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "y8T/Vjj7S1jMeI3f6l2waT0bCXY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "QFPmdwXhjwfvm3Uer3Cpg5bkH84="
+    }
+  ],
+  "ArchiveType": "jar"
+}

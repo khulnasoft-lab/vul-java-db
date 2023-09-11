@@ -1,0 +1,11 @@
+{
+  "GroupID": "ant-contrib",
+  "ArtifactID": "ant-contrib",
+  "Versions": [
+    {
+      "Version": "20020829",
+      "SHA1": "QiJ2++DHjdSXM8kmTFvT3V4RosA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

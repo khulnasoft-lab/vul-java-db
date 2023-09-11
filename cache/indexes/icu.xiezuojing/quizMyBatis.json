@@ -1,0 +1,15 @@
+{
+  "GroupID": "icu.xiezuojing",
+  "ArtifactID": "quizMyBatis",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "y1QPoG4yO0uIydSCxAYl7mqN9BY="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "UVIhpvU6dxlewRzQzgSqql4EusY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

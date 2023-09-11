@@ -1,0 +1,11 @@
+{
+  "GroupID": "skinlf",
+  "ArtifactID": "skinlf",
+  "Versions": [
+    {
+      "Version": "1.2.3",
+      "SHA1": "Ti1WfgWGPygV3WmxLzPcLt6khoM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

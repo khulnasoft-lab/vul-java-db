@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.alipsa",
+  "ArtifactID": "exec-renjin-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "3fxufuZVNqy/cRQXPUqOD+3uf1Q="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "52xRjDzgxSSjvLpg/fcvvGL3Neo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

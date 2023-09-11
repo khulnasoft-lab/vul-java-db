@@ -1,0 +1,11 @@
+{
+  "GroupID": "la.vui.api",
+  "ArtifactID": "spring",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "1CVjzHy/hVX3wJyiE61FYpYPCYM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

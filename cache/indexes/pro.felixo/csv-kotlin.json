@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.felixo",
+  "ArtifactID": "csv-kotlin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "2fAllkLx0631SH6ZtVo66rK2Xdw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

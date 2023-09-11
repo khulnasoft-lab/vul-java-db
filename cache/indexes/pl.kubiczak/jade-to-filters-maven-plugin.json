@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.kubiczak",
+  "ArtifactID": "jade-to-filters-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0-RC2",
+      "SHA1": "l/voXl4UjjKwprDbxLTcMm1K5uk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

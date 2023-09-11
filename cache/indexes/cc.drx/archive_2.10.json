@@ -1,0 +1,27 @@
+{
+  "GroupID": "cc.drx",
+  "ArtifactID": "archive_2.10",
+  "Versions": [
+    {
+      "Version": "di",
+      "SHA1": "JHd7L7jFNiZi3d02qLutg1PUsdg="
+    },
+    {
+      "Version": "dj",
+      "SHA1": "G0ROBgepw4zBKAlOYugRszbCd3U="
+    },
+    {
+      "Version": "dk",
+      "SHA1": "BNKLkgRHbsSRrQhTUb65NrpvUTg="
+    },
+    {
+      "Version": "do",
+      "SHA1": "mpkqXhXycQIxd1ki7A/7wm8t7j8="
+    },
+    {
+      "Version": "dp",
+      "SHA1": "c4EF53y44eN52NYJQoyng3Kr5dY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

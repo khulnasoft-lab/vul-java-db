@@ -1,0 +1,67 @@
+{
+  "GroupID": "bio.ferlab",
+  "ArtifactID": "datalake-test-utils_2.12",
+  "Versions": [
+    {
+      "Version": "8.9.0",
+      "SHA1": "KoOGvBGeMf4gg8t6rDMN4Z3BPM8="
+    },
+    {
+      "Version": "8.10.0",
+      "SHA1": "IuhFBf3jMX4VmZyNKMW86zC7ass="
+    },
+    {
+      "Version": "9.0.0",
+      "SHA1": "B4yi6Ec4UR6ZDESO29lhfGv2pbY="
+    },
+    {
+      "Version": "9.0.1",
+      "SHA1": "IoCDO07NiFGfYIN02twm+Rm1Juk="
+    },
+    {
+      "Version": "9.1.0",
+      "SHA1": "wD1dCPjP8HIcnjXFBq6da5ZZKzE="
+    },
+    {
+      "Version": "9.2.0",
+      "SHA1": "720bxYyekuWFdhGPRSEhphpYcLw="
+    },
+    {
+      "Version": "10.0.0",
+      "SHA1": "Wfx6sF7vCxxg1me+rXygNAqCCsw="
+    },
+    {
+      "Version": "10.1.0",
+      "SHA1": "JG4ml8t9ty7QAvLU9Pvgrl01j7w="
+    },
+    {
+      "Version": "10.1.1",
+      "SHA1": "rGWGDIdzGBZm+YpjblhJUIESByA="
+    },
+    {
+      "Version": "10.2.0",
+      "SHA1": "ltNIcLOLytB6qV6jmb4sLdAAvbA="
+    },
+    {
+      "Version": "10.2.1",
+      "SHA1": "/Oc1xEvIV4ROYKsCf5EijuhkmzY="
+    },
+    {
+      "Version": "10.3.0",
+      "SHA1": "k7Hc/lA0cAkF33x/MZ0tDz1Hq5Y="
+    },
+    {
+      "Version": "10.4.0",
+      "SHA1": "BsAdKwYtfYoNpeFT+4kdHcRH0SI="
+    },
+    {
+      "Version": "10.4.1",
+      "SHA1": "N1XxWssVTolkJ1pm5HzRVnHSjIQ="
+    },
+    {
+      "Version": "10.4.2",
+      "SHA1": "pWLD/MaMN1RlWVpPZxjJzCk0COo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

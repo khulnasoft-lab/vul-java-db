@@ -1,0 +1,11 @@
+{
+  "GroupID": "httpcomponents-httpcore",
+  "ArtifactID": "jakarta-httpcore",
+  "Versions": [
+    {
+      "Version": "4.0-alpha1",
+      "SHA1": "DH8i7XnVbvJSv0Zq2kQZIO/HG+I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

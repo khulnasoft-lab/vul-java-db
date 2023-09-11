@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "atomium-format-java_2.11",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "ke77scnUzRtZRTik79dBXBUrpvM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

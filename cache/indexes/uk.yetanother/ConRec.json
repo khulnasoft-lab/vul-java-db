@@ -1,0 +1,15 @@
+{
+  "GroupID": "uk.yetanother",
+  "ArtifactID": "ConRec",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zpWNjAeGFOra1p1HxNgKk1m6xpk="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "W9qc4MNVS9uP7ucwWQZD5jacPZQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

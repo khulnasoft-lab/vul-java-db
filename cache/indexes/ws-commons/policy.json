@@ -1,0 +1,11 @@
+{
+  "GroupID": "ws-commons",
+  "ArtifactID": "policy",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "60A5NHxxklEcslZJJxLUbXhOFcc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

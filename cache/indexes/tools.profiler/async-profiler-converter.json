@@ -1,0 +1,11 @@
+{
+  "GroupID": "tools.profiler",
+  "ArtifactID": "async-profiler-converter",
+  "Versions": [
+    {
+      "Version": "2.9",
+      "SHA1": "1nl1/CGTEjWOnOviVy02+KcmvBk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

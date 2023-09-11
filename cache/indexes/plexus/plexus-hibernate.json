@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-hibernate",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "l1u3ISIPrOpeddkOZ27KK0ztXyE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

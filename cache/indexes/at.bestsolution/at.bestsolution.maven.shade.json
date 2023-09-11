@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.bestsolution",
+  "ArtifactID": "at.bestsolution.maven.shade",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "20vJ8vBCbXs+gOsgpsaJD2rkFWc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "FFrf0I21IR7u8viHscKzVwR8c6M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

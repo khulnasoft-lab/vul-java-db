@@ -1,0 +1,39 @@
+{
+  "GroupID": "qa.justtestlah",
+  "ArtifactID": "justtestlah-visual",
+  "Versions": [
+    {
+      "Version": "1.8-RC1",
+      "SHA1": "7p5v2/tBSVwm/m0hYF93RpLSk6E="
+    },
+    {
+      "Version": "1.8-RC2",
+      "SHA1": "qwcsDFwdAh9kP0wudcoI8YfcwCU="
+    },
+    {
+      "Version": "1.8-RC3",
+      "SHA1": "kUB/JStAMEjUW8ultzruiq2gejg="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "H7+ykBOKhqiDa1q2e15E8qy0GDQ="
+    },
+    {
+      "Version": "1.9-RC1",
+      "SHA1": "NaI06N+nj3iKcd66wRb6DkNfkVc="
+    },
+    {
+      "Version": "1.9-RC2",
+      "SHA1": "K+K0HMKpyBt8SvFRt4Gj6ju8g4k="
+    },
+    {
+      "Version": "1.9-RC3",
+      "SHA1": "hJfc6XMJGsBZNVJYdYnTsTJikyk="
+    },
+    {
+      "Version": "1.9-RC4",
+      "SHA1": "cUW9K2kRxbAwIKxVTakm4j1Qkkg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

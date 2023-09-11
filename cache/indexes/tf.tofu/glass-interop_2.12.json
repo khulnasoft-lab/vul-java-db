@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "glass-interop_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "5h81u48mSrCbPT9eTNxwqf+hFAg="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "zd5fIbCM/U0cuDjdSzYg3MFCn20="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "l8BufcMHEP/AaBcxTdk3dEwKj+I="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "wlqwMkaqLSWKGuxxnwTRSSOq0bs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

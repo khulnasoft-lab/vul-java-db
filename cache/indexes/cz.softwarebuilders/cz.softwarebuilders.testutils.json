@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.softwarebuilders",
+  "ArtifactID": "cz.softwarebuilders.testutils",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "q+PBIhR5hSuBvn2ZKFhrRLuc4Rg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

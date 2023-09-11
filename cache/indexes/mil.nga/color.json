@@ -1,0 +1,11 @@
+{
+  "GroupID": "mil.nga",
+  "ArtifactID": "color",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Ll+7fDoKOWbloRhxncENI+SF8j8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

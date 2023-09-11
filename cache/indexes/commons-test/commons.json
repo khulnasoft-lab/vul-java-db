@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-test",
+  "ArtifactID": "commons",
+  "Versions": [
+    {
+      "Version": "test-0.1",
+      "SHA1": "J7ztqy8Tfjy7VH5TVThCExFx2jo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

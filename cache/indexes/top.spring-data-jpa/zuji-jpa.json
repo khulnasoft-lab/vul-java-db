@@ -1,0 +1,51 @@
+{
+  "GroupID": "top.spring-data-jpa",
+  "ArtifactID": "zuji-jpa",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "FwQs2zKKvwZdMSl/yIASVopl0lc="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "o6l8v8+5UxQ+y7byfFKwhWrG894="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "lSXBWftzfCfmtS6ZgOQgoCruS90="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "LDIWm25W4V585cItoPK44iBolcY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "uBq4LkOA7g+fVjJ6s2dYgAJdiuI="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "+VwvDxxvc/Vb9fnGG75qsycyMn0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "knyazrTAMLNa+gWA/uDnWsLe4vg="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "gwZpRX8hleqKVL3Nz1KaCmvtWdE="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "IlmojLqwT/DFcVRKcFv43Dgj0Jk="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "awN2OPL+UHz/3vg3lFB/CAMMid0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "wfg9UFSoRuTh1mtu7RLAd509qjw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

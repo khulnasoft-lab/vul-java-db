@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.cloudway",
+  "ArtifactID": "gramba-easy-reflection",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "pTRxqNhSj3pkXtlwVjvKKfObN3I="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "J6iw1+I+NO5wipYOqPKE7YxpOnk="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "2wHMSwbHv9pz0o4/tA44ONOZhjI="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "4u+eNkentv0WZhnCNg83no/RrDw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "Evf8lgQSzt4bavVUYieRVtVHq/s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-util",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "BTNhTaTyqp2FckpgU+rfY41dZTE="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "0E11fQGaaUt/NFlH8JsyUwEDTQ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

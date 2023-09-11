@@ -1,0 +1,15 @@
+{
+  "GroupID": "nu.studer",
+  "ArtifactID": "java-ordered-properties",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "cubYE6OMYaZi51GkvhjnwXK+yRY="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "1zQ0g6SR4lNKmRcHd+FKzLr92+I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

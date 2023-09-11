@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.deepsense",
+  "ArtifactID": "seahorse-executor-sparkutils2-1-x_2.11",
+  "Versions": [
+    {
+      "Version": "1.4.2",
+      "SHA1": "a55/bRywFbr/YLxaA02fXVLWqWA="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "01L1mbm8hxvqH0IMACJedLDZiMY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

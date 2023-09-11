@@ -1,0 +1,11 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "jaxb-impl",
+  "Versions": [
+    {
+      "Version": "20050407",
+      "SHA1": "TUXaoZ5+jpQXUxM846eA8wdsCrs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

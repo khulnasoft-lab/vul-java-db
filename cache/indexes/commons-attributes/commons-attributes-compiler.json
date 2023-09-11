@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-attributes",
+  "ArtifactID": "commons-attributes-compiler",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "OfhYDbaoa0GsFBXe2u4uEcpMStQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

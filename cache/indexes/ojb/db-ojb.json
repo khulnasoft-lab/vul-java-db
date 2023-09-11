@@ -1,0 +1,39 @@
+{
+  "GroupID": "ojb",
+  "ArtifactID": "db-ojb",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "atsql/RwTHzYMzIX0R6zJtbC6MA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "FyFgK6LMqOxsLEVb4kNsj6CzB4o="
+    },
+    {
+      "Version": "1.0.rc5",
+      "SHA1": "gl/gHuU9pvfyTmRQbPWcyuJW07E="
+    },
+    {
+      "Version": "1.0.rc6",
+      "SHA1": "PFn6S0/A+0SoOaHnKbRkdIZtbh4="
+    },
+    {
+      "Version": "1.0.rc7",
+      "SHA1": "mbcrM8iXObzDON3DRkrMtloUFtk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "IFiOqBnT0fLsKr8Bm4XJLxUnZ/4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "fcAczdHWETQmV/rKuE8ySefW88I="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Xz/yScaDfPZRanR3Ae3hdv4bdmA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

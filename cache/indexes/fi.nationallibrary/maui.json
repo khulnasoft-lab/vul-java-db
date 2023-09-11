@@ -1,0 +1,27 @@
+{
+  "GroupID": "fi.nationallibrary",
+  "ArtifactID": "maui",
+  "Versions": [
+    {
+      "Version": "1.4.2",
+      "SHA1": "tw6xsFKUKi8KrCcSqdy3c+MZA/s="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "2jfkIulyYMxiBgqCVm9TVX7l5nE="
+    },
+    {
+      "Version": "1.4.4",
+      "SHA1": "JvHVlEGhDmij21+46lfthFdeN1I="
+    },
+    {
+      "Version": "1.4.5",
+      "SHA1": "SKJx0Z3mZpzdRCK+YWKRDKq3hNY="
+    },
+    {
+      "Version": "1.4.6",
+      "SHA1": "EuZ/wZQuwjLyiz7IMqSz98D4haY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

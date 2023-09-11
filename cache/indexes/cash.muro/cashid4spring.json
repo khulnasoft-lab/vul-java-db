@@ -1,0 +1,15 @@
+{
+  "GroupID": "cash.muro",
+  "ArtifactID": "cashid4spring",
+  "Versions": [
+    {
+      "Version": "0.1.0-alpha",
+      "SHA1": "5cvyRWS3hYvYde8Sn/93bA7JKiA="
+    },
+    {
+      "Version": "0.1.0-alpha2",
+      "SHA1": "RC3qDtZyRZxVqQi/IfbpZyCIuLI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

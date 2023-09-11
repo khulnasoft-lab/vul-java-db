@@ -1,0 +1,31 @@
+{
+  "GroupID": "sk.upjs",
+  "ArtifactID": "jpaz2",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "30BKEW6qQ5/gYmbIsIrfFrtB8AI="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "nDKHgKnyktPPHsF88nHXIOBRUnM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "BXZdLCE53XghjVxznT0qdTOV/x4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "8+cM/Tdv3/OpKlKkMrI322NdCjM="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "SPSVLLuKcNi+jNJ/K4r0d5ixE7A="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2+69M59MdfgKoeocaaP9JP2cQe4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

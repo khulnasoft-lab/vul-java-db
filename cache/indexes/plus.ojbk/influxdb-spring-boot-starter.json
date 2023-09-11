@@ -1,0 +1,19 @@
+{
+  "GroupID": "plus.ojbk",
+  "ArtifactID": "influxdb-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "e67KsEU4uiYmGbfYf1swDuVrOF8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "hUxdM9o+Spx/i3krRuJCGmgbZIk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "+bLTugjbedqQPulbmkVbzU+Hd0I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

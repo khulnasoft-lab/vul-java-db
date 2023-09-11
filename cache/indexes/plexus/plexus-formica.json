@@ -1,0 +1,31 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-formica",
+  "Versions": [
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "aYuN0aibD8QkH82TnCVq1KrKy+8="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "sWPZvC879IyALxY5UfPZ+orkH0I="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "MaTkKbe4X3rDPHEepR+6TnoKiq4="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "gj2a+KPUzoLpFDbsVp2ltIz9aqE="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "KkHE3vt9pV1s3yMWIC30wTxUtAw="
+    },
+    {
+      "Version": "1.0-beta-6",
+      "SHA1": "KkIw6cm+S6MOm5H51RIoJ1gtwcY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

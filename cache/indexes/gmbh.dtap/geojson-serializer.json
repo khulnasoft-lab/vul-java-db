@@ -1,0 +1,35 @@
+{
+  "GroupID": "gmbh.dtap",
+  "ArtifactID": "geojson-serializer",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "CnORD/eDUPJYcs/8xiSBycl+epc="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "CWtsLgafMkjcBCHdWfKJptfW63A="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "UUOvTdc1NMZhYnGdc4v6xL+5OiI="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "bdevxpW04EkGgsA41nKxPpdQPFQ="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "pQGCvZQZwKKmobtj6ps7xschdJM="
+    },
+    {
+      "Version": "0.5.3",
+      "SHA1": "x7RXtAwK87IbDSaSGvjrt0pPKZg="
+    },
+    {
+      "Version": "0.5.5",
+      "SHA1": "/Trq9dQIECIjxiP2szzTA9N7rjU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

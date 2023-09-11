@@ -1,0 +1,63 @@
+{
+  "GroupID": "ma.ju.fieldmask",
+  "ArtifactID": "fieldmask-spring",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "HG8fh+n0K/nt8ozVQZEg2PM7YG8="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "PANRf/MnXa0cH2ZWtzs2tdnSvcM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "0TjmS7u2mUET5FRvlgb+cBdWVwM="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Z1LJffA03cDJ+LPco5oqKCw8mpY="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "PNP3j1pb79SPyQxyooCu3k0urCM="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "vD0ARpU/RzJ6jPiYlkMGKIqNpDk="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "+gheZxjq6/0+HzlxmlYCCbmHZ2c="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "4b4lbswwBwW0L8CwrRXEn6eOfz8="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "riq2VZ2FBz+y/pbQW7GQsVP1ikI="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "YUAjk06W1CLT6aN7yG4Ffng/8e0="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "32rx3vmBirkokBWPY8/ms+z1Qzk="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "kYnKI3mpaWEH9C03PcrJJnw+SRE="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "4L82gWKk38JkxYbrhm2wVMzVFI4="
+    },
+    {
+      "Version": "1.0.14",
+      "SHA1": "gBXNzcapvNILYjSydtF3qXomT6E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

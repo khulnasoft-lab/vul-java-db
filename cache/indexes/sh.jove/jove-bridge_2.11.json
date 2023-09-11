@@ -1,0 +1,11 @@
+{
+  "GroupID": "sh.jove",
+  "ArtifactID": "jove-bridge_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "pq93OLQBe84a95+sCjWxETlEong="
+    }
+  ],
+  "ArchiveType": "jar"
+}

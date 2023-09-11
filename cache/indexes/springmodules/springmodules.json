@@ -1,0 +1,11 @@
+{
+  "GroupID": "springmodules",
+  "ArtifactID": "springmodules",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "WYDHNnx52J9pASo9cSt1UXofd1Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "jasper-compiler-jdt",
+  "Versions": [
+    {
+      "Version": "5.5.4",
+      "SHA1": "N3aO1VMYKryPKNe+KCRtk/3b3y4="
+    },
+    {
+      "Version": "5.5.7",
+      "SHA1": "OORWnQ+P7k9sAz1NULwM2mEzMmI="
+    },
+    {
+      "Version": "5.5.7-alpha",
+      "SHA1": "OORWnQ+P7k9sAz1NULwM2mEzMmI="
+    },
+    {
+      "Version": "5.5.8-alpha",
+      "SHA1": "Gl0LJyaaYkaXO/9sqY1HpLBjgW8="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "Gl0LJyaaYkaXO/9sqY1HpLBjgW8="
+    },
+    {
+      "Version": "5.5.9-alpha",
+      "SHA1": "Gl0LJyaaYkaXO/9sqY1HpLBjgW8="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "NpKCjm2SACilYAZwXjCMEMELWyQ="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "/vc8aEU62GxxF+GUFe9GyEXVfig="
+    }
+  ],
+  "ArchiveType": "jar"
+}

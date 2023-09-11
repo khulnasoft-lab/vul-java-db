@@ -1,0 +1,11 @@
+{
+  "GroupID": "taglibs",
+  "ArtifactID": "regexp",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "3CCzQDv5kL6bBx/sNEnSIWAklkg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

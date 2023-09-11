@@ -1,0 +1,11 @@
+{
+  "GroupID": "berlin.softwaretechnik",
+  "ArtifactID": "geojsonrenderer_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "NjiNP7PGu8jTyuaLX5M3GmIPQow="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "tech.becoming",
+  "ArtifactID": "common",
+  "Versions": [
+    {
+      "Version": "1.0.6",
+      "SHA1": "MNKvjcXI/T1ByaSaGST79f1h6hM="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "Ot1/scGauMYK9UgbKfpazjehTwo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Kmr1YaTCUE20Wwrmjlf7KkmwIsY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "mNYykkiFz8gK3GBEQuZknJ2B3Go="
+    }
+  ],
+  "ArchiveType": "jar"
+}

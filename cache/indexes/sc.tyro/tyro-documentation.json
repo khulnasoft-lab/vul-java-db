@@ -1,0 +1,15 @@
+{
+  "GroupID": "sc.tyro",
+  "ArtifactID": "tyro-documentation",
+  "Versions": [
+    {
+      "Version": "1.0.0.RC1",
+      "SHA1": "ix3qa/YEpIDdwhayx7diziEbdQs="
+    },
+    {
+      "Version": "1.0.0.RC2",
+      "SHA1": "pGLQnECpvajB/vO4yamy7FWpJC8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

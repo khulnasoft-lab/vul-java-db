@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.tzbob",
+  "ArtifactID": "scala-js-snabbdom_sjs0.6_2.13",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "FSX+6iT6Rq6qTPsNRZxU++svB0o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

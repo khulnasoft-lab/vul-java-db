@@ -1,0 +1,23 @@
+{
+  "GroupID": "ml.rugal",
+  "ArtifactID": "ssh-common",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "zgjDOjXc+HeVa92A/haOJuSFwkQ="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "zAmdAPkgdZ8maOWosK4YOafDmSA="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "b51kIs6Ypes2Zy2YOHXtQDsR8YA="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "5wuPVx1xNWqXt94MYnOYEMkdaII="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,63 @@
+{
+  "GroupID": "tk.labyrinth",
+  "ArtifactID": "jaap-misc4j2",
+  "Versions": [
+    {
+      "Version": "0.2.4",
+      "SHA1": "+mX6EqR4qR1l4Qz2AZIpPmGG+sI="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "dT+d+GL2DpwlW5We7Jd5QEgLl2w="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "H1GSe3yfSQvMSZyk929NM6t3ZU4="
+    },
+    {
+      "Version": "0.2.6b",
+      "SHA1": "+SdqAybRNzwdTm3rrtiRwbqreyI="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "ohxk3A3deYK95ronC4bA7WMDS5Y="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "nMdW7kvE4BeVJB95MiA3BPqSQiI="
+    },
+    {
+      "Version": "0.3.0b",
+      "SHA1": "ay33od98fgClurkPmnKmqagLSJw="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "xaCsp36uwH1eXIsYJQnugGgLtCs="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "VibyA7UNG4uiBdrEZqTwOQiqmc8="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "P2S5ddFzeMDqhqJxyxNcVCu4p+Q="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "MAjKutwNSQ243xnYOvKdQqF9M7s="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "VX/yh45EZyEXYgMl7ZN5VCQ079Y="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "IvV1eYILFHw9/iKdoPcj93RWMmU="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "FH4gfQ/uSbMQWDPBDduowy8nEDc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

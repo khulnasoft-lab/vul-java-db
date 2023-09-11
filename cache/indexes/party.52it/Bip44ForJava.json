@@ -1,0 +1,11 @@
+{
+  "GroupID": "party.52it",
+  "ArtifactID": "Bip44ForJava",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "PwoF/UwQOSf9zCIAEAgP0YrWy98="
+    }
+  ],
+  "ArchiveType": "jar"
+}

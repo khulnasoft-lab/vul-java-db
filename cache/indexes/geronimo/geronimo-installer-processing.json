@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-installer-processing",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "TYOwmVv8Zji8mvQBQ73vycxOm00="
+    }
+  ],
+  "ArchiveType": "jar"
+}

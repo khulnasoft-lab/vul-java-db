@@ -1,0 +1,11 @@
+{
+  "GroupID": "online.qiqiang",
+  "ArtifactID": "forest-framework",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ksweHvjf325BBAIZhBTmDOrmZJk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

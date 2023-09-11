@@ -1,0 +1,15 @@
+{
+  "GroupID": "club.gclmit",
+  "ArtifactID": "chaos-bean",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "6SJTNJmhH7NOycYDzW++t1SD19o="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "bylw/xGSjr2y0ProLUfP7yVwG34="
+    }
+  ],
+  "ArchiveType": "jar"
+}

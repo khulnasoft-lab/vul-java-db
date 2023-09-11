@@ -1,0 +1,11 @@
+{
+  "GroupID": "ua.gradsoft",
+  "ArtifactID": "fixture-state-management_2.10",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "soVicor9/iRbMDTW4CyIiszVWvs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

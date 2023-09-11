@@ -1,0 +1,27 @@
+{
+  "GroupID": "nl.future-edge",
+  "ArtifactID": "simple-jmx",
+  "Versions": [
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "sJYyI78uPJZrQqlTr594LOjVpsU="
+    },
+    {
+      "Version": "1.0-RC2",
+      "SHA1": "b2YzVW4fwFq9pHhFaLN8E4lYR6M="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "vDoYJuELspdwIbUUIVuDggwztf4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ulQfEo1DfBIr2dNj/07xGy4ArEw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "/2wwmtIRJnHIzPXq262qh4MSAes="
+    }
+  ],
+  "ArchiveType": "jar"
+}

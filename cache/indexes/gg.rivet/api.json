@@ -1,0 +1,19 @@
+{
+  "GroupID": "gg.rivet",
+  "ArtifactID": "api",
+  "Versions": [
+    {
+      "Version": "v23.1.0-rc2",
+      "SHA1": "A/0F8hpjjGC/3Z1sWHm1p3X84Ds="
+    },
+    {
+      "Version": "v23.1.0-rc3",
+      "SHA1": "7ZAl0asLezRLDnX/4PPJ7izrq1c="
+    },
+    {
+      "Version": "v23.1.0-rc4",
+      "SHA1": "THXPlScQtR8I8yLiUdLRx4cCyMA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

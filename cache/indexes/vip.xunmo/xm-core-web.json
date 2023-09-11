@@ -1,0 +1,27 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-core-web",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "AOgkWi2XeV8nDMR2EjLYW/+7fWs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "dx3iVC5X7Hc2iV67qKquSXrC6eY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "YJ8SU7Vl/MhGExO8yQCHgF43W2Q="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "TpUwexG7wv0QKdVSf1s+Rzc12H0="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "Ec3AxF98z0tifZPcqwM/SJqXqaY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

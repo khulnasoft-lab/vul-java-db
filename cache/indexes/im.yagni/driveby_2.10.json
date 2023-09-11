@@ -1,0 +1,59 @@
+{
+  "GroupID": "im.yagni",
+  "ArtifactID": "driveby_2.10",
+  "Versions": [
+    {
+      "Version": "0.2.19",
+      "SHA1": "P/HpTP53ZGjD1aMtjFjcV7+W00c="
+    },
+    {
+      "Version": "0.2.20",
+      "SHA1": "kU6NxAd2oJqgHsIGLLc+Q2wSFTg="
+    },
+    {
+      "Version": "0.2.21",
+      "SHA1": "ubTIlwA7L2BTUdjRO0O04Hbp3c4="
+    },
+    {
+      "Version": "0.2.22",
+      "SHA1": "zQFcDLqdSS46QuKw080/g40d2E4="
+    },
+    {
+      "Version": "0.2.23",
+      "SHA1": "nBSk7bHMq+GAi57uXGqmP5dU45g="
+    },
+    {
+      "Version": "0.2.24",
+      "SHA1": "Thk3TAoNdCT4YB7NbSZ7+NHPEK4="
+    },
+    {
+      "Version": "0.2.25",
+      "SHA1": "Jvm6QYUy4stxmTTGx+CR6KxCBds="
+    },
+    {
+      "Version": "0.2.26",
+      "SHA1": "MXk+q7996AK0OBpNyIqvkXHqwwc="
+    },
+    {
+      "Version": "0.2.27",
+      "SHA1": "ZLl1ToQHTLhwnrF8BMMBTGA8xqo="
+    },
+    {
+      "Version": "0.2.28",
+      "SHA1": "eab3/cN8pG4W+KiuLVniiBPe5Ew="
+    },
+    {
+      "Version": "0.2.29",
+      "SHA1": "kOt8h4nvWg8BhYiTO3igT/SE0So="
+    },
+    {
+      "Version": "0.2.31",
+      "SHA1": "K1byWld8wokZKvSF/qcGoyNn1tw="
+    },
+    {
+      "Version": "0.2.32",
+      "SHA1": "4CsJh5YwQsyCCWPhcpPNt6KLn5w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "info.projectkyoto",
+  "ArtifactID": "mms-desktop",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "s66dlZxMBn/YIsUs9oLo0rrKjMQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "jp.empressia",
+  "ArtifactID": "jp.empressia.enterprise.security.oidc",
+  "Versions": [
+    {
+      "Version": "1.0.8",
+      "SHA1": "NfYApCwaC1xhZj3bB3+2B9K5FZw="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "7xuEm9ICw7FHlSTp9SY6WbIfex4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "nO9qumxisc3W3nwUxJdJVAdkShk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "a6UR4cFmUTnZdIbbiK/PIPYKnqk="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "aswAE6FjjsmcxcC9Vf58PoWVZqg="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "dJReIwCmdcfJXS6+PoCGOYYJLYY="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "XmCgp75JQqQRYUxDP+hy0MqhIdo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

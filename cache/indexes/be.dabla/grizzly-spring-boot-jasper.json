@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.dabla",
+  "ArtifactID": "grizzly-spring-boot-jasper",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "gc9X6fG4hMJ+sk339ixCC05hhWo="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "9Rbq2yHtpGeQrAJJ6EwEqhgj0fw="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "vh6lcylr6rYea4HrZYjzFF25PZU="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "kfuWzT5B9uhUGQuBzXE8jKM3BBU="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "WMZ3ldGGO/X2tfvbdMsYy0Zp0IQ="
+    },
+    {
+      "Version": "2.5",
+      "SHA1": "bza4fqaVTUwW4HuAUTZvu9ZU3jQ="
+    },
+    {
+      "Version": "2.6",
+      "SHA1": "ZfQKjF88VDMJ6x8VnJ4aRCAOtPU="
+    },
+    {
+      "Version": "2.7",
+      "SHA1": "lQkcVEFlI1nhNQXCQxsXoFwl1Ww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

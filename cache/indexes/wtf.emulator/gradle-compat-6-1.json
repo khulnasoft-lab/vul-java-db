@@ -1,0 +1,59 @@
+{
+  "GroupID": "wtf.emulator",
+  "ArtifactID": "gradle-compat-6-1",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "Ka/q0YEpqzUL07AXe6Yf0to2qh8="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "UAC4HmmUdA2cEskPz1Zr1UEiV0w="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "KvNkVbx/2Up4Sz4if2ifLgsPQ1A="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "/rgXIxUpVGBhMaHydsfH0SMbU/E="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "LvzHCt3Y6wYeFdo5vARLopnSPNw="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "nQcIuh0poQtz8uE/WX69dMmuyas="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "4afYSxnYWhUuc16w0NA1JaK0JJY="
+    },
+    {
+      "Version": "0.13.1",
+      "SHA1": "UmlS1AK1QGJATVU/A/Ia1in/TIk="
+    },
+    {
+      "Version": "0.13.2",
+      "SHA1": "oh8iKFqiKDnxjSMdxlYVvm4oj80="
+    },
+    {
+      "Version": "0.13.3",
+      "SHA1": "BqfwGYlvQd4/orldTkq7JWXKOKs="
+    },
+    {
+      "Version": "0.14.0",
+      "SHA1": "u8LL0IU1txHw7hi3mZ31RdpKoVw="
+    },
+    {
+      "Version": "0.15.0",
+      "SHA1": "btiJaoe8VQQhrjDDV96l8CxyDbQ="
+    },
+    {
+      "Version": "0.15.1",
+      "SHA1": "dkvH/rZb2nnEdua1JSwc/CN8w5E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

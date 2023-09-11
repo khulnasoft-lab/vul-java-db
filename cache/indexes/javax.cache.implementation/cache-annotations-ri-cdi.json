@@ -1,0 +1,19 @@
+{
+  "GroupID": "javax.cache.implementation",
+  "ArtifactID": "cache-annotations-ri-cdi",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "Yn4kqVDmYNtJOnVL0/sEZSij1no="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "rNOQQ9KW/YLxDjc1vvxSSniDk0c="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "74p+tG0IXdykDUsT8FM3Yo+GXw4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

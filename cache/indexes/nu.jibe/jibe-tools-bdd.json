@@ -1,0 +1,15 @@
+{
+  "GroupID": "nu.jibe",
+  "ArtifactID": "jibe-tools-bdd",
+  "Versions": [
+    {
+      "Version": "0.5.3",
+      "SHA1": "SoWSDLCJz233JizZxAOa+OuPsDo="
+    },
+    {
+      "Version": "0.5.4",
+      "SHA1": "+p0loJmXfyAkNPE7cYPRs4B29e8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

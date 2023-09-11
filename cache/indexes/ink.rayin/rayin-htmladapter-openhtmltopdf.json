@@ -1,0 +1,59 @@
+{
+  "GroupID": "ink.rayin",
+  "ArtifactID": "rayin-htmladapter-openhtmltopdf",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BPQoxcF2f1lyQ18TC2lSrzklZiQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "w3BBBInP+Pagh0WJt/hmgC3NRBY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "jPl9n4iyJ1k9uI5vpYF0zI6aeU8="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "XZfld9AGixrvyFcKIX0+QkpOrD8="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "PzdiRr50KMOvcl5/3Hx4cGQWsFw="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "gImjIXSRxI0KVk1n079tJzD7+Yo="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "b2Ye19hYITTL2Z2gDtrw/LFM7iA="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "813tXflesgFkhG2D9npc+OsB6tg="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "BzDzdEbCuizwYCfHuJmuk0VnV38="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "+TjVqIGT5LJX5+8rDImA1wPJhTA="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "YKi9bucfTm38fiGXVTbIfTXBgNk="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "A4RFIjn4F6JoLCGKbN1bD5SGDEQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "K7qT49hNJDmlljJVTyF6JmZc/RE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

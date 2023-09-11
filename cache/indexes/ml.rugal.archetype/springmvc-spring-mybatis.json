@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.rugal.archetype",
+  "ArtifactID": "springmvc-spring-mybatis",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "cvkedlGlaJEewOjPsnrc8lqu6CA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

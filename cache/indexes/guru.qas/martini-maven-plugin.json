@@ -1,0 +1,15 @@
+{
+  "GroupID": "guru.qas",
+  "ArtifactID": "martini-maven-plugin",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "8oLhOlmxR1QlsDXV/OXG+M52p9w="
+    },
+    {
+      "Version": "5.0",
+      "SHA1": "s+Z2Z8l51nAlqjL/4ukApbQNMGQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

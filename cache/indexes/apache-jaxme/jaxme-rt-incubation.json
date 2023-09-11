@@ -1,0 +1,11 @@
+{
+  "GroupID": "apache-jaxme",
+  "ArtifactID": "jaxme-rt-incubation",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "l7nq7gstlITn/WUU8+z3O0q5KUc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

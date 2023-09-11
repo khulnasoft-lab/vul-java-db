@@ -1,0 +1,15 @@
+{
+  "GroupID": "uk.kludje",
+  "ArtifactID": "kludje",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "RWFhLOgsI9k8CSDUj+CbKh6pGNY="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "wik4SmTyUpK/JA7z1tGH8D3dv4c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

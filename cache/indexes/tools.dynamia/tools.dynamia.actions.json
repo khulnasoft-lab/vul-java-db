@@ -1,0 +1,95 @@
+{
+  "GroupID": "tools.dynamia",
+  "ArtifactID": "tools.dynamia.actions",
+  "Versions": [
+    {
+      "Version": "3.6.0.Final",
+      "SHA1": "beuanScBrW1y2WOI9zzZW4nivTs="
+    },
+    {
+      "Version": "3.6.1.Final",
+      "SHA1": "RgY1gnlVVvtJ+I1c9hmpw6oD/bc="
+    },
+    {
+      "Version": "4.0.0.RC",
+      "SHA1": "crp7fmXQ/TTXe+qddIT4i3fhisM="
+    },
+    {
+      "Version": "4.0.0.Final",
+      "SHA1": "GGYknps6JGwpovZxt8PefNgFkuA="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "Lx6C3f7KkTUQtGiPeYMga5AWEtM="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "aWGvsov1HHTvzNZkDzqQ2FsIz68="
+    },
+    {
+      "Version": "4.0.3",
+      "SHA1": "XNRRyxGXiIkjbdz1oc2wTZXoyZc="
+    },
+    {
+      "Version": "4.0.4",
+      "SHA1": "vzPXE8FuoLOn6tc1BMRJCEauzd4="
+    },
+    {
+      "Version": "4.0.5",
+      "SHA1": "YpIsPsDJEKgQPrGLtMnZ/QPgpmQ="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "tNay2NbaYBHNh13cx5SDFTag7ME="
+    },
+    {
+      "Version": "4.0.7",
+      "SHA1": "1cIlY1OajWqZ5lftOo2BQ49HRqc="
+    },
+    {
+      "Version": "4.0.8",
+      "SHA1": "Lum7m4OUmluvcU1ZjAyn0rijugU="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "R1/QIGdAfOM6vTDV/VvHbRXMElI="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "611qzGK9YNVd/kRd9mnBj6sx79Y="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "+01TAta1+n/HV9CbYAaqqJafZqY="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "3e4IF+/dAP4wd4fTMSE0QIJsfYU="
+    },
+    {
+      "Version": "5.0.2",
+      "SHA1": "+iO3atEil1ex1rM9l/6a6yI4ixY="
+    },
+    {
+      "Version": "5.0.3",
+      "SHA1": "kPuuBX7hbxQifmjyKD6oo1AQlCI="
+    },
+    {
+      "Version": "5.0.4",
+      "SHA1": "wSkOhwOqJZ/1YRyi5Hkd4bKayhU="
+    },
+    {
+      "Version": "5.0.5",
+      "SHA1": "zIAENc2318gAWkVGSPyIOIJRuYA="
+    },
+    {
+      "Version": "5.0.6",
+      "SHA1": "MDmHuNJ4A+3eSe5YbSGmdKQOOLo="
+    },
+    {
+      "Version": "5.0.7",
+      "SHA1": "1dHdd0A2NvMncg3whNLLoM6QfCc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

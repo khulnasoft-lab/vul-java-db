@@ -1,0 +1,39 @@
+{
+  "GroupID": "ai.mrs",
+  "ArtifactID": "masons-java-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "T/oHwcilBcexztslyJ+3L5Q/OFk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "/TCXHy+D19lRH6lzlA6YQmcoMqo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "SOzrgMda784qZuVAF0eVAIxzQb0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "BKuzdzVwjBoyKm10bBRYh3eSBkc="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "19rCslnJefnG0IVuKNUzLb7TiqY="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "e9FZcjzC4fAX+UHwd5WwxBSHad4="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "/tfFzS5ra179TTihLW/CicSd+14="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "Lxogc3Pwao3rdfPAy6bvOzUO2E8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

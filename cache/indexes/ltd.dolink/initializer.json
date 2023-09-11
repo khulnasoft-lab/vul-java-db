@@ -1,0 +1,11 @@
+{
+  "GroupID": "ltd.dolink",
+  "ArtifactID": "initializer",
+  "Versions": [
+    {
+      "Version": "1.1.2",
+      "SHA1": "PeLU+eEBIKkvErh+cA0VTIoMV3A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

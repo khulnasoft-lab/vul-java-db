@@ -1,0 +1,71 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-examples",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "eueekhzcow1c13Qp0buu2cFG+W0="
+    },
+    {
+      "Version": "2.0-beta-16",
+      "SHA1": "dY6FPCeg7AdjT7bzgPvtz1mBP4U="
+    },
+    {
+      "Version": "2.0-beta-17",
+      "SHA1": "h2yzWgbdzJGjORjg+Vw4ACUFgBs="
+    },
+    {
+      "Version": "2.0-beta-18",
+      "SHA1": "6XrjM+tjGonIbRjFsd88jV0+C9A="
+    },
+    {
+      "Version": "2.0-beta-19",
+      "SHA1": "yPDoHMY9VNhwhbleVN/6RA/vF7o="
+    },
+    {
+      "Version": "2.0-beta-20",
+      "SHA1": "Op8BzubCAUUV8tBGdGPrNrg+R6U="
+    },
+    {
+      "Version": "2.0-beta-21",
+      "SHA1": "gpQcOXG67h1caKICe0it/9lefKI="
+    },
+    {
+      "Version": "2.0-rc1",
+      "SHA1": "IlS/m2IMHzLsFkPMjWmLUMzBBsY="
+    },
+    {
+      "Version": "20040622.175002",
+      "SHA1": "yu4Nij9gzALcMeN/SFrozgO0Uf4="
+    },
+    {
+      "Version": "20040623.065036",
+      "SHA1": "wbPPfqjJVJk5sA+RJJNNgpgWwOQ="
+    },
+    {
+      "Version": "20040630.215701",
+      "SHA1": "6wX5KhieOV1pxwz1pYCO02g8uE0="
+    },
+    {
+      "Version": "20040701.153726",
+      "SHA1": "VZpCjDSsOJfB71SBhbvxmNQ12pw="
+    },
+    {
+      "Version": "20040726.171919",
+      "SHA1": "F6RWH9g63lG4fY1FHVLgathxWew="
+    },
+    {
+      "Version": "20040726.195419",
+      "SHA1": "c+5COaKqAuL+HIOC7y02drG9/34="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "ure0FsTZrGU95DndHuJ2C1UCk7c="
+    },
+    {
+      "Version": "2.5-beta-1",
+      "SHA1": "McppEF4m/3QeEJeZ9pdlVeU2d7E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

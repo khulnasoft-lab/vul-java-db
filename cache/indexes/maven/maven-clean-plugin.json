@@ -1,0 +1,15 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-clean-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "rst869wrrLnUwHKuAPVdwXcRcGA="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "JTcldXHeuV3I8YoCouW3QUoSrJA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

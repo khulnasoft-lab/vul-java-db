@@ -1,0 +1,119 @@
+{
+  "GroupID": "stream.nebula",
+  "ArtifactID": "nebulastream-java-client",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "CNfW/HzxPWvGel1hWTGlKp/dDVk="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "tYVJ+KF2m+VK0x4nZh3nTXL9rSA="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "DCUmL4LWEBuZgxvThfbkGQU4+Ls="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "sCutg1ws1M0oZ4KNHfLeXr5GYig="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "Zk4CcNiFWL8hUIpmSnOp2+aNMwE="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "9gRe8bqIvvjSCHkH93JND4AddKc="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "5qZ1nbgFUB9Iwv64PVbdduDhe8s="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "dUgilwcp3YE1O+mvyUsrt8dB9Iw="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "tybhPdSgSofy1YWIQZTXOff4Nrg="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "XjhnFZu2paLgYDL/92UyfJSpTO4="
+    },
+    {
+      "Version": "0.0.35",
+      "SHA1": "WRyPDwfiY85UFigJHqz4jscriIU="
+    },
+    {
+      "Version": "0.0.41",
+      "SHA1": "Tgql4Pg/RBR1sSI5faAimFwQa+0="
+    },
+    {
+      "Version": "0.0.46",
+      "SHA1": "CYtZyupixvtB7Y5lflLbTBJRTj8="
+    },
+    {
+      "Version": "0.0.47",
+      "SHA1": "H+oVS3HuAY+FH5au7TPm919KOEE="
+    },
+    {
+      "Version": "0.0.48",
+      "SHA1": "jJkfuI5DXd6hZBEISyjBnkN7ESM="
+    },
+    {
+      "Version": "0.0.49",
+      "SHA1": "hjtOzCSYuZbdFBa7nVEawO1Z6Po="
+    },
+    {
+      "Version": "0.0.50",
+      "SHA1": "AsWnlsPbGUkpVWQLYnprNWtb32o="
+    },
+    {
+      "Version": "0.0.52",
+      "SHA1": "AmHRGSQtk5u+PQOWMMMxylyWfm8="
+    },
+    {
+      "Version": "0.0.59",
+      "SHA1": "wmRzOynyqxnzdyUIJU8KnIbMWWk="
+    },
+    {
+      "Version": "0.0.60",
+      "SHA1": "AXQ9f7gHAxrtr2b7eek9KHhXR7c="
+    },
+    {
+      "Version": "0.0.61",
+      "SHA1": "jRKYOgStiUiD7Euek8JyLUJcAE8="
+    },
+    {
+      "Version": "0.0.62",
+      "SHA1": "ZHXCjh0yBxoksfZhKWhSco83/QU="
+    },
+    {
+      "Version": "0.0.64",
+      "SHA1": "XvODYxCHxfOxtH7AXPhYHaf6SJU="
+    },
+    {
+      "Version": "0.0.67",
+      "SHA1": "zAkTn1wu2LQTCHmxh0C2iRFIdgI="
+    },
+    {
+      "Version": "0.0.70",
+      "SHA1": "N5ucNzdKMpzQJ3JiW2UXOFdNht4="
+    },
+    {
+      "Version": "0.0.73",
+      "SHA1": "fIeGJtp7IeOtqwP92PcQQncUc9E="
+    },
+    {
+      "Version": "0.0.74",
+      "SHA1": "s+N1GWOK1IzjEy9i4ERz0BIis+w="
+    },
+    {
+      "Version": "0.0.82",
+      "SHA1": "wLSAFiqmRt9+YqBrprs997RSTIU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

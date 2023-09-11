@@ -1,0 +1,27 @@
+{
+  "GroupID": "biz.ostw",
+  "ArtifactID": "fsi",
+  "Versions": [
+    {
+      "Version": "0.0.0",
+      "SHA1": "OIij3364K3MEVEgUF+Ctliq4M9Q="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "rAYjtLyJnpUCW9U6Y4OcJV3iA14="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "h/KQ7YyQAV4xTkZN/LDDgLghP4k="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "7MTFIDZcJp1CRnSR+PxYu610ukk="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "LLjp4ywdI2pTTWRCmSI5fyoBQOQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

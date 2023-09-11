@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-archiver",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "bvg1kUb57FuCJGznxPTjR4KrrGs="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "tS4/zyVZIj3P0e58LZqVAxPZjUs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

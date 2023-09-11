@@ -1,0 +1,59 @@
+{
+  "GroupID": "javax.batch",
+  "ArtifactID": "javax.batch-api-all",
+  "Versions": [
+    {
+      "Version": "1.0-b03",
+      "SHA1": "pbcyo2tYb403m7TTaIK3Rpt8AsY="
+    },
+    {
+      "Version": "1.0-b05",
+      "SHA1": "S7mZeb+ubGL009mB2Cg+LRwnwkY="
+    },
+    {
+      "Version": "1.0-b06",
+      "SHA1": "9Ivo6ovNxhkPEtlM84ittB9Zu30="
+    },
+    {
+      "Version": "1.0-b07",
+      "SHA1": "wPg79Kwn8e5Zls3eFPJLGFWWI3o="
+    },
+    {
+      "Version": "1.0-b08",
+      "SHA1": "XbrBSE7q4MbKKqjidCy4FLDFQIY="
+    },
+    {
+      "Version": "1.0-b10",
+      "SHA1": "3LPl98QtqOCvZwNTO9rwEKUCNe4="
+    },
+    {
+      "Version": "1.0-b11",
+      "SHA1": "BYFLoDRKH/a2boQBjxtjX9V6H0w="
+    },
+    {
+      "Version": "1.0-b12",
+      "SHA1": "h48wT+XB3Qmitc4dkjK9SIP4VSc="
+    },
+    {
+      "Version": "1.0-b13",
+      "SHA1": "9gy7f0w3v/wBdKL5mSM5bla+rlU="
+    },
+    {
+      "Version": "1.0-b14",
+      "SHA1": "vbIcheVUAgbWDWBk6U7gucNyadc="
+    },
+    {
+      "Version": "1.0-b15",
+      "SHA1": "xTXskbXzc4lPXhz61gzN/V7NAjw="
+    },
+    {
+      "Version": "1.0-b16",
+      "SHA1": "lX39tL3sM/H2jrrS6RIHzHY/h40="
+    },
+    {
+      "Version": "1.0-b17",
+      "SHA1": "TxyNYAV2tXzMbDQ4EGC4gSxUMV0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

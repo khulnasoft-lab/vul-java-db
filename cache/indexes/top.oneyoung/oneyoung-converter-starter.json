@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.oneyoung",
+  "ArtifactID": "oneyoung-converter-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "n+HRV1QR2amAE86/WSz14eL7QWE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

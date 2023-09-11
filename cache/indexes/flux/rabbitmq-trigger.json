@@ -1,0 +1,15 @@
+{
+  "GroupID": "flux",
+  "ArtifactID": "rabbitmq-trigger",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ncoXWnxj10xW+TJSfj1bZSq9Z3c="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "AfpUoQ2X2lA9Knj5MNP+oCvj9nM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.exanpe",
+  "ArtifactID": "tapestry-tldgen",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "21+g/ynXpe58FJOGnX/9fflGMsw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "+Yz1XJimU3e5Mggc6lfFNa3Q8yA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

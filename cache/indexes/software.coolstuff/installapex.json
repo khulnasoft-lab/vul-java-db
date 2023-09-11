@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.coolstuff",
+  "ArtifactID": "installapex",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "c+O9tueqRz/JtfyPxaFGcK6ZWH8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

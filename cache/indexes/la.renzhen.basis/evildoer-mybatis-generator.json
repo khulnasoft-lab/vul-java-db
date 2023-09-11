@@ -1,0 +1,35 @@
+{
+  "GroupID": "la.renzhen.basis",
+  "ArtifactID": "evildoer-mybatis-generator",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6Q01wWUXqNVdnTanlR45tIW0BD0="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "qqGNNhZ/47eJd3SeHJ4OOiPZSBU="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "bZ3rKwXm1JcNdkyaU4u87uiL+rk="
+    },
+    {
+      "Version": "1.1.7",
+      "SHA1": "uFOfFA5s2L9SEHtZvKhk9pkGQXU="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "PnUHC+HzBCmDgRRR4W+rJ7LzTyo="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "jI6/iN9oe+ftRPiRyyIX4lu9sEg="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "Z5AwN6UO4Fj3fytT/ntmqrlsKq8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

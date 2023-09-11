@@ -1,0 +1,35 @@
+{
+  "GroupID": "mil.nga",
+  "ArtifactID": "wkb",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "FS9OEJi31PvNT3BO13yjrUD60+s="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "+tu2T0qDqR5cpKlLD5lwT3TwXuw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "J+EDHY8DODbmdb6vEuPNj9fuWgM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "GsRkOUpXhI9lNBN3IaJ663DQtQ8="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "X+9VavPEPrszpxx4ajeAlc1+lhw="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "tXtUjFAjBGRo42LBmvlZbWdd3ko="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "/uBxvykCeVD/Jmt5FTSmQwRsJgQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

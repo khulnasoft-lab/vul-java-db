@@ -1,0 +1,51 @@
+{
+  "GroupID": "nl.hsac",
+  "ArtifactID": "hsac-fitnesse-appium",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "2Bjf7A2rvftZCR/bf3fOst32ezs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "t51sP9wAApWUs6HrrXzso4fd5FY="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "SwhQniUsPpLb/JGhG8wMYjo2+Zw="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "etaUVMYQ+paAS8SuU/ILReBR+kI="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "1Vkk4p1e8SptOVivTNVgxi+XYQ4="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "f+r3w+XQrPhxV4JeTQHna9urisY="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "l6JTFkBTwrjxC6uNfhQkBcHHHv8="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "zh2BSPTMSWu5uvQ0zO0yQxaZlmc="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "uhhcxUKzyGzx6eiztF7yld0UHEE="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "EcVD0XbmnyicrUHXTY3t9MUk6Ck="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "uNGGrHD7xLbkUXemaboYiyQBsR0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

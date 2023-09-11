@@ -1,0 +1,19 @@
+{
+  "GroupID": "software.reloadly",
+  "ArtifactID": "java-sdk-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mcecquF1ug65w50HSyrrcspzVqg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xsHRux81evA5ljPN96rWHBYdqEA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "cLh1+1pHym676TY1lHaL9mM2SQk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-frame",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5ReG//4jPceJf1bzm4fUbokwgbM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "CxvXX5eCKmWCHUwNKqnnIO3bYBM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "s9v5mUebF4wVNfYNCEqHILuupvc="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "UqjZvVPWB7Zox5Xn231kZ3jUaZc="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "ZJF0ca6PVBCF8BApt3g+XFXFd6k="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "H37o1Tt+Z01ngZL5LVeNnYiE4gg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

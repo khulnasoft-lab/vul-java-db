@@ -1,0 +1,11 @@
+{
+  "GroupID": "eus.ixa",
+  "ArtifactID": "ixa-pipe-opinion",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "Dw4ViU47xizTGJsDn9TGnCikkRg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

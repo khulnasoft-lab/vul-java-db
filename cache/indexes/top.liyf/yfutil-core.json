@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.liyf",
+  "ArtifactID": "yfutil-core",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "fRdB8VpGL/8nvZjjcQHjStz0Efc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

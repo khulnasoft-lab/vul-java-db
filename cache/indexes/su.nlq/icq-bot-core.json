@@ -1,0 +1,15 @@
+{
+  "GroupID": "su.nlq",
+  "ArtifactID": "icq-bot-core",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "WW0xqPOPi81ESgPX9l3zCDmJHfk="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "T2JiRvXvLsUfPvEfOj4MtPD55r4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

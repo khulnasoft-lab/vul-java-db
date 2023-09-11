@@ -1,0 +1,47 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-changelog-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "WVnxxfnTtZtnHgMdcqIUwmtKOrY="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "ffxkt8FfWF991/G7BlKMBx0DbHI="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "CJnG3RR9AOSuSR8PB2yoMvaPL5A="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "GdPDaBRLg+xdjVq7cOmcmwVMSXc="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "xrTj7YyddacPgjQbRUtIXlR9aIM="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "v1HMG4Upaj9MHmFPGM9evqgBGjE="
+    },
+    {
+      "Version": "1.7.2",
+      "SHA1": "pI95GUlLJIhQ5Eg8hm7sDiutAyQ="
+    },
+    {
+      "Version": "1.8.1",
+      "SHA1": "cw3dhZ6zkwqYTmmFcrC5cIbkU2w="
+    },
+    {
+      "Version": "1.8.2",
+      "SHA1": "GPW4/BO0Ui8KVqyLGqKwkDJBK3Y="
+    },
+    {
+      "Version": "1.9",
+      "SHA1": "/2pkt1J/ciRLpRWrWnDFrGN8/no="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "lv.ctco.scm",
+  "ArtifactID": "publicci-test",
+  "Versions": [
+    {
+      "Version": "1.0.0.6",
+      "SHA1": "gMKZtNs00rnij8JsesvYfANX+i4="
+    },
+    {
+      "Version": "1.0.0.7",
+      "SHA1": "MjEMkQ4pHlm+yPGGX1H9BxP6z0s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

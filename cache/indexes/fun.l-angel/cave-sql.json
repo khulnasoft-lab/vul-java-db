@@ -1,0 +1,15 @@
+{
+  "GroupID": "fun.l-angel",
+  "ArtifactID": "cave-sql",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "xczLRm2fVoa1w8pT/Fb3rXcUJAc="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "3dmgmJjDoNZjsS6HkE8tzIiwQTU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "gr.spinellis",
+  "ArtifactID": "UmlGraph",
+  "Versions": [
+    {
+      "Version": "4.4",
+      "SHA1": "IurSGspD0g4jOGTHJtwsRxfmFCY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

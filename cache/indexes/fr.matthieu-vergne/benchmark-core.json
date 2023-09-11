@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.matthieu-vergne",
+  "ArtifactID": "benchmark-core",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "BCmXVV+0N9ZOvedq82PJHeQ+oBM="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "4N2ccH7S5hsMFo9Jx6dKVySXBdc="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "yR8n3QNBCI7mUv+0DvXxL5ypxH8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

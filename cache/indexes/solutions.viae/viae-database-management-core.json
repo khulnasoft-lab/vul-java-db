@@ -1,0 +1,43 @@
+{
+  "GroupID": "solutions.viae",
+  "ArtifactID": "viae-database-management-core",
+  "Versions": [
+    {
+      "Version": "1.45.0",
+      "SHA1": "v/WKQc4PzOKZgxhRMCoGIBh8l0o="
+    },
+    {
+      "Version": "1.46.0",
+      "SHA1": "ccM8wa1EMv55ZnRPmCVm773LEgE="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "wR//+lvDX2KDnGQ+ZvqAgmQWoPw="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "TJJQw4bbnHW4HFvmeX0nv/7wY9M="
+    },
+    {
+      "Version": "2.2.3",
+      "SHA1": "0+RnIxkCbur5bKaxo9Bu2ePsjMY="
+    },
+    {
+      "Version": "2.2.4",
+      "SHA1": "Fvkvm7XARVjYXVaJglUPHGqjV7c="
+    },
+    {
+      "Version": "2.2.5",
+      "SHA1": "xPI7z6zxGSTNfGEF+pZyX0WE7TM="
+    },
+    {
+      "Version": "2.2.6",
+      "SHA1": "CtnifOHnTGzC0WhRDFRluJTHAYc="
+    },
+    {
+      "Version": "2.2.7",
+      "SHA1": "CEaCRFLhitKMPY9Rq4g3Z2s2/nI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

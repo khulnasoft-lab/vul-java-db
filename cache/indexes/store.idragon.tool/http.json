@@ -1,0 +1,31 @@
+{
+  "GroupID": "store.idragon.tool",
+  "ArtifactID": "http",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "DIPNuOujpLcxNtC/WlYO4CTPEA0="
+    },
+    {
+      "Version": "0.0.2-RELEASE",
+      "SHA1": "ShvyR1HjxgUbvNCntTNUARodh+s="
+    },
+    {
+      "Version": "0.0.3-RELEASE",
+      "SHA1": "sIhQyZlwsiWRDGQQ9R44kcFkiEo="
+    },
+    {
+      "Version": "0.0.4-RELEASE",
+      "SHA1": "x7ccZtkW+JjyAoOs17UbZmRs/EA="
+    },
+    {
+      "Version": "0.0.5-RELEASE",
+      "SHA1": "SbCJjiHmuEtOmY0Uat8W0ZHX+J0="
+    },
+    {
+      "Version": "0.0.6-RELEASE",
+      "SHA1": "iqsH9AsbPSSbTDwHE3Ys3vBn8F0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "fr.dysp",
+  "ArtifactID": "semver",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "CFhwDz0MrJUePQ5H+YjL5XcbUH0="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "hQM+32dfipYofZgHwdZxoWtlSZQ="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "5o1BZbeDrABnMNqd51t4wS0AuxU="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "WqP/eQ/5yMA7LOqwCiO3gwvWfGU="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "LRFGfbU/uuqCCHVsI/Qbr/UefAU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

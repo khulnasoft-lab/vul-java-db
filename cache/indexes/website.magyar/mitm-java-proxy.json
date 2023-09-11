@@ -1,0 +1,39 @@
+{
+  "GroupID": "website.magyar",
+  "ArtifactID": "mitm-java-proxy",
+  "Versions": [
+    {
+      "Version": "2.0.19.93",
+      "SHA1": "YLhmsYLo2/M1P+PgjIDtOcJsc2I="
+    },
+    {
+      "Version": "2.0.20.99",
+      "SHA1": "T503mzmZw+r0P4SW/sRyz6HVEeE="
+    },
+    {
+      "Version": "2.0.21.100",
+      "SHA1": "VhoUA+TnFE4amZ0RneOhwabMwJM="
+    },
+    {
+      "Version": "2.0.22.104",
+      "SHA1": "+BtdH+kbdpT2kZgnMSkCP4SxX70="
+    },
+    {
+      "Version": "2.0.23.105",
+      "SHA1": "vzCNvNIsyhnfXqt7nIJczpl4QVQ="
+    },
+    {
+      "Version": "2.1.24.112",
+      "SHA1": "3OtxrkBuo8klLm0l/3unB+C24lY="
+    },
+    {
+      "Version": "2.5.26.113",
+      "SHA1": "W/UAxiv/jf/2qCU9COasYekumIA="
+    },
+    {
+      "Version": "2.5.27.114",
+      "SHA1": "0oEPDNQzN5FyyCZ2g5B3isI8bPk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

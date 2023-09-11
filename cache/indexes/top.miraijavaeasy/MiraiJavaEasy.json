@@ -1,0 +1,31 @@
+{
+  "GroupID": "top.miraijavaeasy",
+  "ArtifactID": "MiraiJavaEasy",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "moLjJZ4zvL4gOKZWIrHRIvbMBgE="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "Wr8YrFNA5jgrHi2odjZVYVXFQqw="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "LMsvG8xG8yomFUi7U/6DG4ybkOU="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "Z6QG7ZJG0PF9JHRUTdxN3QGTjRs="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "JVqxOcr4Ukz7bKUaah6VoRRMZNM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "52x3gq1YR+hQVOpgJeQLJR3nG7Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

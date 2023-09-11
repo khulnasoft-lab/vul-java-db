@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.potatophobe",
+  "ArtifactID": "validsl",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "hh8PKFXWkf2aEr9ZiAN3ikadxak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jmml",
+  "ArtifactID": "jmml",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "xF8CEi3as/OpE4HTkSNsPktOZ60="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-vdoclet-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "l2eDKfy7VInCXR7fbh18hcJAMiY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

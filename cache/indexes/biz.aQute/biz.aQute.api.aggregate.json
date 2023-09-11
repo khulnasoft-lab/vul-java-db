@@ -1,0 +1,11 @@
+{
+  "GroupID": "biz.aQute",
+  "ArtifactID": "biz.aQute.api.aggregate",
+  "Versions": [
+    {
+      "Version": "1.10.0",
+      "SHA1": "COIMG5Lw5zq+J4Ku4qwy9LZcU20="
+    }
+  ],
+  "ArchiveType": "jar"
+}

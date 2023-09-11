@@ -1,0 +1,91 @@
+{
+  "GroupID": "berkano",
+  "ArtifactID": "berkano-bookmarks",
+  "Versions": [
+    {
+      "Version": "20050615.231329",
+      "SHA1": "EQzm9l4ORpE9LigNONHmaUuJmUc="
+    },
+    {
+      "Version": "20050615.232520",
+      "SHA1": "EQzm9l4ORpE9LigNONHmaUuJmUc="
+    },
+    {
+      "Version": "20050615.234601",
+      "SHA1": "EQzm9l4ORpE9LigNONHmaUuJmUc="
+    },
+    {
+      "Version": "20050616.000449",
+      "SHA1": "EQzm9l4ORpE9LigNONHmaUuJmUc="
+    },
+    {
+      "Version": "20050616.001517",
+      "SHA1": "Pt4A92uInOBy8jpurSicMiGx9ws="
+    },
+    {
+      "Version": "20050616.003342",
+      "SHA1": "Pt4A92uInOBy8jpurSicMiGx9ws="
+    },
+    {
+      "Version": "20050616.005053",
+      "SHA1": "PSbC0Uq+Qw3ahDWxALkuaQfbnyE="
+    },
+    {
+      "Version": "20050616.010248",
+      "SHA1": "pCZDX0woZDX4oNLWQn1/ySc7E4g="
+    },
+    {
+      "Version": "20050616.011532",
+      "SHA1": "D/8E9iA6oElCpLbsJJKc9baW7kk="
+    },
+    {
+      "Version": "20050616.013434",
+      "SHA1": "8ZV6FVTn9PEySlFVn3TgW67TPpQ="
+    },
+    {
+      "Version": "20050809",
+      "SHA1": "FGR99iW1d0SJMGaOJhHWS1h2jaM="
+    },
+    {
+      "Version": "dev-20050722",
+      "SHA1": "6KFb4ZQwrNl9knXDTDLNdHfVLqA="
+    },
+    {
+      "Version": "dev-20050723",
+      "SHA1": "JmqlA3m5hQZbfL4+f9Iv5uRqiyw="
+    },
+    {
+      "Version": "20050725.113625",
+      "SHA1": "+KgcaxxeziD47IrShUj7rpgzjSM="
+    },
+    {
+      "Version": "20050725.113936",
+      "SHA1": "+KgcaxxeziD47IrShUj7rpgzjSM="
+    },
+    {
+      "Version": "20050901",
+      "SHA1": "xdyTaHr/HaoVkTfHu14okaKy/bE="
+    },
+    {
+      "Version": "20050901-2",
+      "SHA1": "zkE6zr7Zizz3lM/txFbvPGCbqnU="
+    },
+    {
+      "Version": "20050805.011618",
+      "SHA1": "D4nvQVDa2crfEbJLudb4dKf1Oe4="
+    },
+    {
+      "Version": "20050805.013618",
+      "SHA1": "FgbQR9KSdp0i3HMdASlyDeG7pC0="
+    },
+    {
+      "Version": "20050805.025231",
+      "SHA1": "CoCUG3EgPVidvBuj5zSpUFDDwGQ="
+    },
+    {
+      "Version": "20050805.041912",
+      "SHA1": "IZFBANabOCTsvWthh/0cSYbO/tA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

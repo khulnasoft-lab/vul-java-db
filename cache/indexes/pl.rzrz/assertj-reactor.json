@@ -1,0 +1,31 @@
+{
+  "GroupID": "pl.rzrz",
+  "ArtifactID": "assertj-reactor",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "ZGN9aB232ThWl5DYor1Wv/bQleM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "+f35SJK4r4suPNMgSIUlURYqO6c="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "CLxs24yKliNnwGXVn8K+F+WaS08="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "TMWHmMAZymftT443A3vNUKnBywg="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "OyzuCdrgaYAnkWd9HN+ToJYGOdo="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "BZSddBhyutq/l2i5o+Tg1Ks9+nw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

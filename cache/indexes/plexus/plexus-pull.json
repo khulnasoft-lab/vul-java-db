@@ -1,0 +1,15 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-pull",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "nSRwu43If7jAErX6qXtq99/+EeE="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "I8uvLwf4jFNBYLomA22fmw+BRHo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

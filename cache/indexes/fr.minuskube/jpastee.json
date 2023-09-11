@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.minuskube",
+  "ArtifactID": "jpastee",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "ooMRGFM7nLb3jv5cxTRzdjwDi3k="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "AV2kBPkA9dcaqS51P93EWZhwMuw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

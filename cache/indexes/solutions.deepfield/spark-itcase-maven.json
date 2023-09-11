@@ -1,0 +1,23 @@
+{
+  "GroupID": "solutions.deepfield",
+  "ArtifactID": "spark-itcase-maven",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HoO4qHUlk9hsw2EBL7eegLH2fsw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ywjjZqZqbjoZUfUEWuSh+5zdXgY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "5iIIeP//6Jsnfmhch9K4tUVuoRc="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "xzPrO04WR88pLJt96guTgJsBIKI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

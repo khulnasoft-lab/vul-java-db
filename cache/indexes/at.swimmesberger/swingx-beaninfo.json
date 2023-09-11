@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.swimmesberger",
+  "ArtifactID": "swingx-beaninfo",
+  "Versions": [
+    {
+      "Version": "1.6.7",
+      "SHA1": "GbqzH9dr3Bq6OgSHeDz+9I05B1M="
+    },
+    {
+      "Version": "1.6.8",
+      "SHA1": "8NUljUiXsfg2bBFxW/4zOpiiIjA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

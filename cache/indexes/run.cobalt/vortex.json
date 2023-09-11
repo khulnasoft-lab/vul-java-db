@@ -1,0 +1,15 @@
+{
+  "GroupID": "run.cobalt",
+  "ArtifactID": "vortex",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "kWUSOebr41NDVGdc6z1JdngDYp8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "IEw15/eWuNnZMzSZCvzmsXpcLpY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

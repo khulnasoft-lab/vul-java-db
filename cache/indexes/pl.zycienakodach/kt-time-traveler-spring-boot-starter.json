@@ -1,0 +1,19 @@
+{
+  "GroupID": "pl.zycienakodach",
+  "ArtifactID": "kt-time-traveler-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.1.11",
+      "SHA1": "U1LX/vlSMjoA/RVaGWVQzHdZPlQ="
+    },
+    {
+      "Version": "0.1.13",
+      "SHA1": "V9p1XM/wHCbSD1bHZg6Wy9rATUk="
+    },
+    {
+      "Version": "0.1.15",
+      "SHA1": "ZZJaMqr8K9Iy3y5IvLNpmSTPwkY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

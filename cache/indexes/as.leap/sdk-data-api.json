@@ -1,0 +1,15 @@
+{
+  "GroupID": "as.leap",
+  "ArtifactID": "sdk-data-api",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "WKxKCUhG/rL6ujlS3hPBv43pTEE="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "4uva4Aff/93Ux3xwypDUfZJZGCE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

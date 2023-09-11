@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.javacrea",
+  "ArtifactID": "bano-vertx-client",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "9QMCntV7O8g4BFGNVeKjbIbVfA8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

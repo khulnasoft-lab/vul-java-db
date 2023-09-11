@@ -1,0 +1,11 @@
+{
+  "GroupID": "xin.nic",
+  "ArtifactID": "sdk.registrar",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "X6qut0rlLJ5jEjZueelnTkxTGLY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "moe.tlaster",
+  "ArtifactID": "MediaQuery-jvm",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "uqL68ro8uI7ZhkXHCFYdiJaIeVg="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "E/VAh3+PTVrTBDCLwsc3Td/P8ak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

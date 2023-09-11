@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.pravo",
+  "ArtifactID": "gatling-junitrunner_2.12",
+  "Versions": [
+    {
+      "Version": "2.3.0.0",
+      "SHA1": "RX1VWoG1VB/gc5Zak1uRIvwF1PI="
+    },
+    {
+      "Version": "3.0.0.0-RC1",
+      "SHA1": "3eCMNSFEnrU84SOn1rLy45B3V9s="
+    },
+    {
+      "Version": "3.0.0.0",
+      "SHA1": "MMKHpvF3IFrO1hqhC1T/wWrjLXU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

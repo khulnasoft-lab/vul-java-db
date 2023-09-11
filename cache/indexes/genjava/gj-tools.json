@@ -1,0 +1,11 @@
+{
+  "GroupID": "genjava",
+  "ArtifactID": "gj-tools",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "s4EmtmboFAjW2YXqpvsnA7Im7fI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

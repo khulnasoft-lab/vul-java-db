@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-uddi-db",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "DOTe6UNHsaWsHYxC2+8a+ffQAUY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

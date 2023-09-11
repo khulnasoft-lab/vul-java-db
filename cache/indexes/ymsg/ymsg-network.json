@@ -1,0 +1,15 @@
+{
+  "GroupID": "ymsg",
+  "ArtifactID": "ymsg-network",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "ACPoG3fKkuHSaXEfunMRCxP8pE4="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "vCTxmN17aduJNLP+tZl/3QiKJZE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

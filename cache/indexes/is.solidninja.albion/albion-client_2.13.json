@@ -1,0 +1,11 @@
+{
+  "GroupID": "is.solidninja.albion",
+  "ArtifactID": "albion-client_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "JQwzov9uXdaLCbOSaNo2szZFoSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

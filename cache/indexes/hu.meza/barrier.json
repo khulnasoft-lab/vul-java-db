@@ -1,0 +1,15 @@
+{
+  "GroupID": "hu.meza",
+  "ArtifactID": "barrier",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "0KfWwe/DhSGtxEvzGRmveCg9C8Y="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "+hvopyN+OK/x80PZ0jlXblEs2ns="
+    }
+  ],
+  "ArchiveType": "jar"
+}

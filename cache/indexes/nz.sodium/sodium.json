@@ -1,0 +1,19 @@
+{
+  "GroupID": "nz.sodium",
+  "ArtifactID": "sodium",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Jq39ZnYLN7xkMkHLspmNb+Alf1o="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "FR5xfQj3H+wQSstIiW07kKpb4xE="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "mVAnIb2OZPpSbhjioBv7Mef6IqE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

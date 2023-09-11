@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.weihuazhou",
+  "ArtifactID": "security-test",
+  "Versions": [
+    {
+      "Version": "1.0.0-release",
+      "SHA1": "794doZyW/VQ3WmbzqQK3k9dOWgU="
+    },
+    {
+      "Version": "2.1.0-release",
+      "SHA1": "hW/ixuSgzgOhoT+KKS2MSGGKPdU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

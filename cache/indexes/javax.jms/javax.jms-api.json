@@ -1,0 +1,59 @@
+{
+  "GroupID": "javax.jms",
+  "ArtifactID": "javax.jms-api",
+  "Versions": [
+    {
+      "Version": "2.0-b03",
+      "SHA1": "DnHjq+C9TCwYWFISus6VCiCSb0A="
+    },
+    {
+      "Version": "2.0-b04",
+      "SHA1": "fyTeCCTPdSnodoStGJJfexRvG1E="
+    },
+    {
+      "Version": "2.0-b06",
+      "SHA1": "MxFx5/mkxKAcFys8G4Ya3b+Mbec="
+    },
+    {
+      "Version": "2.0-b07",
+      "SHA1": "CzacCZ+etl3qwxJJ+zIsS9f5F24="
+    },
+    {
+      "Version": "2.0-b08",
+      "SHA1": "dtZMGu80hPkWckcaVTAGYqxPzdg="
+    },
+    {
+      "Version": "2.0-b09",
+      "SHA1": "hVDAvbBTbp9pIgVN2nUKIgCbIEo="
+    },
+    {
+      "Version": "2.0-b10",
+      "SHA1": "DPb0aAFYiAZjHO1usVETT+t2MHg="
+    },
+    {
+      "Version": "2.0-b11",
+      "SHA1": "aAA0QI53lKaCVSXPbCcrNILPxlY="
+    },
+    {
+      "Version": "2.0-b12",
+      "SHA1": "hGDBRjxS6ATGZTmO/rA2r+meZKc="
+    },
+    {
+      "Version": "2.0-b13",
+      "SHA1": "XW3TVIOhqTl4x8H7Oa2wNGDOjAc="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "zadmKS4WB32nlAIOzD/N6Sc6y48="
+    },
+    {
+      "Version": "2.0.1-b01",
+      "SHA1": "2tMt/1Ba84pgsjXiyb2e5VTc0ds="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "X6qjhk/2AlzmmAm2DWW9o+NYYQw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

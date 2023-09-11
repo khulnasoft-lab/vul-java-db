@@ -1,0 +1,31 @@
+{
+  "GroupID": "cz.krystofcejchan",
+  "ArtifactID": "lite_weather_library",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TGv+auf8h+A9VRzYeYUGnjKjxe0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "zpU4UAP2DNnwAyi7O5CYP+vCTFU="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "hgbkq8+TiDlTjU2f5lrdx0d/0G8="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "7rg3BlJhx/vO9Hx8gBQEV1wjKHg="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "DGMSNGBPU+qxkA2StpYLkipto9Q="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "gn5S2HbLJkyV5Rd5mDzMlGvr0j4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

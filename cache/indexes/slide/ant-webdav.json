@@ -1,0 +1,11 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "ant-webdav",
+  "Versions": [
+    {
+      "Version": "2.1M1",
+      "SHA1": "WTDDWAn7nFNkABabosf8yjXJH8Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

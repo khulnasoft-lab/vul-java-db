@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.ghenkle",
+  "ArtifactID": "kumquatt",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "weeMNHTClVy8MBps2mLex/G+ocQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

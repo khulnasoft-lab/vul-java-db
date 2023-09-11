@@ -1,0 +1,11 @@
+{
+  "GroupID": "moe.maple",
+  "ArtifactID": "script-api",
+  "Versions": [
+    {
+      "Version": "1.6.0",
+      "SHA1": "39ct3LiRIfVmoqWZJh8k22vGRzY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

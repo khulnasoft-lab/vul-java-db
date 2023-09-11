@@ -1,0 +1,11 @@
+{
+  "GroupID": "design.donkey",
+  "ArtifactID": "framework-common",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "42kee+IB55xcO+mtJGeRIJI/qGU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

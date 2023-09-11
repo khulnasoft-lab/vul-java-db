@@ -1,0 +1,19 @@
+{
+  "GroupID": "so.dang.cool",
+  "ArtifactID": "levee",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "cslcEw1dMil5EDauALRnAis7gB0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "AbA0GgiwZUrdVyAp3ana/3JObBU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "UvOnsybMLf+v0LFKXO0NLVlELq8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-circe-magnolia_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "Y9XPz5tFpjTTde8ONMRnu7Axax0="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "2CXdUdz0X8By9bsBGJo3ibjhh7c="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "PVHK1n2L3Wl2nJ/0kEXqxgK8Ae4="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "+30o5eIXpWfgQOJr1V7uWYBkKPs="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "prB0Pavc35iSJrHtR3E/yMXXxvE="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "ss8smUL6QTqJeZPrW1PDlVF4jUM="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "n3VaLBtXj2PnnMl/0Gh4W+U+6+k="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "C5hRKGj8DM2rpUIjfVR7qgguLUI="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "h+U9M0NUse4GEUcPHvXVuIrbZys="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "NLLwJBDl8fAFyPnpDxYv0ovLz2k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

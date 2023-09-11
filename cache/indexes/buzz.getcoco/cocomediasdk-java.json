@@ -1,0 +1,107 @@
+{
+  "GroupID": "buzz.getcoco",
+  "ArtifactID": "cocomediasdk-java",
+  "Versions": [
+    {
+      "Version": "0.0.1-develop",
+      "SHA1": "8kssqkc0DNtpUzPv4mChsxfuCLU="
+    },
+    {
+      "Version": "0.0.1-lite-develop",
+      "SHA1": "dp8Z4JXgD4jug+zZm3aGkQMvXxA="
+    },
+    {
+      "Version": "0.0.2-develop",
+      "SHA1": "0V2tabOShturyjrN1pqg4TCScyg="
+    },
+    {
+      "Version": "0.0.2-lite-develop",
+      "SHA1": "Iom1W3w1TkB+awYNNYHLhRwFIkA="
+    },
+    {
+      "Version": "0.0.3-debug",
+      "SHA1": "AxwDJVuBUrSav7O7Nxx9V9vzJTM="
+    },
+    {
+      "Version": "0.0.3-develop",
+      "SHA1": "csJ1IQaSn3xtzJKnS9rX7d52A+A="
+    },
+    {
+      "Version": "0.0.3-lite-debug",
+      "SHA1": "i1sQB7ziQvX8iqkM7Vi2SG9CGrw="
+    },
+    {
+      "Version": "0.0.3-lite-develop",
+      "SHA1": "am2O94BpFqU0Yt7zj+kpDGyfOFs="
+    },
+    {
+      "Version": "0.0.3-lite-staging",
+      "SHA1": "YQULaamEG1jg4fZv2mTg0mJAjtw="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "ueIbf8ippdsGuKhjefaIbpxTWBU="
+    },
+    {
+      "Version": "0.0.4-debug",
+      "SHA1": "Df2n3CYBBBOS+PeDUyPRNumV3CQ="
+    },
+    {
+      "Version": "0.0.4-lite",
+      "SHA1": "+XctvZAz3fPV7RkS1v3Cxs18iRk="
+    },
+    {
+      "Version": "0.0.4-lite-debug",
+      "SHA1": "X4RRGR9xaofige/adV9/V+zPPfk="
+    },
+    {
+      "Version": "0.0.4-lite-staging",
+      "SHA1": "Ro+M4EirPdignKxjkg7rlHCJhCY="
+    },
+    {
+      "Version": "0.0.4-staging",
+      "SHA1": "oZtHBCf0bP88wb7WM60kVU2tNGM="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "yLQB8RMphJD8emWJNwX0jlb7gOU="
+    },
+    {
+      "Version": "0.0.5-debug",
+      "SHA1": "i1wo5QxXfVs+40HRiz7RkpDoqss="
+    },
+    {
+      "Version": "0.0.5-lite",
+      "SHA1": "wHw9IyIiUqdO5Hy2fBer+bYWmAM="
+    },
+    {
+      "Version": "0.0.5-lite-debug",
+      "SHA1": "MpfYBIjerTC0PEkxA+w3WeE1/qE="
+    },
+    {
+      "Version": "0.0.5-lite-staging",
+      "SHA1": "cI/+FTyONu1yeRCoL9dXmXK9NOg="
+    },
+    {
+      "Version": "0.0.5-staging",
+      "SHA1": "XMmCxnM8bM+zxU1MkYXkryfwIsU="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "KdoiNt/gDOx4fBmGrKR61XXxB4Y="
+    },
+    {
+      "Version": "0.0.6-lite",
+      "SHA1": "lgtlqKkaiwSD/PRFgKCTPmdAZgI="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "R/pv0XHZIYarEXNqAu4VmzqFkvQ="
+    },
+    {
+      "Version": "0.0.7-lite",
+      "SHA1": "Oj0k7udpamqlKjcSbdvjgw27Ogc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

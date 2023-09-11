@@ -1,0 +1,11 @@
+{
+  "GroupID": "kxml2",
+  "ArtifactID": "kxml2",
+  "Versions": [
+    {
+      "Version": "2.1.8",
+      "SHA1": "WrQJQTS69B5MJzXS33GgRP2jw2s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

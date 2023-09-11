@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo-spec",
+  "ArtifactID": "geronimo-spec-jaxr",
+  "Versions": [
+    {
+      "Version": "1.0-rc1",
+      "SHA1": "A9EbOMo96FiFI91uAsRt7TpMir4="
+    },
+    {
+      "Version": "1.0-rc2",
+      "SHA1": "wYCsGktxC+KXEaiL7dDHYrUQiSA="
+    },
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "hLCjbDtoAnKOmN4E+gVz2CI0p+Y="
+    },
+    {
+      "Version": "1.0-rc4",
+      "SHA1": "+kg2btE/EwT4p0pfh1WYGU/PezM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

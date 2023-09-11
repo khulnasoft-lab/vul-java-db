@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-crypto",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "jl0Dog1BJ6mAqEwJMNXBJoR2HZA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

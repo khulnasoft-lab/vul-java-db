@@ -1,0 +1,47 @@
+{
+  "GroupID": "fr.irun",
+  "ArtifactID": "testy-beat-box",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "zsnYanzzgC4g5YmKzLO/vRqN1fQ="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "2NpHy1SF+w7GZmejAyQF4nABEik="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "OnONdRNzNfbGa+powlEAmhEXb8Q="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "R3v+Otxv/CGh+9AKG4YFSBGcC8Y="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "/F9tm1+FgkM3W+ZVdOr2ye9iZts="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "sYfM50jbF+Wr5LKINnKq0NUu1Ok="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "gmWBOBVP41kFyrzdlg1NLgTpplg="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "dIYynwz1TVHMP9dlQhrSLPdFS6M="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "VtIYcjUQQ6divE3kHXnIUNEy778="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "EQ+tpAKv2aLNwvpXvyDpubVqjDg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

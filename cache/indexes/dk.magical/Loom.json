@@ -1,0 +1,23 @@
+{
+  "GroupID": "dk.magical",
+  "ArtifactID": "Loom",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JWEdsV4XskyYusLtXqohCfr/xHQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "YUECatgWO9P40f4Tzn0aDwnQ2sM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "b+encd5WY63B8lWTUNDaD/bQLiU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "6BuytERfu0QS4LKyvxiGSSpWVX4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

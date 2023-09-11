@@ -1,0 +1,19 @@
+{
+  "GroupID": "africa.shuwari.sbt",
+  "ArtifactID": "sbt-shuwari-js_2.12_1.0",
+  "Versions": [
+    {
+      "Version": "0.9.6",
+      "SHA1": "jlKxaRH6LzaAgaIi4uwyLZULL0U="
+    },
+    {
+      "Version": "0.9.7",
+      "SHA1": "xF0xRybYdHd1rP6CfvM4I/uOLjg="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "OzhBwfLgRLQsQ39rOY3hgtH/eoc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

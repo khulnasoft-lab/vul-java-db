@@ -1,0 +1,11 @@
+{
+  "GroupID": "xin.lingchao",
+  "ArtifactID": "exposedext",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "GU9hXy1wjOAj3LX05J6cziGfPa4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

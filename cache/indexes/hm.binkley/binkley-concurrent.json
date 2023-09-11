@@ -1,0 +1,15 @@
+{
+  "GroupID": "hm.binkley",
+  "ArtifactID": "binkley-concurrent",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "vpFAGXKE+izm0EqCH2PalciU6ZI="
+    },
+    {
+      "Version": "6",
+      "SHA1": "zCQCd6GE9sv9rpmsF+dtNJzx2AM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

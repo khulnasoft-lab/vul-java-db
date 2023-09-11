@@ -1,0 +1,23 @@
+{
+  "GroupID": "science.aist",
+  "ArtifactID": "fhir-audit-event-to-xes",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "O6njaeNyEHHTN9IB1fi4+G8YdZ8="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "wYwIg9HUTMFtoS5N9FI6DM+x6ks="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "g7/5N6PLTetAqia9MHnM8m0lbNg="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "8gOmkxiozN0yMSmLCT2iz2SnjB4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

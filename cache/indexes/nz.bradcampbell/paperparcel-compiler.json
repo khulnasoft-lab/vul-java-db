@@ -1,0 +1,55 @@
+{
+  "GroupID": "nz.bradcampbell",
+  "ArtifactID": "paperparcel-compiler",
+  "Versions": [
+    {
+      "Version": "2.0.0-alpha1",
+      "SHA1": "cULGuYXBYsVZ7HyMn2nDTh9lOZc="
+    },
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "L5Dtftj8p5J4ktRmnIo5DP3pgf8="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "gfyHsDI9ic0nX46+tSMuFbOCjqw="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "iQawPxeVUZchuNhZfH8iOJXolq0="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "WPtKoJrbJEbO4OXkNA6UeD2Y82E="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "bIPEMQJqUX8RIYbA7G4+B80rSrU="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "Gz4lITURP5rIA3gv2mbj6eGPSkc="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "Nv8OY8rydEMaeTNfK5ThR2ZRGcE="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "6LRvxWJeJQHvGm6OtIlAkPm8RNU="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "Bx1yOcxfbuAuPk+WKdkHnW0cEY4="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "FEO/iD28n9iV4xlY1yxZTBEYY/c="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "+atFZYpmQcgm82GM8BFS1nLRzc8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

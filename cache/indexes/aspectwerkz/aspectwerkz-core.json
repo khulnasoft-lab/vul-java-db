@@ -1,0 +1,83 @@
+{
+  "GroupID": "aspectwerkz",
+  "ArtifactID": "aspectwerkz-core",
+  "Versions": [
+    {
+      "Version": "0.10",
+      "SHA1": "4805+taqRViJhWCzf0ecOXtpiQI="
+    },
+    {
+      "Version": "0.10.RC1",
+      "SHA1": "StRGn/S5gLPYP59WpRryhMD0v3Q="
+    },
+    {
+      "Version": "0.10.RC2",
+      "SHA1": "YAKbFqChVTvCWttEGoK5wb50W7Y="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "JcXUpH2WSg5X7DnOW/c1WUn5Guk="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "9/eDbcXI5i4W/kfyC2m8lBC+qxw="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "RHc6xkN7V4Pvt/qNxpmw44Sskbc="
+    },
+    {
+      "Version": "0.9.RC1",
+      "SHA1": "i/WfFP9/CwDBfhKw1BUBSoL5t1c="
+    },
+    {
+      "Version": "0.9.RC2.dev.20040125",
+      "SHA1": "fDa/pYOMK1T0DQT5Sgfj2tSBOJw="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "uYkO0kdJ80YPo66hDHOc45XqgTo="
+    },
+    {
+      "Version": "1.0-beta1",
+      "SHA1": "0AMXer2m/78N6EhGeCFZRgaeDoQ="
+    },
+    {
+      "Version": "1.0-beta2",
+      "SHA1": "9RzzDBXYyzKr9pJ64VVCnM6BOMI="
+    },
+    {
+      "Version": "1.0.RC1",
+      "SHA1": "MRKk0cJd9rwUdxsOOoDRgoO4nis="
+    },
+    {
+      "Version": "1.0.RC2",
+      "SHA1": "IyU+C8ingIYiKUydU8js10m3NIE="
+    },
+    {
+      "Version": "1.0.RC3",
+      "SHA1": "I567RzhvooXmzoeSQhvAUlxzsBo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "ksxPM/z1bktarXJ+VxizqrkjJFM="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "syyiuMAMihbKQvioJnXYGZSaxW0="
+    },
+    {
+      "Version": "2.0.RC1",
+      "SHA1": "bApNGzOGyLl9b5bntdo/rlAPYuA="
+    },
+    {
+      "Version": "2.0.RC2",
+      "SHA1": "/KBT+zdgshyhEoMQ1ooidyrQVOM="
+    },
+    {
+      "Version": "2.0.RC3",
+      "SHA1": "1yqQyBZdWrR9ETVKqJ0jRQzkIPU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

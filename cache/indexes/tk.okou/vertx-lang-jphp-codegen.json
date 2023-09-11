@@ -1,0 +1,11 @@
+{
+  "GroupID": "tk.okou",
+  "ArtifactID": "vertx-lang-jphp-codegen",
+  "Versions": [
+    {
+      "Version": "3.6.0",
+      "SHA1": "VJB98FuXzWdNWNr7nPA+PfQN0pY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

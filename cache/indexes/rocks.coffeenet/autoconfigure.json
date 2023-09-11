@@ -1,0 +1,11 @@
+{
+  "GroupID": "rocks.coffeenet",
+  "ArtifactID": "autoconfigure",
+  "Versions": [
+    {
+      "Version": "0.38.2",
+      "SHA1": "U3HttrIbONAHxxsiv4XCOSAxbYk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

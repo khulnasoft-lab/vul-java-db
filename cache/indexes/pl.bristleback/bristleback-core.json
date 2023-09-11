@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.bristleback",
+  "ArtifactID": "bristleback-core",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "VcZYJbOfu+Qb1S8t1Z9aBMGnA0Q="
+    },
+    {
+      "Version": "0.3.5",
+      "SHA1": "6DzVw2RETMacJUPgKm65qXQayn0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

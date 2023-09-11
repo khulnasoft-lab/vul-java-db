@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "webwork",
+  "Versions": [
+    {
+      "Version": "2.2.5",
+      "SHA1": "wtUbdIyQWPkq6loKC8ZHGLPuDSM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

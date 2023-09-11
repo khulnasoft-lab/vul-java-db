@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.levk",
+  "ArtifactID": "drmaa-gridengine",
+  "Versions": [
+    {
+      "Version": "6.2u5",
+      "SHA1": "ZP48UUBr4Euv3RWm4yg5KJvuyU8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

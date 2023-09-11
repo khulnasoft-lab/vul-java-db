@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.latitude",
+  "ArtifactID": "validator-core",
+  "Versions": [
+    {
+      "Version": "1.0.RELEASE",
+      "SHA1": "A8izq4Umwq0MtV/oWMl0mKk9Clg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.systemsgenetics",
+  "ArtifactID": "Genotype-IO",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TNjjqODqkIkg5tPKJijkU3M5Ezg="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "IaiWZhzpmZ4Alh1hNNLMWqF3Ktg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "ucBEeoylcFANfHT3c/laOVaTCyI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

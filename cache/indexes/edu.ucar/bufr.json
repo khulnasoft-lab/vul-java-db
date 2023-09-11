@@ -1,0 +1,11 @@
+{
+  "GroupID": "edu.ucar",
+  "ArtifactID": "bufr",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "i7Mmc/3a1Gh8lJwAigYIjustxnk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

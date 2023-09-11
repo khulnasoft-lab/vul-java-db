@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.olavfosse",
+  "ArtifactID": "pojure",
+  "Versions": [
+    {
+      "Version": "0.0.7",
+      "SHA1": "UI4c3EXMUMNE+bE3Y0z9yGiPHqE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

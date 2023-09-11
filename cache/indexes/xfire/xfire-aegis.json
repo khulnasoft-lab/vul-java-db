@@ -1,0 +1,47 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-aegis",
+  "Versions": [
+    {
+      "Version": "1.0-M5",
+      "SHA1": "3CuQsQCjik12vTIyl3J7GTN2qyM="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "3J990OOJECZvQkCiXISW/HcL6xI="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "p211w0gBQIRDuhQeUQ0dkujVV6E="
+    },
+    {
+      "Version": "1.0-20050913.004854",
+      "SHA1": "S4X7g0pm73xEIrJwP94iLCawpjk="
+    },
+    {
+      "Version": "20050103.051706",
+      "SHA1": "p6CrHQCtYGIUJPS6juueFL5i934="
+    },
+    {
+      "Version": "20050202",
+      "SHA1": "XqK0EuuRDhWWo1ZOz8uyEsHeuEQ="
+    },
+    {
+      "Version": "1.0-20050917.230734",
+      "SHA1": "romqinpL5+/Jne3UIJ6OcdqgQ90="
+    },
+    {
+      "Version": "1.0-20050920.032134",
+      "SHA1": "z1OBPww5bNuYLKpLOkX5qwiAibM="
+    },
+    {
+      "Version": "1.0-20050920.034603",
+      "SHA1": "z1OBPww5bNuYLKpLOkX5qwiAibM="
+    },
+    {
+      "Version": "1.0-20051009.195836",
+      "SHA1": "vltzLDqcPfxXq34m8fhe64WJMNI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

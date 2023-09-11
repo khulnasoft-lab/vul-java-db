@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.onepoint",
+  "ArtifactID": "junit-5-extensions",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KJl1zglyvNWqC/+sT9HoS9D5BKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

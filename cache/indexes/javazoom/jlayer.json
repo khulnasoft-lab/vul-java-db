@@ -1,0 +1,11 @@
+{
+  "GroupID": "javazoom",
+  "ArtifactID": "jlayer",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "K/73paTJryGE/3S0YLbX0kNJuYo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

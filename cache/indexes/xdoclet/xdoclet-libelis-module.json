@@ -1,0 +1,23 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-libelis-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "DVPhisFucZXuyVG+9FWRrmRHaeA="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "vCpg+bMLWWjI/JWq6TpQWKAzukc="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "cwsUQXuYUO3BxTpoUi8drHWTpfw="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "J8erMvz91OH3t+AnvCnPnUe37Os="
+    }
+  ],
+  "ArchiveType": "jar"
+}

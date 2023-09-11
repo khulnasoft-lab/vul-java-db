@@ -1,0 +1,19 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "swt-linux-gtk",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "L5U1xuiMsU+z+6M+VQYVyM3DoSA="
+    },
+    {
+      "Version": "3.0m7",
+      "SHA1": "CBJYz4uVWdrvxtac2s8y5hlenYU="
+    },
+    {
+      "Version": "3.0m8",
+      "SHA1": "Gb9qIuXxUaaEHGjirCu2b2FlPgw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

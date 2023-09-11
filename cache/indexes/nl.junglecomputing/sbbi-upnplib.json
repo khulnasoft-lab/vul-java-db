@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.junglecomputing",
+  "ArtifactID": "sbbi-upnplib",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "nbob5YRg1c4NyofI2PDrD5Smd7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

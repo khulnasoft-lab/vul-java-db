@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.edoc",
+  "ArtifactID": "edoc-ext",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2EBIZ+arlm0FqpfWIyylMugYjsE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

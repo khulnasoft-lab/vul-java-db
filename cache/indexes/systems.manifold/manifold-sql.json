@@ -1,0 +1,59 @@
+{
+  "GroupID": "systems.manifold",
+  "ArtifactID": "manifold-sql",
+  "Versions": [
+    {
+      "Version": "2023.1.11",
+      "SHA1": "4avz5AXIVosKUxHtZAd1CryERz4="
+    },
+    {
+      "Version": "2023.1.12",
+      "SHA1": "JeL/v2JEx72fbazJVryCJtpZT1c="
+    },
+    {
+      "Version": "2023.1.13",
+      "SHA1": "v7g+GJ6Jpi0ugNlc8h9lvBvhKBQ="
+    },
+    {
+      "Version": "2023.1.14",
+      "SHA1": "cS+8Vr0tdsCsEygbN1CbnE5IhMs="
+    },
+    {
+      "Version": "2023.1.15",
+      "SHA1": "U643nSDIHSErpU7YWhL+SWaKWtk="
+    },
+    {
+      "Version": "2023.1.16",
+      "SHA1": "MsYLzPinkswUE+LvFhlZTPCCiQE="
+    },
+    {
+      "Version": "2023.1.17",
+      "SHA1": "DRLhnq27WS8AtxiuSQL0yA+8Lko="
+    },
+    {
+      "Version": "2023.1.18",
+      "SHA1": "G0xVo1TooBVF2zoSH2Kwn0BDRCo="
+    },
+    {
+      "Version": "2023.1.19",
+      "SHA1": "uE12M3cPXlkzabeCPEsyhr2K+4U="
+    },
+    {
+      "Version": "2023.1.20",
+      "SHA1": "lom3Tz/LyED8HhfCm1ruvmmfpyk="
+    },
+    {
+      "Version": "2023.1.21",
+      "SHA1": "gD9TjRfV71Tsoyq5i9/a6AlwRvg="
+    },
+    {
+      "Version": "2023.1.22",
+      "SHA1": "ci490ljZw7f68jE4QA0HlFDZ34k="
+    },
+    {
+      "Version": "2023.1.24",
+      "SHA1": "KP6jUiFtuniVtuTUUcF2bO/78Yk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

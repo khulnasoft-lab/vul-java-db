@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.gildur",
+  "ArtifactID": "jshint4j",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "e5XGkg/b8D4ZYHkeqOeT4J2CbXU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "l84rUWZNLzepbums4jtg+kvV82Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

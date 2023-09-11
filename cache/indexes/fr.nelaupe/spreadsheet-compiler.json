@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.nelaupe",
+  "ArtifactID": "spreadsheet-compiler",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "odbQjX2YbuzgoWWQHq+eTC11yyI="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Qw3qFOel2HabEIAWPnHpvgtnrpk="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "28O23HZZOzT+GxOcO38CIs7h5i8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

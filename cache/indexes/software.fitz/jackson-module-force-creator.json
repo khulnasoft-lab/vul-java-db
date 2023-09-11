@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.fitz",
+  "ArtifactID": "jackson-module-force-creator",
+  "Versions": [
+    {
+      "Version": "0.1.0-RELEASE",
+      "SHA1": "s+/J4MYbXkiHTu5ph08lnx0094I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

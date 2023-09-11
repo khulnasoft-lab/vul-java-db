@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.connyduck",
+  "ArtifactID": "networkresult-calladapter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JBZHh2r8l1UMQzm6sKHv80zHDmk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

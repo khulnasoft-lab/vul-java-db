@@ -1,0 +1,11 @@
+{
+  "GroupID": "codes.sen",
+  "ArtifactID": "utility",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ASpC7qRlrtvSP9ifEUWzfnMHKrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

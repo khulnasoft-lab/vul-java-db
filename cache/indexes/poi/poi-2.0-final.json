@@ -1,0 +1,11 @@
+{
+  "GroupID": "poi",
+  "ArtifactID": "poi-2.0-final",
+  "Versions": [
+    {
+      "Version": "20040126",
+      "SHA1": "0P8XYrp65wgVoPmc6jqwjKVv81M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

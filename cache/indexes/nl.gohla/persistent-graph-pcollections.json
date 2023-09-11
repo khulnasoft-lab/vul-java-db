@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.gohla",
+  "ArtifactID": "persistent-graph-pcollections",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "bFWiMpwnxx0oKRlwt8kPJqdPxww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

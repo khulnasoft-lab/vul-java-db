@@ -1,0 +1,15 @@
+{
+  "GroupID": "us.klette",
+  "ArtifactID": "constantstring",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "luFGC2g+LVk21Qw4icoH+wTpJEA="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "R+dtdoWuSGqXz184A04CExMDlFY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

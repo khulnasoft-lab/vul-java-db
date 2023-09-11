@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.rizon",
+  "ArtifactID": "r-tools",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "xSS9nUML9w/5wLez3nu9qBEWO4Q="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "/oiD654FLu/G13J7UfvdyB8yBeo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "UeDkwPVIkhp0ZacxhBUxSH4MeS8="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "yAnuIGPYp85iuRAe0s5FzvXzppI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

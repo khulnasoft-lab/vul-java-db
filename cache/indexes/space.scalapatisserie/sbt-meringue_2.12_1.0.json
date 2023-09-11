@@ -1,0 +1,11 @@
+{
+  "GroupID": "space.scalapatisserie",
+  "ArtifactID": "sbt-meringue_2.12_1.0",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "bJMggaUy1+C4odL59iPegR5EvBg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

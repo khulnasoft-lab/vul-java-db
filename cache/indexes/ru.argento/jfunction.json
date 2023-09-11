@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.argento",
+  "ArtifactID": "jfunction",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "FAtwLLkKbpR9Fe1mCTD3D/vh7Pg="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "2HluHRQOIIXUaHOuTrvkfrrXQ4I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.xiajibagao",
+  "ArtifactID": "crane",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "g8mZT07x4UH9FvQ78UpTWeGTBp0="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "HpWgtSnFtIynHd85Z3na5Gn+CEE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

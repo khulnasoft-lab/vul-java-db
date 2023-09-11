@@ -1,0 +1,11 @@
+{
+  "GroupID": "exteca",
+  "ArtifactID": "exteca-ontology",
+  "Versions": [
+    {
+      "Version": "1.0-b1",
+      "SHA1": "pN90vb+Qp/icSQb1dCoSuRdJPeY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

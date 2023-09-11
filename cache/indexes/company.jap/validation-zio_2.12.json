@@ -1,0 +1,15 @@
+{
+  "GroupID": "company.jap",
+  "ArtifactID": "validation-zio_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "FxclSIIz3e8JjgNRtUHuv3jVKtA="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "vYqLbWHGThZi3y75tgE9uNP9X74="
+    }
+  ],
+  "ArchiveType": "jar"
+}

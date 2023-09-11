@@ -1,0 +1,19 @@
+{
+  "GroupID": "jmock",
+  "ArtifactID": "jmock-cglib",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lrghaDS+19u2X/g6aqJvWhi5fEs="
+    },
+    {
+      "Version": "1.0.0.RC1",
+      "SHA1": "X+9d5OXWZAPkY/NqIJbQ1n4I4ks="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "QEOsY7M2g2dID5ANMqgWIFZzS2s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

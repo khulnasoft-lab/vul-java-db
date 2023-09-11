@@ -1,0 +1,11 @@
+{
+  "GroupID": "jmagick",
+  "ArtifactID": "jmagick",
+  "Versions": [
+    {
+      "Version": "6.6.9",
+      "SHA1": "Lh4O9ROY3lPyyE5Ijay/O8Tg7xI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

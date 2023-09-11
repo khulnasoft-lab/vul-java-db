@@ -1,0 +1,11 @@
+{
+  "GroupID": "su.pernova",
+  "ArtifactID": "assertions",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "oEEMM4wueMBcBKxey3QR9ac9b44="
+    }
+  ],
+  "ArchiveType": "jar"
+}

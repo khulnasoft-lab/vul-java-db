@@ -1,0 +1,19 @@
+{
+  "GroupID": "exolabcore",
+  "ArtifactID": "exolabcore",
+  "Versions": [
+    {
+      "Version": "0.3.5",
+      "SHA1": "SARELcaVKPjsDymeJivftSDjPM8="
+    },
+    {
+      "Version": "0.3.6",
+      "SHA1": "pDB0HN6/96HL2lp2MGkWihOSMfI="
+    },
+    {
+      "Version": "0.3.7",
+      "SHA1": "QqzIbVoTy4n3gy+86Mej/z1UwjY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

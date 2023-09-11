@@ -1,0 +1,19 @@
+{
+  "GroupID": "ru.blizzed",
+  "ArtifactID": "OpenSongKick",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "QDWM3t95B0GgbB11+goUz/h70kc="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "eZK7MBDrdJFNx5koRMJPIDNi1EE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "uLy5s7f46AtothuRFG9R/URBgpo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

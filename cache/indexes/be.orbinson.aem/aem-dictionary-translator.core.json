@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.orbinson.aem",
+  "ArtifactID": "aem-dictionary-translator.core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rmMyfNueIIVHxjlHVl401cmkjKw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "vtu897Cag52AgOo7SKQEXQG4loc="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "+NpkpwCuiSV231lex0tyfWmltXk="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "gnotRZSJIVoTLaid8DU0IYtPF/k="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "/oFFDCAo38m/bfsrDFkNxLSSYs0="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "hMjJugIdftayots6pjJ6Vt6T/ng="
+    }
+  ],
+  "ArchiveType": "jar"
+}

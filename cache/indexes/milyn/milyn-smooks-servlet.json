@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "milyn-smooks-servlet",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "48sFNjftwpAF1rNsd//Jc8Z/hms="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "metaclass",
+  "ArtifactID": "maven-metaclass-plugin",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "nfUxSiviJABqJua/yiK3UGyPJnI="
+    },
+    {
+      "Version": "1.1-rc3",
+      "SHA1": "H8fnHWnGKCFJ8FSXhLq/c6ySsXc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

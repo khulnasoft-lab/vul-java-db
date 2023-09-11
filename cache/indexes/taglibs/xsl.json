@@ -1,0 +1,11 @@
+{
+  "GroupID": "taglibs",
+  "ArtifactID": "xsl",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "BE1lHP99kHlpnhAFS5bbHz2c1vs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

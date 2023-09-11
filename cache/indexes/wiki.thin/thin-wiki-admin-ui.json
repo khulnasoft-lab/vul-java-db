@@ -1,0 +1,11 @@
+{
+  "GroupID": "wiki.thin",
+  "ArtifactID": "thin-wiki-admin-ui",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "E5ErBMgPY7H5gPSgreasrKrfLZU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

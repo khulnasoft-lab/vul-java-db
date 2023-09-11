@@ -1,0 +1,11 @@
+{
+  "GroupID": "blog.svenbayer",
+  "ArtifactID": "cache-refresh-ahead-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "BlorK4LIv+BQPoFUMExsI5hQ1kc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

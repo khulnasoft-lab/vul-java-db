@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.gogognome",
+  "ArtifactID": "messagepropertiessynchronizer",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "YGk+lTnreN4n1sn38qFk0UfthKo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "A9LSIaRSlr+mEy3O1t8Tl022TGc="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Y3PECamv35ErzAfWOg9T6bss8mU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

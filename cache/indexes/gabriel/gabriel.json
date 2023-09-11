@@ -1,0 +1,11 @@
+{
+  "GroupID": "gabriel",
+  "ArtifactID": "gabriel",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "HeS8XETBvNFQO44gQBvGpmsOlsI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "build.max",
+  "ArtifactID": "common",
+  "Versions": [
+    {
+      "Version": "0.0.1.RELEASE",
+      "SHA1": "RZ0pSulqfRQisyUSpHqIhLgre1c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

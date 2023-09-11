@@ -1,0 +1,15 @@
+{
+  "GroupID": "run.ktcheck",
+  "ArtifactID": "ktcheck-assertion",
+  "Versions": [
+    {
+      "Version": "v0.1.0",
+      "SHA1": "ROohETlnJX5QOw2dOP1HOmilV4w="
+    },
+    {
+      "Version": "v0.2.0",
+      "SHA1": "Ot0Vko7ba49c9ALKnoX8M9XSoS8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

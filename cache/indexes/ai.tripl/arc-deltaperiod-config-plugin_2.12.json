@@ -1,0 +1,43 @@
+{
+  "GroupID": "ai.tripl",
+  "ArtifactID": "arc-deltaperiod-config-plugin_2.12",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "AndtSB09ZjnfsH2wiaC5NHCMjPI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "GZM1c4BBj+jiiJ2Y09KIPMPrEWA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "p5s0NZuNdMnoFVxO1r8FVo3drC0="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "f24ErAFsixkhkeoaS6cMkAENk9E="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "dx88jUX0oIg3p1g8T7ypz+F6oFY="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "yy6mbCZ24yX/Y0/qzU6+qvDP7lc="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "oPliKDXLvW7Fjs3EGNIM0nfGgec="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "WjWoPluKOTxI7jvHQm0348ptTvM="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "CdzRQNQ1zOHzNPFdtDMGctKRs7E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

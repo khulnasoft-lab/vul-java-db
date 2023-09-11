@@ -1,0 +1,15 @@
+{
+  "GroupID": "ee.omnifish",
+  "ArtifactID": "transact-jts",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HlaR31FRCgNAbnPK6pcTbRn/540="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "QvEGC14Ot5O+d9behXuMPEikpUQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "games.cultivate",
+  "ArtifactID": "MCMMOCredits",
+  "Versions": [
+    {
+      "Version": "0.3.9",
+      "SHA1": "32M1oLfB2EAZKcDaankiriuhmuE="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "DkAylsk/oMToeE/XbgapNwIlk7A="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "l1rwXalFZ6ArqsJIkhiuqge+E88="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "Pz2OtBSuQeFuMWwSPsez5AfpS3Y="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "DjnN+E3vVUg+KLSiYIf6dpS/PrQ="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "GGrdiqtg4HxcMbcsUM1kZpZREQQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

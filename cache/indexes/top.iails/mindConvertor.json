@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.iails",
+  "ArtifactID": "mindConvertor",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "Utfc7BHbQU63T3AD5oKcusvqBxc="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "2yUrnF3bpRotEf+wAn4hw5VkVOM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "moe.kanon.krautils",
+  "ArtifactID": "krautils-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Xfjo5MFNxjD4bvCvew0qLPYZCZ8="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "CUMOKe8JroYrN+IVQXcn5jTocQQ="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "6y2gIfGuYK05GCtW2jCxZr+pxME="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "EzPSvJ6hoFTwuPeRknp3Ethzqwg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

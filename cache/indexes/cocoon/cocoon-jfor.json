@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-jfor",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "fDAnJEUhiVrA4Vfr95JslP2yb68="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "0fnubLvDx3tnXIdBSDcaJoV+peQ="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "RRFGUCV1JprUwMJwZ+shwf70Zj4="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "YiNe6JSADPzYupbWOCXtYhhH+KU="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "L0hQM/DDAON269mSF4k2mcr1iYM="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "ZCkKZeZRT64y1dWLM3p3lk7VWf8="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "8i6Avak8d8MlbZGDYcJ7WLDySSg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

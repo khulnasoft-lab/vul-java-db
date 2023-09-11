@@ -1,0 +1,15 @@
+{
+  "GroupID": "tv.cntt",
+  "ArtifactID": "chill-scala_2.10",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "EB2BQSL9spQilOyGF9/5Yt1L83Y="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "jzqlGshKHM/uaNTDWDtrVsYN5Vs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

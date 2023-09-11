@@ -1,0 +1,11 @@
+{
+  "GroupID": "edenlib",
+  "ArtifactID": "edenlib",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "SSJ6smaR8cSFiVXMoywYJfXbOkY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

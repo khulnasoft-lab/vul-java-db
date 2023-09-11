@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-xalan1",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "TyPHvq0Apf8OPu8YPHhFqD1Y3V4="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "WMVJXvpIE8oH+AKBU1hJiDHj6ZA="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "f3IaIXcDZ+zHUB5xHzeNciZhZlk="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "oTAMP5ItbyQkXNGUEIQMV8ZsE4c="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "ATCFpyzIBYM9/PEkFOL3RujpwIM="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "s8UlnhhHlBItZm0Szmb5eWHKmSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

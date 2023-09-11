@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.oprosso",
+  "ArtifactID": "hazelcast-ssl",
+  "Versions": [
+    {
+      "Version": "1.0.12",
+      "SHA1": "HUBKU3jP/wcw9JQBdREWA9QTHss="
+    }
+  ],
+  "ArchiveType": "jar"
+}

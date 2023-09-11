@@ -1,0 +1,11 @@
+{
+  "GroupID": "jcifs",
+  "ArtifactID": "jcifs",
+  "Versions": [
+    {
+      "Version": "1.3.17",
+      "SHA1": "YOOAXnvP6Wvx8ZB7gh0lHMnXiew="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "fun.tusi",
+  "ArtifactID": "limit-cat-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0-sb2",
+      "SHA1": "Rj5D2maLIScYa2ZYBYXNdMrQlxE="
+    },
+    {
+      "Version": "1.0.0-sb3",
+      "SHA1": "icR/Z3MqDnW9y6JVKMFun4f/PCU="
+    },
+    {
+      "Version": "1.0.2-sb2",
+      "SHA1": "z2keThfuBjZ2f8HEyXh/dgLNdWA="
+    },
+    {
+      "Version": "1.0.2-sb3",
+      "SHA1": "ASebVLPb5/aON/GfK9bxpzjWyvs="
+    },
+    {
+      "Version": "1.0.3-sb2",
+      "SHA1": "o3D7VDVZBpZTRdg3vpdUaW2c2oI="
+    },
+    {
+      "Version": "1.0.3-sb3",
+      "SHA1": "o3Ob8TccCyIPBFyaHAeBqJ1Ljqs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

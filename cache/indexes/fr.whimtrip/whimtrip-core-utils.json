@@ -1,0 +1,31 @@
+{
+  "GroupID": "fr.whimtrip",
+  "ArtifactID": "whimtrip-core-utils",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "a2OMP3+BdUkHZzhxtx4KjdNKunw="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "1IBe5hj64fbyVqhbUVwJvbRe9nk="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "i/kqZYHPpxqa9CocHwK3AqC7MGs="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "v5BgmrTG5hrhc8iw5ORYelpjRK8="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "JRmrqnEBXG2H4IHunNok9kGh5r0="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "cWDjn5vFML/3ukuS6SxZpO5RMQI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "pink.catty",
+  "ArtifactID": "catty-registry",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "3ganmHblDbdcuxhY5V/fEJqCyEQ="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "El6f7VLCGpC0DFtJp/7x7WsdUoE="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "ndbULN68iv1Y7CxL95IuCN7BxZc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

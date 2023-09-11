@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.tanghy",
+  "ArtifactID": "tanghy-core",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "8sHfSOEUpk5YqW7A9LoLnXhh/iw="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "yDrjXQJIPU6SqtI/pg5m+EMkQeM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

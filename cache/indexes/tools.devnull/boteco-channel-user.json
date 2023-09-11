@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco-channel-user",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "wqJ/QETjNaTk/W6GYL+LY9/dfiM="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "H8cLS8slyDaa1V30rJ06KvbIvx8="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "TV8FwU+vpuX9HM08ouSHDmI/nps="
+    }
+  ],
+  "ArchiveType": "jar"
+}

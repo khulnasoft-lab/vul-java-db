@@ -1,0 +1,51 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-graphic-ogre",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "aRCUyfThP8V4hVHRqdPJVgt8NSQ="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "xwMi8WcLnyZJ+X0GrbXPMpTN4Bc="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "a5PMaQ2ESYthLh5zbhH7IHIGgy0="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "fjxEk8Tt/sUXjYfjhZd0wMCA9MY="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "oXrBjm7XyVRZR6LSaOmW0RgvKCs="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "x+DdblPgHEg6oKk5D1z7laJv2E8="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "s5a9Lo1zWvpqmWDN3HiUTcEtxFo="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "+HYnYMUSg+WzeSVqvtTLjS/BXEE="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "RhemKMt696qa16V5tJqvTHVh0OQ="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "0VbF9hdTwqmJ4Z9yqm3imIN08Ng="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "zk51/1zjIt3xMtcbiMa85Oue/KA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.rechnerherz",
+  "ArtifactID": "aoprofiling",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "OXFZ8xi0p73ZAqIiCIUF9aT0DH8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

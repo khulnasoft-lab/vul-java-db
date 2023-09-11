@@ -1,0 +1,11 @@
+{
+  "GroupID": "kxml",
+  "ArtifactID": "kxml",
+  "Versions": [
+    {
+      "Version": "2.1.7",
+      "SHA1": "9RpQlLFRv97NuenDsjASkMCeKwQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

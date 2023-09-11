@@ -1,0 +1,15 @@
+{
+  "GroupID": "jardiff",
+  "ArtifactID": "jardiff",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "VwkEAsGMRoscgaGHdzC0TfoCz+Y="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "NKxR5yxy05UmgUpLKQhaCKT4ITM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

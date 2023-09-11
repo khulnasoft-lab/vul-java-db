@@ -1,0 +1,19 @@
+{
+  "GroupID": "info.henix",
+  "ArtifactID": "archer-rpc_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.2",
+      "SHA1": "mLC9uDtuF4Khybx7dS2KVBo3WQw="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "tNeQMcyed2udVu3eroStgQ2vmII="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "ONWhEfpGOjSBKCU1b4KsKlMOJbg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

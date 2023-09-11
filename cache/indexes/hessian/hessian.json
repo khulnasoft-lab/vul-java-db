@@ -1,0 +1,11 @@
+{
+  "GroupID": "hessian",
+  "ArtifactID": "hessian",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "zhEzAWkuy3MmV/bEIS493JP5oCo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

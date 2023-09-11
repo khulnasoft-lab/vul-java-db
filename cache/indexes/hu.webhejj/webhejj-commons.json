@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.webhejj",
+  "ArtifactID": "webhejj-commons",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "RsZRAy27UhPcuTmvqr1aYLr+bsw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

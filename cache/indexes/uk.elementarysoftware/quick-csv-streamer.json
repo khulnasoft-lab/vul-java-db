@@ -1,0 +1,35 @@
+{
+  "GroupID": "uk.elementarysoftware",
+  "ArtifactID": "quick-csv-streamer",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "OsTOVv7CK/xXxd7dvGF/+jLkte0="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "GWmvFk7mEMn5El/nT4HdiGJYTZc="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "0KO22hHbb587inGoOKJbhQsEIa0="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "7F13Cw4FzbYXfGvIH5qykjoZTSY="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "JqPbnnxCCZQqwTGOqDNBi+2EDkA="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "YJ38DZ3ruYk91u1NBO3xvB+Jfgs="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "y1i+7i+7Pd14w3pV+2wyGVuPuDI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

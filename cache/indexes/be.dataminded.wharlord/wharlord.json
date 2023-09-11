@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.dataminded.wharlord",
+  "ArtifactID": "wharlord",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "9wtAgBfYH2Y/g8FYzA074SIfINk="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "H0zDWZdbggBtC2oGnxO4tCCr7Aw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

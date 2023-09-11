@@ -1,0 +1,43 @@
+{
+  "GroupID": "be.cetic",
+  "ArtifactID": "rts-gen_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "wo64dpj6AFvIOnOqgBt29q5EMLM="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "ToqJWijST6YVrWnTCs9hru0Y1KM="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "Bp5jpWJulsH9EsrAipWJW0OG3/w="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "Xlxx30WXKltkK3Fl4NkJdZoi1kQ="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "2cLRg6Mp8LpsgeIF5yS5bV9ime4="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "AHjKaWROBdujc6GB+sPNo2YCUPA="
+    },
+    {
+      "Version": "0.1.10",
+      "SHA1": "ql9NH0iRIE8GNKlfpNGh1ZUy6iE="
+    },
+    {
+      "Version": "0.1.11",
+      "SHA1": "ipvDHDDU7k5KS/lbcBNvFM0g40k="
+    },
+    {
+      "Version": "0.1.13",
+      "SHA1": "8OGl40sgfTKekVsMcnXtCJxvL4k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "aspectj",
+  "ArtifactID": "aspectj-tools",
+  "Versions": [
+    {
+      "Version": "1.0.6",
+      "SHA1": "QGzYKk+MWzFyweK3egJXUpqt5PY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

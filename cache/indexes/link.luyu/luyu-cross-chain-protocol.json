@@ -1,0 +1,11 @@
+{
+  "GroupID": "link.luyu",
+  "ArtifactID": "luyu-cross-chain-protocol",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "3reOpbyOH3CRRfqllr5VX6XYZq8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

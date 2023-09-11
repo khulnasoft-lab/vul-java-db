@@ -1,0 +1,15 @@
+{
+  "GroupID": "pull-parser",
+  "ArtifactID": "pull-parser",
+  "Versions": [
+    {
+      "Version": "2",
+      "SHA1": "wvBACFv801lj6VBL7BHaxXzQqG4="
+    },
+    {
+      "Version": "2.1.10",
+      "SHA1": "xO1psoRV2XC4W6auJ8kqeV+QWrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

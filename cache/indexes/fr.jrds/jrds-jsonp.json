@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.jrds",
+  "ArtifactID": "jrds-jsonp",
+  "Versions": [
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "Im5V2BcWHaptVtx4rnSDJ9qIMrE="
+    },
+    {
+      "Version": "2020.1",
+      "SHA1": "I6rS+c+I6ptXA98Edo83VV2+T2Q="
+    },
+    {
+      "Version": "2021.1",
+      "SHA1": "KAuUY8MH5dyKfoz5HJhHJlyGw8w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

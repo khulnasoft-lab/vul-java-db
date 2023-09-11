@@ -1,0 +1,23 @@
+{
+  "GroupID": "nu.validator",
+  "ArtifactID": "vnu-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "w8G6piKv2+rc270fn7weCVDWDNI="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "mE90RADBM5Pc1SwQUfI4WIR0vnI="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "OgmT2wfH9SWxvasbQLDKCM+BkA8="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "+3n/MbuLzWdExYEoNj4A1L0EixQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

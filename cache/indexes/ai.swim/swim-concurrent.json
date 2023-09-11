@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.swim",
+  "ArtifactID": "swim-concurrent",
+  "Versions": [
+    {
+      "Version": "3.9.0",
+      "SHA1": "bRDZ1st3PPUxSw6EUn7sqV5SEJU="
+    },
+    {
+      "Version": "3.9.1",
+      "SHA1": "KreTk3OE3utyHL3gElxfMAnVNZM="
+    },
+    {
+      "Version": "3.9.2",
+      "SHA1": "wTD9WXNSRkS7X3tuvuJhoevJDO0="
+    },
+    {
+      "Version": "3.9.3",
+      "SHA1": "D9doC7HRAcnQpKw34Vsb3XotE6U="
+    },
+    {
+      "Version": "3.10.0",
+      "SHA1": "SD5YLEGGjlcE4x8FarCoup7n5EE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

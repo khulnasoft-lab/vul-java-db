@@ -1,0 +1,15 @@
+{
+  "GroupID": "dk.apaq",
+  "ArtifactID": "crud4j-core",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "86QkojpZjjsueM5ipb6t8YgGZCI="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "916PXQNvjeuEs3uVfociP7roK40="
+    }
+  ],
+  "ArchiveType": "jar"
+}

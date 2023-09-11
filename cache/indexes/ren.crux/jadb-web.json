@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.crux",
+  "ArtifactID": "jadb-web",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "BcHvppkYWTl/+dJuqp4WWiXSJxQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

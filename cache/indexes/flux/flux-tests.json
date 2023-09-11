@@ -1,0 +1,11 @@
+{
+  "GroupID": "flux",
+  "ArtifactID": "flux-tests",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "Ugm9IJkrlA3RI83khgdIiWz+w0E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

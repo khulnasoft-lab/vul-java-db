@@ -1,0 +1,11 @@
+{
+  "GroupID": "dynaop",
+  "ArtifactID": "dynaop",
+  "Versions": [
+    {
+      "Version": "1.0-beta",
+      "SHA1": "GDONrpYXXHotuF2fXH5wPvD2Nng="
+    }
+  ],
+  "ArchiveType": "jar"
+}

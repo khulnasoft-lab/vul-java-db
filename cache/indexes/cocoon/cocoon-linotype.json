@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-linotype",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "3YnRKnZ0dDmgIZQHCAS+zOJ3uI4="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "AF8Yw5LVix6TuS81tNY+VmTctKo="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "HPEMVdImz7XCpoTpwEgKmkUqfDE="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "lW1P1V19/GWIEtqzyIEy9vslqlY="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "TMNT4AqoSkJ0LYpGFwTyksLNq+s="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "k8yN272vRfhQ5SzyjaXPmMo7SH0="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "B32OcjKEQOSM7esuODbicNxrdlY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

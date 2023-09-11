@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.metastack",
+  "ArtifactID": "metadocs_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "XJ+TRDa+svkw0TrlgBai4esuSwY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "3dPTyF4bJcpUEmm16XcnHInsxDw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

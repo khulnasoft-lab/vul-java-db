@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.atbash.keys",
+  "ArtifactID": "keymanager-sign",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "yCqT0U2lpXqQNeugCRCTJn+jRlU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.morn",
+  "ArtifactID": "morn-test",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "mOkvBHLo2jxQUjKyWHtf8vEfrb0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

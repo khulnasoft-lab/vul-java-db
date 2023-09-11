@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-accesscontrol",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "TZsmcDf1s3z2Kp15emaJvsBYBJg="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "Y8hZkwFEFmffdfBFC1h/aj47cvk="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "cUnXq4K4dHTzRt6UOwvz3BpqB4w="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "SzrXVCN5LWwa+sjvnKfTQoCXeVE="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "DGEU8/EcT9z5foYAhXznorsBBzg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

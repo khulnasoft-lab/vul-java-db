@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-models-deeplearning",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "vduOAgmjFPkuQyt5lK2lLHoSBEk="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "vLciqHB3gc8kq0yc1DsTQ8crYpI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

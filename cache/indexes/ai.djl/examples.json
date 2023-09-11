@@ -1,0 +1,35 @@
+{
+  "GroupID": "ai.djl",
+  "ArtifactID": "examples",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "KoM0VVsIqU1874p9FSvrnEQa7CE="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "pi2SdwW0IStMrWawxJ2vPzkvngg="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "Lm9CGKTIark3AbId7SCHJK63RfY="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "/q+uUecExRaQ2EFnzvuor6WIkMg="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "PTc06e5NeOX3Jh2ILcWwtYaEAGE="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "fXrlbE4Ly+GvgMntkAgy3cjqxg0="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "V6xku3TcdyXsV/1vb9j3GCQ0r2Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

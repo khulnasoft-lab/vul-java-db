@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.ippon",
+  "ArtifactID": "metrics-spark-reporter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "mUFY6CEmhIUGvtiLsdmbaItOR+E="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "xVwj3hX74l+Gv/5mdvVu22lnu9k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

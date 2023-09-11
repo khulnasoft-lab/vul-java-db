@@ -1,0 +1,55 @@
+{
+  "GroupID": "black.door",
+  "ArtifactID": "jose-json-play_2.13",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "AhinvgCtpQFgiEfrXsNgnqnP0aw="
+    },
+    {
+      "Version": "0.3.0.1-M1",
+      "SHA1": "xt6zhrhRcAstTP1dIxNo4zC1Dys="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "0LUH9N9t/yzTRfZ9gDh2iF1/Ank="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "sMsr/zTPgvgj7VWoOHY8DuxxQio="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "IS1/rYI3hTBWNg8kdaCv0LU7rHA="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "NOI1AAyjRutklwQIT78aJLau+9Y="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "wPBOlfmrhcJzqauF7PNvGyMiytU="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "TTC+qtXkC3Ztt5R2sf47nwzb4vQ="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "MsMLYsCHYKGTi7MN3QM9QNNMtW8="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "xfhageFyjyP61MMp/kw6rtPZ4VA="
+    },
+    {
+      "Version": "0.4.5",
+      "SHA1": "HmIMwN1nKoi66aYK48NG26ZvD+o="
+    },
+    {
+      "Version": "0.4.6",
+      "SHA1": "8dTwiWvuGN1pNpzMarrQ+VAax0s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

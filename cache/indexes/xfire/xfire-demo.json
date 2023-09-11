@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-demo",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "MbvZCIrkdbsIJSkCqyUOgwFYjiE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

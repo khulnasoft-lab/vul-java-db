@@ -1,0 +1,11 @@
+{
+  "GroupID": "cloud.testload",
+  "ArtifactID": "jmeter-clickhouse-listener",
+  "Versions": [
+    {
+      "Version": "2.00",
+      "SHA1": "VP3J5h3fEo7QmrSM+z9Rtr++5a8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

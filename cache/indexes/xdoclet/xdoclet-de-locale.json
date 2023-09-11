@@ -1,0 +1,15 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-de-locale",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "wWDOF1as409iidS5IX0fHV52xlU="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "kmcpTQI1wng94pW6StlTe/lL15k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

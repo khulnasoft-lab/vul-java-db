@@ -1,0 +1,11 @@
+{
+  "GroupID": "beehive",
+  "ArtifactID": "beehive-netui-util",
+  "Versions": [
+    {
+      "Version": "1.0-alpha",
+      "SHA1": "e0Nzsz5SBhO5kEPLoG1kVxcoUaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

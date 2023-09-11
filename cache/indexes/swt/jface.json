@@ -1,0 +1,19 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "jface",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "0qmOipo+OajbpaGKOt+JTlQa56s="
+    },
+    {
+      "Version": "3.0m7",
+      "SHA1": "t4hBlw+JO1T/9cxNYD8rz4iQJw0="
+    },
+    {
+      "Version": "3.0m8",
+      "SHA1": "8YEcbcmgfhz4QiUgJyVjIBXLXZc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

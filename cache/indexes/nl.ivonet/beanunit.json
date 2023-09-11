@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.ivonet",
+  "ArtifactID": "beanunit",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "0L0wfMh15IHw/XcXy9E+nfN8eyQ="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "BSMJh7SzJngBEMGgl+2CBHjAelQ="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "1MVn2YtzNeTcoi4FHX0jv0kQZww="
+    }
+  ],
+  "ArchiveType": "jar"
+}

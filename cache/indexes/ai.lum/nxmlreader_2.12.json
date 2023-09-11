@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.lum",
+  "ArtifactID": "nxmlreader_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "o1FazISZf2LiFAL2kxdNvD68wJQ="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "qV+243zFVf+UA0H6ni7f/WLvf14="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "cj1FeRFhx+fLvU1Ygei0XnVtabw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

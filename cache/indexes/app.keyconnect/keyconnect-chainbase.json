@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.keyconnect",
+  "ArtifactID": "keyconnect-chainbase",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zOzuM24qVpr9O9ys6G3Z4Du3E+M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.dragonfly",
+  "ArtifactID": "cliviz_3",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "E53nHfZI1mOb8BRc2XYtQUk84ck="
+    },
+    {
+      "Version": "0.101",
+      "SHA1": "VhQBx6DLSQvrOsg06LQo4n1+kBI="
+    },
+    {
+      "Version": "0.102",
+      "SHA1": "3imz4+1+RBllhWBS4bkr33hBJTc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

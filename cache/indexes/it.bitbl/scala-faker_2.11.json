@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.bitbl",
+  "ArtifactID": "scala-faker_2.11",
+  "Versions": [
+    {
+      "Version": "0.4",
+      "SHA1": "idvfMSybrel4o4gOJMiVbSxXKBo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

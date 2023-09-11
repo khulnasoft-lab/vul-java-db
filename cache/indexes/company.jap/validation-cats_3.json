@@ -1,0 +1,15 @@
+{
+  "GroupID": "company.jap",
+  "ArtifactID": "validation-cats_3",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "dOdPIF9fG/X2Qe7dRgRHv1avU0E="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "+nM+NplR8uRYUFOdWW7bSYmkdkk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

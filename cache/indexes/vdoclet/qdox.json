@@ -1,0 +1,11 @@
+{
+  "GroupID": "vdoclet",
+  "ArtifactID": "qdox",
+  "Versions": [
+    {
+      "Version": "current",
+      "SHA1": "QK3qdZHzwRzU0DdNEJOmhZAa2bE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

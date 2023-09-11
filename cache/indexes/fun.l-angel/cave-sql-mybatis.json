@@ -1,0 +1,15 @@
+{
+  "GroupID": "fun.l-angel",
+  "ArtifactID": "cave-sql-mybatis",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "MbgUqwaenGmTpPmxEUjbB1E5v2g="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "gnGqJpFZHrOvAnofibad4gyjYE4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

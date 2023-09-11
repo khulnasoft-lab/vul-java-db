@@ -1,0 +1,27 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-developer-activity-plugin",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "hCQU3KG3fhqLJEWCXGu9du+hbkE="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "fG3Tx4GzEGHD7ZE1/dqeosRwfHU="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "Vx6zK7U/3KXh+tpYvIz9vVwWLwY="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "yaezuNUw1s4fpcK32q6NmiWozq8="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "xybSjZNeq5ldi2FlvLnoyswsAT8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

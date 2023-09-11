@@ -1,0 +1,23 @@
+{
+  "GroupID": "guru.nidi",
+  "ArtifactID": "brainfuck",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "20aCqhp6tP2SBU7LuGD+x80D7sg="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "36CRazl8Dr7TdS31U0QGDGDAiLY="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "ZHDscMNWA/0jSH7E5He0ZPjDbY0="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "Xu8coZ72fi6/0M6KXZNWmXWr6Co="
+    }
+  ],
+  "ArchiveType": "jar"
+}

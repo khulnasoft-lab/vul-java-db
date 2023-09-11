@@ -1,0 +1,11 @@
+{
+  "GroupID": "black.door",
+  "ArtifactID": "jose-2.12.8-json-play-2.12.8_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0-M1",
+      "SHA1": "jc+zYPpdxnuYPjlDIQnkYedRzf4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "javax.xml.soap",
+  "ArtifactID": "javax.xml.soap-api",
+  "Versions": [
+    {
+      "Version": "1.3.5",
+      "SHA1": "4RwPB6kvbQKjR92cVe5WaSptn34="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "H/d8ZfJay3ssDnXVH8clhSVj8xU="
+    },
+    {
+      "Version": "1.3.7",
+      "SHA1": "k7IPEe+ehEHA1XhBNbnQxg0Fc0c="
+    },
+    {
+      "Version": "1.3.8",
+      "SHA1": "GP2xcQor+pOyWMEtQsI8kFeiPGU="
+    },
+    {
+      "Version": "1.4.0-b01",
+      "SHA1": "SBXCt19sAxfmxVWuSebqaudx+uc="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "Zn7y7uWUyn4Focvgs3pCj3tXd48="
+    }
+  ],
+  "ArchiveType": "jar"
+}

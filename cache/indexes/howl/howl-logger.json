@@ -1,0 +1,23 @@
+{
+  "GroupID": "howl",
+  "ArtifactID": "howl-logger",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "2ZWqU39HD/Sa9P6oMm+HxgXK5Qo="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "tVqfj48tz4jmy+ZZFG2qgsNloc4="
+    },
+    {
+      "Version": "0.1.11",
+      "SHA1": "3khn0S8WMESy9GkJf2YENyjdwJM="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "D8nQwhYChiFHw/m+hnjIGUqjqdc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

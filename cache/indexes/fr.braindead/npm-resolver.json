@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.braindead",
+  "ArtifactID": "npm-resolver",
+  "Versions": [
+    {
+      "Version": "1.4",
+      "SHA1": "f8Z91AY0VQJ2zl4o89ZebT6uHiA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

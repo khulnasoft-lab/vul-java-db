@@ -1,0 +1,11 @@
+{
+  "GroupID": "findbugs",
+  "ArtifactID": "bcel",
+  "Versions": [
+    {
+      "Version": "5.1",
+      "SHA1": "Rj48HUIVoVKnHnQ3YJFaCgh8sSk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

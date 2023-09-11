@@ -1,0 +1,19 @@
+{
+  "GroupID": "ink.xiaobaibai",
+  "ArtifactID": "xiaobabai-admin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "U8kjRmzG5XJZg1OXc/YnVpz7cmc="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "VSTRM0aFFtW8LRJceB+FsAhjSUM="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "q8Ha/f52zRA5MXsl39NU4Rnyf6Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-spring",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "wXhaA35iERNYLli2ErvCd7Sg/9o="
+    },
+    {
+      "Version": "2.5-beta-1",
+      "SHA1": "d3fShtQbE2y2OvN7oHpAqrkGzNg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

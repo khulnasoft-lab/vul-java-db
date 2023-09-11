@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.powermilk",
+  "ArtifactID": "jpa-soft-delete-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "VWuopFlseYmmnmtaCq5EJYdkHGk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

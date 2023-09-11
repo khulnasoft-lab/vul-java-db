@@ -1,0 +1,27 @@
+{
+  "GroupID": "africa.absa",
+  "ArtifactID": "inception-oauth2-authorization-server",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5a+DPvAik7ViXa3YIHrUSCOtmmM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "0SL1tXBtT+0bxgS59XAzbZp1qGQ="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "SFujjX2EhRh9xPufiXh6aGCmRFQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Ro+ZIUQHh7yhs2Fofm5lnpJTlvo="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "hm4m6FkVhwGbb56mmhbwqw3xyu0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,55 @@
+{
+  "GroupID": "ro.nextreports",
+  "ArtifactID": "nextreports-engine",
+  "Versions": [
+    {
+      "Version": "6.2",
+      "SHA1": "2qqw5PMzgnvLBvJAWpF1qHkKU2k="
+    },
+    {
+      "Version": "6.3",
+      "SHA1": "8RTEI1THwMxCaPrBITVPnbt8+4g="
+    },
+    {
+      "Version": "7.0",
+      "SHA1": "MwWDcG04HEpFOAu6/a+dvt5Q41A="
+    },
+    {
+      "Version": "7.1",
+      "SHA1": "yZNULsWl+dJPaM7HSOUh/ohPWaY="
+    },
+    {
+      "Version": "7.2",
+      "SHA1": "o5sZ9pIRImeLQygQyqUoNyXfCQU="
+    },
+    {
+      "Version": "7.3",
+      "SHA1": "S+0M4mlZxozusPJJnswO/FrSuTk="
+    },
+    {
+      "Version": "8.0",
+      "SHA1": "qYHUt+0dU11gLUscFnyd7RbJvK8="
+    },
+    {
+      "Version": "8.1",
+      "SHA1": "kki8BRe22o11kk1xN5P3Uj3Ro/8="
+    },
+    {
+      "Version": "8.2",
+      "SHA1": "NmSdUkK68v4TCAZvcnFpfTdyGyc="
+    },
+    {
+      "Version": "9.0",
+      "SHA1": "YIS50BKLep0kVYP2GYHKt7fH7P8="
+    },
+    {
+      "Version": "9.1",
+      "SHA1": "jSAOmB5BoCtLYJTr3aqUx/Qgs6o="
+    },
+    {
+      "Version": "9.2",
+      "SHA1": "rKwYC5e5C4wNOIzd2VrcjRaH+yY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.brics",
+  "ArtifactID": "automaton",
+  "Versions": [
+    {
+      "Version": "1.12-1",
+      "SHA1": "lZoMYvmlwjCeCtCwWJx01p4QEkE="
+    },
+    {
+      "Version": "1.12-3",
+      "SHA1": "GOgOGcLs5p4KBxI8k6BQ+39dxoM="
+    },
+    {
+      "Version": "1.12-4",
+      "SHA1": "ZkqYyXqXbSEP9ws04Q85R7+4Z1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

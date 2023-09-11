@@ -1,0 +1,31 @@
+{
+  "GroupID": "se.jiderhamn",
+  "ArtifactID": "classloader-leak-test-framework",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "am7QorVlqWnIpAD3j78WrZ6CsNI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "kVVS9g2l/JlOQ5s5dIiMl83/rg4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "pVc7uP3Y7zgIVDE02C69XqJ+Fb0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "R7sIgyuWMfgrgF2YbWa7HDQ1SZU="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "mFhKPJc5OhQAI5bPQWivxpPoV30="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "t91rceegfC18Cxnm8+5QNf+cjVE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

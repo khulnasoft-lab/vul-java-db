@@ -1,0 +1,63 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "dentaku-qtags-cartridge",
+  "Versions": [
+    {
+      "Version": "20050105.012417",
+      "SHA1": "yJ40iG1m5VQfJLXzHd2FkIHnR/A="
+    },
+    {
+      "Version": "20050105.013221",
+      "SHA1": "pQVPQDziiIsbxW/NiPEdLp50/9E="
+    },
+    {
+      "Version": "20050106.213511",
+      "SHA1": "xRPlP4BPDeuE03LspdWVcGo3I1U="
+    },
+    {
+      "Version": "20050107.230543",
+      "SHA1": "XqrsMdK9xHTSnupLqJ1oa/sOWtU="
+    },
+    {
+      "Version": "20050109.084454",
+      "SHA1": "7Nwwycav4OYsNl7WkTMAJwX3j8I="
+    },
+    {
+      "Version": "20050113.005331",
+      "SHA1": "GAZUVgRFUqG1Z2omz2wPea+bLmo="
+    },
+    {
+      "Version": "20050203.034749",
+      "SHA1": "X6Y6+OfhkOrTNR9Z/xbYiSpnfoo="
+    },
+    {
+      "Version": "20050208.164444",
+      "SHA1": "cU44gye/HGFUpACuo+Pq9AcuhdY="
+    },
+    {
+      "Version": "20050208.173050",
+      "SHA1": "pJRfZKT2GzqyyF93yNRzSkx4rqQ="
+    },
+    {
+      "Version": "20050208.174342",
+      "SHA1": "7WuxCMoXCXQ1u5YezXuGRK6oFEw="
+    },
+    {
+      "Version": "20050208.175145",
+      "SHA1": "eUxAlH+RtPrDsDg9vr6uh0jiWJc="
+    },
+    {
+      "Version": "20050208.175731",
+      "SHA1": "tnpS8tAui1pWVjt3D/v6ocH7RoY="
+    },
+    {
+      "Version": "20050708.205508",
+      "SHA1": "lCgS9evzwOS4BYr+LnSfB0+BZV4="
+    },
+    {
+      "Version": "20050708.210139",
+      "SHA1": "k5NiOhMdEA7es/PourQ/FUzJysI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

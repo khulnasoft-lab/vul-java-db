@@ -1,0 +1,19 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-tapestry",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "0pULiUcz0MnMKcCrhnIDOtU6JsI="
+    },
+    {
+      "Version": "20051012.092357",
+      "SHA1": "0A8cmAx49XImrDPukpx99TkEvJY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "RgBKx4HKiW0Wl2JTBXa1OgY7wPo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

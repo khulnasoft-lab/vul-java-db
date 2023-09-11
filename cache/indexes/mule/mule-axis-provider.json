@@ -1,0 +1,19 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-axis-provider",
+  "Versions": [
+    {
+      "Version": "1.3-rc1",
+      "SHA1": "P7jLPN4QhHm3C7PIrj94N0VoqHg="
+    },
+    {
+      "Version": "1.3-rc2",
+      "SHA1": "uo6Sz0gmwhNxGMRxFylIZlcHg0o="
+    },
+    {
+      "Version": "1.3-rc3",
+      "SHA1": "Ix1WrHcmDhZP/GcIme5caYj3jH8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

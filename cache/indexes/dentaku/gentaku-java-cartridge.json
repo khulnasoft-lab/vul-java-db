@@ -1,0 +1,11 @@
+{
+  "GroupID": "dentaku",
+  "ArtifactID": "gentaku-java-cartridge",
+  "Versions": [
+    {
+      "Version": "20050105.013546",
+      "SHA1": "xi61zKIA6KhH4v3L2QnY48Ifu4E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

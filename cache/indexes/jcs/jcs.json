@@ -1,0 +1,11 @@
+{
+  "GroupID": "jcs",
+  "ArtifactID": "jcs",
+  "Versions": [
+    {
+      "Version": "20030822.182132",
+      "SHA1": "iBXW2WDdHflgS8tLnTGZZ5xWjGA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

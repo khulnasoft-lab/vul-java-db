@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.myndocs",
+  "ArtifactID": "oauth2-server-client-inmemory",
+  "Versions": [
+    {
+      "Version": "0.7.1",
+      "SHA1": "V9a9quYsUNygeTa2Y/jqpsEOlo4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

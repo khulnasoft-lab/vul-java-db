@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.extremelogic",
+  "ArtifactID": "lap_timer",
+  "Versions": [
+    {
+      "Version": "1.0.20210204-23456",
+      "SHA1": "AHXOgWSMXlGPvVDGLD46SsvqxJk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

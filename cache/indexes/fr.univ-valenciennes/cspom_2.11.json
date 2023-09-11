@@ -1,0 +1,27 @@
+{
+  "GroupID": "fr.univ-valenciennes",
+  "ArtifactID": "cspom_2.11",
+  "Versions": [
+    {
+      "Version": "2.6",
+      "SHA1": "hsRWzfX/pCLQ7HSoy8cB+n646nI="
+    },
+    {
+      "Version": "2.6.1",
+      "SHA1": "ZJEg52sM64TmtUXVHckz8+Nc7pQ="
+    },
+    {
+      "Version": "2.7",
+      "SHA1": "L14ltASOZSBQBCObyD9ZfcQDbNA="
+    },
+    {
+      "Version": "2.8",
+      "SHA1": "7MthDcaKEzn6r9UTlvKoGXvhtrs="
+    },
+    {
+      "Version": "2.8.1",
+      "SHA1": "lONQYIrFWkf55xV5fvR1Qjhdq+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

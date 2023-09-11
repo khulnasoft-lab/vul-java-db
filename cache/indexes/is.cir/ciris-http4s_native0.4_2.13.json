@@ -1,0 +1,23 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-http4s_native0.4_2.13",
+  "Versions": [
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "u49m9o6qPViqXUhXfKIESMBQeA4="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "7SaNf+HHbtJdN/Y5Sg5iGnoZ04o="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "ID3fZ6ht7r8M5fiGfXxMB6PIonU="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "E5KqWUcF6OlzUUCTpHqEFcyfQ0I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

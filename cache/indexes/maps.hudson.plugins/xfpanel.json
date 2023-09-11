@@ -1,0 +1,15 @@
+{
+  "GroupID": "maps.hudson.plugins",
+  "ArtifactID": "xfpanel",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "Ibzn0uzSa2tSjUWnSZW6MukqFx4="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "l2jQKUAO0tAvpJOi0Tkt2+pE6jE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

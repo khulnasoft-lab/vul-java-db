@@ -1,0 +1,11 @@
+{
+  "GroupID": "su.lychee",
+  "ArtifactID": "android-json",
+  "Versions": [
+    {
+      "Version": "0.0.17",
+      "SHA1": "Nls6KP7cqpfDsCvww4JoCNbdDm4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

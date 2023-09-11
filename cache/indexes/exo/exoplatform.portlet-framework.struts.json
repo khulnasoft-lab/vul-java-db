@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.portlet-framework.struts",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xQY4GQhD8H4YHHiwVtK++HGGBN0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

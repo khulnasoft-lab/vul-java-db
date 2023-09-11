@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.wseduc",
+  "ArtifactID": "eventbus-wrapper",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "5Q1nLnJDJPRT/Jl46vFTv7xO3A0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

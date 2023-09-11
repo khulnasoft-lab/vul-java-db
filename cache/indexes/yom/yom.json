@@ -1,0 +1,15 @@
+{
+  "GroupID": "yom",
+  "ArtifactID": "yom",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "QLAfWxQlQGltV+ZnPQvcW9zOFRo="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "lIs/0WljTWlhKsf3pa8jECTzYjQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

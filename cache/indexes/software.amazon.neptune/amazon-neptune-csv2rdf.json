@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.amazon.neptune",
+  "ArtifactID": "amazon-neptune-csv2rdf",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qoEupd2uGdGbj7Qd5Y9nPByV3CA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

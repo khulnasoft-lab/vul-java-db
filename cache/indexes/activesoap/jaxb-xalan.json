@@ -1,0 +1,11 @@
+{
+  "GroupID": "activesoap",
+  "ArtifactID": "jaxb-xalan",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "axAmlFfXXUvSoEXoHPYgEC9UaSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

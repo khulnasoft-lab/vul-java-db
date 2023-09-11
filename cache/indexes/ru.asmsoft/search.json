@@ -1,0 +1,31 @@
+{
+  "GroupID": "ru.asmsoft",
+  "ArtifactID": "search",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ZAxrZUrI0NX1ohLmRqV0cZRr/rI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "M6EVOs+HZQCO+SEwIY7dhXKcrP4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "Z6wUCeK8B7MT1bzmJ38Gn+OaiQ8="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "LCsPCxYlIStaJC77neCxmZkBrSw="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "5XzfSlsfZDkqCZo7h3J5A7amY6Q="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "G4peXMiOjGRUVdND/1JYBxtrlls="
+    }
+  ],
+  "ArchiveType": "jar"
+}

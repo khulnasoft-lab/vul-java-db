@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.totalo",
+  "ArtifactID": "spring-boot-starter-apollo",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "JAEyn6nETao+Vo5fe4EXyWGvyT8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "HQ8IglOzHd+/nURYB8IyrDRsXA4="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "WVqHX+SWdN/8ewZw813X2VvX5Cw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

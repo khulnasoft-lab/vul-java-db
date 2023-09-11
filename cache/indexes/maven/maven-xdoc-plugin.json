@@ -1,0 +1,47 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-xdoc-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "sY9BuaR1Yh2Vrgu7wRBoKaC0VgU="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "k3JRAX+GYUSdIMF9pXY1eNF31Fg="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "DCS6yhxMphRhG+6+4laE+GPxXow="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "ExvMt5691P8cljStPJ9T4usnzhI="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "bkU5mMaWNc3S43thLM9WnSpu14s="
+    },
+    {
+      "Version": "1.7.2",
+      "SHA1": "jKiURbZq9dw3ZGsHigckUwEtsxA="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "2Cf5kQf5tqanqiiZtrMp1tnrAb4="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "fa7DLuIOWzkS+0c2T0hI0ndSWXM="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "DWdc8ocZWGljmvNqJChnIz8XqCI="
+    },
+    {
+      "Version": "1.9",
+      "SHA1": "tb84JNma/mUSq7p4lrJlF0fxt+U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

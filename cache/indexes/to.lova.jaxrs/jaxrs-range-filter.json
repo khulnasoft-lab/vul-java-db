@@ -1,0 +1,11 @@
+{
+  "GroupID": "to.lova.jaxrs",
+  "ArtifactID": "jaxrs-range-filter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LEwr3rzFNuzA2yYy5+jiGoMEEb8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

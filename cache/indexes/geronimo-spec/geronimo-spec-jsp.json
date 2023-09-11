@@ -1,0 +1,27 @@
+{
+  "GroupID": "geronimo-spec",
+  "ArtifactID": "geronimo-spec-jsp",
+  "Versions": [
+    {
+      "Version": "1.0-M1",
+      "SHA1": "0BWEcKc9GeeiOxrgqyyGhSB4zJ8="
+    },
+    {
+      "Version": "2.0-rc1",
+      "SHA1": "uqyUCovyaF31IYpAoZ1tc4Y2f0k="
+    },
+    {
+      "Version": "2.0-rc2",
+      "SHA1": "N4RS8oq7o8IHMMrjy9Sxjq/giC4="
+    },
+    {
+      "Version": "2.0-rc3",
+      "SHA1": "NOVtoRtsBOTpGYFRSl26vKr1NTs="
+    },
+    {
+      "Version": "2.0-rc4",
+      "SHA1": "dfV2pzbPsPxA4Jvb/OheOSOfC3U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

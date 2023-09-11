@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "zI9aJMZrkRaI0QHLRTEQGehrHwA="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "Y4cAvE1rZfRKUyPVMiecqtkeCsU="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "l6FVUz4tbcM8QlEnCiWjEFjsjkw="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "0FIOZ+cg1JxlnYuvSYx3LTlz/84="
+    }
+  ],
+  "ArchiveType": "jar"
+}

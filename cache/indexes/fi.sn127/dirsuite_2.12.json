@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.sn127",
+  "ArtifactID": "dirsuite_2.12",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "z0qxY880lVS0oBS7II6gIrBa0Fw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "jdsl",
+  "ArtifactID": "jdsl",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "lGbuJZo+5ZulH9s5233o6tkGPtQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

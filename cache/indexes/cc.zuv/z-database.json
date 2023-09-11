@@ -1,0 +1,43 @@
+{
+  "GroupID": "cc.zuv",
+  "ArtifactID": "z-database",
+  "Versions": [
+    {
+      "Version": "0.1.4",
+      "SHA1": "AZxErSY9HJhDHChHTEhpoyKiNZc="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "CXhAeZGX8pNxLKPl/wfGac23WHU="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "JyQRpVKQv6S02w+nA58bfr8iI3M="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "An+VHOLHoc4LqFp9qRrINyyFg/8="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "1uUqZASSbbSxHX19oStBWq3GlBY="
+    },
+    {
+      "Version": "0.1.9",
+      "SHA1": "2IZVgIt/sT7tWESKX6pQluCdw6k="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "MeusYTYFN8aRDpKyC9mJ2fGGzUk="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "SnmoJcW/UJ8KTaUyL4vMTwt131Q="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "TL7xlg4aZUbTdychf7psHzF9SvY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

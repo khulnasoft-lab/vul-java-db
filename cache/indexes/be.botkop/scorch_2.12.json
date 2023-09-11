@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.botkop",
+  "ArtifactID": "scorch_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "4OnodI45Fr1B+4MPC+0PtC7wkao="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "fuf1K2NZ2A526OSndq4FuHwKLyw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

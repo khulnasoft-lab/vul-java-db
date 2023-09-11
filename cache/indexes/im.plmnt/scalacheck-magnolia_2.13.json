@@ -1,0 +1,35 @@
+{
+  "GroupID": "im.plmnt",
+  "ArtifactID": "scalacheck-magnolia_2.13",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "nc1/wTaS6NCM0HdGRloMhHsKz00="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "9O9ZMwVvs4LbVX8G5eePC3Lzgok="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "54P923xQwanunvRKz5bEknmWFDg="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "mRiFGHI26UYz1td4woSX2Es1cFA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "2rFjslHgfcbj/F7iPlyhFvjIwpM="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "KnV7OCZFpXU/YHKSfppiPadQZVw="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "6KikDYeBDuAx3G/mXEGJLFkdyMU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

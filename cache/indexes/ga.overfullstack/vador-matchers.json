@@ -1,0 +1,11 @@
+{
+  "GroupID": "ga.overfullstack",
+  "ArtifactID": "vador-matchers",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BWaNuCpwjgt5WqM5zkLz6+NI3y8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

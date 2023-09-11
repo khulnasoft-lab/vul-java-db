@@ -1,0 +1,19 @@
+{
+  "GroupID": "xmlbeans",
+  "ArtifactID": "xmlpublic",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "lGaNLdpG5PhknSh4szN8ooSSXj0="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "iJy1R9RpMLefnp/Eg2F3QtF7/nQ="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "wDpYY7VFtL8p8b1k9I5nsMXix4A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-bsf",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2befMWUksBHCPBgN2++qdYgtWW8="
+    },
+    {
+      "Version": "20030211.142259",
+      "SHA1": "CJkaqTij0nVnPbT5dg7i5H4QOWc="
+    },
+    {
+      "Version": "20030305.080050",
+      "SHA1": "8CZSk3YDlKvHBbtljPq/0dcUXco="
+    },
+    {
+      "Version": "20040902.071900",
+      "SHA1": "8CZSk3YDlKvHBbtljPq/0dcUXco="
+    }
+  ],
+  "ArchiveType": "jar"
+}

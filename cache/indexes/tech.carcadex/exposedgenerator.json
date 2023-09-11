@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.carcadex",
+  "ArtifactID": "exposedgenerator",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "XWQ3WBCwJ3yyXPXs0apc5QlYE7k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

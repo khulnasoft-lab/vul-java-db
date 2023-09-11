@@ -1,0 +1,11 @@
+{
+  "GroupID": "lt.marsrutai",
+  "ArtifactID": "serializer-kryo",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "j2mnHSXeX34wJ0FBx5uE7NOAj+g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

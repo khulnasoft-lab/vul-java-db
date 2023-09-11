@@ -1,0 +1,55 @@
+{
+  "GroupID": "software.aws",
+  "ArtifactID": "pdk",
+  "Versions": [
+    {
+      "Version": "0.19.70",
+      "SHA1": "hDjFzLfeqEppWMi8wKUvRut38v4="
+    },
+    {
+      "Version": "0.20.0",
+      "SHA1": "kTwRWz2HZtOAvW2lejfedGbZDnA="
+    },
+    {
+      "Version": "0.20.1",
+      "SHA1": "MVhlolEScHBuZ/cdSbVk01gO/wU="
+    },
+    {
+      "Version": "0.21.0",
+      "SHA1": "W3tXaOAHhNT3+qVScfO0epciFeg="
+    },
+    {
+      "Version": "0.21.1",
+      "SHA1": "KHYCkI2vgWFIspC29nBTEF8Kzzc="
+    },
+    {
+      "Version": "0.21.2",
+      "SHA1": "On4m7nbbBEZbJ0/R6A5to81OBHE="
+    },
+    {
+      "Version": "0.21.3",
+      "SHA1": "PiLkkE1SeA7e76JMs+qm2TEFZw4="
+    },
+    {
+      "Version": "0.21.4",
+      "SHA1": "t+tGKuzemiyPbE5+aXvMglp+oFE="
+    },
+    {
+      "Version": "0.21.5",
+      "SHA1": "XL2d5EKWCVtfGUKnID0brc1ccSE="
+    },
+    {
+      "Version": "0.21.6",
+      "SHA1": "Zq/QfEUBjto97w1N9ev+4kLbjq0="
+    },
+    {
+      "Version": "0.22.0",
+      "SHA1": "8mRQAWbcK/EESUsomaflCH97uyQ="
+    },
+    {
+      "Version": "0.22.1",
+      "SHA1": "IsRAkdepZsrxNY2cEPpZZ95ko8c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

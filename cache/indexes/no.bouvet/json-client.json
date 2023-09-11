@@ -1,0 +1,31 @@
+{
+  "GroupID": "no.bouvet",
+  "ArtifactID": "json-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LuWgFsmm+j/3JBfk7t0vwwhsmj0="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gRzjnaX9cK+GjkJfcPh8llvkg/o="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Tv7o0u4OeWKwQmWG6myVhGBBJMs="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "hWNP/VYlTY++aLNQV66UVJXd0v8="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "N5ru17LFbkoCks+mQxbc4gymmpQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "aK46B+tjJ/z0SQXWjPL1z2Ur5A4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

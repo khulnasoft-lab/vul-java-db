@@ -1,0 +1,11 @@
+{
+  "GroupID": "ovh.lumen",
+  "ArtifactID": "NKcoreAPI",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "/mMTOW6zxZuV5OGlSazT1xzpED4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

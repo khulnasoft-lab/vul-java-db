@@ -1,0 +1,11 @@
+{
+  "GroupID": "cool.solr",
+  "ArtifactID": "solr-forward-auth-plugin",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "1ZuWXk4mc79vUx4lySdzvM9ts7A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

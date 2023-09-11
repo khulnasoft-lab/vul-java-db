@@ -1,0 +1,15 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-portlet-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "FWr2rt+vg28nMjG9p8RIs4M/v90="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "RQJVzUdabbkkfI/uL8hYI0VkitY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

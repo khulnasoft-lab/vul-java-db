@@ -1,0 +1,15 @@
+{
+  "GroupID": "icu.zhhll",
+  "ArtifactID": "tools-jdbc",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "PZanUss4qr0FQu6rAtp5xoW5rho="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "jkwdWi7u+WeVq5L3czK7Y3L/Ric="
+    }
+  ],
+  "ArchiveType": "jar"
+}

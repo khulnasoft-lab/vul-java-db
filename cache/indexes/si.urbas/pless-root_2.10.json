@@ -1,0 +1,27 @@
+{
+  "GroupID": "si.urbas",
+  "ArtifactID": "pless-root_2.10",
+  "Versions": [
+    {
+      "Version": "0.0.8",
+      "SHA1": "9iZOAuNbOVKOIs4xqy+OohPCKNM="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "yDrdaZxDPlEPsHsxoyS8tmExz/U="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "J3rJm32ZBN/RRO0L9Z7GZNJAzyY="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "rO/of8mPgHadFh2Zysmq/FLGdNA="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "+42Y4rEvDEPtKlgSNggFnA2ehtk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

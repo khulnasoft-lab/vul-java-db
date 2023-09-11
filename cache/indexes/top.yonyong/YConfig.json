@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.yonyong",
+  "ArtifactID": "YConfig",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "aEVKAuflhvbeSHjT/h9m4OzmEQc="
+    },
+    {
+      "Version": "1.1.0.RELEASE",
+      "SHA1": "RMqUZQTKCxcLd56Nuobn5corXTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

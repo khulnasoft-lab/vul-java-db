@@ -1,0 +1,27 @@
+{
+  "GroupID": "se.wollan",
+  "ArtifactID": "bananabomb-compiler",
+  "Versions": [
+    {
+      "Version": "1.0.0-rc5",
+      "SHA1": "HhbPhq5nCAjSMdYU6zxLUtnyv4E="
+    },
+    {
+      "Version": "1.0.0-rc6",
+      "SHA1": "LepJCbGAXPmVsFsKt0SARjgJn1M="
+    },
+    {
+      "Version": "1.0.0-rc7",
+      "SHA1": "xyJiESR4YCl73/PlADE0RxLr8RA="
+    },
+    {
+      "Version": "1.0.0-rc8",
+      "SHA1": "8lH5hJXpBVfn0r5BtsWTOLcHObk="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "SdnQafa6iMHMDMVaRCjPCn24QgA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

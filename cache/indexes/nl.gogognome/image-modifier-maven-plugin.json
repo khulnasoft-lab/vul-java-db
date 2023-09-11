@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.gogognome",
+  "ArtifactID": "image-modifier-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LMqXJXNtb1rHN3air5CZGCE8ELo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Dtdffcwpfm4lPN9FcRwMPofzGfg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

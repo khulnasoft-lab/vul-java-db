@@ -1,0 +1,23 @@
+{
+  "GroupID": "fr.theorozier",
+  "ArtifactID": "msengine-client",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "TDUoAhEfdeZlP2yaPabz2opVB0E="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "Nnz8mb4wKF6qEI1vAck3FlPFnBs="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "aOR6bBc6tejqCpkcTSQ5BtKVWvU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "MpVF9BMhvErKDFSU8/bIfWhetlU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

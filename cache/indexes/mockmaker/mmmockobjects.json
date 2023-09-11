@@ -1,0 +1,11 @@
+{
+  "GroupID": "mockmaker",
+  "ArtifactID": "mmmockobjects",
+  "Versions": [
+    {
+      "Version": "1.12.0",
+      "SHA1": "PkmQw7yARI0FAiZxVl1kdE+xeBQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

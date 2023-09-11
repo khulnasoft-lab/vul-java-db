@@ -1,0 +1,11 @@
+{
+  "GroupID": "fi.pyppe",
+  "ArtifactID": "play-simple-auth_2.11",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "r/yEjXluIZ5bnRAYuznQ3rMFdwk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

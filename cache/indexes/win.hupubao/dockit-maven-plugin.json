@@ -1,0 +1,39 @@
+{
+  "GroupID": "win.hupubao",
+  "ArtifactID": "dockit-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Y4KN331LkGtETcV+2bGnGx4HwAU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "2hGjZUTVLEoBKi0Nqhh1iio0h/w="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "mC3U4TWxN60Jy88R+9EfPYnfJoY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "ZZ+py5MblUVo8hz2tGtpTImn40g="
+    },
+    {
+      "Version": "2.0.0.RELEASE",
+      "SHA1": "7rnzOXA6J78EUvRBreCqcGTO6zw="
+    },
+    {
+      "Version": "2.1.0.RELEASE",
+      "SHA1": "H3o2aO8zVDzYwqLtO5VVlX/nW1s="
+    },
+    {
+      "Version": "2.1.1.RELEASE",
+      "SHA1": "K1UCHaBqolkGpzIgc5L2slGt314="
+    },
+    {
+      "Version": "2.1.2.RELEASE",
+      "SHA1": "wJI80htcAFCx3G4uxb6vUCFOLcI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

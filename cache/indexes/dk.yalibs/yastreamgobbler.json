@@ -1,0 +1,11 @@
+{
+  "GroupID": "dk.yalibs",
+  "ArtifactID": "yastreamgobbler",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LCj61AWT3u6t1fysP5g6hCn2ZZw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

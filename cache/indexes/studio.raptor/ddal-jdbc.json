@@ -1,0 +1,19 @@
+{
+  "GroupID": "studio.raptor",
+  "ArtifactID": "ddal-jdbc",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "8u2QjHK4UrzPJ9GmwRcDNKwP0g8="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "J9NIPKrOa0CGGVVjpsorjhaf8Js="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "DHFS9Otg7xC6f9y1yqHm6fFjaGQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

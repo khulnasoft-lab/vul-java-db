@@ -1,0 +1,15 @@
+{
+  "GroupID": "link.thingscloud",
+  "ArtifactID": "common-bean",
+  "Versions": [
+    {
+      "Version": "0.1.0-BETA1",
+      "SHA1": "9bpp/B2uXt2COnemxjyKJ/Eb83w="
+    },
+    {
+      "Version": "0.1.0-BETA2",
+      "SHA1": "fZJdE3LdipsqJMMPHF0hyIiGzmA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

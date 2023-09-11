@@ -1,0 +1,15 @@
+{
+  "GroupID": "cz.greencode",
+  "ArtifactID": "phrase-gradle-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "WOWiziV+9tz/HGAplLItcHJDRdo="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "fqZx6Fw+QLJC82iCj3uLIWZ0mc4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

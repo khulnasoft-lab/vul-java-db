@@ -1,0 +1,27 @@
+{
+  "GroupID": "at.ipsquare",
+  "ArtifactID": "ipsquare-commons-core",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "DGBSGdSOoWZObiJSjOx8IkTiHc4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "dFyy4lZnR7tbygfElyFbDdarWAI="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "LPO06gOVJjqoYMCw114gHZK4j2g="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "kq+EJyI/D5fMU4xl6WgpQ7E00aU="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "z8Ys9cUdT7AwPfruzeA2hbL3VVw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "log4j",
+  "ArtifactID": "apache-log4j-extras",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "SfWYv9H0XkYdYHOjxTtDfn19IsI="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "HkspD1yc5eo6GnNSSWycnSqJSAA="
+    },
+    {
+      "Version": "1.2.17",
+      "SHA1": "hYY2FNghhdflH+IcAKqRF6UjqLY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "nl.tranquilizedquality",
+  "ArtifactID": "cargo-itest",
+  "Versions": [
+    {
+      "Version": "1.5.0-M2",
+      "SHA1": "z18xHXsAdkCXLE3F2hcLy3AAED4="
+    },
+    {
+      "Version": "1.5.0-M3",
+      "SHA1": "8rNw5dt0xV8VQzR/SR1eWVIcz/c="
+    },
+    {
+      "Version": "1.5.0-M4",
+      "SHA1": "BcTa0sPLVG6Yix2UQCreH6uL16M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

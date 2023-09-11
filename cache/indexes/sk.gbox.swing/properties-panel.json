@@ -1,0 +1,11 @@
+{
+  "GroupID": "sk.gbox.swing",
+  "ArtifactID": "properties-panel",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "fZMFGNmyRHtjrr0cMN3w1hY0ilU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

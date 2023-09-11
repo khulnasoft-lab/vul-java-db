@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-mail-sender-javamail",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "A/ZFfJkVnowLL6KynOOdZ14DZ8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

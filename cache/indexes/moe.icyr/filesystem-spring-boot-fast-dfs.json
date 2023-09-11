@@ -1,0 +1,19 @@
+{
+  "GroupID": "moe.icyr",
+  "ArtifactID": "filesystem-spring-boot-fast-dfs",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "uzVGBVyzwB+H3lzoA0nlZLL+WU0="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "hG/ChhrNayTdQSTDQhYmrOzBnrk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "zrg9ryMr0wCUuSaiX3tSVn3CnoM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

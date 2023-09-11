@@ -1,0 +1,15 @@
+{
+  "GroupID": "jdiff",
+  "ArtifactID": "jdiff",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "SnwSGgE8lG8IjGthGvAjXmoWdig="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "F5PT2wlwXCHizjnSaSsxO7ktDnU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

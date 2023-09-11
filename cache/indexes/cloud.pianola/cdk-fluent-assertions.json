@@ -1,0 +1,15 @@
+{
+  "GroupID": "cloud.pianola",
+  "ArtifactID": "cdk-fluent-assertions",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "nmiU5ZK56txmWedCiFaWY0adQxY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "DMK24v4FdwPoB4dK7FQlqVqjPRk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

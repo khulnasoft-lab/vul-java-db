@@ -1,0 +1,67 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-database-postgresql",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "TaPcU1s23ukXdMm1XoQeUdSEbIE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "gRFg+3mX3HKv5ZH2jWbyOdFne9k="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "whPiDNWCQx4J3HXPA9LawIB/Xik="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Ti/aMzdOFfMPFJT0agy2jDk0p2o="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "o5fPzHvvkEtH+pfdbW24IUIBpdE="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "PIMU7uqV7Tp9V26bwChcA5zRy/s="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "kr/bo3z6fvWOFwsJM/3gLQ6Udd4="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "WhQTw45HR+NV0WIGs7MYgOYKMaA="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "fsWAG3o4TU7B7u9qn3tpdKYaFcc="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "4rnP5Vilu2BItcrWCcflgjoxe1o="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "Y44BDaNaTW3aJEz6ePYkOLNp2Hk="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "eevVSaXRoSwEdhSEUSwE2LQfXWs="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "xtpVMcgKgdAWvcTGXQmHfnDDr8E="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "v1qmrybbimSN9dcrGOEug4ueqf4="
+    },
+    {
+      "Version": "1.0.14",
+      "SHA1": "Zmq7dUyQrc7G7nxtxzvl4GqIcT0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

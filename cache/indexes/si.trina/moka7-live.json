@@ -1,0 +1,39 @@
+{
+  "GroupID": "si.trina",
+  "ArtifactID": "moka7-live",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "juh+Px/7bDjwxetRoA63v6MXXqc="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "p23d3CQnURNSW+qkFd2tyYZY/qY="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "yg5sK2ps4FGdaDApwBJQBr96/4g="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "1uJJRbbmAr2CEL4RNnDFSlX8TZM="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "bCtJCiy/tEBUF5iyYs+BO9Rl88o="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "YwxH2qQTqNLzP6/GKZNvGGRqRJI="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "DB6AvVJpKjCMPlaiGNDlkS085dI="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "jK3mnPkJtthFdiFw7lgQ4RIOYGc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

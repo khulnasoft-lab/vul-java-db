@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.bjornblomqvist",
+  "ArtifactID": "jarinstaller",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "WFrSsqWqyT7nfuIlmUCnaYHNCRU="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "22UoV3jyoXDz2g+zIhvvC70Uekc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

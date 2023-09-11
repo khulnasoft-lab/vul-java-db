@@ -1,0 +1,39 @@
+{
+  "GroupID": "info.folone",
+  "ArtifactID": "poi-scala_2.10",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "QbZ3Dd9NQl+oTjEF2sAGAM0tvLg="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "97S45xbnuDl4DHjTkhZdKRjDDzE="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "CgsFdR69LGtLOzCQhy9VaeaZk50="
+    },
+    {
+      "Version": "0.14",
+      "SHA1": "a80995NBiEPPpBW+dKlF1JuYc90="
+    },
+    {
+      "Version": "0.16",
+      "SHA1": "TdCKCDRxosTnqS/+sT34xeOjSbg="
+    },
+    {
+      "Version": "0.17",
+      "SHA1": "32pVWtaWLlgQ3BFIyloRUMEsN/0="
+    },
+    {
+      "Version": "0.18",
+      "SHA1": "nJ6k4avbidcDftG1aSPCVp2i9K0="
+    },
+    {
+      "Version": "0.19",
+      "SHA1": "PfCPbsDx1OlGA4Duk42zLl9pmew="
+    }
+  ],
+  "ArchiveType": "jar"
+}

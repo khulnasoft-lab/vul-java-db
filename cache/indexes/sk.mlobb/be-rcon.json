@@ -1,0 +1,15 @@
+{
+  "GroupID": "sk.mlobb",
+  "ArtifactID": "be-rcon",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "aBsUnwIR73G56sLdS5lLgOlFfD8="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "pvXgMBnOXdmknPrUvuEcm3ej90M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

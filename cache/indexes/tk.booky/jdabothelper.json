@@ -1,0 +1,11 @@
+{
+  "GroupID": "tk.booky",
+  "ArtifactID": "jdabothelper",
+  "Versions": [
+    {
+      "Version": "0.1.4",
+      "SHA1": "AUSSev+/rPy1tBMo3xUu8gIGiHI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.shareall",
+  "ArtifactID": "charset-detector",
+  "Versions": [
+    {
+      "Version": "1.0-pre",
+      "SHA1": "1uQQhcGiejevdR6MJh7G5DK68Js="
+    }
+  ],
+  "ArchiveType": "jar"
+}

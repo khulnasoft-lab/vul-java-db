@@ -1,0 +1,15 @@
+{
+  "GroupID": "rome",
+  "ArtifactID": "rome-fetcher",
+  "Versions": [
+    {
+      "Version": "1.0RC2",
+      "SHA1": "DjQMynG73muWyDJCzEL+XwaRm38="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "YES81db3k/o6OIQ+d05YwHN6cSU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

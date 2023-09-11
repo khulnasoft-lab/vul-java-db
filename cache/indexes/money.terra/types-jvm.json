@@ -1,0 +1,35 @@
+{
+  "GroupID": "money.terra",
+  "ArtifactID": "types-jvm",
+  "Versions": [
+    {
+      "Version": "0.20.1",
+      "SHA1": "ckynDYvREc05v6C2xFcN+thUbe0="
+    },
+    {
+      "Version": "0.20.2",
+      "SHA1": "xtnfWjdgiP47zdshDqeyEqldEXQ="
+    },
+    {
+      "Version": "0.20.3",
+      "SHA1": "x/XIrzKWDU0bWcTWca0CrvaJ5vc="
+    },
+    {
+      "Version": "0.20.4",
+      "SHA1": "iD8Vl9yEyLe5RYxYNT3GfDwfwKc="
+    },
+    {
+      "Version": "0.20.5-beta1",
+      "SHA1": "4TBmx3AwIFKHvYLs43zUjVdX2L4="
+    },
+    {
+      "Version": "0.20.5",
+      "SHA1": "3MoIXaXhMAo2XX5iuYAV59X4kXs="
+    },
+    {
+      "Version": "0.20.6-alpha1",
+      "SHA1": "6POAcSVPSVIGcQze7p/XRWtLu1o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "uk.staygrounded",
+  "ArtifactID": "pushsafer-client",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "f/2JYYGv/D4rXVWaz320icdDpDc="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "0wCxnyAFv7E3+yNT47yylEiaIkM="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "lZjq9Oj7UzRRdFebj08uiBN46dg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

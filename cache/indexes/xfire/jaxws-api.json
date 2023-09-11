@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "jaxws-api",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "wftuOzF/x1SOM952d9NjmYnkzwo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

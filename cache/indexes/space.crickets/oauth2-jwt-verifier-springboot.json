@@ -1,0 +1,11 @@
+{
+  "GroupID": "space.crickets",
+  "ArtifactID": "oauth2-jwt-verifier-springboot",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "/vPgzF+C7KosGe+hnfK6R/uVIWU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

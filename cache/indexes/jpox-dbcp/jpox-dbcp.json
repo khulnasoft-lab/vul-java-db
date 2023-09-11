@@ -1,0 +1,11 @@
+{
+  "GroupID": "jpox-dbcp",
+  "ArtifactID": "jpox-dbcp",
+  "Versions": [
+    {
+      "Version": "1.1.7",
+      "SHA1": "Qs1HM9b6PNNRmww85+4VNMynmqU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

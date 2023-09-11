@@ -1,0 +1,11 @@
+{
+  "GroupID": "poolman",
+  "ArtifactID": "poolman",
+  "Versions": [
+    {
+      "Version": "2.0.4",
+      "SHA1": "eRO8ghkbOVlZ2SdT+hUUrb4kVFA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

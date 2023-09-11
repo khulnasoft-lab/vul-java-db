@@ -1,0 +1,11 @@
+{
+  "GroupID": "andromda",
+  "ArtifactID": "maven-andromda-plugin",
+  "Versions": [
+    {
+      "Version": "2.1",
+      "SHA1": "GS6lUBDi7btKxmg8o0/xn1DQQSk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

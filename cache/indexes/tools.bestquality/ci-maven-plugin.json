@@ -1,0 +1,83 @@
+{
+  "GroupID": "tools.bestquality",
+  "ArtifactID": "ci-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "Rqn8P/aq9Ih4/qpsDikELUHAkw4="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "OIa0vRP50zWwj8YFd5wxuJGHscM="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "pEAnLAa9a8RAgaJkC/B6jMBsjLg="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "BYweI8w7rrQlmiGaXeqJtC11UCU="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "KlQVbnJ5dzmt+yzM53jjTmYAWOc="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "b2cRn7mhrjnhKPtwyXhxagqKFr0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "wdWmeUS2ZZb5j2b5aUQlULdJQQc="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "s+3UfJ7m+7gnDW1z2n6wG+jIrnk="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "MUgn8SH3ZzgLjuC+GzoBSoID5E0="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "i+G3gvbNkSD32SB3FLa2qjTV7PM="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "j+b9OMW/Fq9AYUv9ujhJSzAOdeo="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "VV2bYcfWfZBXy+eV+/yCsVKGmU8="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "LY7rUEgc4NdKMOfW3g6dlCRG2kY="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "69s0Vq/4KJpAA2waBLDl+jsqhHc="
+    },
+    {
+      "Version": "0.0.16",
+      "SHA1": "P7/BRfsnQBo4voDlK1dw5NaqjRc="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "Z/y6A2ltj548/alMozSjzk3Xm5Q="
+    },
+    {
+      "Version": "0.0.18",
+      "SHA1": "G+28AKWd6TaFAAhhypknO3SMp1I="
+    },
+    {
+      "Version": "0.0.19",
+      "SHA1": "AkMQRbMEC7BfqJ1+/sG4CFBzgfU="
+    },
+    {
+      "Version": "0.0.20",
+      "SHA1": "WiEOG8gBtgYnnkxGbfCkgwaOo08="
+    }
+  ],
+  "ArchiveType": "jar"
+}

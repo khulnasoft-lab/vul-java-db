@@ -1,0 +1,19 @@
+{
+  "GroupID": "pro.felixo",
+  "ArtifactID": "protobuf-kotlin-protoscope",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "+cIbI448XGaYbu4bqSbx+C8ke2A="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "+cIbI448XGaYbu4bqSbx+C8ke2A="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "+cIbI448XGaYbu4bqSbx+C8ke2A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

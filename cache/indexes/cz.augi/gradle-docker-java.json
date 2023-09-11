@@ -1,0 +1,31 @@
+{
+  "GroupID": "cz.augi",
+  "ArtifactID": "gradle-docker-java",
+  "Versions": [
+    {
+      "Version": "2.6.2",
+      "SHA1": "5utT3p0QCpt3vOYNaw5Q5hQRLx4="
+    },
+    {
+      "Version": "2.7.0",
+      "SHA1": "3EmLX5Y5kzBO/e/wOimSMmhpcPg="
+    },
+    {
+      "Version": "2.7.1",
+      "SHA1": "AoJDVpS2j5Dop0VS+thiEcSs7Hs="
+    },
+    {
+      "Version": "2.8.0",
+      "SHA1": "FuGJcIJdDr9TMsQYACquZznAVAA="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "woWz1McUX+xSX7MfJqTtCbMamIU="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "LsDyq61PjstJaG3SZa2pp3WXx/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "design.hamu",
+  "ArtifactID": "sphynx-core_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "ERoRKE/6JqHHIz/ovVUQ2pczVSk="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "nj9t/zIf2kfhnL46GnVT3SyU92c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

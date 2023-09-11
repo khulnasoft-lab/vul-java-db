@@ -1,0 +1,15 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-servicemix-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "ZNpZM4YmnekN4YR76eghmXt3xDk="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "9EcBzN2eG8bFChC81I6ZvvCYPpg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

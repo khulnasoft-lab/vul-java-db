@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.logico-philosophic",
+  "ArtifactID": "json-annotation_2.11",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "hxeUkWy6+RMw1cg0SKiKhkYVEPM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

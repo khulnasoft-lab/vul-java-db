@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.regolo",
+  "ArtifactID": "jfib",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "DKOYt45FHWJQogdjndBKKRXhHYI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

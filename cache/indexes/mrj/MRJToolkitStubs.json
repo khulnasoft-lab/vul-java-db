@@ -1,0 +1,11 @@
+{
+  "GroupID": "mrj",
+  "ArtifactID": "MRJToolkitStubs",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KMeHEGvPPSDFJ8H1nfhEAZUdu10="
+    }
+  ],
+  "ArchiveType": "jar"
+}

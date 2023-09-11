@@ -1,0 +1,55 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "FSM",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "/AVBkNFfWVpMH1edtdpWpD/gy04="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "IGm28aRmuhGBT87PrnID5hf4vVs="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "jjv096gd2SXgGg8fhldKbG+fhVY="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "8Mag0Z/1tmzCVyMuXOvBEm5h45s="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "DEJKDVtoWZ86prdgM719QjFasdg="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "JdepOULJVc8i4z3VWkE1qPZhn4k="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "33WoLK+3tuuRZvXNiR4KWq+HJeU="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "ri+sRvv3y8+lvfcQg4tcLMpRQps="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "ujXyZYH8ZgD4OR8le7qJy0JgsTU="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "4uuj3RjRtUSgyQtgu/PQs5CQo3g="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "RExFcOnkTHBd5Z0M0yEhXghbCgg="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "DZ2JK0U3QRI6rwlfICtHH8LVcr4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

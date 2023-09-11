@@ -1,0 +1,83 @@
+{
+  "GroupID": "javax.mail",
+  "ArtifactID": "javax.mail-api",
+  "Versions": [
+    {
+      "Version": "1.4.5-rc1",
+      "SHA1": "UD/zl+gRiW5t4kAw/2l+UNtgBt4="
+    },
+    {
+      "Version": "1.4.5",
+      "SHA1": "Qq88tE1exlityKTHNUrA0ZVHxMo="
+    },
+    {
+      "Version": "1.4.6-rc1",
+      "SHA1": "D/d67MlmVC5b0ekBvc7DTxExyrk="
+    },
+    {
+      "Version": "1.4.6",
+      "SHA1": "mTik/79PRPVLmxXwLXSvhIOKDqk="
+    },
+    {
+      "Version": "1.4.7",
+      "SHA1": "gQqx4/TNZIGFZkLFsmbeKsO25XM="
+    },
+    {
+      "Version": "1.5.0-b01",
+      "SHA1": "uQ0e9rmZptzOSVndQ5BBC55xKNo="
+    },
+    {
+      "Version": "1.5.0-b02",
+      "SHA1": "sNg6zjZVWl4KHJg6RQXCTzVN0+c="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "Jr5wwjneJZ5yaFHY2R1Tizq7t2c="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "1Ay0j69fOehqalqNi+57lnOr9nQ="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "UxPVsNxwg2befyQd5G7hfxe5IUM="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "FL2WJCaSfR008z+wEwjXqxMWi7E="
+    },
+    {
+      "Version": "1.5.4",
+      "SHA1": "6PRCr1GizIrqVx6CaZi0OCLzxL8="
+    },
+    {
+      "Version": "1.5.5",
+      "SHA1": "whr0R1soc7ObDXtdCM9KdUfrN/g="
+    },
+    {
+      "Version": "1.5.6",
+      "SHA1": "Ucepc++xEjVYti6V4xqwPPoA+no="
+    },
+    {
+      "Version": "1.6.0-rc1",
+      "SHA1": "jFTNe9FkncHV4x3mq44wKaQrZx4="
+    },
+    {
+      "Version": "1.6.0-rc2",
+      "SHA1": "lVrn2P/kTrhgohAmnL1Gn3yM0cc="
+    },
+    {
+      "Version": "1.6.0",
+      "SHA1": "GUEnDTsE3tW9wnQ1FFC0r+R74IA="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "jKur3CqcqubhZBquZnHCQ5QidlE="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "F6gVG6tE+clPNMENtw2VujyDDto="
+    }
+  ],
+  "ArchiveType": "jar"
+}

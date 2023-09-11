@@ -1,0 +1,11 @@
+{
+  "GroupID": "black.door",
+  "ArtifactID": "jose-2.12.8-json-circe-2.13.0_2.13",
+  "Versions": [
+    {
+      "Version": "0.3.0-M1",
+      "SHA1": "r6w4xd16cNNUNy7d6itLly95oVU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

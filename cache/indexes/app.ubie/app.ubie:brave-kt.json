@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.ubie",
+  "ArtifactID": "app.ubie:brave-kt",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "zqIpiCK6QahHDdyxDtbTfbNin/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

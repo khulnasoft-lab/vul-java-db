@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.recurse",
+  "ArtifactID": "reverse-country-code",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mzCfRegj/J+0GlgK9o0HXd/gOvI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

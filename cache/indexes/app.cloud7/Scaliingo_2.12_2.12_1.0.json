@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.cloud7",
+  "ArtifactID": "Scaliingo_2.12_2.12_1.0",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "+AyUm58VYooiUxaQYy4WVKz0E5c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "plus.wcj",
+  "ArtifactID": "libby-http-cache-control",
+  "Versions": [
+    {
+      "Version": "2022.1.0",
+      "SHA1": "dAJXSdCCBNU9K+vYxN0EsPpeC7M="
+    },
+    {
+      "Version": "2022.1.1",
+      "SHA1": "dHHo1ECHdFCZ8r5FzRZ3JDnsRzE="
+    },
+    {
+      "Version": "2022.1.2",
+      "SHA1": "GsX/KWL1f9h2tI5BF46JMzlscyo="
+    },
+    {
+      "Version": "2022.1.3",
+      "SHA1": "DFMoMo3VWUkru8dJd7MU+kcq6HU="
+    },
+    {
+      "Version": "2022.1.4",
+      "SHA1": "Sbs0CUicJc+Pm79A7U1NeD3cROg="
+    },
+    {
+      "Version": "2022.1.5",
+      "SHA1": "m5LiY9Vh318raewmyvjD9ADtNz0="
+    },
+    {
+      "Version": "2022.1.6",
+      "SHA1": "9hQgefg01/DEU4ybwqqbKnoKC5E="
+    },
+    {
+      "Version": "2022.1.7",
+      "SHA1": "6mQE5qX9IPKNmTViLIY6qkRmDVQ="
+    },
+    {
+      "Version": "2022.1.8",
+      "SHA1": "bfUaX1BRyLp6eVVT5odFSTbfGBw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

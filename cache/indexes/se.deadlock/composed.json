@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.deadlock",
+  "ArtifactID": "composed",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "E320B0yP2glpmzLAtJqzmeYX+Oo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

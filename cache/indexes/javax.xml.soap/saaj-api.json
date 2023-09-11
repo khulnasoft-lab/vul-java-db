@@ -1,0 +1,15 @@
+{
+  "GroupID": "javax.xml.soap",
+  "ArtifactID": "saaj-api",
+  "Versions": [
+    {
+      "Version": "1.3.4",
+      "SHA1": "sGqEElsNfrTaH1RYS79I8uXp8+8="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "HDmaf+pNAmKmo5dQ5BnCTwx2lYY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

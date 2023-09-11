@@ -1,0 +1,59 @@
+{
+  "GroupID": "ie.corballis",
+  "ArtifactID": "json-fixtures-lib",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "fVeb9U+q4jQA6z14LtDEB3iktDQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "sEahxK2kRZSQcO8lI3O+CkLj+R0="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Grv8pGp/okQ5vCfG/U7y/a8yBOg="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "gKsShBOURg2whvmeu7keSNQpBuY="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "Iw7OCfOPcjUpAvU9D66saNFNxyI="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "cJAbnNhwHFjKiMl2LQ0pCObzeSc="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "axIFPvcxMX2lZeV9fG3xkNyPZVQ="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "iOU/QVMcnTnEs3jQBJSk1DhKqN8="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "e6GWsR5sdAIhVzA6MoNW7M4U43w="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "AF4ykRgt6kORKFLYaxGpVr4LWqA="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "iUs5b29Nmn0maOEqQG8jgdtbGDo="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "01jRYLqlnYU/bYO7dB4ZbUhqZQw="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "FngHIQ1XNUU76s70isUrx/J+1lk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

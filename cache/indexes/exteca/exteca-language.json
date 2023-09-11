@@ -1,0 +1,11 @@
+{
+  "GroupID": "exteca",
+  "ArtifactID": "exteca-language",
+  "Versions": [
+    {
+      "Version": "1.0-b1",
+      "SHA1": "RwtQ846+GCrLWaC1aCFKwXRC3VM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

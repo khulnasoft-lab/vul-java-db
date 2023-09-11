@@ -1,0 +1,35 @@
+{
+  "GroupID": "drools",
+  "ArtifactID": "drools-all",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "EJSVCBGK4pFmdyAY5cA8z5T+A4k="
+    },
+    {
+      "Version": "2.0-beta-18",
+      "SHA1": "xRV6Qor0GEzBdlvjFvGki7ywOvM="
+    },
+    {
+      "Version": "2.0-beta-19",
+      "SHA1": "BtNCBPkgN0OI3sMMi8wJTpGlZRs="
+    },
+    {
+      "Version": "2.0-beta-20",
+      "SHA1": "3z69BCuaPdw1nYvd1PqeWpKbPzo="
+    },
+    {
+      "Version": "2.0-beta-21",
+      "SHA1": "XYbIPa7VcmUV0n5iZ1rZeu1qSSs="
+    },
+    {
+      "Version": "2.0-rc1",
+      "SHA1": "P4i4tZk6deGw+QbAhfRFplSCOhE="
+    },
+    {
+      "Version": "2.0-rc2",
+      "SHA1": "CzS60xC2p1zo/vRn2NQzIlUW3Ro="
+    }
+  ],
+  "ArchiveType": "jar"
+}

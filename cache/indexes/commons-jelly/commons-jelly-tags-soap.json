@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-soap",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "uEwBhH4JxiAVjO2Jak/+B0IToUI="
+    },
+    {
+      "Version": "20030211.142401",
+      "SHA1": "CyRpsik4vdOWqqcuIX4e/gDoVPs="
+    },
+    {
+      "Version": "20040902.073516",
+      "SHA1": "CyRpsik4vdOWqqcuIX4e/gDoVPs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

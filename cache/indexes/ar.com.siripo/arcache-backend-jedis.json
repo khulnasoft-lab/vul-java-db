@@ -1,0 +1,31 @@
+{
+  "GroupID": "ar.com.siripo",
+  "ArtifactID": "arcache-backend-jedis",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "+Owl23PV/klJY9AU1fF6dZIEsTM="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "B2cXcq5AOXlSBbDScuYR3oELxXg="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "VWenqALGfKz1kKg3hFNJFuL2WeQ="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "onPw57tRDLtG0CgPG4+CgOvtwug="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "hRcPzFLlsyLZQiE06BZRZM1AtYc="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "6umpF0Xfc75RP33ruWhsubgl/+c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

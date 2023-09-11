@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven-new",
+  "ArtifactID": "maven-fetch",
+  "Versions": [
+    {
+      "Version": "20030525.145948",
+      "SHA1": "G18AB/dFJ/+mZ7Rqt8RnTI1f/To="
+    }
+  ],
+  "ArchiveType": "jar"
+}

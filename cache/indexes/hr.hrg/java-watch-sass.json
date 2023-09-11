@@ -1,0 +1,11 @@
+{
+  "GroupID": "hr.hrg",
+  "ArtifactID": "java-watch-sass",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "Jlam1NnEDxB/HJ0dc3Iw6BFe4b4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

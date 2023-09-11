@@ -1,0 +1,11 @@
+{
+  "GroupID": "wang.yeting",
+  "ArtifactID": "wtp-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "41TArpdkiyYjENyOLji+yNoHfkU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "javolution",
+  "ArtifactID": "colapi",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "a8CFxd9ouuVpfl4BTS+dtQWS5Os="
+    }
+  ],
+  "ArchiveType": "jar"
+}

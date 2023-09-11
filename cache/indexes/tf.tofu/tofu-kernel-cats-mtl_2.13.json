@@ -1,0 +1,43 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-kernel-cats-mtl_2.13",
+  "Versions": [
+    {
+      "Version": "0.10.4",
+      "SHA1": "8Tmn6FuRfnzn8XgAPzDaIhNKrn4="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "bSkXASkuRZPtK8KWhWOQiBY4YPE="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "PGLO+D9gFJ/D+IE+PvqnqdHAB1M="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "e33+sT26Mp3yDFaZy1Mm0pFGPlY="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "+a42bUwILmvK7zcTXuDlCDrWq1E="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "p8d2h4zwagG7E96uqHozh01nw+Y="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "AaCu7S7VgdrudbTOw++/U+QhWqY="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "HRRLs8/m0jSLrNe41PzexhEmMNg="
+    },
+    {
+      "Version": "0.12.0.1",
+      "SHA1": "zv0p979zu0JB1HcwFEvNbg0JSFA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

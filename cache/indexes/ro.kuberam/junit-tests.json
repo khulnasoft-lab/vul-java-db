@@ -1,0 +1,15 @@
+{
+  "GroupID": "ro.kuberam",
+  "ArtifactID": "junit-tests",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "e8mFouQUNdV52yVpYut9opyNn5U="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "EItuxSCrWjDO7TcEt3VzcxCG0kU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

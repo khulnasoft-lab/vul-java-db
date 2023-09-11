@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.novelfaces",
+  "ArtifactID": "novelfaces-components",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "4EhV2mnMgRIHbiaOYXRSTL4hnZI="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "laJrICwcnqHWygI1W4z0YCMpvOQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

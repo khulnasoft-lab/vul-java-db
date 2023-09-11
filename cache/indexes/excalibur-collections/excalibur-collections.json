@@ -1,0 +1,15 @@
+{
+  "GroupID": "excalibur-collections",
+  "ArtifactID": "excalibur-collections",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "veOYQAruSLHhSxCijJsYnd5SDcU="
+    },
+    {
+      "Version": "20020820",
+      "SHA1": "7I8g+QRjR8tpmZuwCHEVF/RX+nQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

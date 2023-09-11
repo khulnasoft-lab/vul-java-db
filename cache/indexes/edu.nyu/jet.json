@@ -1,0 +1,11 @@
+{
+  "GroupID": "edu.nyu",
+  "ArtifactID": "jet",
+  "Versions": [
+    {
+      "Version": "1.9.0",
+      "SHA1": "vAFFOfEW5TY4M28wdoY4KOqsqEk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

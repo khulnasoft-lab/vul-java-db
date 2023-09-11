@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.agno",
+  "ArtifactID": "development-commons-util",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "NSDqBBxHTJmw7QDltX3Dt+/Q/+4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

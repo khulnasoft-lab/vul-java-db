@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.nk",
+  "ArtifactID": "nk-ext-model",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "i1/A+AlnhGs0sNLxI8YJNCmRkW8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

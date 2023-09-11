@@ -1,0 +1,35 @@
+{
+  "GroupID": "hu.letscode",
+  "ArtifactID": "szamla-agent",
+  "Versions": [
+    {
+      "Version": "0.1.5",
+      "SHA1": "WeOXQ7+a7XF0wEpcU0jPoeDqR8M="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "lcZn/oglTJT1KS/IiDEZ4QfUcPA="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "mzCnnL4jCEccV+P/XwPNhZEKlmA="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "iCHEdr2mOj2Fa+tMn6EzerUArI0="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "3XdyEMRHn3+A4Tj5cIzTyFmLEyQ="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "SUXeXFbsBP46e6I9Td+46Xitbj4="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "PZpLb1nBz8lqLQk38MyVQdAKpcc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

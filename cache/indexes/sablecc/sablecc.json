@@ -1,0 +1,11 @@
+{
+  "GroupID": "sablecc",
+  "ArtifactID": "sablecc",
+  "Versions": [
+    {
+      "Version": "2.18.2",
+      "SHA1": "QWdCZD8IF5pJGd9kuJ868fkWrVY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.kpromise",
+  "ArtifactID": "dynamic-data-source-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "uhqrLLt7L2l/pYfheiynpsrc9SA="
+    },
+    {
+      "Version": "0.0.1.1",
+      "SHA1": "mcISAnnSeQl/rh7u0yhwOSpydp4="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "ZnqnKv2PWIz5Emgfg4z5RIOSeRE="
+    },
+    {
+      "Version": "0.0.5.1",
+      "SHA1": "nwwh7d8VdpMOplMphU+fwZBRLak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

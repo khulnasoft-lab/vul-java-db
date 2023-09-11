@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.kason",
+  "ArtifactID": "fhc",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "B6PpzSZsiTddCx5G70TaYyIhAiU="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "0UP5/6IX8zTORW4C/qYJhpqEJbs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

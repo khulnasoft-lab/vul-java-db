@@ -1,0 +1,11 @@
+{
+  "GroupID": "lpg.runtime",
+  "ArtifactID": "java",
+  "Versions": [
+    {
+      "Version": "2.0.17-v201004271640",
+      "SHA1": "xmdQMQ9ZP3pvZshkcFp/f66goFI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

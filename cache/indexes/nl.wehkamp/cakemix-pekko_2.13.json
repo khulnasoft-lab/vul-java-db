@@ -1,0 +1,15 @@
+{
+  "GroupID": "nl.wehkamp",
+  "ArtifactID": "cakemix-pekko_2.13",
+  "Versions": [
+    {
+      "Version": "2.0.0-RC8",
+      "SHA1": "XSAPEF+TmoufCDpbHYmfnBemQqk="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "kqQMwkDtl1pn1p/vti+8ecUGYaA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

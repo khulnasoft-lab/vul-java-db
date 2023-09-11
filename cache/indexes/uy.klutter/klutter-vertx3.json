@@ -1,0 +1,187 @@
+{
+  "GroupID": "uy.klutter",
+  "ArtifactID": "klutter-vertx3",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "Ef5gtkei6GzY1nsHXGaLR94FpvY="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "KsJhNRO3nZg5GA1y5zRl44eIrT8="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "FD2N5s8MZyd0JH53ciQSTZAZ3PU="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "A7WpflfvynVy9FYu4G0N/clGWro="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "KuBptvzhCvPGLcQkVrM9+nuRRaM="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "MCkvjcatvy3G6kV5P/ADYRKyBjQ="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "S+9bFplz5s3hZ5NmwAcJXgH5/zI="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "47c2q+O9pkuvd2SMg8fzNK/T3pU="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "UG2jaPTelli2xWS0i336QeUwgjo="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "amO6Bt04Xz1QVziFaWVT2NGYo1U="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "HGB05xMqQzwbiphLOcMQ9+D5muY="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "BUD8MKxl1ad6p9+ANrpFRX+5COU="
+    },
+    {
+      "Version": "0.6.4",
+      "SHA1": "0S/eQ9DJLcygnlWUbbvekAQotgI="
+    },
+    {
+      "Version": "0.6.5",
+      "SHA1": "vr4NJ2KhJQ6WF0PdwVZdiVbSuG8="
+    },
+    {
+      "Version": "0.6.6",
+      "SHA1": "0/9yVNRpjMkGa5zld5go0hPlXZ8="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "eBkAHB/vrLVs7/J6skkmL+O8o8M="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "0A99ATbDExYcow7l0PVy8bPH9hc="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "yZ1yQ6MCPd9BTe596vMNFm6J3rY="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "XecSecYboxZDk4RJ0gMdbnuHhiI="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "kf9az9fuMnYzmBpJweLsV2DBbms="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "BP+RVQ7+b+I29w/idaRGH+bQe9s="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "i/YqSaXD27EAz0dtrmNYgbWQe+E="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "G9J43lMgOotL/sprPNHJzDgsRBA="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "m83s6aztHAY2vJQzpOFYJPkonY8="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "b8s1GU0jNmebkx50WMeWptXMYKc="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "mV/8hpKoVkySdRLM0NvSYx52Mnw="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "IVUm+7KSfYicHpmln4SSoRzspog="
+    },
+    {
+      "Version": "0.11.2",
+      "SHA1": "WOATz8pJOVZp4BwFkyqx0iehQQQ="
+    },
+    {
+      "Version": "0.11.3",
+      "SHA1": "tETWPUdA4Uw87bYllFOivFnBLFo="
+    },
+    {
+      "Version": "0.12",
+      "SHA1": "63hZJSehUpMHUp1AQxsmZpuYv60="
+    },
+    {
+      "Version": "0.13.3-RC-1036",
+      "SHA1": "CHcqnEhLZe2jV5VrH83odg1zS8I="
+    },
+    {
+      "Version": "0.13.4-RC-1036",
+      "SHA1": "clTWalprEeKBqEMGMu01RdQTyU4="
+    },
+    {
+      "Version": "0.15.0",
+      "SHA1": "ERvbAIJCUdsvkveCaR/5xnxXpE8="
+    },
+    {
+      "Version": "1.15.1",
+      "SHA1": "MkaXwj4oI3v5wTs5deDEJYtj0iY="
+    },
+    {
+      "Version": "1.16.0",
+      "SHA1": "0HfdspLrr07cJ2J59yCBtzvyDSU="
+    },
+    {
+      "Version": "1.17.0",
+      "SHA1": "zaDABR4E4QCBk3T0qs1vSDXzFe8="
+    },
+    {
+      "Version": "1.17.1",
+      "SHA1": "G8EF03Kn83EZEqijXWFZOSsMiKc="
+    },
+    {
+      "Version": "1.17.2",
+      "SHA1": "vgxK6ekPCnr0Rzgyhm68m5V6Yuk="
+    },
+    {
+      "Version": "1.17.3",
+      "SHA1": "PGyNMr1gHmCU86JgRmDKI3zSW5Y="
+    },
+    {
+      "Version": "1.18.0",
+      "SHA1": "rG3kPoIpO/BWez2sH03v2Thm/MY="
+    },
+    {
+      "Version": "1.19.0",
+      "SHA1": "MUIwMIc4fTM40Ps2c6vdAOftWK8="
+    },
+    {
+      "Version": "1.19.1",
+      "SHA1": "TN5Us+4Z+orM9OL7/N7vpDvptNU="
+    },
+    {
+      "Version": "1.19.2",
+      "SHA1": "779JayK/PFhJ3bn+cJgKkf9UkoU="
+    },
+    {
+      "Version": "1.20.0",
+      "SHA1": "xrknIHrfyx0mm4BA5l+Mq2Nkm64="
+    },
+    {
+      "Version": "1.20.1",
+      "SHA1": "q6RkYz7RltioMo/DQ19qEan5f7I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

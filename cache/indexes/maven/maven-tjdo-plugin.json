@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-tjdo-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zDv7BuIcU8AAp2KgtdpTC2mtvYc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

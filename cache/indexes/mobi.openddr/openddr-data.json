@@ -1,0 +1,23 @@
+{
+  "GroupID": "mobi.openddr",
+  "ArtifactID": "openddr-data",
+  "Versions": [
+    {
+      "Version": "1.31",
+      "SHA1": "9sxZ2Y+1ly1JaYH7ZvtrLCyyPog="
+    },
+    {
+      "Version": "1.32",
+      "SHA1": "oJvYEhIMz+y7YH1YasRgpVFyOgY="
+    },
+    {
+      "Version": "1.33",
+      "SHA1": "+OXvQV7loubSnS3Hfv5fZljFNwk="
+    },
+    {
+      "Version": "1.34",
+      "SHA1": "gnHnv3rmr5BnrESRSzuufek4pW4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

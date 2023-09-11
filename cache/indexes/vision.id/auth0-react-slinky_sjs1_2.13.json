@@ -1,0 +1,11 @@
+{
+  "GroupID": "vision.id",
+  "ArtifactID": "auth0-react-slinky_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "5WSYaYbgYoey2O6c4rG25bUApdY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

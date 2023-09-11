@@ -1,0 +1,23 @@
+{
+  "GroupID": "us.raudi",
+  "ArtifactID": "pushraven",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "4Nj5j6iq1fn7/8PHp4fIoFIcqQY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "VmkeH+3b0I6HniL2qtoxscVg2M4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "/TU/lNhbkMEmG4Tmi4q2RMw5/OI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "sWqV0BxQcvZq2FnfGtNfHS28NKc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

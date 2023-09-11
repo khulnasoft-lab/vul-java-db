@@ -1,0 +1,11 @@
+{
+  "GroupID": "au.csiro",
+  "ArtifactID": "elk-owl-implementation",
+  "Versions": [
+    {
+      "Version": "0.5.0",
+      "SHA1": "e0tC+bKmUBp/02dJYHQ/j3mJw0A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

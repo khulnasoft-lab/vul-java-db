@@ -1,0 +1,11 @@
+{
+  "GroupID": "ar.com.asanteit",
+  "ArtifactID": "bundler",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "z9Xc0fDp7e45WButH3vhHVyqDfw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

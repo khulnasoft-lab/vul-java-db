@@ -1,0 +1,11 @@
+{
+  "GroupID": "live.argot",
+  "ArtifactID": "argot-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Ch7xDp0hsIK8tJKgDGarJVcIlNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

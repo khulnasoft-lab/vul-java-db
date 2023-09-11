@@ -1,0 +1,15 @@
+{
+  "GroupID": "hu.blackbelt",
+  "ArtifactID": "bannersnatch",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "/90+BWrlakaZbjkpYad2LzPvnVA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "pksc7U+CEBxng2FcuvjB75yzuEY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

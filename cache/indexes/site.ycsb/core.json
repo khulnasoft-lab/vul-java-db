@@ -1,0 +1,11 @@
+{
+  "GroupID": "site.ycsb",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "0.17.0",
+      "SHA1": "1H9t2u3RwuUx5e1z7s3eFA1Peqk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

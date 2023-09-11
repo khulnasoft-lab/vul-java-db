@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.dragonfly",
+  "ArtifactID": "democrossy_3",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "ffjpMKXvndXIrxuPWBVpjbf/L7o="
+    },
+    {
+      "Version": "0.101",
+      "SHA1": "6Klj85rFsQ5hiJn3SamXSQrCG2w="
+    },
+    {
+      "Version": "0.102",
+      "SHA1": "FVed+jK4pXnIQ12K4CjozW8/b7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

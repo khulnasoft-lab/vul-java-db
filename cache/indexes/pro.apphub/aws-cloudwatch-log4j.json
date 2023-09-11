@@ -1,0 +1,11 @@
+{
+  "GroupID": "pro.apphub",
+  "ArtifactID": "aws-cloudwatch-log4j",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "CIB3Y5ElHh6orguYSkmWERE8zCU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "cf.janga",
+  "ArtifactID": "java-fire-core",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "EGYBELdqhnKYHpXTlWfWM9I8bnA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

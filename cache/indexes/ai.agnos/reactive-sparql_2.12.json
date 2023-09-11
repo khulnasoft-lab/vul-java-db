@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.agnos",
+  "ArtifactID": "reactive-sparql_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "d0qMm7MqgFFRUNJIs8YaeJvZruA="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "26E6x1xwtI55cfFhfTp8iPLMgwU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

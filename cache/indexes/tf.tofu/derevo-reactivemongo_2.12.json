@@ -1,0 +1,23 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-reactivemongo_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.6",
+      "SHA1": "DjpZIk6KnX9TFsOMJa7Zy5dziwE="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "7+N6b7OlpO8dmrWQJYlea5bFweE="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "xzho2xjgkHZ3JaP8fXHoeO7EriM="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "ENfXRGy6XLelL1uaFlrMV03yTPw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

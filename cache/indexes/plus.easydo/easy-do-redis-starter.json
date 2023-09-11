@@ -1,0 +1,11 @@
+{
+  "GroupID": "plus.easydo",
+  "ArtifactID": "easy-do-redis-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "jWd11Vb6lFihrpX01WsZRoRDGZo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

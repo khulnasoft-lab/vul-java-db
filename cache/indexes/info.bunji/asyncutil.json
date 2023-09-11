@@ -1,0 +1,31 @@
+{
+  "GroupID": "info.bunji",
+  "ArtifactID": "asyncutil",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "PpgxaIH9nnPM+r+If1r82avxnYM="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "QEVolM07K0r8ZoWDgMl9t6AQORc="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "eoh9G3a5za9PEqi/2wyQzXUGEpk="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "hUw1z5GUOu8n8mz1Eyzo9IgzW28="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "uLUa6vVVZ81bzReyHfWj9p/6m1U="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "/1nhtbTojvzH5oEqmqI+a2vrS38="
+    }
+  ],
+  "ArchiveType": "jar"
+}

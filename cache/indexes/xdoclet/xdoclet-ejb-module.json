@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-ejb-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "brNw0q2m9LnSh4Ze91pQfW6ktUw="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "OqvERk3kWntNZvsJTLr9eBMSX3g="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "3qdnX2GGP/19lQhFWwqg70rAjXQ="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "204UQ0wJf2SDZ+X3ICe3jBEgRcE="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "BF0Y8GE1L3hd/wRRSxWoBDuH8tI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

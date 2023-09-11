@@ -1,0 +1,119 @@
+{
+  "GroupID": "tapestry",
+  "ArtifactID": "tapestry",
+  "Versions": [
+    {
+      "Version": "3.0",
+      "SHA1": "PH5ekzN7ldfpLH4/HX7B0270mKg="
+    },
+    {
+      "Version": "3.0-beta-1a",
+      "SHA1": "XQeD0ZB8gGOuhrWytDua9QTQp1Y="
+    },
+    {
+      "Version": "3.0-beta-2",
+      "SHA1": "uRSLjN/Bp0A8s0F+NKqp5QpC23c="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "2Q6cTuffqNRlAb2Y6dLNr94SBHY="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "Dyr3G8h8nSMBOyuR9JlIMRqQ2aY="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "T9xWYdpPiKlWRnCiAkZXv4WY1M4="
+    },
+    {
+      "Version": "3.1-alpha-1",
+      "SHA1": "fW5b0G7JuBwZWx/8icnXozMcGKg="
+    },
+    {
+      "Version": "4.0-alpha-2",
+      "SHA1": "S3ul+mrtQi07kBhBHr4pIqFTCVc="
+    },
+    {
+      "Version": "4.0-alpha-3",
+      "SHA1": "MYQ5sESZtOVoChw9wG+iy5HmDL0="
+    },
+    {
+      "Version": "4.0-beta-1",
+      "SHA1": "fpTqDtwLlFTL5if7j2oe5vkfkDE="
+    },
+    {
+      "Version": "4.0-beta-2",
+      "SHA1": "kywZJaHeHOX1GU7xSxQ1mj31a8w="
+    },
+    {
+      "Version": "4.0-beta-3",
+      "SHA1": "erHFXI73qESDh2Rp0iLuafLnndg="
+    },
+    {
+      "Version": "4.0-beta-4",
+      "SHA1": "fNt+ClTLVfbIm+E1UjJimKfRar4="
+    },
+    {
+      "Version": "4.0-beta-5",
+      "SHA1": "+TQNmB2Lo+hxLqYjwhCSgIr1rec="
+    },
+    {
+      "Version": "4.0-beta-6",
+      "SHA1": "HIlRDSjfHDnWhScOwzl4rTofwfw="
+    },
+    {
+      "Version": "4.0-beta-7",
+      "SHA1": "z//bicWLiltjy3KHgerdb6G37Io="
+    },
+    {
+      "Version": "4.0-beta-8",
+      "SHA1": "szjMU9S93VoPiy+OU517Y9D/n5Q="
+    },
+    {
+      "Version": "4.0-beta-9",
+      "SHA1": "0qOATnuMSP8nl8voNiAzRR/LFpg="
+    },
+    {
+      "Version": "4.0-beta-10",
+      "SHA1": "6U26clxi4UhkL5OoqWt9H1Zn1Js="
+    },
+    {
+      "Version": "4.0-beta-11",
+      "SHA1": "hWSxw2POGvrKSOPVur+MLteHMyQ="
+    },
+    {
+      "Version": "4.0-beta-12",
+      "SHA1": "YuWZWI6iDt+puAPo5RXYVNIXUCc="
+    },
+    {
+      "Version": "4.0-beta-13",
+      "SHA1": "2mMCB6KO1G1jwFJqxWz81iAxeCA="
+    },
+    {
+      "Version": "4.0-rc-1",
+      "SHA1": "YboyLWQraSsW9Pa5sUfnKVaRPl8="
+    },
+    {
+      "Version": "4.0-rc-2",
+      "SHA1": "FY7010jrNySuBC8vJk0ab8aWyfk="
+    },
+    {
+      "Version": "4.0-rc-3",
+      "SHA1": "fNZwz0ZZ6PROElHswurHs8O550Q="
+    },
+    {
+      "Version": "4.0",
+      "SHA1": "Smd2MdDqed0TSI3G9gMvYy1qug0="
+    },
+    {
+      "Version": "4.0.1",
+      "SHA1": "uecASSHQIt5KCes6faT2qSJRBlc="
+    },
+    {
+      "Version": "4.0.2",
+      "SHA1": "6FWoB0JdUi6VjLzoaX8h6dZ5sfc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

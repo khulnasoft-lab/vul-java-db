@@ -1,0 +1,19 @@
+{
+  "GroupID": "info.md7",
+  "ArtifactID": "cbar-currency",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Dvoz+xZ0L/zzB5eyCktzIfKchoo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "yuFODjk27tKHh7nop4KDoNqL+yM="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "witLwfI3GFuHg5ZZO0jpLYGYG/I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

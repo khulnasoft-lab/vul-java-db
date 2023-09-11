@@ -1,0 +1,11 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "javax.servlet",
+  "Versions": [
+    {
+      "Version": "5.1.11",
+      "SHA1": "AkyJpY0oru+GGSWaW16x4ATI9D4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

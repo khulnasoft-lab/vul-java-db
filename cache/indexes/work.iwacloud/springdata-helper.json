@@ -1,0 +1,19 @@
+{
+  "GroupID": "work.iwacloud",
+  "ArtifactID": "springdata-helper",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "GSyNGOPN1NmyajN31331IPO7xwc="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "mypkj+gHwJfKBCXsanc3unAna8g="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "8d1jbEhR17n5dZETxBGGV2QMrPo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

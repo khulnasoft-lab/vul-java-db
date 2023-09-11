@@ -1,0 +1,23 @@
+{
+  "GroupID": "nanocontainer",
+  "ArtifactID": "nanocontainer-hibernate",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "Mp+JRpyj1ZbuZXwn0RgpynOBHq4="
+    },
+    {
+      "Version": "1.0-beta-1.pico-1.0",
+      "SHA1": "kUDi3PAGwH5S1CVX3+Qi7GUFiDI="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "rwEddfBvpjDiusnIGwAn4Sg9xFs="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "3v91So6KETDkMdrR8Axc5QI9VGE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

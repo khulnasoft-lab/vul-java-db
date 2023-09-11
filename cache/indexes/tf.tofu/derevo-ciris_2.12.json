@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-ciris_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "fBckxkH8MiBLRjeUTiJ7N1UPKSY="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "XpkABGGxNxzS11IvVXEy4hNqPUE="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "+by/yBlQ8pna0XCT9MVb5o0U08U="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "GiQfyBm9/4jRzxBWMHG6SeTYtGo="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "+nlel4l9l+DXPv5ZvgvYMGodOtw="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "lHYTFEw6c7J3xRX+SWyT2iKYc5c="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "gQ1w/Uol02SpgNKYUGRpPagQk38="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "eJv04lu+JyQHekhnyBnpDO8K95Q="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "6rUM65ToTEyQK0mzWfVJ05JYTEw="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "YUl4x9XVILH2+JRXKi07SsT5+9M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

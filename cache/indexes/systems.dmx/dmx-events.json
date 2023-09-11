@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-events",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "sKn9rDM0VV5W6G+2AzuqWTFIO6s="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "oAK/Qpc/rbLaX6oZt9fX5J2yxsc="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "MCZecMaC/AvXeiRNjrYAnqyycpA="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "SE0/LHNKOBUaL4LAIJkCG6VBhZQ="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "qTFeXKTWinNRFd03+c75l60SjBc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

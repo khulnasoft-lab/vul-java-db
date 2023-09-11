@@ -1,0 +1,27 @@
+{
+  "GroupID": "ml.dmlc",
+  "ArtifactID": "xgboost4j-example",
+  "Versions": [
+    {
+      "Version": "0.72",
+      "SHA1": "gxLcyUwlkoWhdtX9BSyZziV+ptM="
+    },
+    {
+      "Version": "0.80",
+      "SHA1": "kNcilNzoFhNT6uGoqq/dAlUlq5c="
+    },
+    {
+      "Version": "0.81",
+      "SHA1": "Xx7hDkD764hlGLWelu/a0L2i5pk="
+    },
+    {
+      "Version": "0.82",
+      "SHA1": "ge+ZqAI8UHOU2qBh6/b8U+B+ZYY="
+    },
+    {
+      "Version": "0.90",
+      "SHA1": "WRr2xUMdnwqE+IRTZQWB445SuwM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

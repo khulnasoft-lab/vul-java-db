@@ -1,0 +1,27 @@
+{
+  "GroupID": "jdepend",
+  "ArtifactID": "jdepend",
+  "Versions": [
+    {
+      "Version": "2.2",
+      "SHA1": "2bfF9cNFbpKh7R6xvDxdYWknQaY="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "1dUeVVH5fXdeU3ZFVUkSwfzge/A="
+    },
+    {
+      "Version": "2.5",
+      "SHA1": "Mi9NUELJbGYyLzi2ewZaQ5zsHOI="
+    },
+    {
+      "Version": "2.7",
+      "SHA1": "9wuNf/yzIww8Ej8F/YvdQw9aHCs="
+    },
+    {
+      "Version": "2.9.1",
+      "SHA1": "PTCJ9YXCdApwfCy5n0uxSakNY/A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

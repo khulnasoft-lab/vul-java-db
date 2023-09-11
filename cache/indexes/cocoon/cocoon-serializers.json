@@ -1,0 +1,27 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-serializers",
+  "Versions": [
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "2LFHi+ivLlmpzUnWda8d4fEI5tk="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "XmXaAW62aAfTrmWgaH1MbJnS5r8="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "DFn4ne38RSdXLer08Kh1WRFM4hg="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "Se1VHvMXO1KXJjeK6M/eZxB2JYQ="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "4prU9i0MhdHOdOByk2geUcw+bSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

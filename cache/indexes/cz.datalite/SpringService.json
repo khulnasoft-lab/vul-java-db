@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.datalite",
+  "ArtifactID": "SpringService",
+  "Versions": [
+    {
+      "Version": "1.4.5.42",
+      "SHA1": "Zhj7g9NeR4SFveqQweLjRgzbPTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

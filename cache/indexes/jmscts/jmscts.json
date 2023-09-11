@@ -1,0 +1,11 @@
+{
+  "GroupID": "jmscts",
+  "ArtifactID": "jmscts",
+  "Versions": [
+    {
+      "Version": "0.5-b2",
+      "SHA1": "hNaw7H9ljCsmDI0fNrgv/S7WzIg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

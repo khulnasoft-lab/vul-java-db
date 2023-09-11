@@ -1,0 +1,11 @@
+{
+  "GroupID": "church.i18n",
+  "ArtifactID": "church.i18n.error",
+  "Versions": [
+    {
+      "Version": "2019.0",
+      "SHA1": "rkAQlO+sFI2xOb+DVZCeOgubp7w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

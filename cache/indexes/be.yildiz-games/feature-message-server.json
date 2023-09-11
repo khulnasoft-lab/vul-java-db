@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "feature-message-server",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "N6FscR7QtRPUq99aA06CrIHEa5c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

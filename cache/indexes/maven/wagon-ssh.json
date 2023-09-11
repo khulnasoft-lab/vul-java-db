@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "wagon-ssh",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "6yUVRb12lGu8iEPgsNs3usJ6gc4="
+    },
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "+XkB0yozICEBVoD373CB0PdQeDY="
+    },
+    {
+      "Version": "20040703.124428",
+      "SHA1": "1snKlvBFeg0z8sBouoFU+xqJjlE="
+    },
+    {
+      "Version": "20040703.124914",
+      "SHA1": "K+6cbknwILPjArElOMBO3bH3NkA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

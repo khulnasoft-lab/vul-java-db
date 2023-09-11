@@ -1,0 +1,39 @@
+{
+  "GroupID": "chat.dim",
+  "ArtifactID": "Network",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "bgKudtMeuuQWxvA9EVhUuRhWYck="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "xKGN8DZVeAZWiJCmH5NboxDuNC8="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "bjDHMBb0pN9IsuFmZElChwBYahs="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "aCQQrirdxcESJvZSvRX0Dv4g8pw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "+dqLYS4qzXZ9OBNZSARo/JeQ+yQ="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "P3DswNlV6FZOKy7jqnYIYEwvJxI="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "LLFA2RVcrBP1kfrDAuMC3bV0oUo="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "r7lo7utJ4L15Sksmq/6/6PsLSzM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

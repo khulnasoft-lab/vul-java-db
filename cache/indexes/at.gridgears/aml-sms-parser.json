@@ -1,0 +1,23 @@
+{
+  "GroupID": "at.gridgears",
+  "ArtifactID": "aml-sms-parser",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "C0hlgyU/rzroefT2igUby6VKisA="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "xY2ECYgLx9MmFuh2ohMEFm43aVU="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "XIPbinpwDvlQWZJCYPyET8uBNgw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "eF0BFHwIe2kJg9Yag0rS7W8pX/4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

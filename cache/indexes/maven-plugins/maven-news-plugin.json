@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-news-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "5vEdoHZxaYq30HswpQJgNQwns0I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

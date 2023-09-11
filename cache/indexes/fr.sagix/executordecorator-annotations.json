@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.sagix",
+  "ArtifactID": "executordecorator-annotations",
+  "Versions": [
+    {
+      "Version": "2.3",
+      "SHA1": "aNEczdvl+Zga/h0MiwNcbSSjbpA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

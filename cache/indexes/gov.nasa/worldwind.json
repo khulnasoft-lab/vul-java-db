@@ -1,0 +1,15 @@
+{
+  "GroupID": "gov.nasa",
+  "ArtifactID": "worldwind",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "F6D80SeSQ6mfuZlJ9ps/SHm0oms="
+    },
+    {
+      "Version": "2.0.0-986",
+      "SHA1": "LoAxEhq8Vs1vQ+M0YOuFEOg3wNE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

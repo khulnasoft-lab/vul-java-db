@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.salmonbrain",
+  "ArtifactID": "experiment-sdk",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "zM+ob3CMhAftRXCfqTdE5hJc4tM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

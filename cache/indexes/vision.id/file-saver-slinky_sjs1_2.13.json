@@ -1,0 +1,11 @@
+{
+  "GroupID": "vision.id",
+  "ArtifactID": "file-saver-slinky_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "CXWX7GTYdLE1X8Bw8LkmL6W0RGY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

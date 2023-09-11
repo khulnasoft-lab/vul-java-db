@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-boost",
+  "Versions": [
+    {
+      "Version": "1.66.0",
+      "SHA1": "YIIq0Gk2pbvtLmpcD9u2KETSLIc="
+    },
+    {
+      "Version": "1.66.0.1",
+      "SHA1": "++ehu/ffdeZ/ilG7WczDCDO/L1c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

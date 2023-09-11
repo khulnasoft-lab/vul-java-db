@@ -1,0 +1,11 @@
+{
+  "GroupID": "engineering.bestquality",
+  "ArtifactID": "urlmock",
+  "Versions": [
+    {
+      "Version": "0.0.14",
+      "SHA1": "wY7fPSyryfDrajp5wob4uTtspQ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

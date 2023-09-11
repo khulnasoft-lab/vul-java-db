@@ -1,0 +1,11 @@
+{
+  "GroupID": "hu.chengming",
+  "ArtifactID": "In-Memory-Counter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "m3wKQPUjwhljyT9gZ4jsEa88ZpA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

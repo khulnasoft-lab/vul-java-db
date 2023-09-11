@@ -1,0 +1,15 @@
+{
+  "GroupID": "at.chrl",
+  "ArtifactID": "chrl-config",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "pgVxS8Ak5pMwpF98Otowavk+Pxk="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "2ahPEjMEugCxOA/LSADMqGP2Qy0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "technology.tabula",
+  "ArtifactID": "tabula",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "sbzP89/CBRcUywEJzTv2G0DfLXE="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "2VJCmr7brzBJI/GVuJhAw6Mem68="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "oIFaPeYxmTopw5SLvHcwtLYOMz0="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "ZuRgJmJdbEQK63QxFq608Bmit3E="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "nq84MIjDMj4umpgraMyx+OmFKY4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "n1D5TttRJLe828tKEHdXNjjv6BI="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "vaj2DZaVrI1RJW9SYOr3rFGpfps="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "nJLI66v8IkwO/OeKRvGIeRXHq7s="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "NT7HUspmfnJCsRtFlBkaAixB6So="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "HgbF3AjMkm2xXzOD5dB6bK0lJ/0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

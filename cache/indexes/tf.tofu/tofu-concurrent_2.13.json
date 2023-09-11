@@ -1,0 +1,51 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-concurrent_2.13",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "GxdMdtYf7/vX7A/cmabzD87S0Wc="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "SB1yFL8xrrCcC4u83wzZmrn1SNo="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "OX2uoykMFDwGi7C10pR3wB/FBYw="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "iM/brTCReViPkk696D5l0s9iGjM="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "3+W5JVbl4fa+B4kNjaErr7gTtBc="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "k5967L9f+BcFmdfu6b5xYZh/VxY="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "4VzUlJs4t1zOqpjZM25qRoCSZA0="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "6bREuP6OEITyX2aJ+zcDqjuzZbM="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "kgSvhBNpqpqxaawktxkX+KDEVRg="
+    },
+    {
+      "Version": "0.11.0",
+      "SHA1": "dyokS3PFwjxXY8LR6YjMS3gaPs8="
+    },
+    {
+      "Version": "0.11.1",
+      "SHA1": "1g3UrlsnPwUb82oP02fBjOUrqSU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

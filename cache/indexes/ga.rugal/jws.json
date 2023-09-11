@@ -1,0 +1,11 @@
+{
+  "GroupID": "ga.rugal",
+  "ArtifactID": "jws",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JFRxzxOHemTjq7PUMBfLqetAwqo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

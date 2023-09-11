@@ -1,0 +1,19 @@
+{
+  "GroupID": "pl.droidsonroids",
+  "ArtifactID": "credit_card_number",
+  "Versions": [
+    {
+      "Version": "2.01.03-alpha01",
+      "SHA1": "kfsbO9wFOCVzPb2w3N3lNPpN090="
+    },
+    {
+      "Version": "2.01.03-alpha02",
+      "SHA1": "QiP7Vf/B/IR5xfMo1kFFMQg6txc="
+    },
+    {
+      "Version": "2.01.03-alpha03",
+      "SHA1": "m+9V6BSQV+RUBhsxW07bqK0ssBs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

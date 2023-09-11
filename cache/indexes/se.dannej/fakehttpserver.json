@@ -1,0 +1,19 @@
+{
+  "GroupID": "se.dannej",
+  "ArtifactID": "fakehttpserver",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "+Ltn//Hb7D2rQLzFEoZ+npFygXU="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "pjynMUNypcZoTKpfo/90o0FlqpQ="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "UuyI2Xi/zNV34bj971K8Qb5FScE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

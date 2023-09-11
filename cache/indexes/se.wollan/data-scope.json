@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.wollan",
+  "ArtifactID": "data-scope",
+  "Versions": [
+    {
+      "Version": "1.0.0-rc7",
+      "SHA1": "OdJ1fwWKIvCDl3yqXpFIqAbwYhQ="
+    },
+    {
+      "Version": "1.0.0-rc8",
+      "SHA1": "p5xRiqz4a0prMkvBYVCfYzFLxEc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

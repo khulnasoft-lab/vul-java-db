@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.sysa.log-sanitizer",
+  "ArtifactID": "log-sanitizer-log4j2",
+  "Versions": [
+    {
+      "Version": "1.0.5",
+      "SHA1": "22Nqz/se2XGeEfWil+Iktav73rE="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "BcgpPhjoo8cqB8BIbaQ8MYAlTIE="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "2pxj7tFmpRBQcz5pgphRhVLkokM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

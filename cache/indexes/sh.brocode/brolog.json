@@ -1,0 +1,19 @@
+{
+  "GroupID": "sh.brocode",
+  "ArtifactID": "brolog",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "wtRPtFFnB7MS2Pt0TkM9+Zjed5U="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "KmjNZXs08yxJXY+9glP7SEUy0jI="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "hw9Z4VU01vpwOZlrYbP3I5Yg7JM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

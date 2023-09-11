@@ -1,0 +1,11 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "maven-jbuilder-opentool-plugin",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "pLDnAetsRj8RvUw2SB1E+KWmyZI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

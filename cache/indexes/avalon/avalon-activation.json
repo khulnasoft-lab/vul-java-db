@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon",
+  "ArtifactID": "avalon-activation",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KVuX1r6YJ1CvaSHdpLGUjqpORmI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

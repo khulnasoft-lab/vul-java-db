@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.databand",
+  "ArtifactID": "dbnd-deequ",
+  "Versions": [
+    {
+      "Version": "0.40.2",
+      "SHA1": "PQAFDFKuWkZfG34dR2gtGzZK7wQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

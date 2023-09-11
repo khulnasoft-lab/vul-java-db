@@ -1,0 +1,31 @@
+{
+  "GroupID": "world.komq",
+  "ArtifactID": "parallel-universe-api",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "C2i6wQbeqD6IH/qoQSUf+vzTTPA="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "YauFWqN+TUYqeu/rdwqnD/Onr6c="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "i6UPmUFDhAb94F8Z49ufICwd5ak="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "i6ndu0t1qrDuLiLNwLi7GViJeTw="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "LG7aN57bZyrIcD+9tsRjdxo85/0="
+    },
+    {
+      "Version": "0.0.5.2",
+      "SHA1": "+U9ICKBHeGp+GCfZucG7s9iFUg8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

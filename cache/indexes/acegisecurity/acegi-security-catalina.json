@@ -1,0 +1,39 @@
+{
+  "GroupID": "acegisecurity",
+  "ArtifactID": "acegi-security-catalina",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "7uRaKwt/VJohdeJv+0BA9KSCdVE="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "8BYfxHL8t7usz25C/2aduFTiYEg="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "An5GM5JgjpYqEXHNR6GLwsDRrhM="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "Iu/BWZHZj2G56M5JWonGkTl/Uks="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "AmAXVixNpqAfnlRGTKgAb12Uwhg="
+    },
+    {
+      "Version": "0.8.1.1",
+      "SHA1": "3k8Phwy9HI88Q1pwdzu1ZtVBEnA="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "Iqv5Z74Xbj3YP2YWmRIJQn8Lzyk="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "s77IjttpRBCB9OxD3kppZSJNSrY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

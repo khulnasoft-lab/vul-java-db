@@ -1,0 +1,27 @@
+{
+  "GroupID": "video.bug",
+  "ArtifactID": "unlogged-java-agent",
+  "Versions": [
+    {
+      "Version": "1.13.8-jackson-2.13",
+      "SHA1": "5YLxaHKBa9HCBgbuXtTgeifSzjc="
+    },
+    {
+      "Version": "1.13.9",
+      "SHA1": "eC+id/Llv5GRc17lEWOh/v6CTTA="
+    },
+    {
+      "Version": "1.14.1",
+      "SHA1": "pVZZsXTbLkiyI/MvSNb/lz5rs0o="
+    },
+    {
+      "Version": "1.14.2",
+      "SHA1": "BE82OTxuGx30aO5bq4h6ptxV+VM="
+    },
+    {
+      "Version": "1.14.3",
+      "SHA1": "NCfHhEcojskcfvbye41P2rSTtlY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

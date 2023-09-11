@@ -1,0 +1,15 @@
+{
+  "GroupID": "fans.java",
+  "ArtifactID": "easy-statemachine-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "CchUEW53oLwmSEQ3By/73TZoHGA="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "IuJBz2esp3V2DJlbgYM08KswRCM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

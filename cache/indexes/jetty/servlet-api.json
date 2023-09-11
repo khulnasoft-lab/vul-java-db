@@ -1,0 +1,51 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "servlet-api",
+  "Versions": [
+    {
+      "Version": "2.5-6.0.0beta1",
+      "SHA1": "uiB99b9KwcCj+JVNKiPBQmj5c4Q="
+    },
+    {
+      "Version": "2.5-6.0.0beta2",
+      "SHA1": "0gNXQRRPcyWB/KmhMHfIOH0795E="
+    },
+    {
+      "Version": "2.5-6.0.0beta5",
+      "SHA1": "7zE5fir7LLiFDftkMMwwG0Hd+Z8="
+    },
+    {
+      "Version": "2.5-6.0.0beta6",
+      "SHA1": "SkoSGX5zMOWvJ+eYf7DRDyZOCpc="
+    },
+    {
+      "Version": "2.5-6.0.0beta9",
+      "SHA1": "nxmZa7McjXpuRMBgZ8pNbFdpYmk="
+    },
+    {
+      "Version": "2.5-6.0.0beta10",
+      "SHA1": "WXvBvpeike9oAEMZtYY9oaW/aMM="
+    },
+    {
+      "Version": "2.5-6.0.0beta11",
+      "SHA1": "aBH64yT4/Fsn0FGynbjJb6zPbH0="
+    },
+    {
+      "Version": "2.5-6.0.0beta12",
+      "SHA1": "HydvlOWX57EFd4waW3ZgQVtCmac="
+    },
+    {
+      "Version": "2.5-6.0.0beta14",
+      "SHA1": "LbUjke1LjjB+zuBEhpQwyyl6MF4="
+    },
+    {
+      "Version": "2.5-6.0.0beta15",
+      "SHA1": "teFtKb9Hjbf3ty0/+CRfDK3c/7s="
+    },
+    {
+      "Version": "2.5-6.0.0beta16",
+      "SHA1": "LnsCIx2SW1tNltU7GK0o2kp3W1k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

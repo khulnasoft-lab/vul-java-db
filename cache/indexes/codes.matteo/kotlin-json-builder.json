@@ -1,0 +1,11 @@
+{
+  "GroupID": "codes.matteo",
+  "ArtifactID": "kotlin-json-builder",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "sdigTBEMK1F1Lu30r+KgpmKxuKY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-email",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "W/7rcVhEAOjnLfO7H8eu/P3a/Jo="
+    },
+    {
+      "Version": "20030211.144034",
+      "SHA1": "dEaQ5tJLp9AkLETzIUi4K+59JAI="
+    },
+    {
+      "Version": "20040902.072224",
+      "SHA1": "dEaQ5tJLp9AkLETzIUi4K+59JAI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

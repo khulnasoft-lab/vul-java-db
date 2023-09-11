@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.opensmile",
+  "ArtifactID": "common",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "irFG3qcU8UGYs+Oeb1WgVxt9VCc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

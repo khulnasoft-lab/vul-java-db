@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.neolegal",
+  "ArtifactID": "inpi-client",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "5+ioN2g+gRZrOWf2PYY7TyEnRaM="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "re8ng+6Wz4jiyG0wbNbgTGkF4Rg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

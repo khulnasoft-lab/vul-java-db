@@ -1,0 +1,35 @@
+{
+  "GroupID": "pl.gdela",
+  "ArtifactID": "socomo-core",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "rxZvSzRf5DOwUdwXcNwV5mKGaOA="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "DEwtuGTChSotQj0yQqJB06LtJdA="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "dUnv0KpKAca246th2wQrygAGdI0="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "OCn+qbvnu2x0ZfrHdjcjfeTbhZ0="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "DsDnXJA3q0zTTu0QIdAS+JelOgY="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "je3A76oM7BOompYcmnUxbSlWkVo="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "pdTFbh0mrQj0Q429cyFtQM0VfHc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

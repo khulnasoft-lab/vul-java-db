@@ -1,0 +1,39 @@
+{
+  "GroupID": "pro.cryptoevil",
+  "ArtifactID": "proxy-tanker-starter",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "dqUY44XOstnKfrIegxfX+qjlBZ4="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "MreVCI+ze3ozT5hbnhVJoXiYKQI="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "fU1Ow9yNyirr1DTzlldhkZzKCiA="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "khrdUoGZe1cBq31xc+EW2gaDk8o="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "vZQU6TSnjlCP07cUHDwujBPSIVU="
+    },
+    {
+      "Version": "0.0.8.1",
+      "SHA1": "2R95DagxtepWtYQ8ATeLJte3EQA="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "dmSTSfyoyRuej2SiCcQvyA6mIJU="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "BhU8EYnH2A7MQT//GJ9T6cpq3pU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "spice",
+  "ArtifactID": "spice-alchemist",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "3MzGJG7nF871qRMnF6h/TO80yYw="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "qgnnAZrU+PU5QoTaROAR0JlFzxM="
+    },
+    {
+      "Version": "1.2-rc1",
+      "SHA1": "Qg7SQD3wQHqbZj5A1D3AMI7t5kE="
+    },
+    {
+      "Version": "20031120.105516",
+      "SHA1": "Sl/oPw2RKylHOMvhraKO+IXkhE0="
+    },
+    {
+      "Version": "20040613.144236",
+      "SHA1": "EGcOL2e6SuYLdRhppfCe8zwpOrU="
+    },
+    {
+      "Version": "20040617.222741",
+      "SHA1": "r+JaCS1MMaVm1x/8XyOlw/da5eM="
+    },
+    {
+      "Version": "20040620.142035",
+      "SHA1": "BHUsCbUEmTJ9vz+4Eljd7nF8Hdo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire",
+  "ArtifactID": "xfire-jaxrpc",
+  "Versions": [
+    {
+      "Version": "20041222",
+      "SHA1": "i7/YNPONyAIVvveEIwtwr5rELVc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

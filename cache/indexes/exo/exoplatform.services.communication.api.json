@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.communication.api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "1xYLJmicQTuz3+s/axSE0tzPK2s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "win.doyto",
+  "ArtifactID": "doyto-query-geo",
+  "Versions": [
+    {
+      "Version": "0.3.1",
+      "SHA1": "/uWgVtZLSECHB6xGX0a06iTr6Gk="
+    },
+    {
+      "Version": "1.0.0-ALPHA",
+      "SHA1": "LqmN/cfkslLoPLe2abebjQ5xnPg="
+    },
+    {
+      "Version": "1.0.0-BETA",
+      "SHA1": "kEhlC3ElAensC4JxtgC0mbJ4DQk="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "4ikF1Gn7llIjGky/NRVhc7uhItk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "DIeSWbJSZEmc6rX+wAz1rptah2w="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "qtX8LExRwby1UArFITFGuLduBiw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

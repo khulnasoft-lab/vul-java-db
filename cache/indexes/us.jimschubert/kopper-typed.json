@@ -1,0 +1,23 @@
+{
+  "GroupID": "us.jimschubert",
+  "ArtifactID": "kopper-typed",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "8AWeeTofs/enpu2d3lf37K6PTKg="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "zy3RMw9tUvn91iSDUsaUjbQIRU4="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "QsV5W0d36LjoBsLx19ZDfLQiYnY="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "MCVR3WTZ9Pzrf/jU/mz1er+sdwE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

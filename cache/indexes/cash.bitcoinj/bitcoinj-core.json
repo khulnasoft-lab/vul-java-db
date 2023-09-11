@@ -1,0 +1,19 @@
+{
+  "GroupID": "cash.bitcoinj",
+  "ArtifactID": "bitcoinj-core",
+  "Versions": [
+    {
+      "Version": "0.14.5",
+      "SHA1": "CIJMZeYSejJvkum6vVwgzJSp7Bs="
+    },
+    {
+      "Version": "0.14.5.1",
+      "SHA1": "QZoba5WCrNpTMTsaiPBAhFkyyIk="
+    },
+    {
+      "Version": "0.14.5.2",
+      "SHA1": "xroQR1dKocCij7YSQHe2by/cX/8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

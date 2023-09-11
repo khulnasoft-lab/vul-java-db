@@ -1,0 +1,55 @@
+{
+  "GroupID": "dk.acto",
+  "ArtifactID": "dispatcher-client",
+  "Versions": [
+    {
+      "Version": "1.1.72.429cef5",
+      "SHA1": "mHGp1bxVLlXMC5zW/EAgq2I8/4U="
+    },
+    {
+      "Version": "1.1.73.cb2f6f2",
+      "SHA1": "xL35RreGKkNi9wFH5dftBKS7qoY="
+    },
+    {
+      "Version": "1.1.74.b162ddb",
+      "SHA1": "WGcEUcmiEMWKIA9KYyTDLl9RZHU="
+    },
+    {
+      "Version": "1.1.75.ea1ceaf",
+      "SHA1": "mchM1Rgn1HM2EWA6tV3Jj1fWeRQ="
+    },
+    {
+      "Version": "1.1.76.f0551d0",
+      "SHA1": "Ds25TODeHl09wFN8CDtL952QX1I="
+    },
+    {
+      "Version": "1.1.77.da7122d",
+      "SHA1": "90wjGmjtnU0jwBnTh4raql84l5U="
+    },
+    {
+      "Version": "1.1.78.30935eb",
+      "SHA1": "+nYPre2E7A2W6NIAAM6hetzqm6Y="
+    },
+    {
+      "Version": "1.1.79.22c58d8",
+      "SHA1": "WI85DL6R5fZDu9ARvs0M0UmPOE0="
+    },
+    {
+      "Version": "1.1.80.42cc5a0",
+      "SHA1": "8lOU/SCY7nT2EGUHGv6KDiioSaQ="
+    },
+    {
+      "Version": "1.1.81.423e96c",
+      "SHA1": "aDRKITu+TzBJnvVOShQq/NEJM4Q="
+    },
+    {
+      "Version": "1.1.82.6b7444f",
+      "SHA1": "Cww4yLhtFmfMOpSlx3URlYgtp1c="
+    },
+    {
+      "Version": "1.1.83.5c0bc9f",
+      "SHA1": "5ldl5E6crjkwhxeTfkRDtAUEE6w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

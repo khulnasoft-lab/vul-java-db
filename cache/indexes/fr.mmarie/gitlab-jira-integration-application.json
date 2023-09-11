@@ -1,0 +1,27 @@
+{
+  "GroupID": "fr.mmarie",
+  "ArtifactID": "gitlab-jira-integration-application",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "tI8u88rk6I933E08mMkR/7HxAkc="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "7xtFL9w6l1cJ7xe6TpBTVsqd9fs="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "iSDBnK1R/Y59x5jrleXSZtaA4wY="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "dcwiLd/b1uqm42J4os3eXTS2OiY="
+    },
+    {
+      "Version": "0.5.0-RC1",
+      "SHA1": "mnpZxChkB4/YicjLb6gd7shm0Yo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

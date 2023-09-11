@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-jdiff-plugin",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "JLpiYN6qR+Ezwu21B2jXAuKEOmI="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "mLzCJAOvuNz3G7v/GdxftsyvNiw="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "DdG2dUNchEvsfku0GUvsLGdh/RQ="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "dT5kU8O9QPjKipcd2Svq15AdC5c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

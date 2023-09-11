@@ -1,0 +1,15 @@
+{
+  "GroupID": "systems.kuu",
+  "ArtifactID": "JpNHolidayK-kotlinx-datetime",
+  "Versions": [
+    {
+      "Version": "0.0.3",
+      "SHA1": "lyUQqx0ld+Kk0YlIvej/OkXSaCM="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "TAwfcQdtx7jqXAX+fmb/Tcz5ATA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

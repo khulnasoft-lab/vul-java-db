@@ -1,0 +1,19 @@
+{
+  "GroupID": "tk.pratanumandal",
+  "ArtifactID": "expr4j",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "C+K75C9lzTgCTRm/8WzlW+K4Ivo="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "Zfqa/qXafhJx+Gx2hhEA2erbUsA="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "fadpSh98rdWnoeJLfml38B0ux1c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

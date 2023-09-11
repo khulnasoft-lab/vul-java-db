@@ -1,0 +1,79 @@
+{
+  "GroupID": "pm.pride",
+  "ArtifactID": "pride",
+  "Versions": [
+    {
+      "Version": "3.1.0",
+      "SHA1": "2/QZ/j9SBEtXBqdtdS+CysltsGQ="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "7Fa0BC4jKK9v+FkUO3fB8cXGbug="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "R21/SLTsAF8iDdWt5otw+Zi+9kY="
+    },
+    {
+      "Version": "3.2.2",
+      "SHA1": "Jw48wAquFU8/VOrXLzdJnUh5rdk="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "BZZh7Utzz+axcaEwGJ5JceWZhF0="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "/DbB0FozWZxW3X49YjEgwuO8ITQ="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "48oZRaAIGgpxmZYo/hidZcQqZc8="
+    },
+    {
+      "Version": "3.3.3",
+      "SHA1": "KHBJoT5KUU/7BMDTa63CtOHeQ2A="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "ayLqpBfR8FWxV2l3q8cAL2tXoYI="
+    },
+    {
+      "Version": "3.4.1",
+      "SHA1": "DGKN0KJWXNKfNYYFXbN0enTNfp8="
+    },
+    {
+      "Version": "3.4.2",
+      "SHA1": "1PfKyWbdjOWcn/gi2VATx3bMTnU="
+    },
+    {
+      "Version": "3.4.3",
+      "SHA1": "JYAD46Fs4zUvwQRDJqfVKJ13hwQ="
+    },
+    {
+      "Version": "3.4.4",
+      "SHA1": "w2IMJ1oIBRKTBJ83qvLdVmj1oW0="
+    },
+    {
+      "Version": "3.4.5",
+      "SHA1": "Vs6s6Z6Go/J1x7qXUounPLbu7eU="
+    },
+    {
+      "Version": "3.4.6",
+      "SHA1": "iqBJww1D5VE9xqvmI+Ml31r6mv0="
+    },
+    {
+      "Version": "3.4.8",
+      "SHA1": "sYnUnjMASvtTMQS6BIIuKl7WQ1o="
+    },
+    {
+      "Version": "3.4.9",
+      "SHA1": "5Tm8IoOgDgpNztwFlEmp7pbMLmo="
+    },
+    {
+      "Version": "3.4.10",
+      "SHA1": "UqjliyCTfFuErUK+OCPDk8GBCks="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,55 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "naming-resources",
+  "Versions": [
+    {
+      "Version": "5.0.18",
+      "SHA1": "WdeBliF57bFObCgyUblaVYbGVRM="
+    },
+    {
+      "Version": "5.5.4",
+      "SHA1": "qNX4Ar5ARaoKuieNbAsba1LUl9E="
+    },
+    {
+      "Version": "5.5.7",
+      "SHA1": "mpoqmFbAIzsVoVbMShjTORQkfTY="
+    },
+    {
+      "Version": "5.5.7-alpha",
+      "SHA1": "mpoqmFbAIzsVoVbMShjTORQkfTY="
+    },
+    {
+      "Version": "5.5.8-alpha",
+      "SHA1": "FHqXWWZMSTr2cisfpVZ3bh8pMec="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "pn3OpITXL9PypbmMHGGBvge5ZB0="
+    },
+    {
+      "Version": "5.5.9-alpha",
+      "SHA1": "pn3OpITXL9PypbmMHGGBvge5ZB0="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "fnhiSrKuq9UbkUd8Zl4LzRXhk5E="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "qzje0zA1IGa1uuI3w6iAuAljRKo="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "ROoD12iC2pYFQGNCiG8DLdUlhe0="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "glv9m/TIFqqSLqO5JSbuIYnkEf0="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "rtgGSBCvDnG9GuAHepFtlA96gF8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

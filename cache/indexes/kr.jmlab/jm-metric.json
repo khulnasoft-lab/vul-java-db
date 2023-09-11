@@ -1,0 +1,67 @@
+{
+  "GroupID": "kr.jmlab",
+  "ArtifactID": "jm-metric",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "TvuNSqhirwMnNNHnoh6wNbzKjXI="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "7p+LaBCdsBE/hPkyi0XDtLjJ1tQ="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "JAtmBLRQ03DnL/SJOFLJNezh+V0="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "lCdD1oC1xxdamAH0OtAiFFpJllc="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "JjlybdiZaxnDTWEL/wfD4WbOlWc="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "Jc4vsxfMyyt0sCyZzlTRM+5BhuY="
+    },
+    {
+      "Version": "0.2.3.1",
+      "SHA1": "jpOb0firJMDkAYel0DEbOxwaxPQ="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "jnvpKTqulj77jEvoAkk0zqwsDvA="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "TWUXKeIKO+fTf9ZxCFYCkL2ZApM="
+    },
+    {
+      "Version": "0.2.5.1",
+      "SHA1": "Uqz/1qpA3SQMFoU58hrnZ4YmAFc="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "RIpvE4Vn+3oGnWYa/tY8hlhOUCM="
+    },
+    {
+      "Version": "0.2.6.1",
+      "SHA1": "G787KS4v4wFC8+pftxxZY1CCbBk="
+    },
+    {
+      "Version": "0.2.7.1",
+      "SHA1": "tws+IVbGQ4OENgU/nGLc2F9zZcU="
+    },
+    {
+      "Version": "0.2.7.2",
+      "SHA1": "6WfocmtIDqZNTqq5FPH4fd6bAp4="
+    },
+    {
+      "Version": "0.2.7.3",
+      "SHA1": "r81kyp6L38lFbyhVf80e/trV/rI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

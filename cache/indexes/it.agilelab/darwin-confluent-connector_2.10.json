@@ -1,0 +1,23 @@
+{
+  "GroupID": "it.agilelab",
+  "ArtifactID": "darwin-confluent-connector_2.10",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "DaAF1NdV0hJup1Eco/mBUgaDxAg="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "hXqmykGsGQlUl7rAcsDQUhDjZqY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "BFr7c5VGsP9+Mq7T0IDuVZEu//M="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "9nDTBVFiVqZD272mnRl4N1Y3Cuo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

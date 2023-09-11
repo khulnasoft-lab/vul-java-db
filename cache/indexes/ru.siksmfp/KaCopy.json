@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.siksmfp",
+  "ArtifactID": "KaCopy",
+  "Versions": [
+    {
+      "Version": "0.0.9",
+      "SHA1": "FBT1FPmcihXzwk/yR5JUUdY6Nuo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

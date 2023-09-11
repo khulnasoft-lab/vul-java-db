@@ -1,0 +1,15 @@
+{
+  "GroupID": "cloud.pluses",
+  "ArtifactID": "ktypes",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "rSnEDZQkp9zBbdnOMJZC6ZIXSo4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "w8B1k05LEcafZqLd2K3HIaFHYIg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

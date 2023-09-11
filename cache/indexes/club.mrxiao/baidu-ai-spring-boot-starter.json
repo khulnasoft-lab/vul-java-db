@@ -1,0 +1,11 @@
+{
+  "GroupID": "club.mrxiao",
+  "ArtifactID": "baidu-ai-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "leC9ycLaeeMc9HMNkctUCUvuYws="
+    }
+  ],
+  "ArchiveType": "jar"
+}

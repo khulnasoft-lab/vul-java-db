@@ -1,0 +1,11 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-auth",
+  "Versions": [
+    {
+      "Version": "2.1.11",
+      "SHA1": "RCi484AR3cMEvTEhbojzycJdziM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

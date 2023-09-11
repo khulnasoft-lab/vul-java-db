@@ -1,0 +1,15 @@
+{
+  "GroupID": "pl.rzrz",
+  "ArtifactID": "kotlin-test-factories-annotations",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "TspAPQmWQpHgiyOE0v6871fXvYY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "3rAUCzp1HCyjkyFDv9QQZnuw3Gk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

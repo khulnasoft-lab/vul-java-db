@@ -1,0 +1,27 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-pramati-module",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "PzriMWttiat0ZC31f9Ml7NAzbOQ="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "DTxKyOBKhoCCKcDCIn1a5i9fZLc="
+    },
+    {
+      "Version": "1.2b1",
+      "SHA1": "TIH65AWmIgfxpxB1QjcLdH1yVAQ="
+    },
+    {
+      "Version": "1.2b2",
+      "SHA1": "NVzCD/HEOskuT+YdKCNRe7RVhuI="
+    },
+    {
+      "Version": "1.2b4",
+      "SHA1": "NHfHJAnlujMrPjuYCEI9hLQ1Ukw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

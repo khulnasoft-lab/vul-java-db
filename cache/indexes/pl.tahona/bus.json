@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.tahona",
+  "ArtifactID": "bus",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yWxfMQfhpZSytSVvrgfx8N74E7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

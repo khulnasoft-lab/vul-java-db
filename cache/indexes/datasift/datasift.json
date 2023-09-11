@@ -1,0 +1,11 @@
+{
+  "GroupID": "datasift",
+  "ArtifactID": "datasift",
+  "Versions": [
+    {
+      "Version": "1.0b2",
+      "SHA1": "bLjhr9uY97djrZdmyo6MhEANeqk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

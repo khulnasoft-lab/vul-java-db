@@ -1,0 +1,95 @@
+{
+  "GroupID": "vip.justlive",
+  "ArtifactID": "oxygen-cache",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "PIscDclpIDiw2YTPyRDiG9QAywE="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "LrqBHZWl9zAzQ4guWIBtss6LvKs="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "CeI+AWA8ts2C9QatMfWoz97t92s="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "k3QQIEaRMerpW57Kgdf/A9DBpOI="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "lmPZDaqDIFEmtUcDYT7o5vyXtpo="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "2fwPjZjnWWIaqyYFCE8VMI4WIfk="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "mZhq+bjaZcu9WsOaB2N0AkMusmY="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "Uj0GN9PwUMFfvfR+jSeQnzet2eM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "6ZkAA/6LDz6XcQRHu3gCj0K7kmc="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "tr3WX6ZrwdWRODRbsSpuKNkus24="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "poEGwDbZhQ7VBw3ZMyKrpppF5+g="
+    },
+    {
+      "Version": "2.1.3",
+      "SHA1": "04Jf7k/hm8vtWAr9XG7MKxjDu9A="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "/2/xpp6ty6/3iWQ/yk7RvzuEyd8="
+    },
+    {
+      "Version": "2.1.5",
+      "SHA1": "kNUShi6clZIRb17DwRpVEDcGxwk="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "pnxxwbfamt4/+pD4yuDwhUKPK68="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "TabCvz2ule+p/d1cKbDox9Sy9ao="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "rY3PvPHTKq4P0Fcn/h+J+4nsJDU="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "Lol0027Ebc2QKBmSVrLwa5GkETI="
+    },
+    {
+      "Version": "2.1.10",
+      "SHA1": "LG02pmhH3ZkaalkeIDhqtcd8OBc="
+    },
+    {
+      "Version": "2.1.11",
+      "SHA1": "Mrvtx3qRJkwKdW831ZanMt22CPk="
+    },
+    {
+      "Version": "2.1.12",
+      "SHA1": "e61FWCtk3elWrTllQP3NzfTibfY="
+    },
+    {
+      "Version": "2.1.13",
+      "SHA1": "u9kq9yMIuWPGzuWB/IRt7Yoidz4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

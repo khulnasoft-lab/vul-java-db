@@ -1,0 +1,15 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-gui-util",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "SJFyD1QrrDVNcvJZ7JMMq3Mp0fg="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "ru0DcnPYy/4Z3JUXm1lxMELNGGc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "dk.mada",
+  "ArtifactID": "openapi-jaxrs-client",
+  "Versions": [
+    {
+      "Version": "0.9.0",
+      "SHA1": "dWZ9vZ/3GqjbCYRORy9NDLd7cbw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

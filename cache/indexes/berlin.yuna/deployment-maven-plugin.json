@@ -1,0 +1,15 @@
+{
+  "GroupID": "berlin.yuna",
+  "ArtifactID": "deployment-maven-plugin",
+  "Versions": [
+    {
+      "Version": "12.0.4",
+      "SHA1": "p2UuT4UvueVQLwH5E6dzdzL5jOc="
+    },
+    {
+      "Version": "12.0.5",
+      "SHA1": "lukQurN+YsYcU6Z9ZKGDilDv6Sk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "fr.alexpado",
+  "ArtifactID": "xodb4j",
+  "Versions": [
+    {
+      "Version": "1.0.0-rc.1",
+      "SHA1": "i3ia4KFlL/Ds3/wV+FeYD7nbg78="
+    },
+    {
+      "Version": "1.0.0-rc.2",
+      "SHA1": "a3hMRURBfDRY3lpYzF107jaGztI="
+    },
+    {
+      "Version": "1.0.0-rc.3",
+      "SHA1": "idd1o/+TmBUf9cwqNjAl7yaX6ts="
+    },
+    {
+      "Version": "1.0.0-rc.4",
+      "SHA1": "Bftw8RrjgiFj29wVI4WFnn27zr4="
+    },
+    {
+      "Version": "1.0.0-rc.5",
+      "SHA1": "2WeuHO6ggi0Q1AsSxBh4RqkvAZU="
+    },
+    {
+      "Version": "1.0.0-rc.6",
+      "SHA1": "00Ndj5N3nuip3gtcxkaPUdG3eGg="
+    },
+    {
+      "Version": "1.0.0-rc.7",
+      "SHA1": "AEX7DXWrRAuuzaPdjjaQfu3Nxqc="
+    },
+    {
+      "Version": "1.0.0-rc.8",
+      "SHA1": "JJrEKOQ8K8XcTCFKfuDvoB6SEIA="
+    },
+    {
+      "Version": "1.0.0-rc.9",
+      "SHA1": "HbdYv8MgoPugcWuCw2E6q683t5E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

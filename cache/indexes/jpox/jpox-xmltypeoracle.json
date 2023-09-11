@@ -1,0 +1,31 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-xmltypeoracle",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "/grK2B3ODB5Defipy3gbLeuuSGs="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "jHU9ck6IrIUxgkm0s5nu6EIChpw="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "K96E7w0FhNt/GjcgUazKwq0Au6U="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "z5KSwZImKSxa1DndmX7kIVQ+M9w="
+    },
+    {
+      "Version": "1.2.0-beta-1",
+      "SHA1": "kcbtx3TDK2OMgFymen//7AWlQZo="
+    },
+    {
+      "Version": "1.1.0-beta-6",
+      "SHA1": "udH7KImuIvFznFfQuWfaNiGPmFM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

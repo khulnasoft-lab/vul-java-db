@@ -1,0 +1,27 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-j2ee-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "zbF6nzaC/l9MtMsH/9ctiQTfAro="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "EWjjVRSxXmQqbbD3299s5hv2yAE="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "lHwOta1rG87YMd02ER66Xtw0Q9M="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "DBS1ZaUzcC71DTpowt6AU6UXbYo="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "4Yl5IKomLKLCxif/yXBGPUQz+Tc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "software.amazon.lynx",
+  "ArtifactID": "nimbus-jose-jwt_aws-kms-extension",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "5OSqdRQa3VWX0UqLhV8/nXaS7iU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "5LFyWvA3ComiW5j7LWVyhlswkj0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

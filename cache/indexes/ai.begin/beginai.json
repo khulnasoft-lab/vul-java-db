@@ -1,0 +1,31 @@
+{
+  "GroupID": "ai.begin",
+  "ArtifactID": "beginai",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "QRgDR8M2Xe6yESvQEGNA1NNAj/U="
+    },
+    {
+      "Version": "0.0.1b",
+      "SHA1": "7ylEEgd2UDKhmixtpocSJx6zt50="
+    },
+    {
+      "Version": "0.0.1c",
+      "SHA1": "W2Bjtfjuu5o0vn4DiqmMiOnO6ig="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "wSKkQBQNu4RKELyg+y7FEbbALXE="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "pyB1JyiVZtkN+eCpCepdkUwjrF4="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "e54HIOIR7zOuwKk3wZTwktzd/CE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

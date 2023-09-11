@@ -1,0 +1,15 @@
+{
+  "GroupID": "pw.spn",
+  "ArtifactID": "rutracker-crawler",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "LltWgQgqRxnIuDm6mf3DkTnE/xQ="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "rETwGcERpM87UlYS6JOvHFpgejk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

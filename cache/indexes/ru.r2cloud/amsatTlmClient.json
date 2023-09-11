@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.r2cloud",
+  "ArtifactID": "amsatTlmClient",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "SdNRLwN7LsxmnP5Agu7LfDL6Cvo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

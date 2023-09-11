@@ -1,0 +1,15 @@
+{
+  "GroupID": "jotm",
+  "ArtifactID": "jotm",
+  "Versions": [
+    {
+      "Version": "1.5.3",
+      "SHA1": "WrG4u0ShgA94xrK9LZUcMpIYLi8="
+    },
+    {
+      "Version": "2.0.10",
+      "SHA1": "LSqieXWGfKBBYeKcpSeV1QSoy7s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

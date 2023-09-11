@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.pptshow",
+  "ArtifactID": "pptshow",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "jEhcOXwbzzpVQ5EV0OWuInbF7s8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,67 @@
+{
+  "GroupID": "berkano",
+  "ArtifactID": "berkano-seraph",
+  "Versions": [
+    {
+      "Version": "20050616.002203",
+      "SHA1": "sp41s6XXtKSjiQtM5NvTnpyaglQ="
+    },
+    {
+      "Version": "20050616.004013",
+      "SHA1": "sp41s6XXtKSjiQtM5NvTnpyaglQ="
+    },
+    {
+      "Version": "20050616.005410",
+      "SHA1": "TruO6WVMEGvgq8IMaurURKq2Zko="
+    },
+    {
+      "Version": "20050616.010601",
+      "SHA1": "bkYvda6FoD4tKDEPXNLmLSQcN94="
+    },
+    {
+      "Version": "20050616.011913",
+      "SHA1": "qEsV7Ibx56jF/xJ/R5yGh517YVI="
+    },
+    {
+      "Version": "20050616.013754",
+      "SHA1": "MK0rKeJUI9fs/OjpaBrRVtFWpU8="
+    },
+    {
+      "Version": "20050809",
+      "SHA1": "LDcAs2jhOGMSZ0p/i95TYi/Snjc="
+    },
+    {
+      "Version": "dev-20050722",
+      "SHA1": "gSuh6n3HoaMUBM8jgdqMoLl3PPM="
+    },
+    {
+      "Version": "dev-20050723",
+      "SHA1": "1/91QwmOQRNaOZ1iXUf7E1ruObs="
+    },
+    {
+      "Version": "20050725.114741",
+      "SHA1": "L3eS3VIAMozftV1a26iEvSAdjnY="
+    },
+    {
+      "Version": "20050901",
+      "SHA1": "D4q9Sakm7tN/EJyKIYdafmae9eE="
+    },
+    {
+      "Version": "20050901-2",
+      "SHA1": "r12rnGzRBGGlwWzhllwhgt+zouk="
+    },
+    {
+      "Version": "20050805.014109",
+      "SHA1": "OClKtLNlp+42nsq4JOUu8PA/RKA="
+    },
+    {
+      "Version": "20050805.025728",
+      "SHA1": "sNaXKaHsxAkOz2nuFgl0GT39gFY="
+    },
+    {
+      "Version": "20050805.042233",
+      "SHA1": "3oaSripZOu6tuk8MDFlCxHbJvDA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

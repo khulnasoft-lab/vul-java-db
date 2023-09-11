@@ -1,0 +1,23 @@
+{
+  "GroupID": "edu.ucar",
+  "ArtifactID": "grib",
+  "Versions": [
+    {
+      "Version": "4.5.3",
+      "SHA1": "YmzoCGGxvak8nDwNfO0gapodyC8="
+    },
+    {
+      "Version": "4.5.4",
+      "SHA1": "zWZFDyTgTzEW1afWmDyf5u8BDOU="
+    },
+    {
+      "Version": "4.5.5",
+      "SHA1": "z+VSkQ6ajVfOcRNHlquygadOrRY="
+    },
+    {
+      "Version": "8.0.29",
+      "SHA1": "NBesny/wy+e5yAWQ46qVgjICrgY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

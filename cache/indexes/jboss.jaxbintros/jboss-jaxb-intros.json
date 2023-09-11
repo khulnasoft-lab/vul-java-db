@@ -1,0 +1,31 @@
+{
+  "GroupID": "jboss.jaxbintros",
+  "ArtifactID": "jboss-jaxb-intros",
+  "Versions": [
+    {
+      "Version": "1.0.0.beta2",
+      "SHA1": "zO4TlWQQXnuuYsw3ifHd5JPWOB4="
+    },
+    {
+      "Version": "1.0.0.GA",
+      "SHA1": "MMRa85zsVcUAxumUE5UA2ax+sbE="
+    },
+    {
+      "Version": "1.0.1.GA",
+      "SHA1": "SJxWnOn4z22n2Nd3Foyyq0EvWDs="
+    },
+    {
+      "Version": "1.0.2.GA",
+      "SHA1": "AcLPuxMUzP0EEIDD9SLyO6GUGTw="
+    },
+    {
+      "Version": "1.0.3.GA",
+      "SHA1": "RWqB+IC4dDIXkvO2Wr1YhZu3vZk="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "PYIGkvwY16z1XvUbwhs1Jkl6cbM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "trove",
+  "ArtifactID": "trove",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "EStAWBq5pNPeRjbUmYWn9obRgcg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

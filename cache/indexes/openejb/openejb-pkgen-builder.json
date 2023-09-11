@@ -1,0 +1,19 @@
+{
+  "GroupID": "openejb",
+  "ArtifactID": "openejb-pkgen-builder",
+  "Versions": [
+    {
+      "Version": "2.0-G1M4",
+      "SHA1": "ei5I9uORM4Nz2KbJbvCI0ZZhMU4="
+    },
+    {
+      "Version": "2.0-G1M5",
+      "SHA1": "+M7YkbryJMS77myIWssN83H6LNA="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "a53UU7sYXPrQxTt5nD2FRedc5YQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

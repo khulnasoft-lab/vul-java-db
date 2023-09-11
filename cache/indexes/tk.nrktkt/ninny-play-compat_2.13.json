@@ -1,0 +1,31 @@
+{
+  "GroupID": "tk.nrktkt",
+  "ArtifactID": "ninny-play-compat_2.13",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "vLcPOzx0o691siineyV/jndGlj0="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "P35ZtOY+1v0FEujp8Xp66MztbM8="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "68xD85h4JJwnac26OKr6emLC+JM="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "7zwD3481p6PnLvltc1RNHplclww="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "SWWZZ7i7VwAuZy3/ROuMGBaSjeE="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "TWIC5++7dSqu4SHphpy0WkWB+tw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

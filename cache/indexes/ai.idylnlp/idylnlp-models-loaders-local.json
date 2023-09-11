@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-models-loaders-local",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "IobgkIw0WlX4SUh7RF/RhZ5CQl4="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "ZNyiKfqUrEdK9Jw07ezmroDpyyU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

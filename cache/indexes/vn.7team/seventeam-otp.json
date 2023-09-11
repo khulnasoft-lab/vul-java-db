@@ -1,0 +1,11 @@
+{
+  "GroupID": "vn.7team",
+  "ArtifactID": "seventeam-otp",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "8e9Lh+LQaP9HmQzb1AcDcSg4Q+M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

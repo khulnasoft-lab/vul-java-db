@@ -1,0 +1,43 @@
+{
+  "GroupID": "xin.manong",
+  "ArtifactID": "stream-sdk",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "hdu6hmOmkHU9+cxrs1qpGg/ivqg="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "psv2vleSTA2skEWn6MNGIMEyA74="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "ommmdeWNcOkC+WpwCJkU08O6EUg="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "3JtMyka4ZkX/CdNQm+IUtRLfvCA="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "N/wobQBVAIHe92DfcaF4i+f/CzY="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "VGKAT9oRXG0Utz2eSPFW40SV930="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "j7Jsoi9OzuslfSVIV6YCjAFazA4="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "1qealSb3WzCYc9o/tc+UAEPqp8w="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "NYJDPTMWN+pwUJeLayR2F1xAXrQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

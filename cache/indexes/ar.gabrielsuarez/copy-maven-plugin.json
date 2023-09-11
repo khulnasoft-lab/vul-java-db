@@ -1,0 +1,11 @@
+{
+  "GroupID": "ar.gabrielsuarez",
+  "ArtifactID": "copy-maven-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "cATusS+/kLhC6sCDZ/JSppv+Qx4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

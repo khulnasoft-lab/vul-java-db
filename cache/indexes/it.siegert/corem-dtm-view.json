@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.siegert",
+  "ArtifactID": "corem-dtm-view",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "qhhXraTULSM/V7EHFShM/fC3qvs="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Sf94Dg/neKaI7IVznzfOQWFBd00="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-constant",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "D7T9GWsvOXAGBAJUhD1Zog1keH0="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "zCN0D361lwrzF+jBWP9zlOjxXw8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "kLI+yxXRSS8tSf7QOc0ILm2CzgE="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "yNIbHagdWXTwNxQetcnUoSVqrXM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.brikster",
+  "ArtifactID": "creative-api",
+  "Versions": [
+    {
+      "Version": "0.4.1",
+      "SHA1": "zW1tGYNY3M6F9rWhBcDhzDrX3s8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

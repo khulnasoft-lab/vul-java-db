@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.jsf.exo-components",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "gRM/XGKEzkDiDLeRp5au+SM2FY8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

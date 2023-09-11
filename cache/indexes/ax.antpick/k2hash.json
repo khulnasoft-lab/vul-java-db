@@ -1,0 +1,15 @@
+{
+  "GroupID": "ax.antpick",
+  "ArtifactID": "k2hash",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "4C26q/zI8FVfIzttuk3TF+45dUE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "Yj90jnAe9kcoRlBDFPdWC0A1mTs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

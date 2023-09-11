@@ -1,0 +1,27 @@
+{
+  "GroupID": "javax.json.bind",
+  "ArtifactID": "javax.json.bind-api",
+  "Versions": [
+    {
+      "Version": "1.0.0-M1",
+      "SHA1": "btDuHCTGeaI1d7TNB3K+xqeS8DA="
+    },
+    {
+      "Version": "1.0.0-M2",
+      "SHA1": "Lg+qp6O3zIFA+qQNjIKfgEkCvuA="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "AS3HX6quZho44sY/UmWkN70vrIk="
+    },
+    {
+      "Version": "1.0.0-RC2",
+      "SHA1": "h4U4vCJO5wkYKch7ZZPQ6gF1egE="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "EDMiA8sF9Ksui/BYv9fZlkjFymg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

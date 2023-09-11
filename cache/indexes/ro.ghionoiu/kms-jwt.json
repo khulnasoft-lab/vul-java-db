@@ -1,0 +1,15 @@
+{
+  "GroupID": "ro.ghionoiu",
+  "ArtifactID": "kms-jwt",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "ruSlF5BGcWqT7oD2OShBr9HSe4s="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "Pa86RhgvoC1y7QuzQCvlH5Chz/k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

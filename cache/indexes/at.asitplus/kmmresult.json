@@ -1,0 +1,31 @@
+{
+  "GroupID": "at.asitplus",
+  "ArtifactID": "kmmresult",
+  "Versions": [
+    {
+      "Version": "1.4.0",
+      "SHA1": "RA/ILTrn5esXKgE4iVBSlpuMtUE="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "PyGuo8MG+rny0P8GNeUZaES2sY4="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "s1Ptq/RitSnO6Rp0j2B/SKqJYkg="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "IUrfFNJG7US8ceA4uc86ZCjAcR4="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "rt6X2uImKiSlOROdGHbJMYbTzog="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "IYA8eHFHvR2ytT1uYth1wCQCbp0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

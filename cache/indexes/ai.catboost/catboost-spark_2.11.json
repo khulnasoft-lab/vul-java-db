@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.catboost",
+  "ArtifactID": "catboost-spark_2.11",
+  "Versions": [
+    {
+      "Version": "0.25-rc1",
+      "SHA1": "B+FBqz4vA71W9wnSxBBijnGXt/E="
+    },
+    {
+      "Version": "0.25-rc2",
+      "SHA1": "sArZoJiyQ9rFvauVdjLHamxk3js="
+    },
+    {
+      "Version": "0.25-rc3",
+      "SHA1": "lCgmsNn3gxqV/87AUqV2TkjJZoI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

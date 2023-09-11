@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.marcwrobel",
+  "ArtifactID": "gcli",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "Ff5CwD5F4J4HSac//RyA3kvRv1k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

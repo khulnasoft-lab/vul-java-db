@@ -1,0 +1,11 @@
+{
+  "GroupID": "one.trueorigin",
+  "ArtifactID": "migrator",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "ML9qVSnofyVe7qIceY+Qow6grxI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

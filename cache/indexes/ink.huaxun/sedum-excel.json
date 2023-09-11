@@ -1,0 +1,19 @@
+{
+  "GroupID": "ink.huaxun",
+  "ArtifactID": "sedum-excel",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "bJ3rUfzN44PoLlVsW8MNJnf5/To="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "yUMDbgR0HaBp48CYL91ZtR0JhhE="
+    },
+    {
+      "Version": "4.2.0",
+      "SHA1": "c5g7zoBUx7ZbgcUoXRLDDbq+NFk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

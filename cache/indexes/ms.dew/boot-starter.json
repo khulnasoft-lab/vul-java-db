@@ -1,0 +1,19 @@
+{
+  "GroupID": "ms.dew",
+  "ArtifactID": "boot-starter",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "IU09YUY1rB6Jh7w2xhzqr4hS+N4="
+    },
+    {
+      "Version": "2.0.0-beta2",
+      "SHA1": "470nSPUKdXT79K/vXUNHPyyKeso="
+    },
+    {
+      "Version": "2.0.0-rc",
+      "SHA1": "K7AsUhAK7IPdwgAVr7HQKaJl7pc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

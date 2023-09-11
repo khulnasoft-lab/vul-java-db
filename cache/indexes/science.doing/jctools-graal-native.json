@@ -1,0 +1,11 @@
+{
+  "GroupID": "science.doing",
+  "ArtifactID": "jctools-graal-native",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "wmWQIEhsSbgDQczMuKO8/FEqTJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

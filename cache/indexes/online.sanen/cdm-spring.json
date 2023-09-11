@@ -1,0 +1,47 @@
+{
+  "GroupID": "online.sanen",
+  "ArtifactID": "cdm-spring",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "n0PzGDdReOMp/CKXTltW/K+p+JI="
+    },
+    {
+      "Version": "2.0.1-RELEASE",
+      "SHA1": "niVCLWDUbVdZls/lBR55i34+tUw="
+    },
+    {
+      "Version": "2.0.2-RELEASE",
+      "SHA1": "QzxWXZkliAKnRUHPl4IOPlsmcLw="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "9XLQ40aIKMIB7MtjC59He7Xw6mw="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "GeCL5Nzn4YJ2XxvV/cGXjIf3gw8="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "8WYmrKukuRp9qktZiKcv71wzIkA="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "PXNPvCsrarG7ww6IDFCvlJ5SkGs="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "FGMBo3pYp3qUlC5gc5ix10jx4+E="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "mODcsld5rCc0MJYvQH2sMVEiGg8="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "+3H2iA/D22sKNaHBrzaJd1jU510="
+    }
+  ],
+  "ArchiveType": "jar"
+}

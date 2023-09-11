@@ -1,0 +1,15 @@
+{
+  "GroupID": "avalon-repository",
+  "ArtifactID": "avalon-repository-api",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "N6BcxoH+2umDZY/hUcnzbAEcl8s="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "P907sMZNTlWWhAf9JUcaTDHy5GY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

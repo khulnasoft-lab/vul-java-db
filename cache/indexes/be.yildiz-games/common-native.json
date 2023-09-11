@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-native",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "boHpDvoOsourVpgVA3r9GZGmnzE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "R2zh0BU37fgeWvcOZdJikMT/jRA="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "U772aK5BUcMCsXwXHYtIM66YpYQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Uy5ucq6GS7zTPpCwCcxeWiNJJLs="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "TcDBzLGc0ZxWoN5DmyLVEySu8i8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "feSy9SyB8veiGXEogk80gHDjyUs="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "CIhQoW1t0bAwRxWEkhBtJeNBRFU="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "41gdVJ5KkjUHLhkiMkdV8uTW22Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

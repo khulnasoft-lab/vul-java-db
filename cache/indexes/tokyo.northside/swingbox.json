@@ -1,0 +1,31 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "swingbox",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "SrD0JpXXkG3F5H/19Mnr+YuraYE="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "aH1zT90Zy9ljbwsncGv2OPKvXfg="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "FoMq+BtCRkgkOoXNgXYAb0hEuyY="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "i050U5zONfFa8hdzkrRj/fFF2m4="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "N2FWSOGoGEapMsCcwNjKgsddAbM="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "ku0vAAuHffkffjiSwYAH26/Jh4M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.xml.bind",
+  "ArtifactID": "activation",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "TEkNfRWRnZknqXIsc6Wkc6+SFj8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

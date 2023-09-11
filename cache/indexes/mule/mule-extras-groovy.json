@@ -1,0 +1,27 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-extras-groovy",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "DYtvBy2ltu2ai34tSfds7j0b2HM="
+    },
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "G627QXtXZI5FMD4yHG0vUWmgNMo="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "RpbzCtDZbqm4qcAJ9PMJCpsbtSo="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "5IcEkz8cKb3rR/8VpBsPf7ImaFI="
+    },
+    {
+      "Version": "1.1-rc1",
+      "SHA1": "rT391lg9jQwa4Cs2mGUvbFwDC1k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

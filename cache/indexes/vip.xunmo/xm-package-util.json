@@ -1,0 +1,23 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-package-util",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "EECoTzaf9/8efMezC+9BhEFyocw="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "3Tf79KuV8PQY06Oi8pItUezR3Qo="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "JB5kv1s7t8qKPKDTrZq+qiJB/DU="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "lIeYfRyZ08osoihL3Y17s0eYg1U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

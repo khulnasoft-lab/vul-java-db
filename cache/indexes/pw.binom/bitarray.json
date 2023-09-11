@@ -1,0 +1,15 @@
+{
+  "GroupID": "pw.binom",
+  "ArtifactID": "bitarray",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "XGlKzTR9Nf/aZQW7qqlkMBwHmhw="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "mzD4iIxdlkGBhGlxphOwOozkMqw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

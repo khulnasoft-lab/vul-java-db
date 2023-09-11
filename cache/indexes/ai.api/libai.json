@@ -1,0 +1,63 @@
+{
+  "GroupID": "ai.api",
+  "ArtifactID": "libai",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "UtW7L/p4Pkp6Wn4SaMpD9cAo5JY="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "/wm0fkTlXfyxXDxbkeF3qqX6ECY="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "rQwvxLzq2Uf+rDUhCGexZHYHOGM="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "CoAjkSL6ZDqmqO5S4XhPBXbeDgM="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "IVnzcTs77zE5LzlH+ftZOmRdGv8="
+    },
+    {
+      "Version": "1.3.4",
+      "SHA1": "brGD7qnOvP+DQgEcw8oY7twDn3E="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "xAGrVCre7fqdjQ6AQ1wEpXdd/GY="
+    },
+    {
+      "Version": "1.4.6",
+      "SHA1": "4BvggH97IC0dLdvbllBhzGwGCVg="
+    },
+    {
+      "Version": "1.4.7",
+      "SHA1": "tDyEAvSv1JLUsDOlHyymlIEyB3I="
+    },
+    {
+      "Version": "1.4.8",
+      "SHA1": "E4a/UcNx5Avx3ASSCwS9k3wE6Lo="
+    },
+    {
+      "Version": "1.4.9",
+      "SHA1": "85iNuPcQDfrxdFV6A+dr8zWLulo="
+    },
+    {
+      "Version": "1.5.10",
+      "SHA1": "fERu6R35xUZbpZYWSFqR8O90lyk="
+    },
+    {
+      "Version": "1.6.11",
+      "SHA1": "ftUolb1liGE1mo8+nhSYP9opU7Y="
+    },
+    {
+      "Version": "1.6.12",
+      "SHA1": "U6gMv/qOINOkO15JS97LOWZy1jE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

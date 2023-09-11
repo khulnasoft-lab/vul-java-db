@@ -1,0 +1,19 @@
+{
+  "GroupID": "xin.yuki",
+  "ArtifactID": "id-generator-spring-boot-autoconfigure",
+  "Versions": [
+    {
+      "Version": "2.3",
+      "SHA1": "9HlGvhastNI8TKPALB2V/uobxxI="
+    },
+    {
+      "Version": "2.3-1",
+      "SHA1": "Bh0/y59xlVvol/Csby6dhBE3IB4="
+    },
+    {
+      "Version": "2.3-2",
+      "SHA1": "VO13eQNSYUyS9gjbn/hbZncm2PU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

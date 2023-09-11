@@ -1,0 +1,23 @@
+{
+  "GroupID": "info.clearthought",
+  "ArtifactID": "table-layout",
+  "Versions": [
+    {
+      "Version": "4.2",
+      "SHA1": "uBqFSVWiW6NsnwHLhGoLK7tqF0M="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "SM+ltBUKVTEcICefoYVZPD2AEWY="
+    },
+    {
+      "Version": "4.2.2",
+      "SHA1": "1TULqduLYUdWpyMLfbjLsNPfhCQ="
+    },
+    {
+      "Version": "4.3.0",
+      "SHA1": "ypeGnnDWRs46s3LkSOhHxDNmAA0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "ml.sparkling",
+  "ArtifactID": "sparkling-graph-examples_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "5zrI7hDoXFnP2NX30UxW8QPhwng="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "lVfRO5C6LCvJu+UruhrF2GfBknU="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "1XCstEqdpQPE74TsPMCSYgYYjtA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

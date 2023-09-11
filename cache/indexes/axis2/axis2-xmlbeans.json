@@ -1,0 +1,11 @@
+{
+  "GroupID": "axis2",
+  "ArtifactID": "axis2-xmlbeans",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "HT0rMXx21PKcLjh4q4Xex1jqF58="
+    }
+  ],
+  "ArchiveType": "jar"
+}

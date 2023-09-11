@@ -1,0 +1,19 @@
+{
+  "GroupID": "moe.icyr",
+  "ArtifactID": "filesystem-spring-boot-api",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ta/Wq7DAEYjiaXBinl38AiC2EVY="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "NQZOArC60ziM3Ip6NcgwjpklD1Q="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "neea80NKEHj2VTJZq2fhIQwXBZ0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

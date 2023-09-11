@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.idylnlp",
+  "ArtifactID": "idylnlp-models-opennlp",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "iIZuq37lkUcqtRZwvLnNAPIEjGw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "Wf/sEZubO0ybFleDoea4DpQlbKM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,51 @@
+{
+  "GroupID": "dk.cwconsult",
+  "ArtifactID": "csexp_2.12",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "5VeleFmqmxeuKFW4DVyb1BXa1fU="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "v6weqk41yBcfelFQntJvkvZsnFE="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "IFXc6/EE9vIqGwOCROBy8B9AsqQ="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "VcoAojRreXVxRC5oH4kRuHMNGhg="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "oE00P52LtIm93dC6mq7AvInEpPY="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "GUEVCRrCkeFSesNbxbnTUx0U574="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "IO9v7zXG/3FMAaPmyc38ZnkJz4c="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "nRclTxErV63sX1DowvyQh2cgKRE="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "k8r0IWhlEB3mcYtDLchZ8hLamoA="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "HhAlXFknSkMOCXPnbR8Yg4aRfAA="
+    },
+    {
+      "Version": "3.2.1",
+      "SHA1": "dsG5C84M+9M8L+eqwCm50ULWdOk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

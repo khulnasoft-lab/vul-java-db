@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.rapids",
+  "ArtifactID": "xgboost4j_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0-Beta",
+      "SHA1": "OJb8tZPxkPpJVNshXJbYvuovXh8="
+    },
+    {
+      "Version": "1.0.0-Beta2",
+      "SHA1": "fDLlWqhZHntGQnkQjcKD9GQo9wU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

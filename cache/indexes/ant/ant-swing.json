@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-swing",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "djLEi6qSqHuIcbNzQtgL8yG97DA="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "XI2s/Pick5AJaThn1nuPy+wfMII="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "RSpj5Uxr1OyoTCvxTKywwdlYRlE="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "PhsPEJefYq8vQ5yl+z9vEg25DW8="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "uRMrWjeSzKwFlXiBe20eRjeIZnc="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "M+D3vezScIm5sFhqjaWkOFoi7Hc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

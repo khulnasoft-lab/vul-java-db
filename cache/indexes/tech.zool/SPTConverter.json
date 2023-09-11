@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.zool",
+  "ArtifactID": "SPTConverter",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "gCNNfjVCLIgsIOJtsU8eimFNLPg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

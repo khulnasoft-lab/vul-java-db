@@ -1,0 +1,19 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "xwork",
+  "Versions": [
+    {
+      "Version": "1.2.2",
+      "SHA1": "FQ02UC27a90LsSBz6JsLxDO1jJ0="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "Izi97S70owdvtTav5DfG70wBMBg="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "0Jyi8j5ebSzikT4+CbcnTDf1tzo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,95 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "booking-engine-sdk-java",
+  "Versions": [
+    {
+      "Version": "19.0.13",
+      "SHA1": "TCncZEl6VakvrC6njOv6whjlmwA="
+    },
+    {
+      "Version": "19.0.17",
+      "SHA1": "eOoUWURRYVvskUvPVcql7FS1kuw="
+    },
+    {
+      "Version": "20.0.0",
+      "SHA1": "VV7ofrkfN6ucutTFsbV+W4vdGaw="
+    },
+    {
+      "Version": "20.1.0",
+      "SHA1": "G+BCpDvYqETqet/ys8E6n6wiBhA="
+    },
+    {
+      "Version": "20.1.1",
+      "SHA1": "oinzxocgvP0j6vbubu/r91f1m98="
+    },
+    {
+      "Version": "20.1.2",
+      "SHA1": "jGJZ0P4nDG0L9sGuEx3wfKbXS0o="
+    },
+    {
+      "Version": "20.1.3",
+      "SHA1": "J2KP2GA/NKHq5Qavz6hnScDP7A4="
+    },
+    {
+      "Version": "20.1.4",
+      "SHA1": "qNsXt2wZweRhw6kxbhVDb4de2TA="
+    },
+    {
+      "Version": "20.2.0",
+      "SHA1": "1GcE51hjzs2EHt0xB64OVzZSMFo="
+    },
+    {
+      "Version": "20.2.1",
+      "SHA1": "V+goBZzIDaUG19yoIaGzS8h6Y6E="
+    },
+    {
+      "Version": "20.2.2",
+      "SHA1": "IsBni5esZhzs2qGMcr2CILyAaRk="
+    },
+    {
+      "Version": "20.2.3",
+      "SHA1": "24IgwAMBYgBWhPLawUJlqLmmznY="
+    },
+    {
+      "Version": "20.2.4",
+      "SHA1": "8t4ccvBfpMET0tco2nwanWznWNw="
+    },
+    {
+      "Version": "20.2.5",
+      "SHA1": "xU7WaIMCo/a6WeGLdGe1nPlBox0="
+    },
+    {
+      "Version": "20.2.6",
+      "SHA1": "/2Lg/ZBpCfvTLRxMsaPdVCRhsyw="
+    },
+    {
+      "Version": "20.2.7",
+      "SHA1": "ATxg8n/XMSzzxhQR67WuTyzPSDs="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "68pAY7Locrp5dtCZWqLLoq/cc1k="
+    },
+    {
+      "Version": "21.0.1",
+      "SHA1": "Lah5n/xHthWhN32LkoObZO9jFzo="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "UcmRU0hP3q0Uie323Zx96qNkaKw="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "bbK68fcGR7ziBLrKtLi+plozbno="
+    },
+    {
+      "Version": "21.3.0",
+      "SHA1": "IymygJhTKu9B0uTFnczVBXWdvzE="
+    },
+    {
+      "Version": "21.15.1",
+      "SHA1": "UYTYiLbftXjERPhOFdAYo7Ruh08="
+    }
+  ],
+  "ArchiveType": "jar"
+}

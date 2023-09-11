@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.nicolasfarabegoli",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "unspecified",
+      "SHA1": "6f3YX+c2ktWSIJfRMyZV/63m/xI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

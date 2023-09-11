@@ -1,0 +1,19 @@
+{
+  "GroupID": "dk.magnusjensen",
+  "ArtifactID": "spacetraders-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "qP8Q/Qr7Oohpfz2QohTUkEkJQwc="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "Q4klMr3yXHWtXqOT0e6n6/nanoA="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "zu5G/L67EtvwgA7kVpRbySjjaGY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

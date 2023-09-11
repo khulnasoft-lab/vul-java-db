@@ -1,0 +1,11 @@
+{
+  "GroupID": "xfire-root",
+  "ArtifactID": "xfire-root",
+  "Versions": [
+    {
+      "Version": "20050202.203602",
+      "SHA1": "w2aGBk6veGlsaing2YgU4TAfZo8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

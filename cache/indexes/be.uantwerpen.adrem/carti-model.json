@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.uantwerpen.adrem",
+  "ArtifactID": "carti-model",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "oGkDiRj710CwXHlVV0dJYU2xfJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

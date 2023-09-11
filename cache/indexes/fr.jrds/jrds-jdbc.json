@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.jrds",
+  "ArtifactID": "jrds-jdbc",
+  "Versions": [
+    {
+      "Version": "2020.1",
+      "SHA1": "ccBIq0i06CVQFAw0tbJWC25s6QI="
+    },
+    {
+      "Version": "2021.1",
+      "SHA1": "L2d1I6H8Gbbac9vvha6SI/me4HU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

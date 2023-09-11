@@ -1,0 +1,19 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-proxool",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "LtE+k4nYKqhAFGIAAJ5cp06LLiE="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "16Rvtb+s54O/14KVz3cyWktMQE0="
+    },
+    {
+      "Version": "1.2.0-beta-1",
+      "SHA1": "lbLa2VRoWkduGk9P/G2dPyUuAGw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

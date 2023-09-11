@@ -1,0 +1,15 @@
+{
+  "GroupID": "club.bigtian",
+  "ArtifactID": "notice-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.2-RELEASE",
+      "SHA1": "FT8EZVlGhK5yUSjkhaQnyxDZO+0="
+    },
+    {
+      "Version": "1.0.3-RELEASE",
+      "SHA1": "ERZCmhEsBRTWVxNlZSWFeQ4DCfQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

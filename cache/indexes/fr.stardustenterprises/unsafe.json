@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.stardustenterprises",
+  "ArtifactID": "unsafe",
+  "Versions": [
+    {
+      "Version": "1.7.1",
+      "SHA1": "mO5DGxeKdVQtFoS4WeSTiWdylcA="
+    },
+    {
+      "Version": "1.7.2",
+      "SHA1": "Pd/TVdFg5B87VpIUhGvR95DU7U8="
+    },
+    {
+      "Version": "1.7.3",
+      "SHA1": "1owXJQvW1Q6+7eca/i2kcIql8lc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

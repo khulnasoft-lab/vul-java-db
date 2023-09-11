@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "scalajs-pickling_sjs0.6_2.10",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "VSuE2CzO4wirBKEf6zOcgv+sNMc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

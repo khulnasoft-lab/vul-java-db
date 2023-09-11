@@ -1,0 +1,79 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "jetty",
+  "Versions": [
+    {
+      "Version": "4.1-rc1",
+      "SHA1": "tj4BpgzaCyuEpIm+y2ri0MGW37w="
+    },
+    {
+      "Version": "4.1-rc6",
+      "SHA1": "LpAWFyrhGosEQwu2UZVIZK36Aso="
+    },
+    {
+      "Version": "4.2.10",
+      "SHA1": "5ZUB9ToNN5kwY9U5YgSBAGXELcw="
+    },
+    {
+      "Version": "4.2.12",
+      "SHA1": "Xru1HGFJezLgrlMHr5eaUoMYklw="
+    },
+    {
+      "Version": "4.2.2",
+      "SHA1": "vwaiJuOdZRbOGDfMnwcVlPp7dlo="
+    },
+    {
+      "Version": "4.2.3",
+      "SHA1": "xaVW5hybGezWU4UrNWeRPqguQaU="
+    },
+    {
+      "Version": "4.2.9",
+      "SHA1": "ulshYtyaQyfvClB0KNrY34Dr7P0="
+    },
+    {
+      "Version": "6.0.0beta1",
+      "SHA1": "qF361iFHiReAOGXTKWuom60jwfY="
+    },
+    {
+      "Version": "6.0.0beta2",
+      "SHA1": "/ZYcr7FOrdReGMZv/ulvrLWx+BM="
+    },
+    {
+      "Version": "6.0.0beta5",
+      "SHA1": "8CBHGlt+pLOaJM55pU0tsnpyIGM="
+    },
+    {
+      "Version": "6.0.0beta6",
+      "SHA1": "uhONEVdMv7Zs8VaO2B6WTac00IA="
+    },
+    {
+      "Version": "6.0.0beta9",
+      "SHA1": "MQZ3dY992sfZ2dxdSSt2XpNE/gA="
+    },
+    {
+      "Version": "6.0.0beta10",
+      "SHA1": "mh4eu3yb20qhVhpZrnqOWlUsmlc="
+    },
+    {
+      "Version": "6.0.0beta11",
+      "SHA1": "f5YizyPAadpEpjgciMWjRBs8fRQ="
+    },
+    {
+      "Version": "6.0.0beta12",
+      "SHA1": "NYr56ltK3Qxas8ffKUtrvCQZooo="
+    },
+    {
+      "Version": "6.0.0beta14",
+      "SHA1": "GwLot5FxImaNlrhchMurXwyZGdM="
+    },
+    {
+      "Version": "6.0.0beta15",
+      "SHA1": "QAB9fZ5vfcRl69wabTMfaY+oCtU="
+    },
+    {
+      "Version": "6.0.0beta16",
+      "SHA1": "4p+WoKo5GoLvUsV9bhloJ4xxX3I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

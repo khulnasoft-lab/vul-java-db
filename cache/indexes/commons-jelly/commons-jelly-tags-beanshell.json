@@ -1,0 +1,19 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-beanshell",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "5NRou2LM5J5Esh0wieKbmXSKjLI="
+    },
+    {
+      "Version": "20030211.141835",
+      "SHA1": "jjp0ZGh3YaOYAFd8xwMGjQg2Td4="
+    },
+    {
+      "Version": "20040902.071629",
+      "SHA1": "jjp0ZGh3YaOYAFd8xwMGjQg2Td4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

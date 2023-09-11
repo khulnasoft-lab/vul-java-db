@@ -1,0 +1,11 @@
+{
+  "GroupID": "jboss",
+  "ArtifactID": "jboss-net-client",
+  "Versions": [
+    {
+      "Version": "3.2.3",
+      "SHA1": "pjowLXHQxppYoI2+qpIlt0GnWtw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

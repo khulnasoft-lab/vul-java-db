@@ -1,0 +1,11 @@
+{
+  "GroupID": "fit.wenchao",
+  "ArtifactID": "common-component-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BojMPn+TcYXtY7sCqoiO6obNLjw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

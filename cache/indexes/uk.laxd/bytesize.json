@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.laxd",
+  "ArtifactID": "bytesize",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "a+/dRuO/XHNUf4vXiglEa5e9f7k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

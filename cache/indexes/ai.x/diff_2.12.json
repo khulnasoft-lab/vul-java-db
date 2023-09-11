@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.x",
+  "ArtifactID": "diff_2.12",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "VoZ03wj99pBDL194MUF4eNsbAVQ="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "1feDcUxY9pvi02VqpZEwR2WvJMo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

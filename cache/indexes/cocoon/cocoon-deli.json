@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-deli",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "pTBST8/W+DsUmz8QTbLrk/ELxZg="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "aWzbUxmgSEOszqqM8Devo3c+Zzk="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "5op17LLH88QG06FAAi6/B1zGS5w="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "vOLlEqskHx/IVAWGNl5ose6YSy4="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "ytxdlX7KRn/v4t9IBH/4p6dR83w="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "+wcFrjL03mzdjzN7FodamsuxQfM="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "ynDkq84cKFoK0jMgfqi50UuWx98="
+    }
+  ],
+  "ArchiveType": "jar"
+}

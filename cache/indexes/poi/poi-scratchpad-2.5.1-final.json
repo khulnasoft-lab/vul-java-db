@@ -1,0 +1,11 @@
+{
+  "GroupID": "poi",
+  "ArtifactID": "poi-scratchpad-2.5.1-final",
+  "Versions": [
+    {
+      "Version": "20040804",
+      "SHA1": "eCh852rFykHU3RzNV+WKaP0bwfM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

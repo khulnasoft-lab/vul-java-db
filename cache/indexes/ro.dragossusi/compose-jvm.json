@@ -1,0 +1,19 @@
+{
+  "GroupID": "ro.dragossusi",
+  "ArtifactID": "compose-jvm",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "heKYovxAg1/yjaEimNEeqinAwq8="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "3LLdc+UJVy4hdP6ZyIqeFm/Fmu0="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "3MQTTmlT6i9HSig81oEMsedmiSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

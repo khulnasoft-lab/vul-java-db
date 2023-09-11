@@ -1,0 +1,35 @@
+{
+  "GroupID": "fi.jubic",
+  "ArtifactID": "easymapper-core",
+  "Versions": [
+    {
+      "Version": "0.4.3",
+      "SHA1": "jB4he2c2b2w3f/3hmDqzTKPkho0="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "yiChENcgQjWYWxneX3IXalWVRDk="
+    },
+    {
+      "Version": "0.5.1",
+      "SHA1": "YrzmRLroZ8XPuIYCiveL0jLGPgY="
+    },
+    {
+      "Version": "0.5.2",
+      "SHA1": "/Juz6OFT1GmYFuf1hd8eqWwEDe8="
+    },
+    {
+      "Version": "0.5.3",
+      "SHA1": "RnW3lI5SVcrHKDRngA5PBchj6Wg="
+    },
+    {
+      "Version": "0.5.4",
+      "SHA1": "9GFNZcSZzOen04pIHlBBVhJWXqw="
+    },
+    {
+      "Version": "0.5.5",
+      "SHA1": "+fYdPSQJoPKbmwUTImg+D2v+90w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

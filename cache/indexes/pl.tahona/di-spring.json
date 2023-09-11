@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.tahona",
+  "ArtifactID": "di-spring",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "8KqxZdk/1c1rmgsX166mFCcGP/Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

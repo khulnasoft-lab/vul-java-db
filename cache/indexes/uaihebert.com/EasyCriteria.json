@@ -1,0 +1,19 @@
+{
+  "GroupID": "uaihebert.com",
+  "ArtifactID": "EasyCriteria",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "/hLDShJkMiP4yN9yA/QH25QWApc="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "34GUA6jSMjEESPJycioHH027r7Q="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "KnIwKAOp2TkdoaZOb738B2d6x/Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "us.ihmc",
+  "ArtifactID": "atlas",
+  "Versions": [
+    {
+      "Version": "0.13.0-210804",
+      "SHA1": "nJphwBtuyuHd96EfSFeMeXEsfpY="
+    },
+    {
+      "Version": "0.13.0-210804-2",
+      "SHA1": "E5uLPZvAZqTV2xERAwDm67G+NcE="
+    },
+    {
+      "Version": "0.14.0-230207",
+      "SHA1": "5N4Tnuymhu2v/9Amh6prPp1rh0g="
+    },
+    {
+      "Version": "0.14.0-230314",
+      "SHA1": "c1ZDRf1bsPMfiR9eqv6Cn+jUijk="
+    },
+    {
+      "Version": "0.14.0-230315",
+      "SHA1": "puIwQ9RLUlMIPgZKl8unE+9RsOo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

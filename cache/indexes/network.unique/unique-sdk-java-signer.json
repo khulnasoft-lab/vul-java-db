@@ -1,0 +1,19 @@
+{
+  "GroupID": "network.unique",
+  "ArtifactID": "unique-sdk-java-signer",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "H2b5q4UivfLxkoUdP3ccrQib1V8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "4+mAJMkh5NS1+Jk+zTaL9mwQPrc="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "2FjSa7mD/6HAMydBzZ8TiA8eOSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

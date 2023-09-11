@@ -1,0 +1,11 @@
+{
+  "GroupID": "se.fnord",
+  "ArtifactID": "jamon",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "rjkAHeN/iVZhl9BMxeL7g4FSBZg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

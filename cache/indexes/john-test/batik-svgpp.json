@@ -1,0 +1,11 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-svgpp",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "G+SdQE+ovRP6eZEo1kvBmNwetvY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

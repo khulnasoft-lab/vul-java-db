@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.dogtcc",
+  "ArtifactID": "core",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "6AlRFEdsTYqBIPbbvQEvFJ8YJnE="
+    },
+    {
+      "Version": "1.0.1-RELEASE",
+      "SHA1": "kjrTrD61h9k0sf0GBOIBwBIilHM="
+    },
+    {
+      "Version": "1.0.2-RELEASE",
+      "SHA1": "ttEWBv0onza15AN3jPYVmADYw+8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,39 @@
+{
+  "GroupID": "jp.nephy",
+  "ArtifactID": "common-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JXiU/9K+iXyPkb+guuBuLubn14s="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "UEqM5tXQhyXfe632xdyaCQqoNLE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "DrkWLu6erRFi2/YSVFLhrilD5Ik="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "Us1C+n3CiD9p+ALWerDB4U7x7BI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "4lZrkFYzESRxe+Sy2X4p7/0iT8M="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "MiMCQ7g6py0H3MoR/FQ1putZIVI="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "dCDa+pUyaiCDVIoJdsx3BlYS1lo="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "5gEyIzXK3nXdfht3rIOkhPYOjxM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "kz.greetgo",
+  "ArtifactID": "greetgo.email.files",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "kM3eZIgqReolyca77r0aVyamE6E="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "9e7GMUMKyOkzhWszpbZzKw0BRPE="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "2ywl09TsDzA4efZBGA3sAP38Lmk="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "3wPL5XuK5vc56aokCxXKDAz1ogA="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "6/fbhjpYLgoMlP1C9jiv7w/q2Mg="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "hWirebYBZrfSwi3wCPJgGanGnDg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

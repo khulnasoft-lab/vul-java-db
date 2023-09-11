@@ -1,0 +1,15 @@
+{
+  "GroupID": "cl.yaykuy",
+  "ArtifactID": "loader",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Avoe2ZOsmCGodOgn9sZ1y8dtJPY="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "2lozQR+Ug2NLjJ/sw9/kpv7iFqE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

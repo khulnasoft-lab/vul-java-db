@@ -1,0 +1,11 @@
+{
+  "GroupID": "tech.xigam",
+  "ArtifactID": "BasicQueuer",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ZlOH6kMDV0MLp2ggkdGBj3T0SN4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

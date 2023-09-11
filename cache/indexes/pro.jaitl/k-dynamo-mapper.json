@@ -1,0 +1,19 @@
+{
+  "GroupID": "pro.jaitl",
+  "ArtifactID": "k-dynamo-mapper",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "LlEsdwz7gfVPueGNimQEIxsjvHQ="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "23EH5YeLdkl0exRMqOLSmO//YLo="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "LCkgAS7gKqZC7Fth9hTiAal7N5Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

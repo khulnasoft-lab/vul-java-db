@@ -1,0 +1,15 @@
+{
+  "GroupID": "loom",
+  "ArtifactID": "loom-xmlpolicy",
+  "Versions": [
+    {
+      "Version": "1.0-rc2",
+      "SHA1": "U9XSAlEZIZPaJWGwxIjwubtN9qU="
+    },
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "4jLozyyl+q6BDNouhVzJsOZbEQk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

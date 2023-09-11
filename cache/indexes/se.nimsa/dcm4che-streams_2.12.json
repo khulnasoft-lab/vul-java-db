@@ -1,0 +1,47 @@
+{
+  "GroupID": "se.nimsa",
+  "ArtifactID": "dcm4che-streams_2.12",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "g9E3YdT+jFX2Vv0T98TEUDPU2OY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "sieRb1bSIB/HtxN893Y0bPjocJo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "hzmxqMIEq/ddurSftpn1bUYaOGo="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "d5gxeWLthNlYp/oteRMxfmy9hTg="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "g0HHAXXRmpTZ7EvqQHNSbmWFg34="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "cNoIwVGfwiZryU7zDVV/bXeHzO4="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "026J3AI6Ji9u3e/fxREtA6Lubys="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "wX3tLuQRfe80FJjgkNHgOw1HA7o="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "YnCR1gOVpIueipXP5ExanaAYpKw="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "uY21lg3+aXRiZKwD/ZmWOX5zzKY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

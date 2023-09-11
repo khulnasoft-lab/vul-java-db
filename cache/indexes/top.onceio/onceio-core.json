@@ -1,0 +1,47 @@
+{
+  "GroupID": "top.onceio",
+  "ArtifactID": "onceio-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "6XoVefPV5d0407rQl/lynZLaQA8="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "7cOeWZ8yr1UjSrBM52TzA+21t3I="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "onPyUOswv98gBttGbyfYzObDtAU="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "9p7p5MGWN6tm4Ey6+MtCCU5sOKo="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "IeJQrbMD8oXc19h8mmeWHpoD33I="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "MkwoV76g9yPnfMj6NjS1NC1/Jw8="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "CLwwKLt1c1tuULtSpkv8VZioXOA="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "mOfrpQaziMedL+UKXiljc8sVVhM="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "58nuavfGhY3hiV4auSDdEkVhDsI="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "j+sPzlzhSU5CXUNFccw4gOD/sWg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

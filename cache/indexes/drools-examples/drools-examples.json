@@ -1,0 +1,11 @@
+{
+  "GroupID": "drools-examples",
+  "ArtifactID": "drools-examples",
+  "Versions": [
+    {
+      "Version": "2.0-beta-15",
+      "SHA1": "BtV7t+DQdjd2LMh34ehhmYMKEtE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

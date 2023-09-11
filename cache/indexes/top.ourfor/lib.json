@@ -1,0 +1,31 @@
+{
+  "GroupID": "top.ourfor",
+  "ArtifactID": "lib",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "+vM2d7S0u1VbF33J00Ugui7KRiw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "bdmgsjqbEl4+L2FC7Umx51ggJpE="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "d0UyiFMGAlO9r7nOJD5yAC3vX54="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "EIa5r69H5tEjuwcJbNCsr3C8PXU="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "3XfetcIvLmvn50gI6A7HWeM5BPc="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "/z+QaASiqHYUAAP2bcDJwY6ZLTI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

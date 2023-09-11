@@ -1,0 +1,51 @@
+{
+  "GroupID": "fr.marcwrobel",
+  "ArtifactID": "jbanking",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "Fu/ToKIlPJWssVTeiAUBNaQbJwQ="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "a4uyC2dQDQTqty5HcqHId5CUrzI="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "ZrEZZirHUAzqp9r/3QuM6ZoHo/Q="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "mJVODdiJ7BwU70wHPOAbq5Kdjfw="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "JspcUQuWNpJ1mmcwLHugyYW03o0="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "bkpjqK5LTM6FJuZpCGkCfSBSFg0="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "Bi9YSSfPANwe3ufD7jjKR0r0eII="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "t2uI7hhR5M0deVnz37a1COypSwQ="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "jJv3aELisJnSPKa31b690/mi82I="
+    },
+    {
+      "Version": "4.0.0",
+      "SHA1": "aXo7dBG3gIv+pSBb4paB5CN7d7g="
+    },
+    {
+      "Version": "4.1.0",
+      "SHA1": "BP7ApUbMPXoB71WI4csjoYn0AE4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

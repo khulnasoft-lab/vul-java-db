@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.scikitlearn4x",
+  "ArtifactID": "sklearn4jvm",
+  "Versions": [
+    {
+      "Version": "0.0.0.6",
+      "SHA1": "4vBJejbmESTxyFKnNWu4dzh9PeY="
+    },
+    {
+      "Version": "0.0.0.7",
+      "SHA1": "JFag7SNFxG6u6KhAcClKAS+vyx4="
+    },
+    {
+      "Version": "0.0.0.8",
+      "SHA1": "DA4HDGQ9+7mn04PYNVuci+bbVgc="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "nLtsR/0oAvFglYiuvq62PZP/wsc="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "ytsbNL6apj322nvoJ3E8OosPDx8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fesi",
+  "ArtifactID": "fesi",
+  "Versions": [
+    {
+      "Version": "1.1.5",
+      "SHA1": "Q5GjxJOreJKN2fQmSi6DeJPRP30="
+    }
+  ],
+  "ArchiveType": "jar"
+}

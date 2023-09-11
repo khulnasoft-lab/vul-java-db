@@ -1,0 +1,67 @@
+{
+  "GroupID": "network.aika",
+  "ArtifactID": "aika",
+  "Versions": [
+    {
+      "Version": "1.4.13",
+      "SHA1": "FdbnW4m624wzHe6RFPhMRCgQJHY="
+    },
+    {
+      "Version": "1.4.14",
+      "SHA1": "RD58HzAH8v/8/t0wzbR7PRy7v8A="
+    },
+    {
+      "Version": "1.4.15",
+      "SHA1": "/B9G/VZy+Gm46DqgpjIgiW4fy6A="
+    },
+    {
+      "Version": "1.4.16",
+      "SHA1": "IWkjBLiCIuHWwM6O4AkBXVlB3ps="
+    },
+    {
+      "Version": "1.4.17",
+      "SHA1": "DcUsEZ/AuJYlPMpyz3ggNnJHAl8="
+    },
+    {
+      "Version": "1.4.19",
+      "SHA1": "4skdVgRXXYHtOic0KNo25RTWnzA="
+    },
+    {
+      "Version": "1.4.20",
+      "SHA1": "endH+4RGmHoGs9vti0OALQHj1BQ="
+    },
+    {
+      "Version": "1.4.21",
+      "SHA1": "Rpna76Hjpk366SudhvwqBKcqtbA="
+    },
+    {
+      "Version": "1.4.24",
+      "SHA1": "b8xNKSmQlf3KIIvuYlO1XNlBEw0="
+    },
+    {
+      "Version": "1.4.25",
+      "SHA1": "BMdIs7dsHLSFqzGk910G3Qs5keQ="
+    },
+    {
+      "Version": "1.4.26",
+      "SHA1": "m2djKVn9Fd1U8cnB7lh4bETimxs="
+    },
+    {
+      "Version": "1.4.27",
+      "SHA1": "WQKuHZArGhCK2aTZglMqfSo5CfM="
+    },
+    {
+      "Version": "1.4.28",
+      "SHA1": "ir7AxSg/hV9TjdevmHUIDmHJRPs="
+    },
+    {
+      "Version": "1.4.29",
+      "SHA1": "KWWwl6p/xoMDQpS7jlvE6pgMx7g="
+    },
+    {
+      "Version": "2.0.2.ALPHA",
+      "SHA1": "8G6qDFFnYb+HWI8uFNPGT5Gfs3A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

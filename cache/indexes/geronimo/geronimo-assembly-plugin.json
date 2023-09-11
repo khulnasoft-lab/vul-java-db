@@ -1,0 +1,15 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-assembly-plugin",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "2GCxDuyQntiFRD9Xe0yQPEk7ovM="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "ndIxtyFEy2sb2iHZ8PyamU/QD9I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

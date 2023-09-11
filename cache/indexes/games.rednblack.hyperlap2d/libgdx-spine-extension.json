@@ -1,0 +1,35 @@
+{
+  "GroupID": "games.rednblack.hyperlap2d",
+  "ArtifactID": "libgdx-spine-extension",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "nrW1SFjUZCckmftQa01ioSXuVig="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "qZEiHKyrOTdgSHw6ILnk32WZKBg="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "OEFnw1VJ0rkX7B2W+fPoigYieRQ="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "lotzLowHMasYW/DWmv1l50V5YU4="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "rT3lqxRk54cvPRnVDGhKHjSX1t4="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "VUx+3Sbrksy93ChakKQfYD4w8/8="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "VC6mxUsFE+36FyF4+POtfalQrqI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

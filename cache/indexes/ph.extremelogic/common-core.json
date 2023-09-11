@@ -1,0 +1,11 @@
+{
+  "GroupID": "ph.extremelogic",
+  "ArtifactID": "common-core",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "0S40zlZ9UyZYKur3hzHzU7TyRn0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

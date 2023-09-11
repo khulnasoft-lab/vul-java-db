@@ -1,0 +1,19 @@
+{
+  "GroupID": "se.fishtank",
+  "ArtifactID": "css-selectors-scala_2.9.1",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "O3acRAAPO0yYFxckD6T2gKtzg2s="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "uMqO6JL6/I+ShS4X/DoQ9eC7n1w="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "0W8OBUFJYkf5mjCDcFtx9TpCgNk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "vip.justlive",
+  "ArtifactID": "snow-common-spring-rabbit",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "FVgFLd3F7fKausktqPoYkk6JmWY="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "O0G8jqfUtm8ePXPmXCP+wgYmBXI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

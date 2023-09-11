@@ -1,0 +1,27 @@
+{
+  "GroupID": "bio.singa",
+  "ArtifactID": "singa-sequence",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "DocZiUqUR618S0G82AkcID+amf4="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "f+ocynSMNf8hO/omrTxi2qIME+s="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "COXkedvNv/aIl7A0FKXMu4C/i+I="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "F4TOFXWJGwt1qNCXL4wUVgxx66w="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "MIMxOVJiGgCNRuwXtxWqS+gGwMI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

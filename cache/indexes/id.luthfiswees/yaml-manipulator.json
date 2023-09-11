@@ -1,0 +1,27 @@
+{
+  "GroupID": "id.luthfiswees",
+  "ArtifactID": "yaml-manipulator",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "JqVV6shESRRtAKDz7J/zfWZkT+4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "0Qm60OuTUZD8Nz4xMAq7GarWge8="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "KfTU778xJKK6v4at+XchdPEd5iU="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "Opd11cZZEs3NvojqgJCflHvs7mI="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "7vCrMFLUDqC2rI3Ir9ZKXOgURSo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

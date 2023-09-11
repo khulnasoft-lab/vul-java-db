@@ -1,0 +1,11 @@
+{
+  "GroupID": "servicemix",
+  "ArtifactID": "maven-jbi-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "+xXKAlltNHb5St/sQjYhiH5EPyw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

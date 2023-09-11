@@ -1,0 +1,27 @@
+{
+  "GroupID": "be.cloudway",
+  "ArtifactID": "gramba-native-image",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "PpPd6Gj+O8BFBVL/Zf6CzgkhTAw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "UO9ZZ1ygMjafcXWAgk+6zhqnGmY="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "nCq3MLWluBZSBB34ShRI9IH0V/A="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "d6N+pOlkjI3e0NDcyFJS7NXELr4="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "QNlidq/Jhzm0mM2RUWANT/hoTh8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

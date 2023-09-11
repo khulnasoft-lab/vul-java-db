@@ -1,0 +1,19 @@
+{
+  "GroupID": "excalibur-thread",
+  "ArtifactID": "excalibur-thread-instrumented",
+  "Versions": [
+    {
+      "Version": "2.0",
+      "SHA1": "xiS6ZTMq5oXxMVhIIFY0s/QTeds="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "TNAeIbtXgKSiu5OP4nT349rU0VA="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "Lvkor5uLp4/cMHZikvLXGw9slkk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

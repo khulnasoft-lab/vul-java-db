@@ -1,0 +1,23 @@
+{
+  "GroupID": "fun.nibaba",
+  "ArtifactID": "lazyfish-rabbit-delay",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "ffBrfeY4XaFNI6nhuVq3sXQLiww="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "wUluq+437uqi/4NBsiRWIUdG3E0="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "eJEZwQRehJT2AcdlQa6T+L43mTg="
+    },
+    {
+      "Version": "0.0.5.1",
+      "SHA1": "BrUO/YiT/rrL2ickrs4fxNPfs3c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

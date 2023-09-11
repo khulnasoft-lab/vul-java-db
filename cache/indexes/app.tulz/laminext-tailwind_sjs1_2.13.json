@@ -1,0 +1,11 @@
+{
+  "GroupID": "app.tulz",
+  "ArtifactID": "laminext-tailwind_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "wCUxyqFEeEiD0eYBMAcJKhSvJHY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

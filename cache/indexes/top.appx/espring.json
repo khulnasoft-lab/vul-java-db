@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.appx",
+  "ArtifactID": "espring",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "AvgPoI9+AYyYOuBk6gN0LxqsxmM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

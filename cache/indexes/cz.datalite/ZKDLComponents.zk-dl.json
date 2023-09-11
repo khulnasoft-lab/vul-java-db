@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.datalite",
+  "ArtifactID": "ZKDLComponents.zk-dl",
+  "Versions": [
+    {
+      "Version": "1.4.5.36",
+      "SHA1": "Q41d0h6DGaJpKajeeeRK8RRrqKM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,75 @@
+{
+  "GroupID": "world.convex",
+  "ArtifactID": "convex-core",
+  "Versions": [
+    {
+      "Version": "0.7.0-rc1",
+      "SHA1": "nqc0MkndsDMpvYl7YqiLvRD2DNY="
+    },
+    {
+      "Version": "0.7.0-rc2",
+      "SHA1": "xeNcLwV7KnyUBP89CsSRsbzSI8Q="
+    },
+    {
+      "Version": "0.7.0-rc3",
+      "SHA1": "6+TAvW5XhinEkoRbdV9uSQikTaY="
+    },
+    {
+      "Version": "0.7.0-rc4",
+      "SHA1": "PzE4WdhI+0bKM0Si5BxD8N7pSIw="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "gP4nSow5sMnPTda7g5jZdmI43YE="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "xybr//2mQRUDJxD7qmUbULAGCQU="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "/BndfzYhj0ykoPwy/P/rUlu2ucc="
+    },
+    {
+      "Version": "0.7.3",
+      "SHA1": "DlHp1ZoSlTZq+XDCjm5jinddiRE="
+    },
+    {
+      "Version": "0.7.4",
+      "SHA1": "SCwOZzFPi+BnDA7SA5MpKxbLg5g="
+    },
+    {
+      "Version": "0.7.5",
+      "SHA1": "EPEjiIXfhR4+T4t1IaJjCQtpblo="
+    },
+    {
+      "Version": "0.7.6",
+      "SHA1": "T6MCjcGNBITJkelCflN2w2mDcxM="
+    },
+    {
+      "Version": "0.7.7",
+      "SHA1": "Un4bOQyU4CQngNqXQO31KDQOdy4="
+    },
+    {
+      "Version": "0.7.8",
+      "SHA1": "fkqOJoeP44KW7rtupUU/FgqeBhg="
+    },
+    {
+      "Version": "0.7.9",
+      "SHA1": "L3lporNmYGy7azcqvHLiueQzsEA="
+    },
+    {
+      "Version": "0.7.10",
+      "SHA1": "4Yxi2LSQdfzc9gTQe+OETCfitIA="
+    },
+    {
+      "Version": "0.7.11",
+      "SHA1": "ZEm3yuNwSyyaqr6j+mwVxhQ6pPg="
+    },
+    {
+      "Version": "0.7.12",
+      "SHA1": "CWfOjjpMGQYXO6Zle+wq+4mnVuE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

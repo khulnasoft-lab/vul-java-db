@@ -1,0 +1,11 @@
+{
+  "GroupID": "doccheck",
+  "ArtifactID": "maven-doccheck-plugin",
+  "Versions": [
+    {
+      "Version": "1.4-0.1",
+      "SHA1": "MtRQFcFF1DZ0hbVLffdBW/s7WxA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

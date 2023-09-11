@@ -1,0 +1,11 @@
+{
+  "GroupID": "jpox",
+  "ArtifactID": "jpox-spatialnew",
+  "Versions": [
+    {
+      "Version": "1.2.0-beta-1",
+      "SHA1": "vDb6xWHo4ojtu9mwfyFab2j34GY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

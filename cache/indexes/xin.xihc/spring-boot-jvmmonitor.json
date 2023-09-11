@@ -1,0 +1,27 @@
+{
+  "GroupID": "xin.xihc",
+  "ArtifactID": "spring-boot-jvmmonitor",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "s9srPs7lARHZs6hkIRmY3BuKxXA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "9i3fZm2gRxds6ttONVc8/yfNq3A="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "e00RvsMc2J4Ng16R86DbSFjrLnY="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "18kUh3Pg/XS1TTMz+ovvbRQd2ZE="
+    },
+    {
+      "Version": "1.0.5-https",
+      "SHA1": "cNq8mIYlHGTtkBdLWVdNoORXyLg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

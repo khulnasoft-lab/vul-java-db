@@ -1,0 +1,19 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-web-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M4",
+      "SHA1": "78dW0zyUS+4UOiOk/JA99FIAQDg="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "5KToEU4rlpWBKe+Z/HOgtOmqDy8="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "nPT4UAjIDUO3m4C2qjqEEaUas18="
+    }
+  ],
+  "ArchiveType": "jar"
+}

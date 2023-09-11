@@ -1,0 +1,11 @@
+{
+  "GroupID": "ro.altom",
+  "ArtifactID": "web-ui-checker",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "OCscAtj/KNKPoXs/jdA84oHVfv0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

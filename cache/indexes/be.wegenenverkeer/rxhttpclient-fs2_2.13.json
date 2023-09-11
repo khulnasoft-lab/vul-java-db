@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.wegenenverkeer",
+  "ArtifactID": "rxhttpclient-fs2_2.13",
+  "Versions": [
+    {
+      "Version": "2.0-RC1",
+      "SHA1": "dZB4EVvqDKGKvPSQptfP8PYkxfU="
+    },
+    {
+      "Version": "2.0-RC2",
+      "SHA1": "jGY328fLX9kbVTRVv4CsvY7T3Ng="
+    }
+  ],
+  "ArchiveType": "jar"
+}

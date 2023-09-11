@@ -1,0 +1,11 @@
+{
+  "GroupID": "love.forte",
+  "ArtifactID": "mini-ini",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "iFUFy7T89huFN5R8QasypyromRg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

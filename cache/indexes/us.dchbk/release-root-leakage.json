@@ -1,0 +1,11 @@
+{
+  "GroupID": "us.dchbk",
+  "ArtifactID": "release-root-leakage",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "VQjw4gIZeCsGfUHIkr0Ehx7UAwc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

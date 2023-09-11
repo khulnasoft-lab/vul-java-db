@@ -1,0 +1,63 @@
+{
+  "GroupID": "qa.justtestlah",
+  "ArtifactID": "justtestlah-browserstack",
+  "Versions": [
+    {
+      "Version": "1.7-RC1",
+      "SHA1": "G8lyoe638btG9bi3y3RmAsrMoVA="
+    },
+    {
+      "Version": "1.7-RC2",
+      "SHA1": "mtqJmm35y7HtV8iMJGdKt/SJyVM="
+    },
+    {
+      "Version": "1.7-RC3",
+      "SHA1": "wgfq/YwNHGF8OFeNN81JOEbEE3w="
+    },
+    {
+      "Version": "1.7-RC4",
+      "SHA1": "mFwcH/ZyuueNDx0i7EazXNOMVJM="
+    },
+    {
+      "Version": "1.7-RC5",
+      "SHA1": "bDjZ2mz6u/PjuobnivPwHvbkbOY="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "2g/5dcumREvhxfHHab9bvemsfsk="
+    },
+    {
+      "Version": "1.8-RC1",
+      "SHA1": "HuzjtGhks7HIARhycZRca2mvpio="
+    },
+    {
+      "Version": "1.8-RC2",
+      "SHA1": "ben0o0fNi8i2hgZHspx7eEyjwG0="
+    },
+    {
+      "Version": "1.8-RC3",
+      "SHA1": "vqN/v2X6UKt2xuL0HHeh0jD78n4="
+    },
+    {
+      "Version": "1.8",
+      "SHA1": "TVIVLQDSpJQyBr51TC0uFDjid5M="
+    },
+    {
+      "Version": "1.9-RC1",
+      "SHA1": "NHlDfajfpj2LQEy3TpY18j4oKBo="
+    },
+    {
+      "Version": "1.9-RC2",
+      "SHA1": "H5USTd79bwI5KiumdZnNN0N1wXA="
+    },
+    {
+      "Version": "1.9-RC3",
+      "SHA1": "RxGhrK8TwSiLj/ylLqE3Uu874k0="
+    },
+    {
+      "Version": "1.9-RC4",
+      "SHA1": "P+IK5LonoYCTORRXQnckea61P/c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

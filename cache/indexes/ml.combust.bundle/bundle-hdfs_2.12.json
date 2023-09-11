@@ -1,0 +1,55 @@
+{
+  "GroupID": "ml.combust.bundle",
+  "ArtifactID": "bundle-hdfs_2.12",
+  "Versions": [
+    {
+      "Version": "0.14.0",
+      "SHA1": "C+IyFTwKoVlNgBw3xI5Pxi5Sa70="
+    },
+    {
+      "Version": "0.15.0",
+      "SHA1": "1UvkrHB319B+Wd5Ob6qCtCC/XP0="
+    },
+    {
+      "Version": "0.16.0",
+      "SHA1": "XeQERWOB8IkZ8OhN9ICNwtUwX50="
+    },
+    {
+      "Version": "0.17.0",
+      "SHA1": "lLtcQ/HWfpZbw0mt83cn0Xm6ANo="
+    },
+    {
+      "Version": "0.18.0",
+      "SHA1": "vZ7aI8Gy+eTUVGfzMB4jJW51Nec="
+    },
+    {
+      "Version": "0.18.1",
+      "SHA1": "jlO7cKzbRKoHgDsZDvY8Rj2qvII="
+    },
+    {
+      "Version": "0.19.0",
+      "SHA1": "KS0fUo41bm7oZ920YYNpfxSPv7Q="
+    },
+    {
+      "Version": "0.20.0",
+      "SHA1": "n5ObYR4etDxY/XG3OLL9/Cu8Reo="
+    },
+    {
+      "Version": "0.21.0",
+      "SHA1": "UE7iNajTekQwBHLMJfrqT/ML3do="
+    },
+    {
+      "Version": "0.21.1",
+      "SHA1": "E12DLTgRWCgTuHnqbII4+czxlOk="
+    },
+    {
+      "Version": "0.22.0",
+      "SHA1": "ktZ34NuASllLaTf5koshQOX9Dqs="
+    },
+    {
+      "Version": "0.23.0",
+      "SHA1": "C2ljgTtNjslE7gRP/6zJM/IDRnY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

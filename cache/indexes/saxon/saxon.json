@@ -1,0 +1,15 @@
+{
+  "GroupID": "saxon",
+  "ArtifactID": "saxon",
+  "Versions": [
+    {
+      "Version": "6.5.2",
+      "SHA1": "iRDtmRemvqljMdISxyD+7N+yzSM="
+    },
+    {
+      "Version": "6.5.3",
+      "SHA1": "LE0p1S0K4jNfNnC5Tgp0EvRG6Ug="
+    }
+  ],
+  "ArchiveType": "jar"
+}

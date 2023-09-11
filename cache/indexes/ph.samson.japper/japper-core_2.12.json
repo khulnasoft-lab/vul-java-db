@@ -1,0 +1,19 @@
+{
+  "GroupID": "ph.samson.japper",
+  "ArtifactID": "japper-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "mL/AR3QYjwmy7rgbLIn+Q/5c6Kk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "rJ6jZ3aR4JIOPv6mFaeMz2wQmRk="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "nSSlGVDYjbMfOxRZi3uju8W+sFo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

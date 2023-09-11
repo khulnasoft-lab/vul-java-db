@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.rhaz",
+  "ArtifactID": "socketapi",
+  "Versions": [
+    {
+      "Version": "1.6.3",
+      "SHA1": "ogs4ycFms8pnkNjslb2OA4E1yzs="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "eek7E+cK5Z+OEjUU9VkZRVoETF0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

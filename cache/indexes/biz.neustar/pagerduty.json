@@ -1,0 +1,19 @@
+{
+  "GroupID": "biz.neustar",
+  "ArtifactID": "pagerduty",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "4X9XxpNUYrqwxEQr2skMlHETlcc="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "kl/UBiT+1BHKFAyDe5QHR0wzRbc="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "e/QqgeG8b4kKy+n94vjBseAFlo0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

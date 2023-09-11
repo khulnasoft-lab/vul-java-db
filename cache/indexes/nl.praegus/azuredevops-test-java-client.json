@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.praegus",
+  "ArtifactID": "azuredevops-test-java-client",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "u3IibTQpKU0QLudR7Z7NZHS8YRY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

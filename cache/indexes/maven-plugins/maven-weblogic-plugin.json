@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-weblogic-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BzYJxIFLImEP3c0yKdaF3L0z0rE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

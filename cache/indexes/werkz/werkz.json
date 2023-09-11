@@ -1,0 +1,67 @@
+{
+  "GroupID": "werkz",
+  "ArtifactID": "werkz",
+  "Versions": [
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "pVgHFngN9AS1cuxJcKje/H1l1XM="
+    },
+    {
+      "Version": "1.0-beta-10",
+      "SHA1": "szeSXmnxjRFc+LCL5R3SpByhBdc="
+    },
+    {
+      "Version": "1.0-beta-11",
+      "SHA1": "hhR0m5fjo0BhxOvWHQKie/eJM68="
+    },
+    {
+      "Version": "1.0-beta-2",
+      "SHA1": "wV7rsmU1h+F+Hfu3n0ozfRj+CNY="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "EeARF85cebwSxsUSLLzrboUcFuI="
+    },
+    {
+      "Version": "1.0-beta-3.20020715.042250",
+      "SHA1": "+UAjj3uRlmjc7Y8VOSML220Xs2M="
+    },
+    {
+      "Version": "1.0-beta-4",
+      "SHA1": "KgX/4H45BWriA0xCbKZyAn3zYz0="
+    },
+    {
+      "Version": "1.0-beta-5",
+      "SHA1": "5RoU1LWmrmoQE4LMXOTmN7bHsBI="
+    },
+    {
+      "Version": "1.0-beta-6",
+      "SHA1": "u95QpN6RzZgYQ5NKO/9Ix13DTBY="
+    },
+    {
+      "Version": "1.0-beta-7",
+      "SHA1": "+3f+Ac27grO2DjeATRR8FWVd4wY="
+    },
+    {
+      "Version": "1.0-beta-8",
+      "SHA1": "u39Bq4HtdhLY1Iwe6+hE6DGS8Sk="
+    },
+    {
+      "Version": "1.0-beta-9",
+      "SHA1": "CTtS9oivdtLzybqeSyDFbOaoxGU="
+    },
+    {
+      "Version": "20030212.142109",
+      "SHA1": "n+KJ6aqwKznOeUtY9Ny5NLtNDhQ="
+    },
+    {
+      "Version": "20040114.081319",
+      "SHA1": "Xe+wrnqMNkyJwcg+SzqHEFPaUOU="
+    },
+    {
+      "Version": "20040426.222000",
+      "SHA1": "zwHlO1J3tK7fjKiQLvD/Ajdxy7A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.thirdwatch",
+  "ArtifactID": "thirdwatch_api",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "XxmMPUipHySM36Y9GG5JkVUcnfw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "SqFc7XVyiIAyWGgOiHWgSigmCl8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

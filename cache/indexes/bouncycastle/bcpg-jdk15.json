@@ -1,0 +1,11 @@
+{
+  "GroupID": "bouncycastle",
+  "ArtifactID": "bcpg-jdk15",
+  "Versions": [
+    {
+      "Version": "140",
+      "SHA1": "b98XMh3wZSI75ec6CRaoxtw4MUA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

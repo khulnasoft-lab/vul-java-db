@@ -1,0 +1,35 @@
+{
+  "GroupID": "be.ceau",
+  "ArtifactID": "opml-parser",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "HG6UHvkzxx1l815qzgPZrAF188s="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "FF2n3SKgHp3ojtAImf7gkhoTTEA="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "TQhZiFaME0u4cTLTNEX5vAInkhE="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "I7ZdxL9Ih4TX3LNR8FyaoYFwwFc="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "/sPF2CudXJvipiT/Tl5mNN0e9eo="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "uPNBNhHoMCN7ar4ohC5ahvLOiBg="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "+s2TwJQBieD+sCCdRY5twIxEfLk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

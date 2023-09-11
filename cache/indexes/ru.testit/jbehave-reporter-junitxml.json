@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.testit",
+  "ArtifactID": "jbehave-reporter-junitxml",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "MokcJ8oTYQbTOeOppPyL+m6o2UE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

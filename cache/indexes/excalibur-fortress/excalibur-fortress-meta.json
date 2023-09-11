@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur-fortress",
+  "ArtifactID": "excalibur-fortress-meta",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "S+68xoLZpy6JL+AeAqiOqAXit5k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

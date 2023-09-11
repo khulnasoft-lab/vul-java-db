@@ -1,0 +1,11 @@
+{
+  "GroupID": "xdoclet",
+  "ArtifactID": "xdoclet-spring-module",
+  "Versions": [
+    {
+      "Version": "1.2.3",
+      "SHA1": "UriPNKKSOQAEImoRPrW/37SJ/xI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

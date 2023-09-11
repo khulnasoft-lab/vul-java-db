@@ -1,0 +1,23 @@
+{
+  "GroupID": "si.trina",
+  "ArtifactID": "socket-live",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "JSW6WTHiUtVYtBYzr5vVB2qtP44="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "vYslk+oJllFxPDhbLrm6MuOdKc0="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "i8CKd5EKtDq+h8YGDUpIjmmn8HM="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "AoHrqTaxADtDMj8ccsXO88zpfEY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

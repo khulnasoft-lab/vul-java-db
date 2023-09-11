@@ -1,0 +1,11 @@
+{
+  "GroupID": "xmldb",
+  "ArtifactID": "xmldb-api-sdk",
+  "Versions": [
+    {
+      "Version": "20021118",
+      "SHA1": "7WNWQst3mHfMiiSPBpdcnw4AHVc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

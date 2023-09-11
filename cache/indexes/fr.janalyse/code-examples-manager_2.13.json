@@ -1,0 +1,75 @@
+{
+  "GroupID": "fr.janalyse",
+  "ArtifactID": "code-examples-manager_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "8MAFRD4zIUKmm2ZKKv7qRi0J3iM="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "jTvpYHMIBlHrM6+ccwn+LXuV9Xs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "FD6CFVlfrGLqqwd26E3rMHmEPfE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "wjxCIr3QZdD1Z6g6cGqUoNWJpQY="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "pmUY6ut3YjWqNUM5eIXRsRfu8vU="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "Ah1Ras+5z0NouWwc90+zqpumDcs="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "nR7uOHoX9rokpVubAy7LaXFNF+4="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "YQ/dhxRBc8ExXc4273pP5AsfxPI="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "F3+6Bxv1ac8tL+Ocqm4JqiyrOaA="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "66VxLmJHtrp2x3o+Se+GwzYKq3s="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "zStE9Vnn5pBnTiPkmG9H2TfiUGc="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "iSl2SHR2Ff7Z2AabQHH3gFn7M28="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "HmpHFiPW+OEnpeTTUZmUjISwiK8="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "ChQMuPARxe00kXu59i6JsmFgn/o="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "bAFhu/hd1v1NSHPGsYmj+e6/Mpg="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "i2tBfOP0MWnIoa5Wqa/P42sqFj4="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "LlS/6uq6gTczczp8nE3NsbL9UOs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

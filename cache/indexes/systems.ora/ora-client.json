@@ -1,0 +1,15 @@
+{
+  "GroupID": "systems.ora",
+  "ArtifactID": "ora-client",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "yf8fBYMaOrKJuVl1VpS1NfcH0ck="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "txwp/RiIX98xhCi4XBNlRECPFn0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

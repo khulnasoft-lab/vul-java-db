@@ -1,0 +1,27 @@
+{
+  "GroupID": "jalopy",
+  "ArtifactID": "jalopy-ant",
+  "Versions": [
+    {
+      "Version": "0.5.5",
+      "SHA1": "fHBnj5mqZX78P8q+o9FzLWKuxQk="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "w93S6Fu02h4+n3khQ/kOt5lKB9E="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "FSRxBOrtOXChGeeJP3S4cFEV+MY="
+    },
+    {
+      "Version": "0.1-1.5b5",
+      "SHA1": "nSXcnC0WmCBNGvee6/don4a6Lkg="
+    },
+    {
+      "Version": "0.1-1.5b3",
+      "SHA1": "Ib5zavIU9LgVvImrvbtgXmNT3FQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

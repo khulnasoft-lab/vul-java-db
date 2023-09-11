@@ -1,0 +1,59 @@
+{
+  "GroupID": "mockit",
+  "ArtifactID": "jmockit",
+  "Versions": [
+    {
+      "Version": "0.991",
+      "SHA1": "WqyT2EXzeM82THbmzF+Kq898ZoM="
+    },
+    {
+      "Version": "0.992",
+      "SHA1": "V+XeEp/CKjv79vEtqFzylGqzyro="
+    },
+    {
+      "Version": "0.993",
+      "SHA1": "E2EJS8hdi73FVpXSeNLGuLEZwSU="
+    },
+    {
+      "Version": "0.994",
+      "SHA1": "gnnrl4ZBVBoeoId6LoIVkEuw6NE="
+    },
+    {
+      "Version": "0.995",
+      "SHA1": "y7boWkCZGF4CSzzV5AuyiQfO7Pw="
+    },
+    {
+      "Version": "0.996",
+      "SHA1": "Mi8Z5MQ6uO+qENvF2b3iVgauTiI="
+    },
+    {
+      "Version": "0.997",
+      "SHA1": "sp2p5Mvhsm5OQ2c/iTPDvvUw8+A="
+    },
+    {
+      "Version": "0.998",
+      "SHA1": "TrIxgVhXIEaXLOij3rnuMEbZ6IQ="
+    },
+    {
+      "Version": "0.999",
+      "SHA1": "SuWGAMP/SV8PGtB/RaUMwsrQ2UQ="
+    },
+    {
+      "Version": "0.999.1",
+      "SHA1": "cWxwyRA2ZdpjlKjP8684ACHwrp0="
+    },
+    {
+      "Version": "0.999.2",
+      "SHA1": "W17oI9StUYT2bxICTVg85KFyXJs="
+    },
+    {
+      "Version": "0.999.3",
+      "SHA1": "GYTDqYdPyIZYUGZAVJTvzo5ml9c="
+    },
+    {
+      "Version": "0.999.4",
+      "SHA1": "xJYVEZY6+yPxntWvRVf7jo3tNvw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

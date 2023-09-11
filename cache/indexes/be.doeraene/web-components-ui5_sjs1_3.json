@@ -1,0 +1,35 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "web-components-ui5_sjs1_3",
+  "Versions": [
+    {
+      "Version": "1.3.0",
+      "SHA1": "27L/riWH2inZPfLAYHTzu/1+j2k="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "xRC9D125MJYgCZbyLAgdZIKAjrw="
+    },
+    {
+      "Version": "1.8.1",
+      "SHA1": "0B+Q1WRCksRUGHHkmCfqbEUP9Ms="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "1zC8CmMwuQ/w/UXJBXuBCq9YUw4="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "FpPnDP0B4p/PvdNrEDuo+LHnEVI="
+    },
+    {
+      "Version": "1.9.3",
+      "SHA1": "0Ebhfd0+8+A1PVPyGUFZLhdujJs="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "MQrPN2wdkIDxl9UrIkrar88/9qM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

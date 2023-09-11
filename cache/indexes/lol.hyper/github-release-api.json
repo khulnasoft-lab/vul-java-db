@@ -1,0 +1,27 @@
+{
+  "GroupID": "lol.hyper",
+  "ArtifactID": "github-release-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "MIHbzCLPin8pLUBIHUhRY2ysutY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "NfjJdJlUUUJ12n3gX8SQm4L5xZg="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "eILLPExBmP370r5IwKrqxYAKAwA="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "FbtFuQIZzmV3IcNxPor2HRPFEHA="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "AmAV9m4vx5fhXMvopyeDtFF4iJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

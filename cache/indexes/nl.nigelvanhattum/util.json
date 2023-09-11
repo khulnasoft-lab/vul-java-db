@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.nigelvanhattum",
+  "ArtifactID": "util",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "plk5UqGkN7yh48ambpL67ZIqOHM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

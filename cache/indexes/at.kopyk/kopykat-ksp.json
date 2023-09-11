@@ -1,0 +1,35 @@
+{
+  "GroupID": "at.kopyk",
+  "ArtifactID": "kopykat-ksp",
+  "Versions": [
+    {
+      "Version": "1.0-rc5",
+      "SHA1": "G0R3Zp2w2q3HsNVTi56LbWxQk1s="
+    },
+    {
+      "Version": "1.0-rc6",
+      "SHA1": "WIjLRZZIfG1DAfJDbUxniyTOSSI="
+    },
+    {
+      "Version": "1.0-rc7",
+      "SHA1": "AuOWo7iFJkGwDu7LELXsE81on3o="
+    },
+    {
+      "Version": "1.0-rc8",
+      "SHA1": "4jqYwJJHRqepQbPfJXYO7Ztj7J0="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "J0oTbxqahEX/tE0lYA/fsoci7so="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "Q8cJOxM7mt/iV+7CVkxBPhPAORc="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "mObZltw1s8o+o6U5NHQ9DucaA5U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

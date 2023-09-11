@@ -1,0 +1,27 @@
+{
+  "GroupID": "gg.jte",
+  "ArtifactID": "jte-models",
+  "Versions": [
+    {
+      "Version": "3.0.0",
+      "SHA1": "SqdW70Wj+kGch0pTxPAoQKaxCxw="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "R9PjKoVFARxy9aKjO851X7pkb6I="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "4Rt11g9BAo+hHyd/3OUvnk4BFgA="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "Zfr0Kp+GB8KVqVAPTyyJdBCbZtQ="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "5kzWmHkFIlZa0OqRVyWTXkGVTZQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

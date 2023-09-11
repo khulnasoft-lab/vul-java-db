@@ -1,0 +1,23 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-apache-regexp",
+  "Versions": [
+    {
+      "Version": "1.6.2",
+      "SHA1": "/iujye1cYkTLfA7LQwXcZAHz/bo="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "QYfANvoTJ4HTp+eWumbKxVBSphY="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "l8Peo5rhN7Tvr6taV/YogXlJHVc="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "TTrJVILF1VWQuHlaW0wnh5zbi88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

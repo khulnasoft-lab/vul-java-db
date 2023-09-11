@@ -1,0 +1,83 @@
+{
+  "GroupID": "be.cylab.mark",
+  "ArtifactID": "coverage",
+  "Versions": [
+    {
+      "Version": "1.3.1",
+      "SHA1": "8hP3WEHrdiLm4nsacZhLx1CeZH8="
+    },
+    {
+      "Version": "1.3.2",
+      "SHA1": "So814rH0pLMRDzxTJy4aJ4ARNvw="
+    },
+    {
+      "Version": "1.3.3-RC1",
+      "SHA1": "XN34WnamqENc8Rowc+1LNAsArms="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "JcmuWvMXqL71qUHlc4lS1EMVwgM="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "GyMLOnUxJLqZ5aC3JxltyE+KXX8="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "EKWSbpZN/214aPDuGvQH+3Zscq8="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "ruFJuk1nfUY5bX9N58sR7w0xaY0="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "wO3pSM+V5I0v1KL0oi8KnMlTdTs="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "7CFrRc+GN3GiaqHTRArmKDuCHjQ="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "Tl5j6cfoym4mH/tHMXaDXyQvbwM="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "glP7zJu+yQGDjq/chGYii2dYOTw="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "96Rug50kc7j3A3NPVKm7ZkGi2t4="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "cL5Z2fBQZok4lgj+mVIjs+wYVvw="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "JFRq+PmqmUULBjeu7swTPLG+Pmk="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "lgBLf7UQPVlHY1uU1QWgpvVk884="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "rhvKfXEAoSfK5ua0iLriUh7SMQ8="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "garzZQThjpM+wwEo5X3TxUws1Po="
+    },
+    {
+      "Version": "2.5.3",
+      "SHA1": "jBuTPsVKo68jfTncXim/8yC/t5I="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "mGcb592sfLc7p9kOZB1k6mkRfWc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.venneborg",
+  "ArtifactID": "play26-refined_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "hLikkHSl9+72QqDhamTicn3gg1c="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "f4fbYXNfDXDBrtS9eta++NtZTrE="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "YPKEFxpTCzeFMyGPPafDzXEr5qM="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "rxdaxWDnY/kO66g0RGz2HwsPkNw="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "PnLgDIhWmt10P7JYdbF/V/7mXT0="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "WED167trZlsvLt0vRW7sQWIoJuk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

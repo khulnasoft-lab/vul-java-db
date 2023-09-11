@@ -1,0 +1,11 @@
+{
+  "GroupID": "directory-naming",
+  "ArtifactID": "naming-management",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "2H5MjyvdZbrWTDcHwQ9Nkk9Q/1s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

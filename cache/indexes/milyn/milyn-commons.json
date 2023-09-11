@@ -1,0 +1,11 @@
+{
+  "GroupID": "milyn",
+  "ArtifactID": "milyn-commons",
+  "Versions": [
+    {
+      "Version": "0.6.2",
+      "SHA1": "PWTAvwmeQbpXQkjQgHVEAElA0Yo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

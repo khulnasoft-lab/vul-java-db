@@ -1,0 +1,19 @@
+{
+  "GroupID": "graphics.glimpse",
+  "ArtifactID": "glimpse-geom",
+  "Versions": [
+    {
+      "Version": "2.0.0-alpha.1",
+      "SHA1": "qD1eh8yttrCMQK543RrxG80stWM="
+    },
+    {
+      "Version": "2.0.0-alpha.2",
+      "SHA1": "qD1eh8yttrCMQK543RrxG80stWM="
+    },
+    {
+      "Version": "2.0.0-alpha.3",
+      "SHA1": "qD1eh8yttrCMQK543RrxG80stWM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

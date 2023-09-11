@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.jooylife",
+  "ArtifactID": "environment-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "ezggK2YK8gS3rxHvMnRA5j7VDW0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

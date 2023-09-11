@@ -1,0 +1,31 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "catalina-ant",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "6MyCiAQ/f5lOabGXHmM7GzJLOjw="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "he9ZN48d704OGtAROsh9s5bpaPE="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "8PaWRw6p37RhkCeKASRoRkK4Ce4="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "dCCTz6ZKV9B/n/chCFozZfQPXWc="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "Vt3l0k9FVvK+R+NMtFEbxHlyJGU="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "nTnEdLISoFeQlh0cz5cZZteCGzo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

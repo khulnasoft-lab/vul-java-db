@@ -1,0 +1,51 @@
+{
+  "GroupID": "wtf.g4s8",
+  "ArtifactID": "rio",
+  "Versions": [
+    {
+      "Version": "v1.0-rc.1",
+      "SHA1": "MXhs+YjaXTXxgOhRqRTIURITVZw="
+    },
+    {
+      "Version": "0.0.9999",
+      "SHA1": "b+AeK5XBKFR5jECFNgqR4o8A6fU="
+    },
+    {
+      "Version": "0.1",
+      "SHA1": "IR+syk96AuS52ikNMpL0pyqXkpM="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "bleshPYHbWDgdnwT6cqjWEymswE="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "wmhqjKA2zhgrhnhmeconcCYd9Bc="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "OGmv1yQP+G9imwEsSiqMIMtvD80="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "ZNXsVe2ETO9LvHBqhSXealZyAUs="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "/yFcXuRWKljBE7/4a89cH+OZLnM="
+    },
+    {
+      "Version": "1.0-rc.1",
+      "SHA1": "ERPQTEY1pps9cW2crOA40INMKnw="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "78/bzb6b2Ag8ZAJhZyalWm4j2+k="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "kAIg8F/iC8UrW/oVEKeFp52dsHg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

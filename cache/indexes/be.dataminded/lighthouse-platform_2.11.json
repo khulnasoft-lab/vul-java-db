@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.dataminded",
+  "ArtifactID": "lighthouse-platform_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "RTskzy7EyhUAnYXFs+7icb36mEA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

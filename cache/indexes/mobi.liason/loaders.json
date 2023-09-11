@@ -1,0 +1,27 @@
+{
+  "GroupID": "mobi.liason",
+  "ArtifactID": "loaders",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "ekRTP7knTDFSzs2YM20frY+ja+M="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "p5AXbnCcoJDGqHEhPDDKLOrxRbc="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "lC9jQku6px0j5M8+sUSBh9Ra4YM="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "8PK3sd2HeVoNpQQSE4PZ75O63wQ="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "6SUesQCeYlrhocs7LSGGzjMEAjs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

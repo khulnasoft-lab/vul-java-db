@@ -1,0 +1,11 @@
+{
+  "GroupID": "ws-commons",
+  "ArtifactID": "axiom-dom",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "f0EadjAW+27hQkiFellAA5L01xc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

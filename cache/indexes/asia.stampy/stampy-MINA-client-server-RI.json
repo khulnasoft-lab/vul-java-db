@@ -1,0 +1,11 @@
+{
+  "GroupID": "asia.stampy",
+  "ArtifactID": "stampy-MINA-client-server-RI",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "wuaN00qsDe00JIoQVxRgt8KcKlM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

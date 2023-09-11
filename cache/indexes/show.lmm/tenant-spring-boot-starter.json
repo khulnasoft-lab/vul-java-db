@@ -1,0 +1,11 @@
+{
+  "GroupID": "show.lmm",
+  "ArtifactID": "tenant-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "pfFubyy0wo9IOVnH2Mu8/W5jr2o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

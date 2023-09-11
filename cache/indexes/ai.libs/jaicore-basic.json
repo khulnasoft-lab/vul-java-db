@@ -1,0 +1,67 @@
+{
+  "GroupID": "ai.libs",
+  "ArtifactID": "jaicore-basic",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "IlyFE2QQC8AmemG3Laa4rFaubEI="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "qsr/acJRNlVq52Yio0tMBVZX+WA="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "EZE334EcOJZ6+YWCy5+qLalBJbA="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "+GHHyDzr1iNXhBfaeQJM1NhrWUs="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "BkvVMrwC9ADftBVL4pzyP6Sa1Tk="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "cEFzkTDcylEVLg0R9VPIZB3J/F4="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "FQvQCSOlbHi99TcfzuDVwACo8+I="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "KFB3v5shmC/e1fI6TksJftRaQFs="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "eGF5kpFR/uWn3nm/jAVGsfern4Q="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "Iqp5/SU4s1l0F8WqyOXVFeS7W8I="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "Q8TKgXKnmGjNnycFayNU4p1AuP8="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "ZapP2o4X0wytNmTML8ZK3rRaJX4="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "iAQ9eYni/HTYKJbQizFE5BYCBqs="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "kTXcSbUrcTKbmAIvBqPsBEC2ZrM="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "iE32kS4R+qM7E3wm+Qi4pRoEWv4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

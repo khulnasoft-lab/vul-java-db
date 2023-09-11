@@ -1,0 +1,11 @@
+{
+  "GroupID": "tapestry",
+  "ArtifactID": "net.sf.tapestry.contrib",
+  "Versions": [
+    {
+      "Version": "2.2",
+      "SHA1": "AYAVlDV2cAIAVrHbuoniS9056vc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

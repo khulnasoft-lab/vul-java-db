@@ -1,0 +1,19 @@
+{
+  "GroupID": "wtf.g4s8",
+  "ArtifactID": "matchers-json",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "PO09mWih5jrMNFdnYg0Ez9RYqkM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "WPI/2VdGxMvUlzNvgi8Xm3lMPB4="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "AQalbdXzsXMkkrh/fOicR0hqPq0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

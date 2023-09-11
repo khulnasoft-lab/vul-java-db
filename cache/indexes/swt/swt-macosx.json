@@ -1,0 +1,11 @@
+{
+  "GroupID": "swt",
+  "ArtifactID": "swt-macosx",
+  "Versions": [
+    {
+      "Version": "3.0m7",
+      "SHA1": "Phmlytv8COnkmJjDjG4RUpNdC1c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

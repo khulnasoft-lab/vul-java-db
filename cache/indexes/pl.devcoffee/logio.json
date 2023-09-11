@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.devcoffee",
+  "ArtifactID": "logio",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "UzerQQ9h9h1TNT12/BgqPyNzr5M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "springframework",
+  "ArtifactID": "spring-remoting",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "p6HKm1MqCh9qhkDzI1cx9e3WL8E="
+    },
+    {
+      "Version": "1.2-rc1",
+      "SHA1": "iEK0M2roDsEIuX3QZKsBMsTCWGk="
+    },
+    {
+      "Version": "1.2-rc2",
+      "SHA1": "KPDLjZKNxIKMesMqDllQK1PebeY="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "E7eg97UmCFNJOG8OKOO+hQI06UU="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "FAeatl/sodW8U/VxazrsRFtx18c="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "P/PW8+JrXcjc4/T2J9Rof3PSbL0="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "0Zoyow+jkrebX7v7vV/dkiqfuiA="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "3LGTZ4JNLf75qUlc5MlqcJLMbWc="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "zw27alVwGO0SwmS0T0+/+fQibNY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

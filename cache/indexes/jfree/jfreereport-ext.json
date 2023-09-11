@@ -1,0 +1,11 @@
+{
+  "GroupID": "jfree",
+  "ArtifactID": "jfreereport-ext",
+  "Versions": [
+    {
+      "Version": "0.8.6",
+      "SHA1": "kplYGgB+AtAQu1xK5yiEuSjaWg0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-hibernate-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "ANVhhunW07ENT4Q/6nQDEsbVBeU="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "F+Rrj9jZ+QROMBgWurMq09YIWks="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "wijgiUpAQauLY824Y5iCsSu2JBM="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "bZ6WWtVUWkxF5K64N3EMIA8jfXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

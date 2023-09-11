@@ -1,0 +1,11 @@
+{
+  "GroupID": "garden.orto",
+  "ArtifactID": "ofm-jvm",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "6/YUdVwOMi+/2qR2nr8B5q7Szcs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

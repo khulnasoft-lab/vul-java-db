@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.gn0s1s",
+  "ArtifactID": "baggage-jwt_2.13",
+  "Versions": [
+    {
+      "Version": "0.3.1",
+      "SHA1": "TKrJxVV8CxqqGPje0A4U2GMBXLY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

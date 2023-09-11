@@ -1,0 +1,47 @@
+{
+  "GroupID": "ai.mantik",
+  "ArtifactID": "elements_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.0-rc3",
+      "SHA1": "H+gIyxV5rzj+TeoYYZMJaR0r6dE="
+    },
+    {
+      "Version": "0.3.0-rc4",
+      "SHA1": "hSXUFsKGVnJ/VJJV7tJC2BtMM4o="
+    },
+    {
+      "Version": "0.3.0-rc5",
+      "SHA1": "eO8wNGf2MPa3bwoHJ7Xk/jtpRTM="
+    },
+    {
+      "Version": "0.3.0-rc6",
+      "SHA1": "VysVPixJH05sGl767gdCKAZSQQ0="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "AzFIYGRb3E5un/vxJR9XXPU9pVw="
+    },
+    {
+      "Version": "0.3.0-sonatype1",
+      "SHA1": "DKUMpg3qd+6+zlW8OOMgmMPWxKc="
+    },
+    {
+      "Version": "0.3.0-sonatype2",
+      "SHA1": "CPWStwA5SEGHWA82lIJUG5gdT9M="
+    },
+    {
+      "Version": "0.3.0-test10",
+      "SHA1": "4ykWbR3SfhSI9ic2zR6W9CScnhk="
+    },
+    {
+      "Version": "0.3.1-rc1",
+      "SHA1": "WJsqH4k+68Jhd+ViI/MRKNY+DO8="
+    },
+    {
+      "Version": "0.3.1-rc2",
+      "SHA1": "5eH0nolWimJQpLzLkyBZfpfxoqg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

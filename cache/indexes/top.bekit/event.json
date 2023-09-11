@@ -1,0 +1,19 @@
+{
+  "GroupID": "top.bekit",
+  "ArtifactID": "event",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "F7rqcc4ScDJQk7XySUp+7mf33hQ="
+    },
+    {
+      "Version": "1.1.0.RELEASE",
+      "SHA1": "ltkkTCWL9VdWpt6xQyKWufcRGJ0="
+    },
+    {
+      "Version": "1.1.1.RELEASE",
+      "SHA1": "tv9CsHBDKu7k8xsrFM/XkszEHDE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

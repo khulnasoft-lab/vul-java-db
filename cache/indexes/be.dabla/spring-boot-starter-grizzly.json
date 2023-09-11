@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.dabla",
+  "ArtifactID": "spring-boot-starter-grizzly",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "481ynvRaRjNPZCtG4uEc38I7cnU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

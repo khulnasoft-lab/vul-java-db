@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon-phoenix",
+  "ArtifactID": "avalon-phoenix-loader",
+  "Versions": [
+    {
+      "Version": "4.0.4",
+      "SHA1": "0i8v0+AndVKvTotzfPp65tPqbrU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

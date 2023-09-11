@@ -1,0 +1,191 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "channel-manager-sdk-java",
+  "Versions": [
+    {
+      "Version": "19.0.13",
+      "SHA1": "+RatEUROhk0DPBFWeVpht++TxwY="
+    },
+    {
+      "Version": "19.0.17",
+      "SHA1": "Emqkvv4kOsUpIskEmC8oSni6cq8="
+    },
+    {
+      "Version": "20.0.0",
+      "SHA1": "jLT95saCS1ESKd/rn7PxJQ0RLrU="
+    },
+    {
+      "Version": "20.1.0",
+      "SHA1": "sHfpXx6z3do7bcScb6rWk/NoSGM="
+    },
+    {
+      "Version": "20.1.1",
+      "SHA1": "7y3nvktOd5rhTa7oJHhm4OV7l7g="
+    },
+    {
+      "Version": "20.1.2",
+      "SHA1": "n9FLTPxa24QlGc3SxveTqqze0Vs="
+    },
+    {
+      "Version": "20.1.3",
+      "SHA1": "KFmlpRoFzim+kY12u6tooefyHiQ="
+    },
+    {
+      "Version": "20.1.4",
+      "SHA1": "JzdYIJ2Ph5fwmfWkgqoCnl3aiIE="
+    },
+    {
+      "Version": "20.2.0",
+      "SHA1": "z9R3LC9drW3aWYoAbpMLoynDRRc="
+    },
+    {
+      "Version": "20.2.1",
+      "SHA1": "GyUx1yEWgfHx5Ctzryqg00G2WMc="
+    },
+    {
+      "Version": "20.2.2",
+      "SHA1": "tbFE+jOh3+ul1da+3RwO53J8xkw="
+    },
+    {
+      "Version": "20.2.3",
+      "SHA1": "wG844fQIdVdgNYmWAcQhwecVfVo="
+    },
+    {
+      "Version": "20.2.4",
+      "SHA1": "pMfnRVzGCy2LDADc8H2RzalLDuk="
+    },
+    {
+      "Version": "20.2.5",
+      "SHA1": "vSF7WqtHYKmcP5rJeLjGleIb0uU="
+    },
+    {
+      "Version": "20.2.6",
+      "SHA1": "Ki7VUqL7iodfmxvBlIeIEJtigrs="
+    },
+    {
+      "Version": "20.2.7",
+      "SHA1": "YDfQPI8t33henYyyHW7qW3kS3Xk="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "qla5bScEdZ538WsxDfeMoudyiIE="
+    },
+    {
+      "Version": "21.0.1",
+      "SHA1": "1R878ZZYh6DpCCAe2Iqgr47ZdgU="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "hN/nwelFFqZRqxDxxmI5/uIKzzA="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "zTPb8ErCCUuUwgyNkHjuE0SKf44="
+    },
+    {
+      "Version": "21.3.0",
+      "SHA1": "5EtPPAh/WcBquAbpIxGmJ2NmMsY="
+    },
+    {
+      "Version": "21.15.1",
+      "SHA1": "w/5mlk850tzFjw4LfTbjo7DwvBM="
+    },
+    {
+      "Version": "21.16.3",
+      "SHA1": "NcwUvwMpCKO0XzyrQDEvaXQDyrA="
+    },
+    {
+      "Version": "22.0.1",
+      "SHA1": "ml1tb5a2hg4qeYKE3lZIFugy3R8="
+    },
+    {
+      "Version": "23.1.1",
+      "SHA1": "38hlwK28uryoQgRo5MKCNAea6Fo="
+    },
+    {
+      "Version": "24.0.0",
+      "SHA1": "gRpRYj5FI5TWWhrVgGeunpWA6FU="
+    },
+    {
+      "Version": "24.3.2",
+      "SHA1": "lIgFFrM5M8IPDo80DY6qWwgG0KQ="
+    },
+    {
+      "Version": "24.7.0",
+      "SHA1": "YlesfJUMUd7mZoVHULZmgEvaB+w="
+    },
+    {
+      "Version": "25.0.3",
+      "SHA1": "C3p11Lg7D48aTf+370JGAi+RS/0="
+    },
+    {
+      "Version": "25.1.0",
+      "SHA1": "ACWUI8mpk6nXxg+bDLougLszj5w="
+    },
+    {
+      "Version": "25.2.3",
+      "SHA1": "nsjzroJNKkIRzSMOeNoDPP2kJos="
+    },
+    {
+      "Version": "25.2.7",
+      "SHA1": "qEQBnpOLOcKN9GM9HfL6lb9ZYA4="
+    },
+    {
+      "Version": "25.3.0",
+      "SHA1": "vMEX/JcVnlywlaRus109hQMmkpw="
+    },
+    {
+      "Version": "25.4.2",
+      "SHA1": "KJYE68hZbjtQ9xgKjBB/K3sXd2E="
+    },
+    {
+      "Version": "25.6.4",
+      "SHA1": "Kl7gblzcD74Qe13Bes2nWE9OqPU="
+    },
+    {
+      "Version": "25.6.8",
+      "SHA1": "xwHSwWEgEKQ59HdMQE95ozuzUd4="
+    },
+    {
+      "Version": "26.0.3",
+      "SHA1": "DSHd8h/asWB6/lYXQTYS4bFJEOw="
+    },
+    {
+      "Version": "26.1.1",
+      "SHA1": "a/o2x2WBZAwt8GjtS1+gm4JrQWU="
+    },
+    {
+      "Version": "27.1.1",
+      "SHA1": "iBjxc5juZ0ZozTgISNn5Ae/80o8="
+    },
+    {
+      "Version": "29.0.0",
+      "SHA1": "VQMaRuftDucAia5BY2DmLiUVF1w="
+    },
+    {
+      "Version": "29.3.0",
+      "SHA1": "pLiPsj1BTJteRL5CdkKGLM06mYc="
+    },
+    {
+      "Version": "29.7.0",
+      "SHA1": "wLYfrzP2EK9DEJDDnPWe3Nhz0/k="
+    },
+    {
+      "Version": "29.8.0",
+      "SHA1": "0h5hG4fcRNHoCMQ7VWGAYlC1sb0="
+    },
+    {
+      "Version": "29.8.3",
+      "SHA1": "VHEw5kVQkmV09WxcsMmB1MMVFAk="
+    },
+    {
+      "Version": "29.8.8",
+      "SHA1": "Sm8PB7O2Zhuw6evLwF0G5ZK4pFU="
+    },
+    {
+      "Version": "29.10.0",
+      "SHA1": "nXJoGIuRvkZcTtbLMZsr1JARphg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

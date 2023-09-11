@@ -1,0 +1,23 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-controller-sdl",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KFqLbPSvNrFalPdso0FhJLwnues="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "37oEfkHJdGkjsoqJFKuauel1jzM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "6QOcrP5D8cxiBhHMoevgkI9tgWw="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "a03VwiJVqaclo6Qgjqi9M+X2sVQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

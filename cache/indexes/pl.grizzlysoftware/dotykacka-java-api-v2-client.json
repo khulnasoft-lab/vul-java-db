@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.grizzlysoftware",
+  "ArtifactID": "dotykacka-java-api-v2-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "+XWE2cjjHjouQpGM+VCTingmcnI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

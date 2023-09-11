@@ -1,0 +1,31 @@
+{
+  "GroupID": "ie.stu",
+  "ArtifactID": "papercut-compiler",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Bms7d/oyQkA/hOS5bBYt/4ujSEw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "8m2bcqVLzttFLMWyOaLEDVVku4s="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "qzowa2K9ny+D/xIX+3WIcXOJJ58="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "7YqCXzsypNKk0u/mfTMHye0a9F4="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "4QmSa4fZqe+OK61F53SKxJFszUo="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "LVkllCASXYKwKwvglzMiYgDUMlc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

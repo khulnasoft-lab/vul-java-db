@@ -1,0 +1,11 @@
+{
+  "GroupID": "kr.sparkweb",
+  "ArtifactID": "mobile-infrastructure",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "OJ/Wj95UF8UTr+5o3F6Jjw9GfUE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

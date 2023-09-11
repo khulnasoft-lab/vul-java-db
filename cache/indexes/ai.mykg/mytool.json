@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.mykg",
+  "ArtifactID": "mytool",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "bCkbrHUqXhsJ9Q2ekRUAt+cQU/4="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "z75To2W0c3XnC+G2fXt6CIZfgqc="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "1PFLBa9Z472msLpZl+ANrzmpIZA="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "IiO6lbT59MpYKSCKmBXmyrL90M8="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "OoKVQpVbsuz8edAXLGt1oKAYtEA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

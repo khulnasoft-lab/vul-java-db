@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-rpm-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "FbiGG9vHsWaJS1+0SG6STAN17S0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

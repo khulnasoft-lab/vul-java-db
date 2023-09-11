@@ -1,0 +1,11 @@
+{
+  "GroupID": "burlap",
+  "ArtifactID": "burlap",
+  "Versions": [
+    {
+      "Version": "2.1.7",
+      "SHA1": "+QL7EcXzH1MlgSrHnajdGGTgdmg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

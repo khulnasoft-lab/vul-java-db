@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "sdHFO+kjSJJyvR1Fg/ZpojpDze4="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "26ICAZ4VTuHcrkVC/dVoYOHRLr4="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "PQCLrFfPlpmit7TiZe3MysjK2yk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

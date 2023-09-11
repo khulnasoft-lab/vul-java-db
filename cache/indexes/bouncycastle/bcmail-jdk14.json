@@ -1,0 +1,11 @@
+{
+  "GroupID": "bouncycastle",
+  "ArtifactID": "bcmail-jdk14",
+  "Versions": [
+    {
+      "Version": "136",
+      "SHA1": "yCdmWBT5juEZ9X9xHmJOKgFepXU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

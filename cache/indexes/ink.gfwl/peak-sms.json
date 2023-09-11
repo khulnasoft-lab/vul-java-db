@@ -1,0 +1,11 @@
+{
+  "GroupID": "ink.gfwl",
+  "ArtifactID": "peak-sms",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "a1pL38nl70ogNZDHxkuMx2T2p1k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

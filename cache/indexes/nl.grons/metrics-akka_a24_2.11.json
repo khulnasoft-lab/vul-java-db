@@ -1,0 +1,11 @@
+{
+  "GroupID": "nl.grons",
+  "ArtifactID": "metrics-akka_a24_2.11",
+  "Versions": [
+    {
+      "Version": "4.0.0",
+      "SHA1": "BjWPQYaHCzqMaVp9+LlHnN85poQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

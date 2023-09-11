@@ -1,0 +1,11 @@
+{
+  "GroupID": "center.wxp",
+  "ArtifactID": "log-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "s+5PjJD4O6czbhhLySPAOrMwmf4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "li.allan",
+  "ArtifactID": "easycache-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "CMyTt6hZZIlmJ3DqqNL5uSWo99o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

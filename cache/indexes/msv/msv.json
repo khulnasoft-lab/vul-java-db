@@ -1,0 +1,23 @@
+{
+  "GroupID": "msv",
+  "ArtifactID": "msv",
+  "Versions": [
+    {
+      "Version": "20020414",
+      "SHA1": "Qu3tuRCd/qSS5qrypIPK/RVPub0="
+    },
+    {
+      "Version": "20030225",
+      "SHA1": "on0rZ7WPfQK8CQPbmGznWCAXebs="
+    },
+    {
+      "Version": "20030807",
+      "SHA1": "ezFLC7toiRTv70e+cJ5BnlMSMog="
+    },
+    {
+      "Version": "20050913",
+      "SHA1": "P8XKlwio56IZAB2gvDhw0KLVHC0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

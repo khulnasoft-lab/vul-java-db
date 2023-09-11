@@ -1,0 +1,15 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-swing",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "Pd0ABGgoIED5ujIoWKfg6vEpOCY="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "RKlK3zOvMxz42JiPzqXrLfWD04k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

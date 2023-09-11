@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-security-adapter-opensymphony",
+  "Versions": [
+    {
+      "Version": "1.0.7",
+      "SHA1": "gFenzrTJvXEr8hYDck5oUvIVkY8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

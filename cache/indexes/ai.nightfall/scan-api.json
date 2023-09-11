@@ -1,0 +1,51 @@
+{
+  "GroupID": "ai.nightfall",
+  "ArtifactID": "scan-api",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zyatsdpIe9wVa9V5vAcfZM5yZtQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "RF5HxNWNTgXxSdIxwKceLb2Qo/0="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "y+U8tr0ZToL/qolVKmXYRqT5omU="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "R2gbocvQit5ihaBZ2xOZ6nR8Ejo="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "WBg771w0JvMCD+WavPgCJmiOynA="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "BqSMRlAzqtwSz2jax1zH/tkbgPY="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "xaXFkvnDTP2CF9Tea87tGguVFSg="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "ak/dJPBBOEONr6WLwnJEJUYZ6XI="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "LHw4j8gWqYzmiQYNwYyRQEsqYuw="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "+tuNnXfS2suWhsTR5y+AqVNZ3OQ="
+    },
+    {
+      "Version": "1.2.3-beta-1",
+      "SHA1": "hYEXNwBQ9bdU2gOyqQfoCtmezk0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

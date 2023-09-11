@@ -1,0 +1,11 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-itest-ear",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "tm/YL0evwOq5hEZeIo7/KZBHtGE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

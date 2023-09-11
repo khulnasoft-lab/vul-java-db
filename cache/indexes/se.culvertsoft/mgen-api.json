@@ -1,0 +1,35 @@
+{
+  "GroupID": "se.culvertsoft",
+  "ArtifactID": "mgen-api",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "Ovj2RLf0n0wAJvSKY/KqzTM50Sc="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "DvBCmuznejiO4LzkmLBy2MuvIy4="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "j/9OkxHPmZnMBUC3XBH/fLZi05g="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "NcfEsmerG/7XJHweRq70B5CmmdM="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "Ay7n094l0GxVw9PiFfwWVNfbYc8="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "NjpvB2Gln0n+770KxIxAvyaA9ak="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "IzNqRLS0nh3Ys5m49qBCzSwhQJY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

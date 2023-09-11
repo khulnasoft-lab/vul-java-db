@@ -1,0 +1,11 @@
+{
+  "GroupID": "solutions.linked",
+  "ArtifactID": "jarql",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zxObCnygS4olvTuBVVQ7QUlVCZE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "propertyset",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "a/l14Z/8L5vabKE9TtxwyxEgGrw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

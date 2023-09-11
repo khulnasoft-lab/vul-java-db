@@ -1,0 +1,15 @@
+{
+  "GroupID": "cz.geek",
+  "ArtifactID": "geek-util",
+  "Versions": [
+    {
+      "Version": "0.0.6",
+      "SHA1": "UN2oBiu5drxI5yS4+rkFdttx3J0="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "96IbdCHTcbfcz0f1vb1WdTERTr4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

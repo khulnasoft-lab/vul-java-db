@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.yqingyu",
+  "ArtifactID": "QyMsg",
+  "Versions": [
+    {
+      "Version": "1.9.4",
+      "SHA1": "SAjXKATSK3TypLX65jm1HmbuFX8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

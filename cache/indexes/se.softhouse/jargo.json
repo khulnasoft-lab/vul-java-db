@@ -1,0 +1,87 @@
+{
+  "GroupID": "se.softhouse",
+  "ArtifactID": "jargo",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "Hj48UIswaKfY3eTKCGG+O+IrLLc="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "60GmLNef3cu8DBanj/brbbo2EYQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "L1dM2gAUqIrgrK9HmyCfOda3y7A="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "5HWoqqTZ8tXzcy/sQl3F0cKBYI8="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "in+DYF9BI7yzQgXsE0rBJtP4Ysc="
+    },
+    {
+      "Version": "0.1",
+      "SHA1": "wHqE0xzGDFd8m0CDRgb3KREK8F0="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "39aMFhhN+wMYORvi30kvAKmi/yo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "bFD4Lg7C/K+BdaR+mtrAg+Xog6Q="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "kd0NEdajJAmppuvbAoHGyEwgQ6w="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "0BqJk9NzUCsNVvD6QPvlrNpYb0M="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "HB6qlka0DzTjcKSgt30OcKQQW+o="
+    },
+    {
+      "Version": "0.4.5",
+      "SHA1": "hFWTeV6gMOs8+cAopzBbKuuUxUY="
+    },
+    {
+      "Version": "0.4.7",
+      "SHA1": "GAAiUHi8a9dtnu6WK8T8rt8KexE="
+    },
+    {
+      "Version": "0.4.8",
+      "SHA1": "f4Mj3CPZoVK7Np5gOG/b7rltsAI="
+    },
+    {
+      "Version": "0.4.9",
+      "SHA1": "SzuYWfoGPu9MnD0j7MhNsWZ2FKg="
+    },
+    {
+      "Version": "0.4.10",
+      "SHA1": "ohI1gXkmIy+rX9ckJb47hgpCPRE="
+    },
+    {
+      "Version": "0.4.11",
+      "SHA1": "OMVVzU26ftH85USOXWJkQe9r7+s="
+    },
+    {
+      "Version": "0.4.12",
+      "SHA1": "y3PwOXNu8qSQvLtjzDpBqRQIZIU="
+    },
+    {
+      "Version": "0.4.13",
+      "SHA1": "P3CRDy40csXlHgaGoe2IuVhTp+0="
+    },
+    {
+      "Version": "0.4.14",
+      "SHA1": "BAFe/eQNZ4eKBIPe0hfASnmQH+o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

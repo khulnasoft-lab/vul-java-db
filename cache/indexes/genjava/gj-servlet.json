@@ -1,0 +1,11 @@
+{
+  "GroupID": "genjava",
+  "ArtifactID": "gj-servlet",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "e5lFoOR/D+3G//2WTb+OmLgXSrA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "link.jfire",
+  "ArtifactID": "jfire-socket",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "T/CqQ6LKkvGpnogGlmpMPg44U6A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

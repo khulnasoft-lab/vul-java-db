@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.dragonfly",
+  "ArtifactID": "matrix_native0.4_3",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "E/qollcWRFwjuoltU9J9gPCL0rU="
+    },
+    {
+      "Version": "0.101",
+      "SHA1": "t+Ph5X4o2P92wNDLMhAcHSJPbug="
+    }
+  ],
+  "ArchiveType": "jar"
+}

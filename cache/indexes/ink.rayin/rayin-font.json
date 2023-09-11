@@ -1,0 +1,11 @@
+{
+  "GroupID": "ink.rayin",
+  "ArtifactID": "rayin-font",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Cqz1CG6LoaRi2n1/KMvGwoBjw1E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

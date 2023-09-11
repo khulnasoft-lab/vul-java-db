@@ -1,0 +1,11 @@
+{
+  "GroupID": "urbanophile",
+  "ArtifactID": "java-getopt",
+  "Versions": [
+    {
+      "Version": "1.0.9",
+      "SHA1": "MtMhnIti8kIxYNAAZGL1raMGDXI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

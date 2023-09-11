@@ -1,0 +1,11 @@
+{
+  "GroupID": "fulcrum",
+  "ArtifactID": "fulcrum-yaafi",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "4LPTa7BJIcKAGYrH5TGjIAI8FEY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

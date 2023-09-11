@@ -1,0 +1,11 @@
+{
+  "GroupID": "tr.com.infumia",
+  "ArtifactID": "EventProtocol",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "vBePjyzp1/axK0tn5y38rPOYj8s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

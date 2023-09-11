@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.sigmapoint",
+  "ArtifactID": "lib",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "hWzNSmGdAB/obNk5GvPIkFnYEZo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

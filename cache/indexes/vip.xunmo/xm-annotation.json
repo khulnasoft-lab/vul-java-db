@@ -1,0 +1,23 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-annotation",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "KQGlIWGaCuVLBwWb+V+aau2H+hI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "tHUu8wIU5Y+QvIkxQIexw3iW0ek="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "P9wmyQSixlgovhjNBYNCgp/wQ7o="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "4eYjqEtYLDD5RojtvXPZyMHh0W8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

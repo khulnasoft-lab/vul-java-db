@@ -1,0 +1,19 @@
+{
+  "GroupID": "c3p0",
+  "ArtifactID": "c3p0-oracle-thin-extras",
+  "Versions": [
+    {
+      "Version": "0.8.5.2",
+      "SHA1": "nMkhHRvm3IoUV+N16IFy/sZecj4="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "/5lGeEwZVFEE1/1E29AkoQeM/5Q="
+    },
+    {
+      "Version": "0.9.0.2",
+      "SHA1": "9a7KrOrBYwj17vo7008bJ43xF98="
+    }
+  ],
+  "ArchiveType": "jar"
+}

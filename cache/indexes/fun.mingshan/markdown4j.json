@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.mingshan",
+  "ArtifactID": "markdown4j",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "eGtqgb68CIg5JL1EL8Ewbh4nJpQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

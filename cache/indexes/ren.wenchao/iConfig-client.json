@@ -1,0 +1,11 @@
+{
+  "GroupID": "ren.wenchao",
+  "ArtifactID": "iConfig-client",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "fJH30jD0NhMiMtHpvBvDRCjlWgI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

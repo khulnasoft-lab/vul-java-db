@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.jws",
+  "ArtifactID": "javax.jws-api",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "xiOUHr0iW7BepUbcgVkKYuQOT84="
+    }
+  ],
+  "ArchiveType": "jar"
+}

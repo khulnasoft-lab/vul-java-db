@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "module-vfs-physfs",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "xcHtc/WpDLTFRmjwgLwc8HFCe+M="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "E3EGmAgMg6F5eEY/U3L69gRKKTY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

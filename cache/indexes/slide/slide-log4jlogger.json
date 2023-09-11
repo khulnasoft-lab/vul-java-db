@@ -1,0 +1,11 @@
+{
+  "GroupID": "slide",
+  "ArtifactID": "slide-log4jlogger",
+  "Versions": [
+    {
+      "Version": "2.0b1",
+      "SHA1": "cBAiBW/S2+gej3qohJn6BJ6NtBk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

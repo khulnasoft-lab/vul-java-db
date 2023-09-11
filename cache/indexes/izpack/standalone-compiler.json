@@ -1,0 +1,11 @@
+{
+  "GroupID": "izpack",
+  "ArtifactID": "standalone-compiler",
+  "Versions": [
+    {
+      "Version": "3.8.0",
+      "SHA1": "sXMOhTgNrXSAZL3HAYmhu9ZUKQA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

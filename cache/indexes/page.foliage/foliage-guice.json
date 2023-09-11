@@ -1,0 +1,11 @@
+{
+  "GroupID": "page.foliage",
+  "ArtifactID": "foliage-guice",
+  "Versions": [
+    {
+      "Version": "4.1.0",
+      "SHA1": "hrFp6meAiTRO1P2B9ADI4x9udac="
+    }
+  ],
+  "ArchiveType": "jar"
+}

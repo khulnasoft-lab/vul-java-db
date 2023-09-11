@@ -1,0 +1,11 @@
+{
+  "GroupID": "tokyo.northside",
+  "ArtifactID": "eb4j",
+  "Versions": [
+    {
+      "Version": "3.0.1",
+      "SHA1": "43piU7/e7YyLIAq60yHtdGr4S88="
+    }
+  ],
+  "ArchiveType": "jar"
+}

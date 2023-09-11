@@ -1,0 +1,15 @@
+{
+  "GroupID": "fr.greweb",
+  "ArtifactID": "playcli_2.10",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "Y9uCquY4SASF2n+KCijAXV4mJk0="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "T8IKhLE/LLy3ifbl1/9h+I0+fd4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

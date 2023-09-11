@@ -1,0 +1,11 @@
+{
+  "GroupID": "ymsg",
+  "ArtifactID": "ymsg-test",
+  "Versions": [
+    {
+      "Version": "0.6",
+      "SHA1": "ce+866Bvc19vfVPxgME1gOcrl+Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-slop",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "UJNQ9O7z7VB/G2NVV4QCvDMVp4w="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "cvRwFxeYrRtETY0xPDGu6dDS5q8="
+    },
+    {
+      "Version": "2.1.5.1",
+      "SHA1": "5QWLWvLKiw7DN24E50mXorAqIWs="
+    },
+    {
+      "Version": "2.1.6",
+      "SHA1": "C+U4OMRJINfwn2FeNLycXsw7giw="
+    },
+    {
+      "Version": "2.1.7",
+      "SHA1": "BoVFNqMdGTItOSa1uFTQazoRu/8="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "k/1flhXKUrY4SQQILADzfbjpU2k="
+    },
+    {
+      "Version": "2.1.9",
+      "SHA1": "C2THqvCZQt5SEvi+byBsbaOwdYk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

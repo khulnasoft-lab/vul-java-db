@@ -1,0 +1,47 @@
+{
+  "GroupID": "eus.ixa",
+  "ArtifactID": "ixa-pipe-pos",
+  "Versions": [
+    {
+      "Version": "1.4.0",
+      "SHA1": "0jSItJYQ1lcR4ul16mztx7gWHyQ="
+    },
+    {
+      "Version": "1.4.1",
+      "SHA1": "xYP1RLfoDBdOZMuewWQg3nOUhHQ="
+    },
+    {
+      "Version": "1.4.3",
+      "SHA1": "/3GoPOfHbCW1sfztQ2F+Avaz1SE="
+    },
+    {
+      "Version": "1.4.4",
+      "SHA1": "BtKSL5ZdSGGFtpjP1mV0BZccplU="
+    },
+    {
+      "Version": "1.4.5",
+      "SHA1": "/m7tuBoHPYP9WhP3WqXkpnQQV8w="
+    },
+    {
+      "Version": "1.4.6",
+      "SHA1": "EkJRaMohRYGhhmHivnB5ueLxpuc="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "bM6dm87pMM6ZPew9xFX9c5haG64="
+    },
+    {
+      "Version": "1.5.1",
+      "SHA1": "yM/5kErHZ3HNr+5ZfwHeNFkkvRk="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "xyt0Pl/FmgiBPZ6MeexSZ4znr90="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "5URJYQJofBVYXyIrK91vnciPLrI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

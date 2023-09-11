@@ -1,0 +1,19 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-deploy-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "zQUngI6XR3sKEro+YUGWpCPqHz8="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "1+9JTmIMApqmpMVQ84CBYPTmwSo="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "7cdMAYbQvWr3/mQtCMZrPdEWE8Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

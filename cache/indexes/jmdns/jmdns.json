@@ -1,0 +1,11 @@
+{
+  "GroupID": "jmdns",
+  "ArtifactID": "jmdns",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "EklAG8DsZ4b8153hClv8RIIyJls="
+    }
+  ],
+  "ArchiveType": "jar"
+}

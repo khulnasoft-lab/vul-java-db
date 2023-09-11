@@ -1,0 +1,87 @@
+{
+  "GroupID": "springframework",
+  "ArtifactID": "spring-core",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "hVyOK+PFuiSwXsilj9fEfVL1fNo="
+    },
+    {
+      "Version": "1.0-rc1",
+      "SHA1": "iMGbsWFCyU2eRgSXqQZGLSLPHG4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "PP6qIQ1GubivcUtNtO3rNb8rZ3s="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "zfaHwSJqzPUKKCuT1zBD3W+84Ec="
+    },
+    {
+      "Version": "1.1-rc1",
+      "SHA1": "tPkZI2kRBzkOkTR485ijZNIfRa8="
+    },
+    {
+      "Version": "1.1-rc2",
+      "SHA1": "ynL1J5sfFv6pdsVkx8hWyO3AKEw="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "aT/m2eqO6bd7X1LjJoLxweJCX8I="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "jcB6rxxCcPXv1OSvRUylzC2D/CI="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "ioKSwUddLVhriEqoyQKF/rdLjmA="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "st9hioSzqDexc4rqqwM/DsqBPR8="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "Kq4XCJX9qO6KpLbfqxZcYDJF+qk="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "ulrfGNArTH4YwzRP/ATLJoeAWxE="
+    },
+    {
+      "Version": "1.2-rc1",
+      "SHA1": "QRfbwklnvhGIBHmJ6DTrgQTcqI8="
+    },
+    {
+      "Version": "1.2-rc2",
+      "SHA1": "sARU9Kyzxt2whwyj+ml+vcIivhE="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "tCeUQKeU74S1dS7NDKd/g+chQTs="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "h7s2KID8yhXY04+nagwVsmugCdk="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "FmTO0Ar5xhKPtT9JAdbTVVBOHzw="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "XRlde5K8zqPR8McSelnp50B9E1c="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "I6zRPBGuuUQI5MSYYK9cNaA6jNk="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "QCDBpzjN1IdLmprDwo82+ySKFKY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

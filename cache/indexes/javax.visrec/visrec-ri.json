@@ -1,0 +1,23 @@
+{
+  "GroupID": "javax.visrec",
+  "ArtifactID": "visrec-ri",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "RuImR4mgQ62iEC4kJeT8OXG3qmo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "YrvEntZK/GhAbOXncggcumVmVqk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "xCc7xFQkR5qICMzd/A8u1mgukP8="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "VSA/S2cnFod7BbPeG82sw4SAPfk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

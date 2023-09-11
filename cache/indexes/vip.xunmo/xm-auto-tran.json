@@ -1,0 +1,27 @@
+{
+  "GroupID": "vip.xunmo",
+  "ArtifactID": "xm-auto-tran",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "YD0yJw2UkkGVQQraqX/gIzrdxEY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "xKHODGStXFh9MkuH4DLiN9UgBZQ="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "uVDhPqF3Z3M9A2hs7gLzRnz5uEM="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "hk/182mG/j40pH4dDy2yUDSDJjg="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "3H27IJq0VtkHm6yqcA2SiwMH0rc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

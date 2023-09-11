@@ -1,0 +1,43 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "tofu-optics-interop_2.13",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "7Aaqo/sLaLi40UurczCk7g92sv0="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "PC4ZZcoMxM313+sD9fxyjL98lms="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "T45B+bO3mQIDX6MmgRZlkF5LRuw="
+    },
+    {
+      "Version": "0.10.3",
+      "SHA1": "EJYy87zk5r0C6whsZWQfpeG9rzg="
+    },
+    {
+      "Version": "0.10.4",
+      "SHA1": "4skD2zdTbAUYGT0IJQO55bkkTO8="
+    },
+    {
+      "Version": "0.10.5",
+      "SHA1": "nzDo/j9up/SH8Iqgh1kfc18Xm+8="
+    },
+    {
+      "Version": "0.10.6",
+      "SHA1": "qxJzNRHpsOMKdMxZ/bRL+Ao6RTw="
+    },
+    {
+      "Version": "0.10.7",
+      "SHA1": "faBmrxeiaHpSdZzmA9qNIWooR2U="
+    },
+    {
+      "Version": "0.10.8",
+      "SHA1": "23RZEmKZo7SK6yYs65za68dA3E4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

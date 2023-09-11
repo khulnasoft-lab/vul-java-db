@@ -1,0 +1,75 @@
+{
+  "GroupID": "uy.kohesive.klutter",
+  "ArtifactID": "klutter-conversion",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "cCIosWqCpG/BDSIdl/aa+INrfBo="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "Cpt299w6Hi9rDhAaI/gVW1kWP5E="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "Uwi8bkYhBuZlYrnqTfFDP5hFmb8="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "dflJ68g9P8XVKvzBUuvYNqoZU78="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "SECVgz0vd1sIdFvNQYN8/QFQZDM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "M3/pSSZdRgqLyviE5uaJ2IY11hA="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "ayyNVm1K74+ZQb7DKetIPEdW6LE="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "ZDQB8gWhtUqzbU0H34ap0vJdETo="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "NolIFWAXRH5szGqz5aF9Q0dMyOg="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "edwBh9l42yILNPiYCG1slRxqGk0="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "2Mkm05ULmRTkkpL15yMzn8eG0r4="
+    },
+    {
+      "Version": "2.5.0",
+      "SHA1": "lUs5K6QgizwHouDlKv9XZegtc+g="
+    },
+    {
+      "Version": "2.5.1",
+      "SHA1": "Dkcs3njSLYAOYhUh3pqBeBAo20A="
+    },
+    {
+      "Version": "2.5.2",
+      "SHA1": "q/5qqJweoo4sbsWU13FYroU1BZM="
+    },
+    {
+      "Version": "2.5.3",
+      "SHA1": "1LBqqbIcrz5myAsEMLmPh+YSuDQ="
+    },
+    {
+      "Version": "2.6.0",
+      "SHA1": "sKwS8j1/+QJkONQszNN+nTIUYJY="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "uPLHvqIp6CNQ78cpXnJhE3Rh+Dc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

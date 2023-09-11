@@ -1,0 +1,11 @@
+{
+  "GroupID": "ag.granular",
+  "ArtifactID": "tiffany",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "VwxOyE1XzhoC7juEglniSCb+P7c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

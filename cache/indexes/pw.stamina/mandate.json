@@ -1,0 +1,27 @@
+{
+  "GroupID": "pw.stamina",
+  "ArtifactID": "mandate",
+  "Versions": [
+    {
+      "Version": "2.0.4",
+      "SHA1": "o8bylaYJfzO5rnmdaygZJjnRt8I="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "hhTpnoTmkIUHW6NNWq4j25FT5C0="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "typF/kA5fP/rB1PUiQGI4nfCK+Y="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "mulQ4704UHeeps1hc4uxzBlm4z4="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "kEymyYIK8+Y5W2O2z4v92dbHvGU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

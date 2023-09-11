@@ -1,0 +1,15 @@
+{
+  "GroupID": "cash.muro",
+  "ArtifactID": "muro.cash",
+  "Versions": [
+    {
+      "Version": "0.1.0-alpha",
+      "SHA1": "2qyR5PbMWDdmkdAm5HQN3nGYZww="
+    },
+    {
+      "Version": "0.1.0-alpha2",
+      "SHA1": "LKkhGeGSJ1a6ervRD9S+mWkRdsw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

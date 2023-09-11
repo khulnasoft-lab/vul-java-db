@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.ozimov",
+  "ArtifactID": "assertj-guava",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "54JxDJx7UgOEgelLZ6WBsJ/7310="
+    }
+  ],
+  "ArchiveType": "jar"
+}

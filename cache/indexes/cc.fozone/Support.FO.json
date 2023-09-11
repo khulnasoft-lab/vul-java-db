@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.fozone",
+  "ArtifactID": "Support.FO",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "invNBNfE+gqTq7ZExfxKBZfS3RM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

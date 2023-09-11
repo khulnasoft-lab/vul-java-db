@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-jux",
+  "ArtifactID": "commons-jux",
+  "Versions": [
+    {
+      "Version": "20030306.065700",
+      "SHA1": "Ed/uwuDHHpa1+dB1+rZm55s29fA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

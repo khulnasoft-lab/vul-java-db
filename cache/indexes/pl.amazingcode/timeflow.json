@@ -1,0 +1,27 @@
+{
+  "GroupID": "pl.amazingcode",
+  "ArtifactID": "timeflow",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "0RAVX1Gtn0fuUiMFHslKwYs7dOQ="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "YqazZFetUhoZHaV3HEWLUXGOkMY="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "wSzfqYZbCEzU4RgYVcQh6/Z3CqU="
+    },
+    {
+      "Version": "1.4.0",
+      "SHA1": "zXTIh7RCABjud51CjK82GfxftkE="
+    },
+    {
+      "Version": "1.5.0",
+      "SHA1": "guZss8YD1AfQf7qVtx1S4+bCgOE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "design.hamu",
+  "ArtifactID": "bcrypt-effect_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "mt3Lydzx0nqzaQ+qPUG5QBrhxhE="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "QoAB87821k0aXDhlkLpMeA6im/A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

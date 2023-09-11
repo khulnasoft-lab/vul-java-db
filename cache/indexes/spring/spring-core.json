@@ -1,0 +1,11 @@
+{
+  "GroupID": "spring",
+  "ArtifactID": "spring-core",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "eAmS/z0uwHPuOzH9O2DAI63IMP8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

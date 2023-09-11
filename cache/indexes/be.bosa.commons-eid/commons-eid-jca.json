@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.bosa.commons-eid",
+  "ArtifactID": "commons-eid-jca",
+  "Versions": [
+    {
+      "Version": "1.0.4",
+      "SHA1": "l5NxPBEeTaOnbTNmn4m/T+mDlLg="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "qhdn8TtXF5tkF1Jm7Mip3H2AbdA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

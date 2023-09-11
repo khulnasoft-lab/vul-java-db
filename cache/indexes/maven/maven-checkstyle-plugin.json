@@ -1,0 +1,39 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-checkstyle-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "xpwn4nui3VGQ4ZbJ+63jDwgdrn0="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "lHMXrh27iDiTE+ad/enlVexSc/U="
+    },
+    {
+      "Version": "2.2",
+      "SHA1": "mXA+Et9IxEPlEu5t4Qfo7bXUVdc="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "fjleebU2Xh5vJlSil5YChHKQALM="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "TqteQqdyn6ZOONsadI7F/HSGq+o="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "xochxXZaK8k0wtZVXszXU6TQLBM="
+    },
+    {
+      "Version": "2.5",
+      "SHA1": "L1q6DAxFfvBFIBaTQcKKhxSAcX8="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "GBIcrIVWLW40OXzwkz72YKWBqsc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

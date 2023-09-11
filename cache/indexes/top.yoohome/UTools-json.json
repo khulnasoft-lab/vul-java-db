@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.yoohome",
+  "ArtifactID": "UTools-json",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "PG9dh14+HEJOyF+yLh+KX+Q6eqQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

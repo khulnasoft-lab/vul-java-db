@@ -1,0 +1,35 @@
+{
+  "GroupID": "ai.libs",
+  "ArtifactID": "hasco-core",
+  "Versions": [
+    {
+      "Version": "0.2.0",
+      "SHA1": "Rs0ozRlntR7D0FumnjcjcXqx5OE="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "gmf/4NekO+XtENEMyOSUiaPx5AI="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "gFfiCnTP9HAG6iaPh0C+qYLqxLM="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "2BHkcYr2i9acoHvyYeB73a0ZidA="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "K9gWKzlU9hXTqCFH3yYyS3Gu6oU="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "7B3TV6C43f54Abi5SGdn2tJcDjI="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "YcIXNmCyfd7X3WpNmJEuTs1fDgY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

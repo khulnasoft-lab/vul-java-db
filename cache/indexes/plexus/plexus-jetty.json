@@ -1,0 +1,19 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-jetty",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "QhQWVll19kAZQcOlnojd7YeHSDw="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "QNoj75USrlpW8kSIek8ltHMnVgY="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "ckH9QyWkqqgBo9miPpFujC1hhvI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "wadi",
+  "ArtifactID": "wadi-jboss4",
+  "Versions": [
+    {
+      "Version": "2.0M1",
+      "SHA1": "vq370hzEWdZ4Q4qtK7m6/1RXUhE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

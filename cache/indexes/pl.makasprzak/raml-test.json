@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.makasprzak",
+  "ArtifactID": "raml-test",
+  "Versions": [
+    {
+      "Version": "0.1-alpha",
+      "SHA1": "45WkpkJl1wboXvQ4qrI4a5vp+RM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

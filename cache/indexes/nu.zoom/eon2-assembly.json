@@ -1,0 +1,11 @@
+{
+  "GroupID": "nu.zoom",
+  "ArtifactID": "eon2-assembly",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "TmLIZYAXBFTAr8HNPCbnk9rPTSc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "tools.aqua",
+  "ArtifactID": "bgw-core",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "FI/njXrgu8yRd8UVmBn3J3TUdPA="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "+D1EcUJsbU8MSUO40dVGiQ3O9rk="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "UJAbURjr0+nsPzUkteoi/j4+/34="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "L74IxeDiYK3GW9wb4Sv96BYks8A="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "pFeLkG0XtQaMXej+F6565OnYccU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

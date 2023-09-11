@@ -1,0 +1,39 @@
+{
+  "GroupID": "be.lukin.poeditor",
+  "ArtifactID": "poeditor-client",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "r3CBT7qjBHAoYvWsp59nxqh6+5k="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "mkM4A82A4PKhjOQCjAOjjnecIMA="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "Ca6yT5sUK55bPpw0tSpYuE9et2c="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "Pe3YzU6BpwJnqMRfxJ7p9M2pMUQ="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "iMaYHB/O2C+AovSjRmf9JuYWxH4="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "jUkgEctOFqX4lgSH+crske5Jj70="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "kqJZ/PcmFvB4f6Hkxd/Cmpz9T+Q="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "RP6oq9ixuV5Ob3XiN2bc7og1yTE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

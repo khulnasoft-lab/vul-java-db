@@ -1,0 +1,11 @@
+{
+  "GroupID": "codes.vps",
+  "ArtifactID": "tomcat-valve-request-filter",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "w9uRmLOTJdlnfHO2SHz0lk0DQXo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

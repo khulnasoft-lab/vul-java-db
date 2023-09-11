@@ -1,0 +1,23 @@
+{
+  "GroupID": "it.xaan",
+  "ArtifactID": "random-cache",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "tyljVyot5kft13Jt+Lu6S3KOv8o="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "TxsPLEpwWBCk3SiD6YWGG9FM458="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "aVlXnJrnRL8667JL1HYfPfaFXh8="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "9wuDHiNc5fBmRqMWIGnyFaKny/I="
+    }
+  ],
+  "ArchiveType": "jar"
+}

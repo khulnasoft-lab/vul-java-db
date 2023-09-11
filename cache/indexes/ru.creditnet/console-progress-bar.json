@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.creditnet",
+  "ArtifactID": "console-progress-bar",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "zY1dknuRTqQuhmDp+neR/repeCI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

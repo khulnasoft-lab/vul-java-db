@@ -1,0 +1,31 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-nodeps",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "98tCgYhCBwfr4xiJqckkeAIbjCI="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "fzJGE64mld+KDEjAqBRDa5lJbAs="
+    },
+    {
+      "Version": "1.6.2",
+      "SHA1": "L1kF4NeAenTDBaccggN9mhgpPws="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "ft5nwWgcFE4RqyxwQfjcsq36cPk="
+    },
+    {
+      "Version": "1.6.4",
+      "SHA1": "EKwHiLyIjOHcWF+6JQPxZV68UwY="
+    },
+    {
+      "Version": "1.6.5",
+      "SHA1": "t9bSxwkvnweMdu6OHiCXZMFV9Mk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "tv.cntt",
+  "ArtifactID": "rhinocoffeescript",
+  "Versions": [
+    {
+      "Version": "1.6.2",
+      "SHA1": "hdgg5iSW0WNSsR8w5KOGeh2TMUY="
+    },
+    {
+      "Version": "1.6.3",
+      "SHA1": "FzuDojxGbMNFSFLrnpN2hh+t8rY="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "thCipA7mtFOGHvy8wVEK/n8x0cU="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "WRNOBHjlS9RQplxEt7Y1K23ZNKc="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "X5rX8ScLfqfFLdrijzqyAAayFY0="
+    },
+    {
+      "Version": "1.9.2",
+      "SHA1": "Iw5yUwKPUvt7LNQkdDSomOh4Tz8="
+    },
+    {
+      "Version": "1.9.3",
+      "SHA1": "WlW9g06ZigTdLxtjpQT87y2WweI="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "qzemQu5CpLtwuGS9XA51b6hvoTU="
+    },
+    {
+      "Version": "1.12.7",
+      "SHA1": "3E/soo6rAePYUxiNx2zYJr3XRNs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

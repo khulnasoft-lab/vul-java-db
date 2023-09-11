@@ -1,0 +1,43 @@
+{
+  "GroupID": "si.urbas",
+  "ArtifactID": "pless_2.10",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "hzuULllHIuiq9qjgSaOgISt0B9A="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "Nsn8EfJSEaA7Z2sAZ2iTcLke5VY="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "qLpTifuWK8BeaCKNMCWuSeJXmco="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "+ucXhaoVEXkqXYKhIUxZUHpslGw="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "Xv5LscYske/q4C75QnjyhgKHjLY="
+    },
+    {
+      "Version": "0.0.9",
+      "SHA1": "cQPK5rTNiSmDLG2so8+lJ97tOBk="
+    },
+    {
+      "Version": "0.0.10",
+      "SHA1": "QIrbojzDM2/YC8CVcyPN8HTGmig="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "Ip/eqwZJM37LqgW4+2g9z1e8+Kk="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "1qauFVmvdTPU7PgOMoG0jrqgYEc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

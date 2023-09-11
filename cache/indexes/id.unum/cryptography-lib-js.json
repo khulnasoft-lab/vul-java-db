@@ -1,0 +1,15 @@
+{
+  "GroupID": "id.unum",
+  "ArtifactID": "cryptography-lib-js",
+  "Versions": [
+    {
+      "Version": "0.3.2",
+      "SHA1": "rx2g9ZmPHUSUko+iYY+LXJXaAuY="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "UhkaY8/C5AOe/YcTtwhxN7ZJzb0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

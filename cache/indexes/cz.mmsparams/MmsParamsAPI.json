@@ -1,0 +1,11 @@
+{
+  "GroupID": "cz.mmsparams",
+  "ArtifactID": "MmsParamsAPI",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "h0fwHxFauXCvXVhZKaEoNAPj7ps="
+    }
+  ],
+  "ArchiveType": "jar"
+}

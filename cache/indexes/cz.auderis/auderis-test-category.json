@@ -1,0 +1,19 @@
+{
+  "GroupID": "cz.auderis",
+  "ArtifactID": "auderis-test-category",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "sIjE4nyJ8wN/oX8yEQvOglkZbws="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "X3ymnmnWywEQThXFA8GhJiaNX3Y="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "1gqXEakAxX5978ELZNZ34EAVl6g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

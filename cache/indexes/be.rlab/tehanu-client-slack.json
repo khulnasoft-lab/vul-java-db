@@ -1,0 +1,31 @@
+{
+  "GroupID": "be.rlab",
+  "ArtifactID": "tehanu-client-slack",
+  "Versions": [
+    {
+      "Version": "3.3.0",
+      "SHA1": "XaeIxqV4kmVzYpeZmFyE5x03iDs="
+    },
+    {
+      "Version": "3.3.1",
+      "SHA1": "oz+RmOmBhMUxDFQ/InLfrBkWhKY="
+    },
+    {
+      "Version": "3.3.2",
+      "SHA1": "A0bNg6stewhcx9OLttYhHOgk9hA="
+    },
+    {
+      "Version": "3.3.3",
+      "SHA1": "73/nBlGv530L6wr8qeHOCoQF7dE="
+    },
+    {
+      "Version": "3.3.4",
+      "SHA1": "U6zwBSdjonC+IyP14BiJnknORfE="
+    },
+    {
+      "Version": "3.3.5",
+      "SHA1": "JlqEJiqPt+/qohBC9aL8dlHda8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

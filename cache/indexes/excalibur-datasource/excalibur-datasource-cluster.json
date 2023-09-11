@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur-datasource",
+  "ArtifactID": "excalibur-datasource-cluster",
+  "Versions": [
+    {
+      "Version": "1.1.1a",
+      "SHA1": "wsoxK0Tba15NyYnPvOxH2q6Mf/g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

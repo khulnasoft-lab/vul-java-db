@@ -1,0 +1,11 @@
+{
+  "GroupID": "ml.dcjz.common",
+  "ArtifactID": "net",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "kLjnlDWTNI6mJKWxGoVvYfciSQ4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

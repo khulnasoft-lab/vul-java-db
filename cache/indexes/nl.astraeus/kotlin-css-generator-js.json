@@ -1,0 +1,31 @@
+{
+  "GroupID": "nl.astraeus",
+  "ArtifactID": "kotlin-css-generator-js",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "VJMerTqnpUY3Av7KSXCAxxODSZo="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "BbUcdDBY5CpN/bK7nYV9I65s6U0="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "+qi51MTxiOz7cyWbV8iUVdxYD6E="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "eXy0Ty51+Vq13RZEc+I4gIaUg64="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "yPrmJhNsQnIB9xhisBqsF7A/um0="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "lLzij0dU1hY9u6JCPlbpXMlEK20="
+    }
+  ],
+  "ArchiveType": "jar"
+}

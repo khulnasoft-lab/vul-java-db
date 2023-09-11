@@ -1,0 +1,87 @@
+{
+  "GroupID": "castor",
+  "ArtifactID": "castor",
+  "Versions": [
+    {
+      "Version": "0.9.2",
+      "SHA1": "JvZvCYsODm0OX2M75Fgg50W+lgE="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "S6IYcwvLccnTaV5CyO/WXwadmeA="
+    },
+    {
+      "Version": "0.9.3.9",
+      "SHA1": "SEjpx61nrRTTOYskoC7TOC1ZfDs="
+    },
+    {
+      "Version": "0.9.4",
+      "SHA1": "5JsM+cMM8+BvWha36rbzcZpRsl4="
+    },
+    {
+      "Version": "0.9.4.2",
+      "SHA1": "jlwqs4xsx5f/T6C8JZyKXSilvfA="
+    },
+    {
+      "Version": "0.9.4.3",
+      "SHA1": "Umg/XK2oPClAs7k2ZYK8gHcIL4E="
+    },
+    {
+      "Version": "0.9.5",
+      "SHA1": "ObudlmDaiGa+0R37hfIDeyzDcVI="
+    },
+    {
+      "Version": "0.9.5.1",
+      "SHA1": "+9jStgWVWDPday4qW5OSiwZP+N8="
+    },
+    {
+      "Version": "0.9.5.2",
+      "SHA1": "Y/7255eYeBJLUbse9m6LbuTV7tg="
+    },
+    {
+      "Version": "0.9.5.3",
+      "SHA1": "12vrQmzyKO5pBNCL2DGLESpgJbk="
+    },
+    {
+      "Version": "0.9.5.4",
+      "SHA1": "Goaa9JmHk7QNKFFnVFHtm782kLc="
+    },
+    {
+      "Version": "0.9.6",
+      "SHA1": "7AIYmsdSymyz1V7BoIQwtbBGlqs="
+    },
+    {
+      "Version": "0.9.7",
+      "SHA1": "SGZOjdCOEwSZStkJx2sqHb0mThE="
+    },
+    {
+      "Version": "0.9.9.1",
+      "SHA1": "z9Gqd5IF8BZScUtSH1WPryvHyD8="
+    },
+    {
+      "Version": "0.9.9",
+      "SHA1": "RQQG/2SGOHZNLmBG1S03TJW6EEM="
+    },
+    {
+      "Version": "1.0M1",
+      "SHA1": "9lHClhGUeKquojHgkM5QPOsbZDo="
+    },
+    {
+      "Version": "1.0M2",
+      "SHA1": "i2UUrfDbt2k4NJ6lDns45Gp+i5U="
+    },
+    {
+      "Version": "1.0M3",
+      "SHA1": "5AbFSdv6DHXpWfopGE52Ikh0lB8="
+    },
+    {
+      "Version": "1.0M4",
+      "SHA1": "oaLsyTKgsriORja3lQXjsncruhk="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "u2mEMB6YQ34pSm+9FGb3SpE6s7o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

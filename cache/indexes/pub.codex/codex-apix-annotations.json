@@ -1,0 +1,39 @@
+{
+  "GroupID": "pub.codex",
+  "ArtifactID": "codex-apix-annotations",
+  "Versions": [
+    {
+      "Version": "4.2.0",
+      "SHA1": "b11rtsQpEE+WvSGuG0fwdK0mF+I="
+    },
+    {
+      "Version": "4.2.1",
+      "SHA1": "qn4ma9UJKA6aekSTUC9Q2FUx2is="
+    },
+    {
+      "Version": "4.2.2",
+      "SHA1": "wDNVzYc/ZGm+XWgDINtxKqvojVE="
+    },
+    {
+      "Version": "4.2.3",
+      "SHA1": "YrzKXws4WLbGvgTh6YUQQTrBZMs="
+    },
+    {
+      "Version": "4.2.4",
+      "SHA1": "ZE9YBnP3oaYdBkIaSu7Klwy7EvM="
+    },
+    {
+      "Version": "4.2.5",
+      "SHA1": "dC4CrtVKbfF5EhswI7ef9/PbiMk="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "djUxxhKc4+8CH4rESHhNpqgwPyE="
+    },
+    {
+      "Version": "5.0.2",
+      "SHA1": "mcm+PMAa5U8LnZx54o4/Zf3ezaQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

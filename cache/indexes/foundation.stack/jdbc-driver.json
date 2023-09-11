@@ -1,0 +1,11 @@
+{
+  "GroupID": "foundation.stack",
+  "ArtifactID": "jdbc-driver",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "SZJz4zgp9rJM+iSLtqxZ6O25wHk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

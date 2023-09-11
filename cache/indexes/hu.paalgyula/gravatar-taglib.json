@@ -1,0 +1,23 @@
+{
+  "GroupID": "hu.paalgyula",
+  "ArtifactID": "gravatar-taglib",
+  "Versions": [
+    {
+      "Version": "0.1.1",
+      "SHA1": "OBrrGRuSr9bZ/nJNNIDnrOUoc4E="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "Zju7IcMfNY6qDHPYARxAIfv1seg="
+    },
+    {
+      "Version": "0.1.3",
+      "SHA1": "IORIC3xRwChCYWIyCIbi4WHmR+A="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "3J7gxVTyB88bVYVN50oGJSK8BrM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

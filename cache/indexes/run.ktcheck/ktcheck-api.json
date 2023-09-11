@@ -1,0 +1,15 @@
+{
+  "GroupID": "run.ktcheck",
+  "ArtifactID": "ktcheck-api",
+  "Versions": [
+    {
+      "Version": "v0.1.0",
+      "SHA1": "Orwo1ZV90+RQL/OLNySwwKvkQJ4="
+    },
+    {
+      "Version": "v0.2.0",
+      "SHA1": "a8paVjXmt1ij4VFKTE9R6Fh1X0U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

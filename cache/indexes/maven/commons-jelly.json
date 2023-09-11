@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "commons-jelly",
+  "Versions": [
+    {
+      "Version": "1.0.1-20060717",
+      "SHA1": "VTnEzseXAMFjMPjNBuHZr5+evKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

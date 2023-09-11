@@ -1,0 +1,11 @@
+{
+  "GroupID": "no.digipost",
+  "ArtifactID": "api-commons",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "svVzzydJnDq0a8KFIDtEjwmcw2k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,67 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-hibernate",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "T23lh+PH4Rn7BprDT2T22yW2z0w="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "l1Cn6a9YVkuN1QQKkUWY/luo3mI="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "3JF8knbaZU+s09FF5Od7nUuUahM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "oz+ZX2VxiDPva8artTMdj9yzVJo="
+    },
+    {
+      "Version": "20050206.203645",
+      "SHA1": "QV6UYldDghgS91FsT3x3c6BKlZ8="
+    },
+    {
+      "Version": "20050208.123239",
+      "SHA1": "GsUh2lIQ3aJhz2Ma30Mhqb1QLRs="
+    },
+    {
+      "Version": "20050208.124427",
+      "SHA1": "KNv26quWVD4yVUQbEb77o3L0MBo="
+    },
+    {
+      "Version": "20050221.205720",
+      "SHA1": "eqCfdmXEpmcexHnEUU3yTrhEHCc="
+    },
+    {
+      "Version": "20050222.202417",
+      "SHA1": "WaKfFkGvCTD8w1fXk9BlzIacYZ4="
+    },
+    {
+      "Version": "20050302.194743",
+      "SHA1": "lgUpGhD9K5JLIhQ1mBSjg+0v9bo="
+    },
+    {
+      "Version": "20050302.200233",
+      "SHA1": "JvN4HXFK+eNc/D0PtDudym+PCzc="
+    },
+    {
+      "Version": "20050302.201930",
+      "SHA1": "AccBy610fftFg7n9udS9nr3brN0="
+    },
+    {
+      "Version": "20050302.204438",
+      "SHA1": "+sfFpJphW894wIuCj7hvUMPkXrg="
+    },
+    {
+      "Version": "20051012.090748",
+      "SHA1": "xyyRHzyUTb+4eh2t35kFYogl4aQ="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "ocwV8tLenxWkGb99hT7quiMCq0o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "cl.hambreysed.supertools",
+  "ArtifactID": "supertools",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "IAKACkWApV8u6tjBD6McuqeXAaA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

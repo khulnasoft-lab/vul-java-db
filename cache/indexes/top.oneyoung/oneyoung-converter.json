@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.oneyoung",
+  "ArtifactID": "oneyoung-converter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "b8R78CIYc69PpBUYqlQP7l+Orto="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "YmK2ub5MwOCG59fr2CywD1ADRqI="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "GL/lqHBfrm4qs6KcyT24jY9x8ok="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "HGe2moM44wHne4sCXlviRTYIeVs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

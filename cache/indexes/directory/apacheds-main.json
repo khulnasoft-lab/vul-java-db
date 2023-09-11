@@ -1,0 +1,23 @@
+{
+  "GroupID": "directory",
+  "ArtifactID": "apacheds-main",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "mDQJ4LZQAnHIpHeN7GjQj8fhNZs="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "hcSrb6+X+58d6WmPRuh1haOIbUY="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "+c1eDqu4jgwTYihZgPtK3L9iZlQ="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "AcNDBH7O6nMq9KlZN9hmeQHqexc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

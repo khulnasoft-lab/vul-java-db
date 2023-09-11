@@ -1,0 +1,43 @@
+{
+  "GroupID": "jfreechart",
+  "ArtifactID": "jfreechart",
+  "Versions": [
+    {
+      "Version": "0.9.16",
+      "SHA1": "QUVkYVrT5r8JRs3asyxjypFvdxk="
+    },
+    {
+      "Version": "0.9.17",
+      "SHA1": "jWefWlgM/gTmA7oUTmA9nNJFV7c="
+    },
+    {
+      "Version": "0.9.18",
+      "SHA1": "2iQu7agbohDLyavKyv8N7HS7bdA="
+    },
+    {
+      "Version": "0.9.19",
+      "SHA1": "YE+1yvjJcl6b+JnRIM0F5t1ifPY="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "b04F0zlnOQ8wqYKMHztV56/Vql4="
+    },
+    {
+      "Version": "0.9.20",
+      "SHA1": "6MpNyO3Q8cZq3otFOZQNev4OKj0="
+    },
+    {
+      "Version": "0.9.3",
+      "SHA1": "W6zlzIFQTIohegg8pNWtlL9f1rw="
+    },
+    {
+      "Version": "0.9.8",
+      "SHA1": "OW1AmyMqGm0IynJFCvnM/Soi6q0="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "j+udQo5HoY5P4xIXzVT00rlrrZg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

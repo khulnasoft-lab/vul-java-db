@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.business-process.payraise",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "atRF7XbH67D6Ru+V67l4yUVT8Eg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

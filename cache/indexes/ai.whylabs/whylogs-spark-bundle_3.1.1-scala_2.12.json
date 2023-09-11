@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.whylabs",
+  "ArtifactID": "whylogs-spark-bundle_3.1.1-scala_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.8-b0",
+      "SHA1": "2OC6B1f98bum27hpL/dP82yAUaw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

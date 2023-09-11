@@ -1,0 +1,35 @@
+{
+  "GroupID": "top.populus",
+  "ArtifactID": "bees",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "XuLVHLO5skjVyO2i/5wkCIyaMCY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "0rMOv83y35EnCx4fa1ZZ+Hj1oJE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "V+QeSvX3IKd0V1uxI7G9oizWTs8="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "VqwfS7YY5M4Nu+yl2XVCZ337RT8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "AHsmtXaGJbbCYp9HeJogLYflFsw="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "c9Iqz6DoTJelQXaqsYgfVIYzNW0="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "dUsbPWEez1RY7q6R9+Bdd4uvfVQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

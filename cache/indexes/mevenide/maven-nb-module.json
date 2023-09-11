@@ -1,0 +1,11 @@
+{
+  "GroupID": "mevenide",
+  "ArtifactID": "maven-nb-module",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "qs8pCsDl/bAr/6njHm5c/5Y3BBQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

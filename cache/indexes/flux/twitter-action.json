@@ -1,0 +1,15 @@
+{
+  "GroupID": "flux",
+  "ArtifactID": "twitter-action",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "tzkz5V/eHv1iyqMOM6Sz7NsfnLI="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "XUTnMUrsL9I4eCAVkNygn1ntoE4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

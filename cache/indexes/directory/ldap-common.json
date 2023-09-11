@@ -1,0 +1,11 @@
+{
+  "GroupID": "directory",
+  "ArtifactID": "ldap-common",
+  "Versions": [
+    {
+      "Version": "20031205.013436",
+      "SHA1": "cbi1YUyPADLYsn3SfQZRpgpdHdw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

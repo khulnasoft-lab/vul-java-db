@@ -1,0 +1,11 @@
+{
+  "GroupID": "httpcomponents-httpcore",
+  "ArtifactID": "jakarta-httpcore-niossl",
+  "Versions": [
+    {
+      "Version": "4.0-alpha4",
+      "SHA1": "6MTz9YKGCgkJ7jmq7/EVYHDBHpk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

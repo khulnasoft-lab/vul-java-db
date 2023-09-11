@@ -1,0 +1,11 @@
+{
+  "GroupID": "dk.kvalitetsit",
+  "ArtifactID": "spring-request-id-logger",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "2DHyUNhNzAdNDlokzjFHUHXX2/8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

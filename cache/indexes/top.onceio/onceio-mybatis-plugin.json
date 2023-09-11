@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.onceio",
+  "ArtifactID": "onceio-mybatis-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "SCYJXCZlu/C7J8UdfxpslVGkWoc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

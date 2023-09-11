@@ -1,0 +1,35 @@
+{
+  "GroupID": "uy.kohesive.cuarentena",
+  "ArtifactID": "cuarentena-painless-policy",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA-01",
+      "SHA1": "0w3LnBUFf84OQTB79RtHmru3gb8="
+    },
+    {
+      "Version": "1.0.0-BETA-02",
+      "SHA1": "U9GARsA8m6XCdVksKjMMacC4vOk="
+    },
+    {
+      "Version": "1.0.0-BETA-03",
+      "SHA1": "qQw/p8W9dmSlD/+vYfFK4eRHTQM="
+    },
+    {
+      "Version": "1.0.0-BETA-04",
+      "SHA1": "Ymp6sseAlLKOsUBZMBnOtskiwwQ="
+    },
+    {
+      "Version": "1.0.0-BETA-05",
+      "SHA1": "TC/v5QKC4vq+NXiU1dE0gBEJ8jk="
+    },
+    {
+      "Version": "1.0.0-BETA-07",
+      "SHA1": "YKXjqdZCxETJFvzOXvs7oYxAak0="
+    },
+    {
+      "Version": "1.0.0-BETA-08",
+      "SHA1": "ASX8+UQqgJuh9pQ9rNJMdryBgj0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

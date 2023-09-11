@@ -1,0 +1,11 @@
+{
+  "GroupID": "pw.mihou",
+  "ArtifactID": "Rose-Java-Driver",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "STekna7OClX7bqgMOPpmYYPL+5s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

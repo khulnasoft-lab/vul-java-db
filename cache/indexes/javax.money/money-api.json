@@ -1,0 +1,47 @@
+{
+  "GroupID": "javax.money",
+  "ArtifactID": "money-api",
+  "Versions": [
+    {
+      "Version": "0.8",
+      "SHA1": "ZuYBdjnVGnv0X9cJu4+R2SeSnLU="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "lxo7jlbUOFFEwtqR791oyW0xuho="
+    },
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "85HD7Q3zhC6fxtGvj4SzTOZEQWs="
+    },
+    {
+      "Version": "1.0-RC2",
+      "SHA1": "9mFJySV6LVgBucxbZ77sSHtiqNs="
+    },
+    {
+      "Version": "1.0-RC3",
+      "SHA1": "TTVL33BOZvGdiX4ZhlM8wBDALDM="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "ab4TuMUyuO8V04tP36MBzMepN7c="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "WG3vke3oyng6n7En4P+fLLd5IOk="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "+92SGokspdfLrWQ6sJNBKM/lB4o="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "0yhBj9rMAwATMPpbwZM2fcuFNBM="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "o79wCLOlscIp7yQDD1AEg1rle+o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pw.forst",
+  "ArtifactID": "exposed-upsert",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "qA5nujK0XpLC0Vl8/iY0iUHZkpM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

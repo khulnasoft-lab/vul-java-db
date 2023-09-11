@@ -1,0 +1,35 @@
+{
+  "GroupID": "so.kciter",
+  "ArtifactID": "thing",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "FQXenXdDWV4shSLvNrRQz36+JX0="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "lLI4uKsK/jy4cOCFE3LdHTRV6Yw="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "9mfnLCqAeGlrnVut+c9xSmRZ9Co="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "9UC8i38xePGz9m4KIZvFkGAUxPg="
+    },
+    {
+      "Version": "0.0.5",
+      "SHA1": "6Pti1/T7Evw22T+1+Ww5RB7EMjY="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "bzQqIeizvkM1/7u9cK7MELC80uQ="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "ZuKapHcNW/aibh6ajDAsavgPU1Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

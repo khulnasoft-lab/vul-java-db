@@ -1,0 +1,47 @@
+{
+  "GroupID": "fr.iscpif",
+  "ArtifactID": "gridscale_2.11",
+  "Versions": [
+    {
+      "Version": "1.90",
+      "SHA1": "ltl/UnOXGFe7YXISJccl/Tgx6Pk="
+    },
+    {
+      "Version": "1.91",
+      "SHA1": "fiZrg71K02XKVWABvg64hK/8LdE="
+    },
+    {
+      "Version": "1.92",
+      "SHA1": "mzTM7CwR/Ra2hfWOB9qD9zsflRo="
+    },
+    {
+      "Version": "1.93",
+      "SHA1": "deta9UJwfE6YLsThHZ8QHzH9UPU="
+    },
+    {
+      "Version": "1.94",
+      "SHA1": "6bFNtSZ94JpFZ7j/o1h+Pt/S7Es="
+    },
+    {
+      "Version": "1.95",
+      "SHA1": "I0/RRxlNHbqzGsTyFWPQ8f42DFM="
+    },
+    {
+      "Version": "1.96",
+      "SHA1": "y8QuY+ugHDoQdNvXynRXOlWz7QM="
+    },
+    {
+      "Version": "1.97",
+      "SHA1": "JIUwUYiQK56ZjJ6bzHPpkC8S+44="
+    },
+    {
+      "Version": "1.98",
+      "SHA1": "xrCRZNg45XkOJNVZGZ4UHLcuDRM="
+    },
+    {
+      "Version": "1.100",
+      "SHA1": "moWTPnrGi6yx0WuUcku4DgdAgiY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

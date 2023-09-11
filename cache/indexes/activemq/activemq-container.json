@@ -1,0 +1,63 @@
+{
+  "GroupID": "activemq",
+  "ArtifactID": "activemq-container",
+  "Versions": [
+    {
+      "Version": "3.1",
+      "SHA1": "zg0oy2qzxF0zT6lGQqNQtQF+MgY="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "awbvYorVrAQIfH0BDWO3CXXfV8s="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "cFLIb6xTE1mxdy8ns1DkpRCOE/I="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "C/LLwpBHdsDq1DtYXFLWjEphtYY="
+    },
+    {
+      "Version": "2.0",
+      "SHA1": "hASW67t1T5WEn8xBADlQHjptEdE="
+    },
+    {
+      "Version": "2.1",
+      "SHA1": "GGgNekk44jnKtT8F9h45UvvED3E="
+    },
+    {
+      "Version": "3.0",
+      "SHA1": "NuN4a/yvoW+yRwnF4BYI2Mnu6tw="
+    },
+    {
+      "Version": "3.1-M1",
+      "SHA1": "asTi8Xu9D/O3vIqyqcs1CBuEbVQ="
+    },
+    {
+      "Version": "3.1-M2",
+      "SHA1": "BI/WakUMaV9L8hANd1R5Tg87+Wo="
+    },
+    {
+      "Version": "3.1-M3",
+      "SHA1": "rc/fAuw7ufms17j0uzLY+cRq0+g="
+    },
+    {
+      "Version": "3.1-M4",
+      "SHA1": "AYRdT8Y5jVfec/8l1qqlyivvO5I="
+    },
+    {
+      "Version": "3.1-M5",
+      "SHA1": "57BWh2TAE/vPfPSmmw3uyW9KblQ="
+    },
+    {
+      "Version": "3.1-M6",
+      "SHA1": "pBytRjgMxf1H98whfkvKcEoOXPM="
+    },
+    {
+      "Version": "3.2-M1",
+      "SHA1": "GWsVhWs4T3i2mrP4JLCuhOgyinc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.xml",
+  "ArtifactID": "jaxws-api",
+  "Versions": [
+    {
+      "Version": "2.0EA3",
+      "SHA1": "GSf6jWtL9CMC8Ol59bQxFBTzJyg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

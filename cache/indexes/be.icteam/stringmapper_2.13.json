@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.icteam",
+  "ArtifactID": "stringmapper_2.13",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "3przx0WcubqmN3FdAbixdlj+QPQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "PYTN9XT9XZlyHoMbc8gxWFfQ+AA="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "N5zEY3+dg1dwAowKNFxY3DoHSug="
+    }
+  ],
+  "ArchiveType": "jar"
+}

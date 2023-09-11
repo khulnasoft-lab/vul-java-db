@@ -1,0 +1,15 @@
+{
+  "GroupID": "si.urbas",
+  "ArtifactID": "icircles",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "MFzO3OFGXb66Fsj5AfZf6QrzWZs="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "zV9tUOCFL4+WGc5XIA5/t/IwNsI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "mil.nga",
+  "ArtifactID": "gars",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "cXL/27ubrJcpyMS/nyuDl/pVHNU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "letoT0K+NA84qZoYoWbvRAyy4Hk="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "3pKAa5WfzFeLXJ8IqqAQvWSjMf0="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "1p1n30rdBl5ZeIy4d4fjna9mEDc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

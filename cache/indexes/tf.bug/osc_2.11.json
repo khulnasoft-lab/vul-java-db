@@ -1,0 +1,11 @@
+{
+  "GroupID": "tf.bug",
+  "ArtifactID": "osc_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Dh0u5igFhmHh6znLZWa2F4OtPAM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

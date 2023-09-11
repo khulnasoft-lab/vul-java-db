@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.doeraene",
+  "ArtifactID": "sbt-dynscalajs-test-bridge_sjs0.6_2.11",
+  "Versions": [
+    {
+      "Version": "0.3.0",
+      "SHA1": "oJpVWQ+6cty7jKt4EfnrCnjNdtw="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "1NPo6bMjOXjfEXT/LeQX5tvuNV4="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "jIzGWr+I8601X4A/oVwlegUID+4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

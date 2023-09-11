@@ -1,0 +1,15 @@
+{
+  "GroupID": "cool.doudou",
+  "ArtifactID": "doudada-cipher-algorithm",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "CL9PxlYGo34O5lvpqsd4ML5qtu4="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "+5jgP8ELDY6dqmyqDwdv49xfb0U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

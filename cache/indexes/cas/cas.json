@@ -1,0 +1,11 @@
+{
+  "GroupID": "cas",
+  "ArtifactID": "cas",
+  "Versions": [
+    {
+      "Version": "2.0.12",
+      "SHA1": "uwA0+NW2uZFBxrfO93kfcJThdnM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

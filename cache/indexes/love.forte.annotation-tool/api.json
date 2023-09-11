@@ -1,0 +1,23 @@
+{
+  "GroupID": "love.forte.annotation-tool",
+  "ArtifactID": "api",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "nKgK0MlMFZ3/RfIfqT5eVUhCXV0="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "+4Oe/TdyDUU3J0szt4CZE+vJEPY="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "NgIY5DJqCysr0RDqW0VfZsaUoYQ="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "LZ0hpra5PJN4GzgQSwMNeUzv5HU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

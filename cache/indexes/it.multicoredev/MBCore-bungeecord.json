@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.multicoredev",
+  "ArtifactID": "MBCore-bungeecord",
+  "Versions": [
+    {
+      "Version": "6.0.0",
+      "SHA1": "L75E3S0tLlTTuTskt8j8vurrmD0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

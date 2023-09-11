@@ -1,0 +1,19 @@
+{
+  "GroupID": "live.lumia",
+  "ArtifactID": "base-starter",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "MlH6ptxmviHpAA/M22PRoEZVRTU="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "kcEIqEuPyl89I34gO3hHkS7XxR4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "xfLJQkxfe0RyEzx6UtVaP2WZAb4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

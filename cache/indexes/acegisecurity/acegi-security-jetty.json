@@ -1,0 +1,39 @@
+{
+  "GroupID": "acegisecurity",
+  "ArtifactID": "acegi-security-jetty",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "tHCLgIy1Q9n0hhyoffTRSep803E="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "2jBaAdfGk5LM9lw4an1hxQRv1wU="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "ucIGm+ABDzZwH+Jaa9ye/MUz4bI="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "rKK6EILyOZWbtRuGbPJYLXrh7eo="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "bOGc/wLnrlOnmSgsuUt9uUthI7w="
+    },
+    {
+      "Version": "0.8.1.1",
+      "SHA1": "7yhmTNtXUJ/N9hdN6PMvdLUwh3Y="
+    },
+    {
+      "Version": "0.8.3",
+      "SHA1": "zlwr0iPbZjnRBEJI8DHiejjG7BA="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "30eCj0aQIW4sGFiqzf4H5+URxak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

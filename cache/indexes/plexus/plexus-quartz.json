@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-quartz",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "LZRuWqRdFuDXX+dnRNZCioLe4aw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

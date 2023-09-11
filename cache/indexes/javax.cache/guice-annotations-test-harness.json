@@ -1,0 +1,59 @@
+{
+  "GroupID": "javax.cache",
+  "ArtifactID": "guice-annotations-test-harness",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "ul8W2Mx5R/xgbqCwe6BtVsAkaPc="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "I2UW5kGG9O5+USTG8mz1n7gmtI8="
+    },
+    {
+      "Version": "0.7",
+      "SHA1": "rFaDDrXGDC3oXDO/uEEcmFCG54k="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "DjuUCG9rBgt6kTvVfZcHCy11qmM="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "gcjRu5GCM3nIR0xU1pj3xAab6uM="
+    },
+    {
+      "Version": "0.10",
+      "SHA1": "y+URZ6HYTJ7z7Zz3HectzmGyy8U="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "XI2OSzmoWFMnHFCWzRcFwabM+8w="
+    },
+    {
+      "Version": "0.61",
+      "SHA1": "GIimZWSG3vz/iLkAjddrk5Htlvs="
+    },
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "EqxjwIVSkdnjFeYLSYXGQqCuEwU="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "vUqHcUkHaOB4f+dje1N7fIBsiqo="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "PsgXNxW4GnPHeMuGYVc7LuQnW7k="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "gt9ZUSqxvoUQLXi85dEFkAqI1Eo="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "guT+VRSU4PXvPMLz1FGZagdLJ4c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

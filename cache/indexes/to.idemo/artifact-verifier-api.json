@@ -1,0 +1,11 @@
+{
+  "GroupID": "to.idemo",
+  "ArtifactID": "artifact-verifier-api",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "XrG29UeiMR45CYDvcXtxR+uS3vw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

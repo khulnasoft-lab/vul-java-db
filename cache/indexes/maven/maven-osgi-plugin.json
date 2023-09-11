@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-osgi-plugin",
+  "Versions": [
+    {
+      "Version": "0.3.1",
+      "SHA1": "iaUHrwS48j6CWnjVhVSGS9UwZpo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

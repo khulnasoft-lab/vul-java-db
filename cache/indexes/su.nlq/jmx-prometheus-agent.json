@@ -1,0 +1,43 @@
+{
+  "GroupID": "su.nlq",
+  "ArtifactID": "jmx-prometheus-agent",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "6zhgHhMURLZNKTkkh6ShTlRWzSo="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "5Qn9ccQiVrI96ztzQJJSGv0WK2U="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "0/DXp5IL+/O8gjylAHVZCOEA9yU="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "/6Uy8OinpgewupCUR8SpDi6t3co="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "oiIh3/C0mOX26uR4JXKVIsRcowQ="
+    },
+    {
+      "Version": "0.6.1",
+      "SHA1": "ioSa6CFcnhdAQDQ7sO6DTcLJK3A="
+    },
+    {
+      "Version": "0.6.2",
+      "SHA1": "lqDRExGdyOfHO3Bt5KDXuYRGUoY="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "0hpx7ZKutlGVqRQq5MbDS0KGIxc="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "xcRL6NIdYpXsdYQiJOuThDQa1FA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

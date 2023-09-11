@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.radiationx",
+  "ArtifactID": "kdiffer",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "VrGIuQq4ekcDtr2VAeSp8TgMsEM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "/K8p8Q+2uGnDZ2mj0Ty064sUK0A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

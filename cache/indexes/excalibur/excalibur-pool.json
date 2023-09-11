@@ -1,0 +1,11 @@
+{
+  "GroupID": "excalibur",
+  "ArtifactID": "excalibur-pool",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "iwGvbHB41O3X3oKSvFE2osNt/ys="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.h2o",
+  "ArtifactID": "daimojo",
+  "Versions": [
+    {
+      "Version": "2.7.12.25",
+      "SHA1": "KD5cT59G2Wp84HyYUGGIS/IGQ1Y="
+    },
+    {
+      "Version": "2.7.13",
+      "SHA1": "zou+Ppr5hsDloA4DqoL5AQaZ/2E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

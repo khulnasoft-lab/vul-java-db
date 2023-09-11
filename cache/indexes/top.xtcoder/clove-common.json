@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.xtcoder",
+  "ArtifactID": "clove-common",
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "SHA1": "g9mSP1CEtLHsBFRD1v/OJqsdcGI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

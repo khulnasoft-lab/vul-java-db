@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.venneborg",
+  "ArtifactID": "play28-refined_2.13",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "xZ+g8GPB1ng1f/9MpYQz3Mdq0Mk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

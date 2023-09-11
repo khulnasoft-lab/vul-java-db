@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon-phoenix",
+  "ArtifactID": "avalon-phoenix-bsh-commands",
+  "Versions": [
+    {
+      "Version": "4.0.4",
+      "SHA1": "YYXCt51VSwALr4ogW1sVSmr7xFA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

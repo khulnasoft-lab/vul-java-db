@@ -1,0 +1,19 @@
+{
+  "GroupID": "ltd.fdsa",
+  "ArtifactID": "fast-data-core-database-mybatis-plus",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "7WSaaMU6YFLS99TNqdopXWma9lw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "Hhf0s+l72v6Y9t/gpVjn8Ws+4VE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "2ClEqB2sdU/7LJ8746C5WXb9Bjc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,63 @@
+{
+  "GroupID": "vip.mate",
+  "ArtifactID": "mate-starter-dozer",
+  "Versions": [
+    {
+      "Version": "1.6.8",
+      "SHA1": "P7X6xyO9NtTRQVZzZzhZKZdMv9w="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "Nj8mi2eyQsIx48vxsjfVecBzYeE="
+    },
+    {
+      "Version": "2.1.8",
+      "SHA1": "ceQGOIEcsNHIowDZ7ZfzOme+dBY="
+    },
+    {
+      "Version": "2.2.8",
+      "SHA1": "WRPvZSlBP3e5uO8NMJGxrlY3GsQ="
+    },
+    {
+      "Version": "2.3.8",
+      "SHA1": "CbfMxCeVlPcTcJ6zv5jPjyMer2Y="
+    },
+    {
+      "Version": "2.5.8",
+      "SHA1": "os4K/X4kcE1lgXQgyT1IdM13UdQ="
+    },
+    {
+      "Version": "3.0.8",
+      "SHA1": "1aI/vvktViwA+tLd0TYqhti/tgA="
+    },
+    {
+      "Version": "3.1.8",
+      "SHA1": "fVS1mkMXrDxTFpTRulvWm8C2ag0="
+    },
+    {
+      "Version": "3.2.8",
+      "SHA1": "omGKgTaG4eepPaO+ENKSqGL9U0c="
+    },
+    {
+      "Version": "3.3.8",
+      "SHA1": "UKhIFctDein9LapATg1OrDDo9mY="
+    },
+    {
+      "Version": "3.5.8",
+      "SHA1": "BpjaJsSWqj5mGlxZCGQtPlWj99M="
+    },
+    {
+      "Version": "3.6.8",
+      "SHA1": "v5DLZzkc9qvX6BIGYTOPrUc1Xfc="
+    },
+    {
+      "Version": "3.7.8",
+      "SHA1": "icsHRj8F1np8VeDx6D8pqe3xkDI="
+    },
+    {
+      "Version": "3.8.8",
+      "SHA1": "AS5QqORUu2N+UI1C7j8Fu7tewxo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

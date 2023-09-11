@@ -1,0 +1,31 @@
+{
+  "GroupID": "servletapi",
+  "ArtifactID": "servletapi",
+  "Versions": [
+    {
+      "Version": "2.2",
+      "SHA1": "H9h8RdIA9Id8hEDsqjmZQJJdkPE="
+    },
+    {
+      "Version": "2.3",
+      "SHA1": "ATeiTp9ilz8B8W3SP8G1qZZP2e8="
+    },
+    {
+      "Version": "2.4-20030804.000000",
+      "SHA1": "8qMZJx2yBQTU/7A1rA4jJ9s/NEk="
+    },
+    {
+      "Version": "2.4-20040521",
+      "SHA1": "1msOnHipBVIEKrb58vCvsdh6Jo8="
+    },
+    {
+      "Version": "2.4.public_draft",
+      "SHA1": "P8VC/ou4Fk6NPoQP50A7wFGAU8A="
+    },
+    {
+      "Version": "2.4",
+      "SHA1": "P8VC/ou4Fk6NPoQP50A7wFGAU8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

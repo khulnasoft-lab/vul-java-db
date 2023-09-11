@@ -1,0 +1,87 @@
+{
+  "GroupID": "network.oxalis",
+  "ArtifactID": "oxalis-as4",
+  "Versions": [
+    {
+      "Version": "5.0.0.RC1",
+      "SHA1": "aWD25JUE3TKJynvFcA4W3VOovFw="
+    },
+    {
+      "Version": "5.0.0-RC2",
+      "SHA1": "CMFWUY0KBzqkCeSw1TvV08jWxLQ="
+    },
+    {
+      "Version": "5.0.0-RC3",
+      "SHA1": "GrHc3hdoQhYudsRTPT/hQlZ3cIE="
+    },
+    {
+      "Version": "5.0.0-RC4",
+      "SHA1": "WfyhfivBnaeYJzIq4hgWTwhvp20="
+    },
+    {
+      "Version": "5.0.0",
+      "SHA1": "WjmccgPUmIkGItgzKecBlXUCHyE="
+    },
+    {
+      "Version": "5.0.1",
+      "SHA1": "ZQeQfW7Kb/uTskUb2xp59bqkDYs="
+    },
+    {
+      "Version": "5.0.2",
+      "SHA1": "KOXG19oTNLtV3+qUF4VyXRJVKvQ="
+    },
+    {
+      "Version": "5.0.3",
+      "SHA1": "FgzZ/PSNHPX5iHJaDLjEx+BAKeE="
+    },
+    {
+      "Version": "5.0.4",
+      "SHA1": "amAa3fV2RoS0W1uNmWrGFVeZtR0="
+    },
+    {
+      "Version": "5.0.5",
+      "SHA1": "qgwJeF9xz/BVQ3IrVjNyB0XnqYY="
+    },
+    {
+      "Version": "5.0.6",
+      "SHA1": "39l7r2yUxl+TILNTHq1I3e39lGg="
+    },
+    {
+      "Version": "5.1.0",
+      "SHA1": "Fxw+uPSL1V/b5faUCno+Hwn0SZ4="
+    },
+    {
+      "Version": "5.2.0",
+      "SHA1": "nvw5y1knUKtPfvHQEX1M65s5Lhg="
+    },
+    {
+      "Version": "5.3.0",
+      "SHA1": "qs5uztqp1CI1evQh6pk7QJzvUMI="
+    },
+    {
+      "Version": "5.4.0",
+      "SHA1": "/soyJaWJ0N9pWQHoAoH+gksF1Wk="
+    },
+    {
+      "Version": "5.5.0",
+      "SHA1": "tYg/Lf9tgrBP4i39Ek51CZYU2nA="
+    },
+    {
+      "Version": "6.0.0-RC1",
+      "SHA1": "gRyKBCwa2Euh06jeKe4c21Fs9XM="
+    },
+    {
+      "Version": "6.0.0-RC2",
+      "SHA1": "UgFYBe7/a6uFmSHOzn9RyacnCk8="
+    },
+    {
+      "Version": "6.0.0-RC3",
+      "SHA1": "YOvSowEoh8rrFq9QvcZ9NlGbJ9k="
+    },
+    {
+      "Version": "6.0.0",
+      "SHA1": "eQpEQod/bj/PgMddB2xbGMeQ/PQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

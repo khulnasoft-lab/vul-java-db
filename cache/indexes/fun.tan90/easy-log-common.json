@@ -1,0 +1,39 @@
+{
+  "GroupID": "fun.tan90",
+  "ArtifactID": "easy-log-common",
+  "Versions": [
+    {
+      "Version": "1.1.9",
+      "SHA1": "U09LTA83g0suuzholR0zkZxAk+0="
+    },
+    {
+      "Version": "1.1.11",
+      "SHA1": "FDrz42FCVvIRVVn72FOJxcCmfPQ="
+    },
+    {
+      "Version": "1.1.12",
+      "SHA1": "XFftPNH3GlvbSmeReVspjcBTupY="
+    },
+    {
+      "Version": "1.1.13",
+      "SHA1": "2M0Q/wdkDKc+8yb9CSVQFIAsH9w="
+    },
+    {
+      "Version": "1.1.14",
+      "SHA1": "vJxe93ulbkMxT0WRUDffjp9o+m0="
+    },
+    {
+      "Version": "1.1.15",
+      "SHA1": "rZg94DWh6zSztGZXXwBb3dKRmkI="
+    },
+    {
+      "Version": "1.1.16",
+      "SHA1": "dyaQv/Aoy9gHMS/27eRL/jgmTQI="
+    },
+    {
+      "Version": "1.1.17",
+      "SHA1": "mvdJRCjrv7fdv7iQsOyhLFEHbKo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

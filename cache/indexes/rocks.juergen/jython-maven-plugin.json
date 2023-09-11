@@ -1,0 +1,23 @@
+{
+  "GroupID": "rocks.juergen",
+  "ArtifactID": "jython-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.1-20161010155937+196540c",
+      "SHA1": "NXDv41rW2oRl4fa9K0T6Exman3E="
+    },
+    {
+      "Version": "0.1-20161010165350+196540c",
+      "SHA1": "+YfkpIqMWYq7BFYsgtexOpjI3eg="
+    },
+    {
+      "Version": "0.2-20161011080554+39de0b4",
+      "SHA1": "oAUC6TapHEBx/pkg7A5ixXX/ONY="
+    },
+    {
+      "Version": "0.3-20161016132151+16f07eb",
+      "SHA1": "PHmc03+Vwz3YgfMiUYjzDTgVjDY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

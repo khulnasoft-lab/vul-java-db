@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "isass-api-event",
+  "Versions": [
+    {
+      "Version": "isass-api.0.0.1",
+      "SHA1": "7J9GTB5np+09JI2wvn3EqsNbUbo="
+    },
+    {
+      "Version": "isass-api.3.0.3",
+      "SHA1": "wB4wMqr7anOe4lu9T79rz+MVy98="
+    },
+    {
+      "Version": "isass-api.3.0.4-release",
+      "SHA1": "cZwiJNu+DARq0SIs1FXnIVFIYQA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

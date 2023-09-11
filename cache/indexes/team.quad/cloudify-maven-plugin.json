@@ -1,0 +1,11 @@
+{
+  "GroupID": "team.quad",
+  "ArtifactID": "cloudify-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "/wqmUFeFdsJ9QJl430Z+KfhdfTQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

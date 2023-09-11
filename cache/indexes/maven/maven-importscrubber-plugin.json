@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-importscrubber-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "yiPbvUVMDlnKnAishts9t/zS6PM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

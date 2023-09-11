@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.zstart",
+  "ArtifactID": "zstart-utils",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yCGLaMwBD3ZVsveD69eDLkVqAJ0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

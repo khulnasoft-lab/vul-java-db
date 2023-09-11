@@ -1,0 +1,11 @@
+{
+  "GroupID": "ai.swim",
+  "ArtifactID": "swim-auth",
+  "Versions": [
+    {
+      "Version": "3.10.0",
+      "SHA1": "3/OS16rED/wQGEqsdu5T1XpJuz0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

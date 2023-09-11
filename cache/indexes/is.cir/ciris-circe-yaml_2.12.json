@@ -1,0 +1,47 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-circe-yaml_2.12",
+  "Versions": [
+    {
+      "Version": "2.2.1",
+      "SHA1": "dReR66j68aPOCcJXvjPGSG/9Hb0="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "1p/pO8beO0ofX2xm+ZPtI88jx7c="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "DiLU+AZO6Dg6ZllCzflR628va00="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "JFISMA9ns4pn4M3fmA9FmhqS/Do="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "moCB+aoX1E1rBnCXrJ/cDHOD4zY="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "aCb9avNSRMFd0CyjIsiwcQPm1QA="
+    },
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "g7yzBVOXPAjk8EyjzTd+HhrUPRw="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "DN0eV7nI+dktqupn3UOEq+wNJls="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "NHymlvxV0J0fdMckUsI4mXvAcp8="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "7JwLpOfHp1A45TkDkfqIkt/KNAY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

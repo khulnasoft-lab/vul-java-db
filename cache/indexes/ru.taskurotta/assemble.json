@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.taskurotta",
+  "ArtifactID": "assemble",
+  "Versions": [
+    {
+      "Version": "0.8.0",
+      "SHA1": "EsdjGjQSmm/vCQxlNhF/70SHEmU="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "qaKeJiG94gkoMmF0PK3IBst9Kso="
+    }
+  ],
+  "ArchiveType": "jar"
+}

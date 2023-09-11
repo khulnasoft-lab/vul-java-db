@@ -1,0 +1,23 @@
+{
+  "GroupID": "edu.ucar",
+  "ArtifactID": "netcdf",
+  "Versions": [
+    {
+      "Version": "4.2",
+      "SHA1": "Hnfy8B8qaN+TNL/y7iYDATVag/o="
+    },
+    {
+      "Version": "4.2-min",
+      "SHA1": "Dzw/PbTFRIOqH7xEl+MAh5ziTaE="
+    },
+    {
+      "Version": "4.2.20",
+      "SHA1": "0vNAHxCNxUBzBCxXxTBMzMehxt4="
+    },
+    {
+      "Version": "4.3.22",
+      "SHA1": "qbC+Pd8CDDrr9kmPz8PvAHgFzsA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

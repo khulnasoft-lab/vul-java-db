@@ -1,0 +1,11 @@
+{
+  "GroupID": "biz.massive-dynamics",
+  "ArtifactID": "Projecteer",
+  "Versions": [
+    {
+      "Version": "1.0.0.0",
+      "SHA1": "K8R7PWXHH2Gez6FeT4bPHtNXBKA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

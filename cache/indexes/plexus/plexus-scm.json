@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-scm",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1-20050705.084636-3",
+      "SHA1": "XHA9EmYa5pVbi4+rEoYG+Mwtazc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

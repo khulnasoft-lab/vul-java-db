@@ -1,0 +1,43 @@
+{
+  "GroupID": "ro.dragossusi",
+  "ArtifactID": "logger",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KVe856axOXlT0oTnsevVPMdxzxE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "w9KOCmEM88K/pIiGXnkNVCzIwBM="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "jgzhNYlHABTLWD3GpLRoQ2jOG54="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "sWr6NMNXH5UZn3bblzebo1PC8cE="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "DBXZkWlrzRaH1KtkvG92xiJQ97o="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "f2mtMIQOurL4cQvh8xl8XMfu9vc="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "OApsNQmG5l6BsZDc9sgIbmmPheY="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "oP+4s52r75WHFWf2wyLf94zMbwo="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "qPBknbOy295RGE4mLHl/aYKZD7A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

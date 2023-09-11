@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.rwocj",
+  "ArtifactID": "kaptcha",
+  "Versions": [
+    {
+      "Version": "2.3.2-jakarta",
+      "SHA1": "BxhLD4TtvraZAXrvt+m8Uud+L+Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

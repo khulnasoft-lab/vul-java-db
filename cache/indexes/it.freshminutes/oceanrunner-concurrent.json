@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.freshminutes",
+  "ArtifactID": "oceanrunner-concurrent",
+  "Versions": [
+    {
+      "Version": "1.0-RELEASE",
+      "SHA1": "7PoSUQEqjviOGACgVMhZm7p7sMc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

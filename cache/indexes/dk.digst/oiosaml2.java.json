@@ -1,0 +1,67 @@
+{
+  "GroupID": "dk.digst",
+  "ArtifactID": "oiosaml2.java",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "Hjo9fRjajQVZFTciIZ5SvPKzCrw="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "EVsgzfB6/mI6WeFqJ2eBDfv8+eA="
+    },
+    {
+      "Version": "2.0.2",
+      "SHA1": "SnQAu8DpczBFFEmz18OxUpR6EYo="
+    },
+    {
+      "Version": "2.0.3",
+      "SHA1": "nBE9ayDpzQYEIHfhpucFBUTDH1g="
+    },
+    {
+      "Version": "2.0.4",
+      "SHA1": "XJpv9QWQzMpR2/ISwWNh8VVEmcg="
+    },
+    {
+      "Version": "2.0.5",
+      "SHA1": "LiobDt6OcYKzCLehgwDpqgec2So="
+    },
+    {
+      "Version": "2.0.6",
+      "SHA1": "cCg4ZwCZtts3J1Cz6bqzy+Td1uo="
+    },
+    {
+      "Version": "2.0.7",
+      "SHA1": "UZEVebwrInch8wOI6govqUYaVgw="
+    },
+    {
+      "Version": "2.0.8",
+      "SHA1": "q5hO/GCkdgv8ecQhZIYb7HrPFXA="
+    },
+    {
+      "Version": "2.0.9",
+      "SHA1": "2m670JjCC2tFJKICbr+sxtHhBOg="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "zy4mUB9O4+AddWYas88PWYHWcgY="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "J4m31ZnTj9UbfIhTgXnZeMM/MYI="
+    },
+    {
+      "Version": "2.1.2",
+      "SHA1": "JgUbAheeuQellYNXFBRhmiVaNeY="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "Vlgt41Tqph/spy6ug3EMNxpZ3pE="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "4qMzudWS9ZOVwNdPvLgRLKdfdvc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

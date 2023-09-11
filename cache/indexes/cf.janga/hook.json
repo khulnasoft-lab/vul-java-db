@@ -1,0 +1,11 @@
+{
+  "GroupID": "cf.janga",
+  "ArtifactID": "hook",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "HIhUe+OKluU/X8a/IlPUF/3Faec="
+    }
+  ],
+  "ArchiveType": "jar"
+}

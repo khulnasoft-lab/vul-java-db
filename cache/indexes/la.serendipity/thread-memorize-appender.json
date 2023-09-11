@@ -1,0 +1,11 @@
+{
+  "GroupID": "la.serendipity",
+  "ArtifactID": "thread-memorize-appender",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "HfSU95AvS2zzYBfKnN4zQza8Sfc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

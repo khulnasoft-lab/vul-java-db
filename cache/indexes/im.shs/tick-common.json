@@ -1,0 +1,15 @@
+{
+  "GroupID": "im.shs",
+  "ArtifactID": "tick-common",
+  "Versions": [
+    {
+      "Version": "3.0.0.0",
+      "SHA1": "57vhTudJvM163takxBQlThIWa3I="
+    },
+    {
+      "Version": "3.0.0.1",
+      "SHA1": "SZHvMRN8RCH1bq69mK92NWyfpl0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

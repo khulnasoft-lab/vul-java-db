@@ -1,0 +1,15 @@
+{
+  "GroupID": "xin.alum",
+  "ArtifactID": "aio-client",
+  "Versions": [
+    {
+      "Version": "1.9.0",
+      "SHA1": "D/HQYZEKCOhW8Z3HYaxgLYpHFK8="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "lxV9zx9/DXmQnfNQM+4aSYdHEMY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

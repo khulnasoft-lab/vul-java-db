@@ -1,0 +1,51 @@
+{
+  "GroupID": "us.bpsm",
+  "ArtifactID": "edn-java",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "Vx3+kz913vbLj5rk7t6DVl58l2Q="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "/gfoXiIAXm9nVrkizndqjeCzx64="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "ayUVfyjiyJNs/J5LOS30itecLoM="
+    },
+    {
+      "Version": "0.4.3",
+      "SHA1": "4x8ZhwfzeQAPLuAQfZv3SoQQ4sc="
+    },
+    {
+      "Version": "0.4.4",
+      "SHA1": "OgduTatESk8SNQxVaQqGw/VoTMM="
+    },
+    {
+      "Version": "0.4.5",
+      "SHA1": "/tqv37RQfst9+gYqny8a6R1XLP0="
+    },
+    {
+      "Version": "0.4.6",
+      "SHA1": "OEj2dNTGLOs3b7D2n+/3b16+rGU="
+    },
+    {
+      "Version": "0.4.7",
+      "SHA1": "nLYWfzz5F+uSDiR7m4F6K7zpzzU="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "UcqNkVWXKFtroyaWxGXSgEf3Gxk="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "oMHEVaeu+Tb1L5FRoFN9MLdMyug="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "z7XXk2g/qXob3MtuXYxbekSV+io="
+    }
+  ],
+  "ArchiveType": "jar"
+}

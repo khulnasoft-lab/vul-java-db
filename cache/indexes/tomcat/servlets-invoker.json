@@ -1,0 +1,59 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "servlets-invoker",
+  "Versions": [
+    {
+      "Version": "5.0.16",
+      "SHA1": "ulyeUVvYo2MIVuCp7IqLnwXSrJs="
+    },
+    {
+      "Version": "5.0.18",
+      "SHA1": "tPMU7opKHNDCg/3xf87jLHdiHGs="
+    },
+    {
+      "Version": "5.5.4",
+      "SHA1": "k4A8P2Bwaxfcxu5gxZlvs8gA2C0="
+    },
+    {
+      "Version": "5.5.7",
+      "SHA1": "XPsglNT2IrCcmtg2w9pNacIsnc8="
+    },
+    {
+      "Version": "5.5.7-alpha",
+      "SHA1": "XPsglNT2IrCcmtg2w9pNacIsnc8="
+    },
+    {
+      "Version": "5.5.8-alpha",
+      "SHA1": "1E6r3DdGTgpIigk9Ux8QcuH0/Fk="
+    },
+    {
+      "Version": "5.5.9",
+      "SHA1": "iuklGVvCPx8A+haz8O1Ns6MmUYM="
+    },
+    {
+      "Version": "5.5.9-alpha",
+      "SHA1": "iuklGVvCPx8A+haz8O1Ns6MmUYM="
+    },
+    {
+      "Version": "5.5.12",
+      "SHA1": "zbSKhNLCUwE3wO9ulQOW3ZJiGR0="
+    },
+    {
+      "Version": "4.1.31",
+      "SHA1": "ifEVEHh9eWigmgH7QHbmP/kGM4Y="
+    },
+    {
+      "Version": "5.0.28",
+      "SHA1": "uG3y/Zc5E/G2+di2p/NM+8mw2d8="
+    },
+    {
+      "Version": "4.0.6",
+      "SHA1": "X0tPY4mhBA4GXJMwsGIkDRLvq2I="
+    },
+    {
+      "Version": "5.5.15",
+      "SHA1": "E5PrgGXoJPYiJVIm/xJVVTg7Mcs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "velocity-dvsl",
+  "ArtifactID": "velocity-dvsl",
+  "Versions": [
+    {
+      "Version": "0.31",
+      "SHA1": "0rMk8VtEBTpZ17GwZ3YqTakZozE="
+    },
+    {
+      "Version": "0.40",
+      "SHA1": "OkRbhXEHTZxkggkVIPBMQQ0J8qE="
+    },
+    {
+      "Version": "0.43",
+      "SHA1": "p58wEXY/78CHBfXacw2i6iX9A8g="
+    },
+    {
+      "Version": "0.43.20020711.010949",
+      "SHA1": "v+WPhhlm7GAs9xJ/bMAYPrnAHQA="
+    },
+    {
+      "Version": "0.43.20020716.041424",
+      "SHA1": "ayu8gF3YMksrIqod7itbI+ICmpI="
+    },
+    {
+      "Version": "0.43.20020719.020022",
+      "SHA1": "XrduEsO8JhdkYJ4KDegMKwGi9nQ="
+    },
+    {
+      "Version": "0.44.20020719.122919",
+      "SHA1": "Cd6hyPocPW51FEaAXLGmxO+1hYQ="
+    },
+    {
+      "Version": "0.44.20020720.011619",
+      "SHA1": "6lGvAhUOCQIhg1E4fa7dUm5q/6U="
+    },
+    {
+      "Version": "0.44.20020720.082908",
+      "SHA1": "4nEsb91bXW9FCMjQ3l+rfw7qreU="
+    },
+    {
+      "Version": "0.45",
+      "SHA1": "lDg8AZHCN39fATurnPivUcJF6xs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

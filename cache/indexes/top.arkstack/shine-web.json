@@ -1,0 +1,39 @@
+{
+  "GroupID": "top.arkstack",
+  "ArtifactID": "shine-web",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "fkMsqfr9XP2uSfXoV0x8viAsyDY="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "XB1c+7GgKXYl1xA0Q+KtdUU2kKQ="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "opplb23Kwar5HZUIRj63e+oB3yQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "YvfpV8U7S3C6Ak3jhgwUk3chZE8="
+    },
+    {
+      "Version": "1.0.5-SHAPSHOT",
+      "SHA1": "ZTdBzFMlBKLfAGabICrwTliDyO4="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "e7eMUFtuUlikJWIwxmOe99ZRy9w="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "UID30iiFdV4v9KS4rGqoCvT+1jw="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "gLf+wYYj6jwKTpg8221QeSvHIdQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

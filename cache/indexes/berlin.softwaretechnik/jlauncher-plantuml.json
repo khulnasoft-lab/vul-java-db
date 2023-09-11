@@ -1,0 +1,15 @@
+{
+  "GroupID": "berlin.softwaretechnik",
+  "ArtifactID": "jlauncher-plantuml",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "y7IV62wtTj4rYkB0G8MxmgA+CGQ="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "bBwtAi5UUJdlY+i/A2pVBswj+as="
+    }
+  ],
+  "ArchiveType": "jar"
+}

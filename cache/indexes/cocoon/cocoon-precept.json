@@ -1,0 +1,15 @@
+{
+  "GroupID": "cocoon",
+  "ArtifactID": "cocoon-precept",
+  "Versions": [
+    {
+      "Version": "2.1.3",
+      "SHA1": "SSsIMu4c3gOAeCrc5tVOPHh5D+0="
+    },
+    {
+      "Version": "2.1.4",
+      "SHA1": "KJ7PRurna83s1oyocKGovEjx+Eg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

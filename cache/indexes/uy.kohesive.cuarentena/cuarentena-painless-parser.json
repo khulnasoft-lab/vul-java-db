@@ -1,0 +1,35 @@
+{
+  "GroupID": "uy.kohesive.cuarentena",
+  "ArtifactID": "cuarentena-painless-parser",
+  "Versions": [
+    {
+      "Version": "1.0.0-BETA-01",
+      "SHA1": "bBbZ16TVVbaLCL+v1i/iRe+9eO4="
+    },
+    {
+      "Version": "1.0.0-BETA-02",
+      "SHA1": "SuqauDDuNawvc9UODWxWsxRDCVg="
+    },
+    {
+      "Version": "1.0.0-BETA-03",
+      "SHA1": "cCKBTXZowgBVugx5z6GnY1r3byw="
+    },
+    {
+      "Version": "1.0.0-BETA-04",
+      "SHA1": "1m2Xu1U6or//CQaiWPYAxIRl8+4="
+    },
+    {
+      "Version": "1.0.0-BETA-05",
+      "SHA1": "7X6VTewwOv8Wj8Dm2Xn9at/OKCY="
+    },
+    {
+      "Version": "1.0.0-BETA-07",
+      "SHA1": "1VatOZXwANj/UlzpaNYslUpDBfU="
+    },
+    {
+      "Version": "1.0.0-BETA-08",
+      "SHA1": "Q4nzdOqu//uwSfawoB/GtAUYRU4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "ai.whylabs",
+  "ArtifactID": "whylabs-api-client",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "6qkcE0ou9gc9iygpPzXkWfr5pRc="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "9sZvzFn4d/TkghzGueEoyJ/Z7uk="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "AblFNUIybfMXU5WOFxp1UE3J5rg="
+    },
+    {
+      "Version": "0.1.8",
+      "SHA1": "FdfGUvUvOy0LDtR3kd+lq5BFxng="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,115 @@
+{
+  "GroupID": "build.bleep",
+  "ArtifactID": "bleep-core_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.1-M3",
+      "SHA1": "D2/AdYXpZnL7bAj94rtQkHUKgJI="
+    },
+    {
+      "Version": "0.0.1-M4",
+      "SHA1": "x/L4RurURWn1iZktfIpNdXu8H0Q="
+    },
+    {
+      "Version": "0.0.1-M5",
+      "SHA1": "LVSB3mJ93ho0m6LuawDNJkUADh4="
+    },
+    {
+      "Version": "0.0.1-M6",
+      "SHA1": "pJUXqFI2Ze1LlS+r/pvbG0l/VCU="
+    },
+    {
+      "Version": "0.0.1-M7",
+      "SHA1": "2cncQPAHnS64J+mWT6htsM3i4A8="
+    },
+    {
+      "Version": "0.0.1-M8",
+      "SHA1": "WKX75GpBPBxWZxlADxESgvj36CE="
+    },
+    {
+      "Version": "0.0.1-M9",
+      "SHA1": "6aDDqj1b1xizDdI5YnM7PW2uFKs="
+    },
+    {
+      "Version": "0.0.1-M10",
+      "SHA1": "vhtsPBPoscw3eugEbZ/jkFns88s="
+    },
+    {
+      "Version": "0.0.1-M11",
+      "SHA1": "ylKGE7KriXIwk7awEXXa7l20YOI="
+    },
+    {
+      "Version": "0.0.1-M12",
+      "SHA1": "4WCWdfs8lyQr086RsksN4OSuQ/k="
+    },
+    {
+      "Version": "0.0.1-M13",
+      "SHA1": "d8+oBpXdK2WJx3ZmFZBz+jcYY1w="
+    },
+    {
+      "Version": "0.0.1-M14",
+      "SHA1": "cFQkR/4BL6mXNosDgSyHGBEecXE="
+    },
+    {
+      "Version": "0.0.1-M15",
+      "SHA1": "ZWxmCHcGdIiXr1filNWcibPxkRo="
+    },
+    {
+      "Version": "0.0.1-M16",
+      "SHA1": "+iQtrF45sjHi7iiIo7KQkRA9cek="
+    },
+    {
+      "Version": "0.0.1-M17",
+      "SHA1": "hlxuPHTzFvI+Ru52N3NvYidHz1k="
+    },
+    {
+      "Version": "0.0.1-M18",
+      "SHA1": "cn/ac+bLW15xvIB8SJGV7Oq4exM="
+    },
+    {
+      "Version": "0.0.1-M19",
+      "SHA1": "olwSY992Eh1SMT71BXWAZTbAedI="
+    },
+    {
+      "Version": "0.0.1-M20",
+      "SHA1": "B2vbQmK4wHkmoHB8ITr0CcEy1uI="
+    },
+    {
+      "Version": "0.0.1-M21",
+      "SHA1": "IclMBS/HvWeJg7/SITHpAAiRYI0="
+    },
+    {
+      "Version": "0.0.1-M22",
+      "SHA1": "Ep1fkacs8spLZ737eDV19bz5Mzk="
+    },
+    {
+      "Version": "0.0.1-M23",
+      "SHA1": "es+GSP36LJ8E5sA8Y0uJCxDUWj8="
+    },
+    {
+      "Version": "0.0.1-M24",
+      "SHA1": "OIrUx9Mp/VpitSyd6tWLkXcwN3I="
+    },
+    {
+      "Version": "0.0.1-M25",
+      "SHA1": "qk8Tss15QryQA6MtywFVWXUyzqo="
+    },
+    {
+      "Version": "0.0.1-M26",
+      "SHA1": "2afWfjmuyrB9rxMHmNWUzchiU58="
+    },
+    {
+      "Version": "0.0.1-M27",
+      "SHA1": "PwuvF3YWsxlrq4otrOIDPedkd/c="
+    },
+    {
+      "Version": "0.0.1",
+      "SHA1": "GgYSM6QGiK8bZg6grqfs8G86PT0="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "iKVGkG5jd0KKGxugBwxa18tEewg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

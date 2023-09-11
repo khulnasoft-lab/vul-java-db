@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.devgo",
+  "ArtifactID": "graphitej",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "70ZzVKwFMWNys+hEEs0KV1Pydwk="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "g619fxBMdXHK1XbS9N1Fabm4u2Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

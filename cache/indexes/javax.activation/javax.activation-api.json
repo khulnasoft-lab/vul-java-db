@@ -1,0 +1,11 @@
+{
+  "GroupID": "javax.activation",
+  "ArtifactID": "javax.activation-api",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "hSYqzzypgW+VN8pH1a3quurXyxY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

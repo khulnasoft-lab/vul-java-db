@@ -1,0 +1,19 @@
+{
+  "GroupID": "live.fanxing",
+  "ArtifactID": "fanxing-security-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "lMHTG0mNHFDHYrauR3bKZFgzCzI="
+    },
+    {
+      "Version": "1.3.5",
+      "SHA1": "rTXTIiSjtUIl7Rmq9ocJoBleBK0="
+    },
+    {
+      "Version": "1.3.6",
+      "SHA1": "KRu5TTXwsQXWhXqy4541/JEQ5C4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

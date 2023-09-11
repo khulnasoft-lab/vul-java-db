@@ -1,0 +1,23 @@
+{
+  "GroupID": "codes.sf",
+  "ArtifactID": "grpc-client-spring-boot",
+  "Versions": [
+    {
+      "Version": "0.0.1+dirty",
+      "SHA1": "/OX+kfuibGJl43K5DOFLpGYH1Kk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "oy+PN885J9n5MdLG+ehs6Y2JjHo="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "e1c9ShBqe4Zn9Dx3DVdq4pobThs="
+    },
+    {
+      "Version": "0.0.4",
+      "SHA1": "9HxEOT8IpgLuHxGN7IDhtTuTOAY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

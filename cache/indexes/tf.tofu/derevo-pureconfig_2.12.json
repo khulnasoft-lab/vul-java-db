@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-pureconfig_2.12",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "uB8izYbDY5XWbH9qyLWAiennhoI="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "7G2kbOoUK2Tmi3h1SfmWWONzNlI="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "cri8FxuLDoc89UsvPa0Rz/esbqQ="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "W8UTN6I4bLvorpckTnbxj7YTiNI="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "LcIviBB4AHJuIyg9W+OQaNKcUJc="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "vM1LfOhH4yxcWYjDZpDLenrs/fI="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "H41cOSpTse9Q0mgZnX2m9e355lk="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "gy/ogN6ifS1wTcv8MythatZDtvA="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "BO82jeA3q1NFSflD9dY0eHxYR+g="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "zZuW8s7fMAfaiApwfnIzvqjRkP8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

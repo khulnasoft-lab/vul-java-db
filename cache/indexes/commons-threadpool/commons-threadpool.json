@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-threadpool",
+  "ArtifactID": "commons-threadpool",
+  "Versions": [
+    {
+      "Version": "20030513.073905",
+      "SHA1": "km83JQAPmO4DKUAecG+KMTIVI4Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

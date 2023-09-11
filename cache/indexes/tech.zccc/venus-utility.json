@@ -1,0 +1,15 @@
+{
+  "GroupID": "tech.zccc",
+  "ArtifactID": "venus-utility",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "Qx30gbssYmyTo9aWqd5eAqZhAF0="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "sRme8XCsFpGcRHPmYfiXw/WaMcc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

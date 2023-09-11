@@ -1,0 +1,59 @@
+{
+  "GroupID": "fr.minuskube",
+  "ArtifactID": "netherboard-core",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "6Pjy/uPXOJ6GYRgEG9oP1ZFR7uI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "yG0TkbFjYDxenu0xg4ozBxsn2vI="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "PN+ILb2U5k5TrkhqsUGTpmio2lQ="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "3H75ewAweF1NOfbxsfIoYkALQic="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "oZTKdkYt4s1nfTask+xJ4Mc17dI="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "T4o52nWo2Z/cXpSj6Y2viIYq/hQ="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2iGKNf5B029j/JL+/tM/vRLf66Y="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "ofDiwlT+o9Fi4+vQ7qCMIsHLhgg="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "//RS6/2HlzQ5zK/K/VB3ulcdPF4="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "2hm6LCC6PodS2rjHjlQb8qv3TH8="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "TZGCDofij3mxwSWV3A3b5+v/HHc="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "M+S94b85KjtrdsJmFZ9Vyrc/M5k="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "XTik+XQCTaLP29DNC8fP9dETIPw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

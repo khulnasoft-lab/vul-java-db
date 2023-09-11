@@ -1,0 +1,23 @@
+{
+  "GroupID": "pw.mihou",
+  "ArtifactID": "Jaikan",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "lQBpW4D4c0PQ0H31aW1LdIO1/nY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "+nSPdBwIpV2KhUCzcOrnqW+bNsU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "JubTJ4UgKXjutsh+bZOjUpt1o9M="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "ATECvqG6Xvhe1eLeLrOcAQ2KzZg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

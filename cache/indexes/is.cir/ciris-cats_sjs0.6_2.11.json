@@ -1,0 +1,63 @@
+{
+  "GroupID": "is.cir",
+  "ArtifactID": "ciris-cats_sjs0.6_2.11",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "6e7BwyHEySwSCMlZwcSX31oqNEM="
+    },
+    {
+      "Version": "0.7.1",
+      "SHA1": "py9x+bfyRUdTf4FZNot7H5xhd9o="
+    },
+    {
+      "Version": "0.7.2",
+      "SHA1": "IWGHYk1R3EIktdRxz1ID8m6p7tQ="
+    },
+    {
+      "Version": "0.8.0",
+      "SHA1": "EWmSte5oS5wCcEjdIv9DM3mPUpw="
+    },
+    {
+      "Version": "0.8.1",
+      "SHA1": "IkPZsIsRoCJzurFj9avjsAdJnmc="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "lME9NaJTe0sv+4qwpFVcHuX3qjg="
+    },
+    {
+      "Version": "0.9.1",
+      "SHA1": "sclBO64Xk1VG3lldsywgh8k8Bh0="
+    },
+    {
+      "Version": "0.9.2",
+      "SHA1": "F1uPQafAGV2ViN97Fy7lEgwqZaI="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "3wAOa9BALLFL3BueLkc+JHfd1K4="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "VlaZQkqISTJl6dEbirJSVErevT4="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "IoXCTqKqi6eX11b+f2PqSGQ0qbg="
+    },
+    {
+      "Version": "0.11",
+      "SHA1": "k8eSyJ/RFlo1aqwEtfBhRoizh34="
+    },
+    {
+      "Version": "0.12.0",
+      "SHA1": "tQs6GprwrCAtj7MJ8W+m86c3XzE="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "kFD+WE0GpHQb88xDFgZYE37dvgg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

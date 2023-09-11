@@ -1,0 +1,23 @@
+{
+  "GroupID": "c3p0",
+  "ArtifactID": "c3p0",
+  "Versions": [
+    {
+      "Version": "0.8.4.5",
+      "SHA1": "OH0LS2NygaUphlpFBzVwh39huIE="
+    },
+    {
+      "Version": "0.8.5.2",
+      "SHA1": "dhwl7ugKckr03PF4yQn+Yi8hSl4="
+    },
+    {
+      "Version": "0.9.0",
+      "SHA1": "lrDLMYzE3RSpj3o1JQlEGXdY728="
+    },
+    {
+      "Version": "0.9.0.2",
+      "SHA1": "wPPpzR3IDSf5h3Ttmp5Q0St3Yv0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

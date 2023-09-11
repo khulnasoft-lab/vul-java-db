@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.onceio",
+  "ArtifactID": "onceio-excel-utils",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "ctshVVFeSX+X9SbdsIdrTZJau28="
+    }
+  ],
+  "ArchiveType": "jar"
+}

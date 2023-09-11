@@ -1,0 +1,15 @@
+{
+  "GroupID": "ai.heavy",
+  "ArtifactID": "heavyai-jdbc",
+  "Versions": [
+    {
+      "Version": "6.0.0",
+      "SHA1": "/2prppTkh/vWPnoeB5431SaOpPA="
+    },
+    {
+      "Version": "6.1.0",
+      "SHA1": "+zXAh7eh0sNnrfhSLkINzuFJcaA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

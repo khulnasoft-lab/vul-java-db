@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.radley",
+  "ArtifactID": "play-plugins-enumeration_2.10",
+  "Versions": [
+    {
+      "Version": "1.0.2",
+      "SHA1": "UESsjBjgqE2lVotpQ6lat79gkCs="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "ZWZ9x6rgqEAOkG+C8wBRoXQXLuU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "ai.catboost",
+  "ArtifactID": "catboost-spark-macros_2.13",
+  "Versions": [
+    {
+      "Version": "1.0.6",
+      "SHA1": "5lwzEZWfEB9HXZ14gUe7eaILjio="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "5xhZFCh56Y/I7XGSN/jz9fPGVP0="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "gxuhUl92LGpB0b4eCsw5JG2snXY="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "q/7OekXYQYC8k27etoD3YX1I6zw="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "WLrRasnvGuinOAO86oBu06oN10o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

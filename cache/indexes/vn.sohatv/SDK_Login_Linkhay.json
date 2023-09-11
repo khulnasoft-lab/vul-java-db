@@ -1,0 +1,19 @@
+{
+  "GroupID": "vn.sohatv",
+  "ArtifactID": "SDK_Login_Linkhay",
+  "Versions": [
+    {
+      "Version": "1.3.2.1-linkhay2021",
+      "SHA1": "vPTxk0S6PDOrdDOc1XB2wARNPxI="
+    },
+    {
+      "Version": "1.3.2.2-linkhay2021",
+      "SHA1": "Y6xGTsndIuTXZRMYnWsS5Q+d68k="
+    },
+    {
+      "Version": "1.3.2.4-linkhay2021",
+      "SHA1": "H2Svt37AJ/CKNLJDzuvL0FKpP3k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

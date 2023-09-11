@@ -1,0 +1,11 @@
+{
+  "GroupID": "continuum",
+  "ArtifactID": "continuum-notifier-mail",
+  "Versions": [
+    {
+      "Version": "test-1.0",
+      "SHA1": "nTDQIMYNogYbk4fBciCmdbpJmNo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

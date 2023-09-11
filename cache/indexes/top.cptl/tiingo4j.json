@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.cptl",
+  "ArtifactID": "tiingo4j",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "R5/tWhYIiNFd7eWyTqChDjKueOs="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "nHEXQ5zprqV13FhIh/ZxovU3Dgc="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "f5/SbikgJEtXEb4nwPXJEXDY5YM="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "N+/Ycmh1zRgBJKKx6ACqAHMqpLg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "icu.wuhufly",
+  "ArtifactID": "jdbcOutputImpl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "twWXI29dsztQNJ8aOBW2D1mb5Kw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pl.setblack",
+  "ArtifactID": "airomem-direct",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "CN9jxtEuhSNBAAm+PZlZHfq57pw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

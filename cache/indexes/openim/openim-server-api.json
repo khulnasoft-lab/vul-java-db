@@ -1,0 +1,31 @@
+{
+  "GroupID": "openim",
+  "ArtifactID": "openim-server-api",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "FG+ihXUTwyrAl/m8F+hOhpZqdnM="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "2Vt8IppcAQaqeMbG+ybJD4cxiYU="
+    },
+    {
+      "Version": "1.1.1b1",
+      "SHA1": "GDhfP/f84Wj1oQVRPmLO6XaVmto="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "Mk+8tBAxhRkj3lx/Sgnfj53qHHs="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "A2mHMZyOv+juidC6k6rT2/mJGoI="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "P4T1jrfhcmtUWWW30vVHn1orK20="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "kr.jclab",
+  "ArtifactID": "noise-java",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "eS1wNPifBJHlcLvdcoEskSeWRoM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

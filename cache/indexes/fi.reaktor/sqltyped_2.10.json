@@ -1,0 +1,31 @@
+{
+  "GroupID": "fi.reaktor",
+  "ArtifactID": "sqltyped_2.10",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "yzVXMNs85fE1d2/d5FO/0SYskxY="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "T88G8zwJp5UCJCBTgAHXmAqaA3Y="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "UcS15xqL5/eTm7JmBA+gQ5tQWOo="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "bNSCEHbsmbxxekIjCtbSCiUpcZA="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "0dolpy2mYUlr1Kdoe72Y0ZuOdGU="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "q+R+oKhqD9GhwIJPil8XCbPDejI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

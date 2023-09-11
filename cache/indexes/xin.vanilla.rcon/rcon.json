@@ -1,0 +1,11 @@
+{
+  "GroupID": "xin.vanilla.rcon",
+  "ArtifactID": "rcon",
+  "Versions": [
+    {
+      "Version": "1.2.1",
+      "SHA1": "SjrbcqVYVyV31N9GKWlNDzDquzA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

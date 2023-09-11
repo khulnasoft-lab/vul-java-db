@@ -1,0 +1,23 @@
+{
+  "GroupID": "javax.mvc",
+  "ArtifactID": "javax.mvc-api",
+  "Versions": [
+    {
+      "Version": "1.0.0-RC1",
+      "SHA1": "XdpMXO+auRCklxW1C8ZJOjLjKXk="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "G/+bL+KCpupoh0hnfDiDw0kWtCs="
+    },
+    {
+      "Version": "1.0-pfd",
+      "SHA1": "5Qtl73J/fJ8GVQ57TUIoCyR39Uw="
+    },
+    {
+      "Version": "1.0-pr",
+      "SHA1": "xGKw2cCO6X+Y2TBX9f52AypdxhU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

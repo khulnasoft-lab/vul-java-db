@@ -1,0 +1,15 @@
+{
+  "GroupID": "cc.liloo",
+  "ArtifactID": "spark-mini",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "m+uQEz35ioNzjq4SFZzXgJnkPq0="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "9WDKB5Wmte120018C59uKd4kRFs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

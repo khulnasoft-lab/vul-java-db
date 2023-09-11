@@ -1,0 +1,71 @@
+{
+  "GroupID": "top.minwk",
+  "ArtifactID": "excel-x",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Zl5HTJhqbmtoWmyawXd/uJPAgM4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "XYpq3LofthYh/2rLLxBxfzTS0z4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "r7+1YSNKiJyb3e7sjlRjm+eaVbk="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "EalGy2oAaS8XZDINE5UJQHl9LFU="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "kIXIjOrrGtG/x0m0SEL+gQ5Qb2E="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "TQ3qMH23WKA9Fp3mHPIU6YwVuXY="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "g1dZThicVq4Pvj4qm0IsBw5Tpns="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "EhjVK76fifwXqA2sbQi7vD7k67s="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "Ds6BA3depELRkmsv6KBy0OkJb1k="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "75UV0aaDx54s2tYMVqef9IwnutI="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "eXknZmBfVmWHDGxR+79CmbOUnkA="
+    },
+    {
+      "Version": "2.3.1",
+      "SHA1": "g260weGAWdnisR/CWUMxwaxjurE="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "o+wms9+dASmLdxuvlR61orAiup4="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "hjtQrf+3fOtQvPg7QiF7ttwcZws="
+    },
+    {
+      "Version": "2.4.2",
+      "SHA1": "aXAYHhVJyhYeYbQApUVKiLRBc3c="
+    },
+    {
+      "Version": "2.4.3",
+      "SHA1": "HNQeDSGFzEdcsAnW9vLpR6VNTgY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,51 @@
+{
+  "GroupID": "ru.progrm-jarvis",
+  "ArtifactID": "java-commons",
+  "Versions": [
+    {
+      "Version": "1.0.0-rc.1",
+      "SHA1": "fakZuVwGwmuksA6FaD1p2TnaYj0="
+    },
+    {
+      "Version": "1.0.0-rc.2",
+      "SHA1": "DdTLhLOpJYjaxC8zjG9QrKGxbfk="
+    },
+    {
+      "Version": "1.0.0-rc.3",
+      "SHA1": "/tf2ZmrIv367mRHKSGclBvjBAJI="
+    },
+    {
+      "Version": "1.0.0-rc.4",
+      "SHA1": "GTEHkdYU1xF4n2wckaq1Jo2ufI8="
+    },
+    {
+      "Version": "1.0.0-rc.5",
+      "SHA1": "tJkz2e9Q4aGEVWLJKRxAod0Sc7M="
+    },
+    {
+      "Version": "1.0.0-rc.6",
+      "SHA1": "zvuKieNkQIAI03HsleAUWIob+vI="
+    },
+    {
+      "Version": "1.0.0-rc.7",
+      "SHA1": "v9E7V9HsVWDewh29y8jnlTECGRo="
+    },
+    {
+      "Version": "1.0.0-rc.8",
+      "SHA1": "ihoaMXp282joS05wa91N/oLsoJo="
+    },
+    {
+      "Version": "1.0.0-rc.9",
+      "SHA1": "igEcfyzY7SCct0vEtV1uEqG/gdY="
+    },
+    {
+      "Version": "1.0.0-rc.10",
+      "SHA1": "eE2Ku5xJav0hGTetMdrlIxHUTqY="
+    },
+    {
+      "Version": "1.0.0-rc.11",
+      "SHA1": "hApJSNRkkil6izsAKq5iJQK7qxw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

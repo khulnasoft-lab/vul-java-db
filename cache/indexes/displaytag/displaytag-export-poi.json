@@ -1,0 +1,19 @@
+{
+  "GroupID": "displaytag",
+  "ArtifactID": "displaytag-export-poi",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "TSmbqLhRBlzOf+mMcyG62f1bBlY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Fe1ng8gPSuXeOg30wl8C+2r29P8="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "LO099ir38zhPS/VQPkFJ0q9zpRs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

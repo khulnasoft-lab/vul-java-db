@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.jacobsvanroy",
+  "ArtifactID": "spring-sql-unit",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "EeuXI3PUzO7AOWuJD+CRpQWI8sI="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "Mv4W49x5Y+c9rjHJSCuruAaYBPc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

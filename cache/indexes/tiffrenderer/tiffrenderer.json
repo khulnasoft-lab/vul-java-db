@@ -1,0 +1,11 @@
+{
+  "GroupID": "tiffrenderer",
+  "ArtifactID": "tiffrenderer",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "3+QRNNV5v52DChDaBoTAIXHxYhA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

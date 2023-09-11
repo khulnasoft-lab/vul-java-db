@@ -1,0 +1,11 @@
+{
+  "GroupID": "tools.caroline",
+  "ArtifactID": "caroline-sdk-auth-jvm",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "MBh5NErokJI5rcuJgdPnQL3zq/Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

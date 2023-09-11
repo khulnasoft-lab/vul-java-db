@@ -1,0 +1,19 @@
+{
+  "GroupID": "tanukisoft",
+  "ArtifactID": "wrapper",
+  "Versions": [
+    {
+      "Version": "3.1.0",
+      "SHA1": "gyUnTBXNDgeW6tjdh9sp9EftwMg="
+    },
+    {
+      "Version": "3.1.2",
+      "SHA1": "nmCeJzJvxp61+GM++oYBXmuGEDQ="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "A07tI01Wz3PF8ZXGvSBko6ZsPQc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

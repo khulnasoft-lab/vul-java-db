@@ -1,0 +1,23 @@
+{
+  "GroupID": "redhill",
+  "ArtifactID": "simian",
+  "Versions": [
+    {
+      "Version": "0.9.9",
+      "SHA1": "1423zLQpFWqanN+u0PfO7trU1VA="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "VyLBq+f5pc8jKyG0xNqNdTJFxZk="
+    },
+    {
+      "Version": "1.9.10",
+      "SHA1": "/a1FJgCFImVKmusbWBLisXYLpLA="
+    },
+    {
+      "Version": "2.2.4",
+      "SHA1": "bbc3/cv/JugruOLU83fXOylOrbA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

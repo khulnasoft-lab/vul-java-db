@@ -1,0 +1,35 @@
+{
+  "GroupID": "games.datastrophic",
+  "ArtifactID": "dice_2.12",
+  "Versions": [
+    {
+      "Version": "0.1.2",
+      "SHA1": "+9tZ+eWKOyHHrK3WqIU+eqbi93k="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "Vd7m4xtgDAoIql2hfpNb/xWjIyI="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "ijyGe4qE/RPpK64J34Kbr9pZgyU="
+    },
+    {
+      "Version": "0.2.4",
+      "SHA1": "+5lbBoqOYq/MfMIKdcepR8dWAik="
+    },
+    {
+      "Version": "0.2.5",
+      "SHA1": "ZolNG8FQU/yHjr7AmIpVcghJKMc="
+    },
+    {
+      "Version": "0.2.6",
+      "SHA1": "pa/0kwIovmhH1o2nye0eGP1fz2Y="
+    },
+    {
+      "Version": "0.2.7",
+      "SHA1": "No6hdj9nUV3VrRtuDKKaZSpiqGw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-cats-tagless_2.13",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "YzdMG3rs5fjZdeW946aIcUuPhEM="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "ElrgSiCX7xvxZHrSOAG05D/KoW0="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "lz6RQtVVO84S+CYLXfffxRQ824k="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "mdH8Psq97sjtyCSLZlCJ3DY8F+A="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "QLm4otHOIduXu7qZChIhsDDsMl0="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "vIwHm22zFrS0bUQi2dImMS3XOKk="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "0fv0txthZ49ejkCzrqbzoln+ylM="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "IBf0cSYLwxqYeQDtoDUadTru8Bw="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "8ZBMcicsBWyu27Qkz1GKfUKK1tY="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "bYOTUX36jP7J3008AKLrakD+has="
+    }
+  ],
+  "ArchiveType": "jar"
+}

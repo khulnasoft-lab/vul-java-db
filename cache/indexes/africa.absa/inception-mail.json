@@ -1,0 +1,27 @@
+{
+  "GroupID": "africa.absa",
+  "ArtifactID": "inception-mail",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "mSIPDG0BtmdNtpAMJchkAGmWaiQ="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "8zJuJbCxLf3FejBTgMGV8ChG7fU="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "twIShW7EsSEVzGT4/cP3o8NMzs4="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "IZBJQIVWhUGW28aK7RH2+EFttz0="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "p5vWhOnrHddXh/pwhRTVAs2BP1Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

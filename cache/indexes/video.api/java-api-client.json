@@ -1,0 +1,91 @@
+{
+  "GroupID": "video.api",
+  "ArtifactID": "java-api-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "trtvEB2HFHwf2F6mfZM3VnxDVTE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "m/ZEjmTV7cXPxG+8ukF1dcRUu0A="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "x7VonnCsnG8vbEFgze0OHqPelV4="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "yd7mkYow5fp1CRkrqDdSjkG+6Ww="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "/6m1sRmoUNTvV+0N/6jEKlPVTL8="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "Flqu2bW1ZruzhsI3uSFY6ZA+Cf8="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "YMsF/QnJRG072IguPnfPjS3fWL4="
+    },
+    {
+      "Version": "1.0.10",
+      "SHA1": "2Kb8KrYiFtnBz9N+ywQazlI3F+w="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "fDr2boV19mQceVN3Aco2K9HFB1A="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "L6GYTSJzppXyrjW4jGFDUV9G1xY="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "0t1hfMJ+zgz0P1y/CxhXFnnu2nk="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "UOECKEl+/ISDW3ci87njanoEM90="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "o/9NhaqtvP2BI5DoMU2bhpaMsxw="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "4VLs+qrCAeTZ/1ZLyA61xQD8vHA="
+    },
+    {
+      "Version": "1.2.3",
+      "SHA1": "2BlWtq0ZSO88hpOwMwP/rTZkU9I="
+    },
+    {
+      "Version": "1.2.4",
+      "SHA1": "KSKW0XzJV4xICCQf29gEkr+Yjfs="
+    },
+    {
+      "Version": "1.2.5",
+      "SHA1": "GiGKtkmr2/XVkYsY1LtXLEfeNl8="
+    },
+    {
+      "Version": "1.2.6",
+      "SHA1": "BzUy6UmzgkImTZeF1N1BQpVyBr0="
+    },
+    {
+      "Version": "1.2.7",
+      "SHA1": "NrzgsTp0HFQd4w5A4mZGMcj9/3A="
+    },
+    {
+      "Version": "1.3.0",
+      "SHA1": "bO7vf/BPvQBK1aADke9UpRPEpXA="
+    },
+    {
+      "Version": "1.3.1",
+      "SHA1": "n9sbSodZZHawndH3fjKtVo29yFc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,23 @@
+{
+  "GroupID": "cool.happycoding",
+  "ArtifactID": "happy-code-base",
+  "Versions": [
+    {
+      "Version": "1.0.0.RELEASE",
+      "SHA1": "KLyVUGBUUpc0X5FCknnNSv48jWU="
+    },
+    {
+      "Version": "1.0.1.RELEASE",
+      "SHA1": "T+TELxG8UMJqvXsZFp4QNoYUN+w="
+    },
+    {
+      "Version": "1.0.2.RELEASE",
+      "SHA1": "R9zo20gHGx8ay4+T+CJpfMaW9jM="
+    },
+    {
+      "Version": "1.0.3.RELEASE",
+      "SHA1": "Fmfhio8gs6n+vgXgYyZWgZM9Km8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

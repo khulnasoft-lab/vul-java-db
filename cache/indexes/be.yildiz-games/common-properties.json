@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "common-properties",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "BXFIWWM5fN8Th8rHc4DVwdaQVaI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

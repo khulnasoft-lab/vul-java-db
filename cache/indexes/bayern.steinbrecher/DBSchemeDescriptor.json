@@ -1,0 +1,11 @@
+{
+  "GroupID": "bayern.steinbrecher",
+  "ArtifactID": "DBSchemeDescriptor",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "ujI8MWnzdrvyqfW1FG2xKncQH6U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

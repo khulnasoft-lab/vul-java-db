@@ -1,0 +1,15 @@
+{
+  "GroupID": "xin.yuki",
+  "ArtifactID": "auth-client-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JEhjTkAeyGNwakCecMr8AEUgjhE="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "H+8TtByitr752ejK0+y48Iy2bbc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

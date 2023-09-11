@@ -1,0 +1,43 @@
+{
+  "GroupID": "tec.units",
+  "ArtifactID": "unit-ri",
+  "Versions": [
+    {
+      "Version": "0.7.1",
+      "SHA1": "DEzAv8330Pfpm5/QFKFhND+cMY8="
+    },
+    {
+      "Version": "0.8-RC1",
+      "SHA1": "pGPQJQBJ1XE9S1+idJ3K3gBduuY="
+    },
+    {
+      "Version": "0.8-RC3",
+      "SHA1": "MdeK/6sq/LaMVrIytFwBKYH/3ds="
+    },
+    {
+      "Version": "0.8",
+      "SHA1": "WlfcOY94ZcsseATxBU/lh+FOinM="
+    },
+    {
+      "Version": "0.9",
+      "SHA1": "roZCJnkRlQ56S08CwN8ejYDTpJI="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "/Mi+bbw4PEq94NrTnCy0diUfdBs="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "d5/HUPN/exxZ5tkkTGv009W48fE="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "CvmVtPMa3sz4tX9e2D/xmYaH/ac="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "h+wYn/JkDAaqwAu69KJKWUorbCk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

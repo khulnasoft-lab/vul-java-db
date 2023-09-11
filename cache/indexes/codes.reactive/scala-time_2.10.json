@@ -1,0 +1,23 @@
+{
+  "GroupID": "codes.reactive",
+  "ArtifactID": "scala-time_2.10",
+  "Versions": [
+    {
+      "Version": "0.1.0-RC1",
+      "SHA1": "BVFAaZ+g7YoBGbBcVyepD7foR2I="
+    },
+    {
+      "Version": "0.4.0",
+      "SHA1": "+ZV+c25OP7Ux0IewcRjtdcFeH4o="
+    },
+    {
+      "Version": "0.4.1",
+      "SHA1": "OtImj5Q2ZtHoVjAsSXZK1QvxPqs="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "ABGsyddsPGi213/5k/7TsifPv7k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

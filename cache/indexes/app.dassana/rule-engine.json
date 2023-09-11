@@ -1,0 +1,39 @@
+{
+  "GroupID": "app.dassana",
+  "ArtifactID": "rule-engine",
+  "Versions": [
+    {
+      "Version": "1.6.8",
+      "SHA1": "4L46T+HIU6Yha4egDpKpLxYVMNQ="
+    },
+    {
+      "Version": "1.6.9",
+      "SHA1": "0k+ZhQhJoSw7r3SpkgfCcr9hmnU="
+    },
+    {
+      "Version": "1.7.0",
+      "SHA1": "kcBKmtPJpXmQUF3FYZoDzZBskf4="
+    },
+    {
+      "Version": "1.7.1",
+      "SHA1": "rgq5lkDHi1JpoduSsI/d2BAvaQg="
+    },
+    {
+      "Version": "1.8.0",
+      "SHA1": "S4ZuArqO5DCE+40CkeK7ueKJVuU="
+    },
+    {
+      "Version": "1.9.0",
+      "SHA1": "VSSctpj9s08RYQijQwuQcUeBl0g="
+    },
+    {
+      "Version": "1.10.0",
+      "SHA1": "4ocI1ZCjEPPqA+85NDMnBRQWUgg="
+    },
+    {
+      "Version": "1.10.1",
+      "SHA1": "3sqyC1OQgb+rPZaMcXWUPK5zlxM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,35 @@
+{
+  "GroupID": "sc.ala",
+  "ArtifactID": "http-mock_2.11",
+  "Versions": [
+    {
+      "Version": "0.2",
+      "SHA1": "0FugKRuigw6vdf2VQj2Q9suL9Ck="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "sK+ldlBpFDgHI7N9f2fvpDoW1pg="
+    },
+    {
+      "Version": "0.3.0",
+      "SHA1": "q4cxBmWtInUXuQL6x6ORWoaTZFc="
+    },
+    {
+      "Version": "0.3.1",
+      "SHA1": "ck7P2SHa5P1KbK665jdkWFkDRv0="
+    },
+    {
+      "Version": "0.3.2",
+      "SHA1": "B25uWk58CeI4x6S8J4L01LUIIWI="
+    },
+    {
+      "Version": "0.3.3",
+      "SHA1": "jluADe0iTG65cVYhhKYWCUVKt6k="
+    },
+    {
+      "Version": "0.3.4",
+      "SHA1": "DWHi3HYnMMPAnXUpPDES/Kyj9N0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

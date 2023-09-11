@@ -1,0 +1,15 @@
+{
+  "GroupID": "myfaces",
+  "ArtifactID": "myfaces",
+  "Versions": [
+    {
+      "Version": "1.0.9rc3",
+      "SHA1": "ph/LhSRGFK/3CicIexELj42gnQA="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "2iLHFH/yr9lVT4g48APH2R51agM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-flac",
+  "Versions": [
+    {
+      "Version": "1.3.2.0",
+      "SHA1": "DZBqmJrSLtoZ4RdBVEA6ghaAvSI="
+    },
+    {
+      "Version": "1.3.2.1",
+      "SHA1": "0sBzBC4nXE5Fn5Zbxv7fynpkTg4="
+    },
+    {
+      "Version": "1.3.2.2",
+      "SHA1": "XwhsYEjRyc3KSOYI3w0EnHqzEDE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

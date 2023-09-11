@@ -1,0 +1,11 @@
+{
+  "GroupID": "sk.upjs",
+  "ArtifactID": "visual-scanner",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "FetF6ovnNo6LUZwASM3EmzFjyEo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

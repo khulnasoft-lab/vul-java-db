@@ -1,0 +1,19 @@
+{
+  "GroupID": "systems.manifold",
+  "ArtifactID": "archetype",
+  "Versions": [
+    {
+      "Version": "0.5-alpha-test-1",
+      "SHA1": "tvC5olECaBaIn1dd0YA+NSwZEN4="
+    },
+    {
+      "Version": "0.5-alpha-test-2",
+      "SHA1": "E5X8CNajdLOiD1DQJasvi/eb2T8="
+    },
+    {
+      "Version": "0.5-alpha-test-3",
+      "SHA1": "1cG3k4GCkQeGAwP/Bt4zqZX9gTs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "netbeans",
+  "ArtifactID": "cvslib",
+  "Versions": [
+    {
+      "Version": "200310240100",
+      "SHA1": "z3TaJE71a+2n0ZShFAVFf+d68Ds="
+    },
+    {
+      "Version": "3.6",
+      "SHA1": "jgfD9CBRxT46TPfTN926P5NxwY8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

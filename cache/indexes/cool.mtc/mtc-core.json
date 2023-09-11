@@ -1,0 +1,35 @@
+{
+  "GroupID": "cool.mtc",
+  "ArtifactID": "mtc-core",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "NGP3hiQcJuDnQrNxUAOjIB9YR4E="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "m2avwfVT+8ty5DYZY8M3g0/Xs8w="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "t5c1WgNGIHqLWUFMBfuTkgcrbno="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "I9IMTU5ZDakdkxTslDt315VpTdQ="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "8C2od2lGNevTHenMre1OxKn1JeU="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "yAqj3Ka9rzkavL0RwWwupW8BJFE="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "MD3I840LykKTR66IqAaeJ6Jir/s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

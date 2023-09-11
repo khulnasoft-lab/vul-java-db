@@ -1,0 +1,11 @@
+{
+  "GroupID": "cl.yaykuy",
+  "ArtifactID": "mandrill",
+  "Versions": [
+    {
+      "Version": "0.0.1-rc1",
+      "SHA1": "5Z6pbCx/rnzqGDpxcc7S/t5Uk3Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

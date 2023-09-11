@@ -1,0 +1,15 @@
+{
+  "GroupID": "cargo",
+  "ArtifactID": "cargo-maven-plugin",
+  "Versions": [
+    {
+      "Version": "0.5",
+      "SHA1": "pBG3t8j7wuohRhD7uoa/r72cXlE="
+    },
+    {
+      "Version": "0.6",
+      "SHA1": "3kwX0IArML/hv9mxgXMzsMIwRtQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

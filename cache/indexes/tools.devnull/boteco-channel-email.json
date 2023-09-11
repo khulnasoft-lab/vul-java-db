@@ -1,0 +1,19 @@
+{
+  "GroupID": "tools.devnull",
+  "ArtifactID": "boteco-channel-email",
+  "Versions": [
+    {
+      "Version": "0.10.0",
+      "SHA1": "HyTGy9W6RfGyyOlyGYQPHapRTi0="
+    },
+    {
+      "Version": "0.10.1",
+      "SHA1": "fGOpDKGNHqHiGTFhz6g+DBHSF5I="
+    },
+    {
+      "Version": "0.10.2",
+      "SHA1": "79rtUV0CEw76xVo8cL8xmBuuYRQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

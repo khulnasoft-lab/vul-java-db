@@ -1,0 +1,11 @@
+{
+  "GroupID": "video.api",
+  "ArtifactID": "android-video-uploader",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "R8nHxliGrtsXbnjJHm2DNkqlSC4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

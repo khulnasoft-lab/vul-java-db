@@ -1,0 +1,11 @@
+{
+  "GroupID": "it.christianlusardi",
+  "ArtifactID": "mcu",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Vc37POPHiZE9lqmFGiABoJJSKrs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.lishuoboy",
+  "ArtifactID": "lishuoboy-dependency-all",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "y7pJQs0SK6USqjY/R9dUutPw9v0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "avalon-extension",
+  "ArtifactID": "avalon-extension-impl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "gA25nlquyhHLbYJ5gn3m3HE7YHA="
+    },
+    {
+      "Version": "1.0-RC1",
+      "SHA1": "rNSDtyf9bPEN7Rp2tzBXG+g6DQk="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "6ukcczfx2LGm75BCJSlBqqJ4Cvo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

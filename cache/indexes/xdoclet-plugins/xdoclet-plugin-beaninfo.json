@@ -1,0 +1,63 @@
+{
+  "GroupID": "xdoclet-plugins",
+  "ArtifactID": "xdoclet-plugin-beaninfo",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "5c9nfwo6hB/hr1vO1qUzsL8JFNw="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "TQikXXgT+nMpBdNQ8hzWYB5z7Mc="
+    },
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "uAb6tnGLs2/xY3KRImEGndD4IJY="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "ecd76OLAuWTMjCrEmehWKPCvPKU="
+    },
+    {
+      "Version": "20050206.204051",
+      "SHA1": "yFFzgFYDq4zFyFFqcaa4MuGWmKg="
+    },
+    {
+      "Version": "20050208.125139",
+      "SHA1": "rjOf/0j7FRw9rZndvyHtANqjJ5k="
+    },
+    {
+      "Version": "20050221.205836",
+      "SHA1": "R2ZQ9HEceMyWJDtHmMBDv+zg9fg="
+    },
+    {
+      "Version": "20050222.202531",
+      "SHA1": "29GK+4REBo0Yd/iR6YSHlOETLUY="
+    },
+    {
+      "Version": "20050302.194854",
+      "SHA1": "NoL4hG2g5IFlZANwGjPIDBd0jDU="
+    },
+    {
+      "Version": "20050302.200450",
+      "SHA1": "er6eZl79nsyW8WicyDM5NkTxCg4="
+    },
+    {
+      "Version": "20050302.202048",
+      "SHA1": "gW4EIoZB2iiAP0YneNCRdUP4znE="
+    },
+    {
+      "Version": "20050302.205104",
+      "SHA1": "Kffij5wlafaHSkBefDynDZzE7AE="
+    },
+    {
+      "Version": "20051012.090849",
+      "SHA1": "102MENgqfkUMRTr6iLQBVT2BxZE="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "PW3fa+OVcIXIC+qMeee8TBmLu7Y="
+    }
+  ],
+  "ArchiveType": "jar"
+}

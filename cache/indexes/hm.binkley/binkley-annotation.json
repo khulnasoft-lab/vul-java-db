@@ -1,0 +1,11 @@
+{
+  "GroupID": "hm.binkley",
+  "ArtifactID": "binkley-annotation",
+  "Versions": [
+    {
+      "Version": "6",
+      "SHA1": "i/MopRbKDL0z2TzLtCFhd6BKh7g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

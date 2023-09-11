@@ -1,0 +1,67 @@
+{
+  "GroupID": "ai.catboost",
+  "ArtifactID": "catboost-spark-macros_2.11",
+  "Versions": [
+    {
+      "Version": "0.25-rc1",
+      "SHA1": "h6XUEbl/Kf2jN0jmT6D19qJ2IE0="
+    },
+    {
+      "Version": "0.25-rc2",
+      "SHA1": "fGAuXDf9cqVrD7sOCMo20wMHHqQ="
+    },
+    {
+      "Version": "0.25-rc3",
+      "SHA1": "MuOh83Jlsi0Mbiy6ICmGzOtPfiI="
+    },
+    {
+      "Version": "0.25",
+      "SHA1": "rTaS0ejhbXTfPo6gVwt1uyYgnX8="
+    },
+    {
+      "Version": "0.26",
+      "SHA1": "HBz5hyaxf9q1ZF8BA+Bf8gOedE8="
+    },
+    {
+      "Version": "0.26.1",
+      "SHA1": "Rfg80wdHRbPAHGJr7iVGhseBmco="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "zfbCuTGdrrGWuAA4J18CKTHvH0Q="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "lrB6uYpSSsoDXMQvCrV/wAaELPc="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "u0scQXrX+xFPiFYHHoja02j9KCQ="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "RPAQFAGZUCzq1nXDA1I6ZCsbcOc="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "Wn3inLzgDHKUwQr16p0vvoviUyE="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "tjURTT/Ud2Ipx6Q+oAMWR0ZzH+I="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "escprmxNp451jOHldxQ5ZhOv0pY="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "CtCUHAwqWG3QidULWV6po8Fd71o="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "eNNrrkHi2P6ulBKEGyO07wkwyjQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

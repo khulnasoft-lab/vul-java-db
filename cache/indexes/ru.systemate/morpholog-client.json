@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.systemate",
+  "ArtifactID": "morpholog-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "6yf5+rykGnDJ5pG7GhlNdxe8sgM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "u+THhldItYX6JY57lXA8S7qcgok="
+    }
+  ],
+  "ArchiveType": "jar"
+}

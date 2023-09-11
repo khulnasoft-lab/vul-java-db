@@ -1,0 +1,51 @@
+{
+  "GroupID": "top.guokaicn",
+  "ArtifactID": "gk-tools",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "v96do3l1WAUng0+jputLXDVl/3k="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "GH9o/lvnE5lHEQDFoqgFdMxVHk8="
+    },
+    {
+      "Version": "1.0.5",
+      "SHA1": "cJsbEkj6VI6CmQOwPskCD/KwL6I="
+    },
+    {
+      "Version": "1.0.6",
+      "SHA1": "w4NQjUYgMyBghNZjMCXzDmpc2DI="
+    },
+    {
+      "Version": "1.0.7",
+      "SHA1": "3F3TasAwvaHpSLvpj6XljGoFd6I="
+    },
+    {
+      "Version": "1.0.8",
+      "SHA1": "vhmvwJZm6Wnz5szLKLPxe6DoWpU="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "xkR5Z+nKIn1wLEc+DfNYIKMAx7E="
+    },
+    {
+      "Version": "1.0.11",
+      "SHA1": "M1tLGlM49/5Exox+KCd7ZkeVYrk="
+    },
+    {
+      "Version": "1.0.12",
+      "SHA1": "ZNMeYM3pQpo97g4gqcPq5+T/21Y="
+    },
+    {
+      "Version": "1.0.13",
+      "SHA1": "BLKBH5r6/PIARCICc1RrhZNUMjA="
+    },
+    {
+      "Version": "1.0.14",
+      "SHA1": "6FvQmiKHtjaiNvFENBKAR8gDEAQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

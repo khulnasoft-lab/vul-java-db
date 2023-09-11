@@ -1,0 +1,11 @@
+{
+  "GroupID": "wurfl",
+  "ArtifactID": "wall-tomcat4",
+  "Versions": [
+    {
+      "Version": "b1",
+      "SHA1": "pkKmmcRoq+7tChIiJFDxfjlSkwM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

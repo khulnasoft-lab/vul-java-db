@@ -1,0 +1,19 @@
+{
+  "GroupID": "tf.bug",
+  "ArtifactID": "slurpee_2.11",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "joIWLG0fupzCZuPo21sVdvd+4kg="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "jpgmfGU2osMerqI+tRTITPmGY9g="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "jAKVeeayV/+vanZ9wgqz7bJA2GM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

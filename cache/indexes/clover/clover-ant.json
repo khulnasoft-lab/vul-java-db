@@ -1,0 +1,11 @@
+{
+  "GroupID": "clover",
+  "ArtifactID": "clover-ant",
+  "Versions": [
+    {
+      "Version": "1.3_01",
+      "SHA1": "RL9cvwMKoinQTpDpLq8MGkKgBbo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

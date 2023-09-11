@@ -1,0 +1,15 @@
+{
+  "GroupID": "mckoi",
+  "ArtifactID": "mckoi",
+  "Versions": [
+    {
+      "Version": "0.93",
+      "SHA1": "IFjK4q0VeBOm7mvOdUDGHfjOwiM="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "BO/7gaL5FdjbdFP9J+9+enKdbos="
+    }
+  ],
+  "ArchiveType": "jar"
+}

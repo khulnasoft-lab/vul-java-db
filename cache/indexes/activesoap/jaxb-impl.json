@@ -1,0 +1,15 @@
+{
+  "GroupID": "activesoap",
+  "ArtifactID": "jaxb-impl",
+  "Versions": [
+    {
+      "Version": "1.5",
+      "SHA1": "dP1vO0Lt4ZMSsTa/kBTGwGomAfU="
+    },
+    {
+      "Version": "20050407",
+      "SHA1": "TUXaoZ5+jpQXUxM846eA8wdsCrs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

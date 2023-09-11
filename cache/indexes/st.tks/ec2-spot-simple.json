@@ -1,0 +1,11 @@
+{
+  "GroupID": "st.tks",
+  "ArtifactID": "ec2-spot-simple",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "bfkeTlok2D8vl2IFoj3+E8yA4sQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

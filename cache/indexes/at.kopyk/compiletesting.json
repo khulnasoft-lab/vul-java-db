@@ -1,0 +1,35 @@
+{
+  "GroupID": "at.kopyk",
+  "ArtifactID": "compiletesting",
+  "Versions": [
+    {
+      "Version": "1.0-rc5",
+      "SHA1": "p5VYiqGr7p8Mo5Q5RAWeDdXD27k="
+    },
+    {
+      "Version": "1.0-rc6",
+      "SHA1": "QChLv8hke5yEKD63mbrfqkjS+WQ="
+    },
+    {
+      "Version": "1.0-rc7",
+      "SHA1": "GrRIhvKnKB0lnLb3Qi885BAvKe8="
+    },
+    {
+      "Version": "1.0-rc8",
+      "SHA1": "aL2AgmQ4zh7esmEN/amJxVKv0JE="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "gsgQpFZSclinVWOIt6FHK8MJDZ8="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "RTlMTTmrv946YIHdaFrXTCwnZVA="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "rt6mtteQvF5UjLL8EHDftcEZi8U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

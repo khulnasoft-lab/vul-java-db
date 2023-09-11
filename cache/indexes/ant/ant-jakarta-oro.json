@@ -1,0 +1,15 @@
+{
+  "GroupID": "ant",
+  "ArtifactID": "ant-jakarta-oro",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "4Hr2Jj9DBCH6RwwmMqpabkpUrj8="
+    },
+    {
+      "Version": "1.6.1",
+      "SHA1": "O5saWpdPFoFn88AHZIpqrxnqDRk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

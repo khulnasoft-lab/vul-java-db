@@ -1,0 +1,19 @@
+{
+  "GroupID": "ph.samson.japper",
+  "ArtifactID": "japper-installer_2.12",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "8xoE5PKqWLhVNKzhTYS55ZVoAPk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "TdN7AfcsO2xHb6ziC8nzHHKVW+c="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "UMulxYYTQwPB7n4/d2knl2XAn8A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

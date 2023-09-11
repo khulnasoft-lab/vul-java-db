@@ -1,0 +1,11 @@
+{
+  "GroupID": "wang.sunnly",
+  "ArtifactID": "macro-test",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Yw0B2fLxDT76Kj/ckBVrIGOijs8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

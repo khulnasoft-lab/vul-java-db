@@ -1,0 +1,43 @@
+{
+  "GroupID": "cloud.proxi",
+  "ArtifactID": "shared",
+  "Versions": [
+    {
+      "Version": "3.0.0-RC1",
+      "SHA1": "l3nPw1A8czY69gJLrVOlCiUb/Fo="
+    },
+    {
+      "Version": "3.0.0-RC2",
+      "SHA1": "4VcfP92mXWgA5u9TdgPSpw0RZtE="
+    },
+    {
+      "Version": "3.0.1",
+      "SHA1": "+gDTjo6mlVyEoka5ksWuA4hXpEM="
+    },
+    {
+      "Version": "3.0.2",
+      "SHA1": "Da8Jk0007OhMyZNWgJHWfSSQ6uA="
+    },
+    {
+      "Version": "3.0.3",
+      "SHA1": "yTvLmFk2NQUSoQ2LBhS1H2TDepQ="
+    },
+    {
+      "Version": "3.0.4",
+      "SHA1": "HC+gT0rbI8wvFhcm4jBaPtgY5Zc="
+    },
+    {
+      "Version": "3.0.6",
+      "SHA1": "9OT7i5wTSkvcb1eCBWAe7VVDvco="
+    },
+    {
+      "Version": "3.0.7",
+      "SHA1": "Vimka7oIdXrbAWnZ2GWhBXuYVRU="
+    },
+    {
+      "Version": "3.0.8",
+      "SHA1": "01zlHPyZBxDn/tirpXg5gZFA/jA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

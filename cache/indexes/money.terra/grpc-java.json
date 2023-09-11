@@ -1,0 +1,27 @@
+{
+  "GroupID": "money.terra",
+  "ArtifactID": "grpc-java",
+  "Versions": [
+    {
+      "Version": "0.5.5",
+      "SHA1": "L5GGBahrY8Z9T8z2oG/FhPGEQNQ="
+    },
+    {
+      "Version": "0.5.16",
+      "SHA1": "2zlgVc2qW6TaB4LqrddVOyfXLcw="
+    },
+    {
+      "Version": "1.5.2",
+      "SHA1": "QGiqqaQ3cG4/Iq4bg2V6MkjnLXE="
+    },
+    {
+      "Version": "1.5.3",
+      "SHA1": "1PhkWcUVVvp2IG6B4dqrwiZpw3M="
+    },
+    {
+      "Version": "2.0.1-beta1",
+      "SHA1": "m7bgJr9LiuQSXlRTKPCepKfIqy8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

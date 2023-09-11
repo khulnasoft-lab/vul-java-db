@@ -1,0 +1,23 @@
+{
+  "GroupID": "stratum",
+  "ArtifactID": "stratum",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "vhImi4MWBEmNx0kEvFakjInyCrw="
+    },
+    {
+      "Version": "1.0-b1",
+      "SHA1": "xqYxd1GRmusxnuP0PG/H74IdHXw="
+    },
+    {
+      "Version": "1.0-b3",
+      "SHA1": "GidTPi2XKeUU9QKP8K1J5dcDTWU="
+    },
+    {
+      "Version": "1.0-b5",
+      "SHA1": "1y8Lr5XzWkK7aKtqRz65kjcQhb0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

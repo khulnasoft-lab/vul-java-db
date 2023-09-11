@@ -1,0 +1,11 @@
+{
+  "GroupID": "group.liquido",
+  "ArtifactID": "data-buffer-autoconfigure",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "KKYabGRgl+PgiQEEtCpqlgouAr0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

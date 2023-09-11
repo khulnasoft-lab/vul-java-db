@@ -1,0 +1,11 @@
+{
+  "GroupID": "opensymphony",
+  "ArtifactID": "pell-multipart",
+  "Versions": [
+    {
+      "Version": "2.1.5",
+      "SHA1": "IJZ0ZfgqxOCySXadEomMmYw4JDs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

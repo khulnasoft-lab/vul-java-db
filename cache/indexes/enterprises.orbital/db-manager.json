@@ -1,0 +1,31 @@
+{
+  "GroupID": "enterprises.orbital",
+  "ArtifactID": "db-manager",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "pn+Pw1O7oNvREwHiu+TrsmYd/KY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "31COoiga/UsiO4F2jWkzB0p2S7g="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "eZfUW0sfnH7LE8vTpL2HetzdyV4="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "ppxoNUKtUPV4fnmJTSVqTe+NSPA="
+    },
+    {
+      "Version": "2.3.0",
+      "SHA1": "NTDubFnt3YU5MTQn55mgUs46QUI="
+    },
+    {
+      "Version": "2.4.0",
+      "SHA1": "ThtE5MFZbeyU5zb0ZpzI7XD1GSA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

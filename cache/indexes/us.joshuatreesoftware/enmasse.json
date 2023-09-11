@@ -1,0 +1,75 @@
+{
+  "GroupID": "us.joshuatreesoftware",
+  "ArtifactID": "enmasse",
+  "Versions": [
+    {
+      "Version": "1.0-RC18",
+      "SHA1": "LNzw60oNDcprA1JTThs5zLFJJx4="
+    },
+    {
+      "Version": "1.0-RC19",
+      "SHA1": "n0hL9tS7No9X5/PprxEscdCx5/E="
+    },
+    {
+      "Version": "1.0-RC20",
+      "SHA1": "CHZ7EyjedMm6CfBnIqGgX0murEM="
+    },
+    {
+      "Version": "1.0-RC21",
+      "SHA1": "hUbjGic9o4Lxcovr3sYiqctE/vw="
+    },
+    {
+      "Version": "1.0-RC22",
+      "SHA1": "caQY0nquvcIdN0Qbf6Kvp3LgvaI="
+    },
+    {
+      "Version": "1.0-RC23",
+      "SHA1": "0nbiXbu9lJzujTSmR1x4owO2g1E="
+    },
+    {
+      "Version": "1.0-RC24",
+      "SHA1": "+nA0ogyvunuMLQJnQuRpqR3HPTA="
+    },
+    {
+      "Version": "1.0-RC25",
+      "SHA1": "aetrC/HnINHrfGUjuZgCGIb5MY8="
+    },
+    {
+      "Version": "1.0-RC26",
+      "SHA1": "Uigj5sjkfRj7ZzG0HusSseq5G40="
+    },
+    {
+      "Version": "1.0-RC27",
+      "SHA1": "1O7tqVOzGx+mrioajJp+wgTJsCA="
+    },
+    {
+      "Version": "1.0-RC29",
+      "SHA1": "ShTR5qH77I+Y/o8DTs8XzCvh8Do="
+    },
+    {
+      "Version": "1.0-RC30",
+      "SHA1": "sy4ZbV+IOGyHDA4ktw5amKgu09c="
+    },
+    {
+      "Version": "1.0-RC31",
+      "SHA1": "MdkJKwBp1pG8GKtxVsw6paImgIs="
+    },
+    {
+      "Version": "1.0-RC32",
+      "SHA1": "7RPBE8Rk3KQb+dbbS//hKF5UuXg="
+    },
+    {
+      "Version": "1.0-RC33",
+      "SHA1": "DZ+PnRUgi/m7BjHT5xeYE+d8j24="
+    },
+    {
+      "Version": "1.0-RC34",
+      "SHA1": "rsDVBHumpZ21J/8sCAHNZnDJqOc="
+    },
+    {
+      "Version": "1.0-RC35",
+      "SHA1": "HhL4pe6WxZW5JPsHj5bquPwneFQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

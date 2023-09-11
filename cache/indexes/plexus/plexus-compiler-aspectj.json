@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-compiler-aspectj",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "YpgtEs84V3dPKZrls4+W7mz/1Ak="
+    }
+  ],
+  "ArchiveType": "jar"
+}

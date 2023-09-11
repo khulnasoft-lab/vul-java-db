@@ -1,0 +1,15 @@
+{
+  "GroupID": "win.sa4zet",
+  "ArtifactID": "maven-release-version-date-policy",
+  "Versions": [
+    {
+      "Version": "2020.7.20.1",
+      "SHA1": "9BXFnPbX4AFJ2rMzpN0kEm0T7H8="
+    },
+    {
+      "Version": "2020.7.20.2",
+      "SHA1": "VnGkKIk8Ifk4wRY/C3o/oh1MXxs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

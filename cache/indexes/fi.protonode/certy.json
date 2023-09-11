@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.protonode",
+  "ArtifactID": "certy",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "4CuGlgmlf1ODV0J00Za5G92ZsRo="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "94sD7zX9Nffq+aQF5Q/apFqd8IY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

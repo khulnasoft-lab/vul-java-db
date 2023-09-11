@@ -1,0 +1,15 @@
+{
+  "GroupID": "fun.rubicon",
+  "ArtifactID": "plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "gznYJPa1LrrVngPKiPA6o349tnk="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "q9KDj8kUM09DwD6Gp0HGt+l+ekY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

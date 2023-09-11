@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "wagon-provider-api",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-3",
+      "SHA1": "81gVZaLG0g+bdwvlseEXq7kQr2w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

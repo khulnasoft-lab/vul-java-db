@@ -1,0 +1,79 @@
+{
+  "GroupID": "buzz.getcoco",
+  "ArtifactID": "cococlientsdk-java",
+  "Versions": [
+    {
+      "Version": "0.19.1-lite-debug",
+      "SHA1": "PAHM7wlljEHF7c6zbKXYDehB9X8="
+    },
+    {
+      "Version": "0.20.0-debug",
+      "SHA1": "O4jnRu9M2v7n6xKe1pPfVZt5Quc="
+    },
+    {
+      "Version": "0.20.0-lite-debug",
+      "SHA1": "udUBfiAXJkPFyhRq5hpcgf3DI1I="
+    },
+    {
+      "Version": "0.20.0-lite-staging",
+      "SHA1": "PphVheYgeZm/H5nVFyD3YQs4lMk="
+    },
+    {
+      "Version": "0.20.0-staging",
+      "SHA1": "vAxsQz+7NdmEknpYSO4e2QolzHI="
+    },
+    {
+      "Version": "0.21.0-debug",
+      "SHA1": "n7+NO+8ymc0b2NTU53tjywiO4wE="
+    },
+    {
+      "Version": "0.21.0-lite-debug",
+      "SHA1": "2iOqTnSe6RdD3OeOsiPan1fG6/s="
+    },
+    {
+      "Version": "0.21.0-lite-staging",
+      "SHA1": "Ro8j8USVBknoJ2YhJo+kkzpEqv0="
+    },
+    {
+      "Version": "0.21.0-staging",
+      "SHA1": "ELf8LFWwPJOKW3MhP2qswolRbmo="
+    },
+    {
+      "Version": "0.22.2",
+      "SHA1": "Gb5FdUDTSkvRvKgSQ1IfLbdBDVU="
+    },
+    {
+      "Version": "0.22.2-lite",
+      "SHA1": "62TZh3Fa7O0FIpheRCehLE9veoo="
+    },
+    {
+      "Version": "0.22.3",
+      "SHA1": "zQbzqI1gp9uo/sjOGKwO/QM3zM0="
+    },
+    {
+      "Version": "0.22.3-lite",
+      "SHA1": "2K4ZuZhmzMgQgTfmLMbgoYkYY7Y="
+    },
+    {
+      "Version": "0.28.2",
+      "SHA1": "M+m7CrHFqP0e5AJ61fm3t9pavFA="
+    },
+    {
+      "Version": "0.28.2-lite",
+      "SHA1": "bMb/CIDSMo2iHHvug30imP4bQe0="
+    },
+    {
+      "Version": "0.29.1-lite",
+      "SHA1": "w3tHEiMksjVZqujfLE2vRapcgR8="
+    },
+    {
+      "Version": "0.29.4",
+      "SHA1": "R920rdcGR4s5fbn8k51MsPm54Yg="
+    },
+    {
+      "Version": "0.29.4-lite",
+      "SHA1": "EfJil4f8RVIhBp9koifY5ZFaW34="
+    }
+  ],
+  "ArchiveType": "jar"
+}

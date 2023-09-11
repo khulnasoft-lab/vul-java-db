@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-log4j-logging",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "pznQ2S3rH3vXOM/2qXTQVADif9A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "default",
+  "ArtifactID": "mutatis_2.11",
+  "Versions": [
+    {
+      "Version": "0.2.40",
+      "SHA1": "R3nTlxsbfKhmAyt4Sa8clqDMTSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

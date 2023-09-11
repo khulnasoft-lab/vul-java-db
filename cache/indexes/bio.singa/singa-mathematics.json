@@ -1,0 +1,27 @@
+{
+  "GroupID": "bio.singa",
+  "ArtifactID": "singa-mathematics",
+  "Versions": [
+    {
+      "Version": "0.4.0",
+      "SHA1": "JI3bRG8tzYZ/OTr/qLHsZgjW9pQ="
+    },
+    {
+      "Version": "0.4.2",
+      "SHA1": "imnpDXwwhDMQHqyz6+aVbEB5wSg="
+    },
+    {
+      "Version": "0.5.0",
+      "SHA1": "H32GDfZ045lc+gFGf6zdPYYY3ks="
+    },
+    {
+      "Version": "0.6.0",
+      "SHA1": "YvM7sgPREyVCA3s/5JIIZAMcNvM="
+    },
+    {
+      "Version": "0.7.0",
+      "SHA1": "6Hha6haIfMcbj7PTHLOV2FB4/tg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

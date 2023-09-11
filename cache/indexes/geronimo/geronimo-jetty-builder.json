@@ -1,0 +1,23 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "geronimo-jetty-builder",
+  "Versions": [
+    {
+      "Version": "1.0-M3",
+      "SHA1": "JKDYuWPxFR38cijALKb+In5znJQ="
+    },
+    {
+      "Version": "1.0-M4",
+      "SHA1": "BOgEOjWE57GPXu5zsEVkOyMNTEU="
+    },
+    {
+      "Version": "1.0-M5",
+      "SHA1": "AqZDcFrl3aZTagryRx08MebtDTQ="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "iNKnI7ekor+00IgdznnysRFS7e4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

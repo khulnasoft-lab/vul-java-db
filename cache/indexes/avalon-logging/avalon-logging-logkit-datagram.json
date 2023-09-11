@@ -1,0 +1,11 @@
+{
+  "GroupID": "avalon-logging",
+  "ArtifactID": "avalon-logging-logkit-datagram",
+  "Versions": [
+    {
+      "Version": "1.0.dev-0",
+      "SHA1": "+pXNxD95gmt5hg4AnSXdVdu1vR4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

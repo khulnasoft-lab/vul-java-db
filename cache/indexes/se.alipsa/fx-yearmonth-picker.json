@@ -1,0 +1,23 @@
+{
+  "GroupID": "se.alipsa",
+  "ArtifactID": "fx-yearmonth-picker",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "V7ux+vJfg7z+cyvK0q5/sEQ07aM="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "bDS42HWp1IL007ylzH47upzEEqg="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "0icOqNwoB3jR0JMyBbe83UvQzLc="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "04Z2DbeGwBDysrF30nXoNwtoBJg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

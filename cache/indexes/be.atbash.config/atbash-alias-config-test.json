@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.atbash.config",
+  "ArtifactID": "atbash-alias-config-test",
+  "Versions": [
+    {
+      "Version": "0.9.3",
+      "SHA1": "fFzBioBZlHWuZDYk5NPHex5c5xM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "se.fearless",
+  "ArtifactID": "fettle",
+  "Versions": [
+    {
+      "Version": "0.8.1",
+      "SHA1": "FlDgkBXT6WdHe/G8YYmGoiJfUn0="
+    },
+    {
+      "Version": "0.8.2",
+      "SHA1": "bXem90uCKhgbN0Yls2e+2Kv2sA8="
+    },
+    {
+      "Version": "0.8.4",
+      "SHA1": "nkCKgU1BGphxj9n2EkMQt1o4TwM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

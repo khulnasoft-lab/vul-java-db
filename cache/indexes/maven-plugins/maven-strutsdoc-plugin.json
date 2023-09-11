@@ -1,0 +1,11 @@
+{
+  "GroupID": "maven-plugins",
+  "ArtifactID": "maven-strutsdoc-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "jCFTi1PATnsxU1ZNgEJDJt/ZNVQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

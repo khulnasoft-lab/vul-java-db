@@ -1,0 +1,43 @@
+{
+  "GroupID": "systems.manifold",
+  "ArtifactID": "manifold-docs",
+  "Versions": [
+    {
+      "Version": "0.1-alpha",
+      "SHA1": "BXdjYumtpfUSCHyzg8lwu5lJDoc="
+    },
+    {
+      "Version": "0.2-alpha",
+      "SHA1": "UczcERkpQVxzqqlf2YnD5eBs4AE="
+    },
+    {
+      "Version": "0.3-alpha",
+      "SHA1": "T/HXPe3kZ/4DOdW1g4dXqGvHxqQ="
+    },
+    {
+      "Version": "0.4-alpha",
+      "SHA1": "mdwvaPUdpenkgfH17gAOdmlR6nY="
+    },
+    {
+      "Version": "0.5-alpha",
+      "SHA1": "kdWjKMhg4OOFOCsgYZwX1SlC3Xg="
+    },
+    {
+      "Version": "0.6-alpha",
+      "SHA1": "yoBeZs58SArSKYep0woyzJDLtqY="
+    },
+    {
+      "Version": "0.7-alpha",
+      "SHA1": "+NRxY/Vk55WpshXypAmMrM21EqM="
+    },
+    {
+      "Version": "0.8-alpha",
+      "SHA1": "K5G5rncefx/7FgCgKm+kDqw8acU="
+    },
+    {
+      "Version": "0.9-alpha",
+      "SHA1": "sTdvyN0D6VUqa3TKJ0cRoUphcKo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

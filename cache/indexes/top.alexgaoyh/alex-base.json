@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.alexgaoyh",
+  "ArtifactID": "alex-base",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "+Fzte75ACdt9IK3CAehCPAxV0NY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "fr.avianey",
+  "ArtifactID": "bolts-android-api",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "5VJTzjp6rFT8Mx4gmfqVCiyvDy8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

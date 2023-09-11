@@ -1,0 +1,15 @@
+{
+  "GroupID": "space.wuxu",
+  "ArtifactID": "wuxu-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "6e+YzSv6CU67BwmcbUVVcsgt7/g="
+    },
+    {
+      "Version": "0.0.2-RELEASE",
+      "SHA1": "BCxKm/RSQkvZLcXpgfWjLCPClWA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

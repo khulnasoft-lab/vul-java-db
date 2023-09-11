@@ -1,0 +1,19 @@
+{
+  "GroupID": "ws.l10n",
+  "ArtifactID": "l10n-android-gradle-plugin",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "jSHt+SO9AEt7Sbl+8w6LI8VGMgU="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "+snblz33ThZavZKwdFMoSInU3TI="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "5CGB9jsUj3gyPxPi46uOO/avIGc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

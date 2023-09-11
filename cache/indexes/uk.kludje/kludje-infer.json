@@ -1,0 +1,11 @@
+{
+  "GroupID": "uk.kludje",
+  "ArtifactID": "kludje-infer",
+  "Versions": [
+    {
+      "Version": "0.7",
+      "SHA1": "iDNCBFq0Vh8XTi2ql8aDMSYmdP0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

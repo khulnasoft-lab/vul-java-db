@@ -1,0 +1,11 @@
+{
+  "GroupID": "jetty",
+  "ArtifactID": "stop",
+  "Versions": [
+    {
+      "Version": "5.0.alpha1",
+      "SHA1": "4/NrX9pD/qQRqCHMSqNedD2twrk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

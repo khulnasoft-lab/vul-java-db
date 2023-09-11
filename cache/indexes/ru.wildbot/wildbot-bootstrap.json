@@ -1,0 +1,15 @@
+{
+  "GroupID": "ru.wildbot",
+  "ArtifactID": "wildbot-bootstrap",
+  "Versions": [
+    {
+      "Version": "0.2.0-gamma",
+      "SHA1": "mE2Nu9Od257iKkypSyLN91iINAI="
+    },
+    {
+      "Version": "0.2.1-gamma",
+      "SHA1": "trNFF0P0CWlrhdI3OoHAayf4wbk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

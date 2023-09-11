@@ -1,0 +1,11 @@
+{
+  "GroupID": "su.lychee",
+  "ArtifactID": "persistence",
+  "Versions": [
+    {
+      "Version": "0.0.17",
+      "SHA1": "nLFiXssoQqu6vwKGtzg2lkvAGHk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

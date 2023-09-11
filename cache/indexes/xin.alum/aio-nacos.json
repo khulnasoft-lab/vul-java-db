@@ -1,0 +1,15 @@
+{
+  "GroupID": "xin.alum",
+  "ArtifactID": "aio-nacos",
+  "Versions": [
+    {
+      "Version": "1.9.0",
+      "SHA1": "F5rIINWthrhQKtOGRsnbjoUzLCI="
+    },
+    {
+      "Version": "1.9.1",
+      "SHA1": "qrDbpiSZJ9uNLJbnCDs2scGGxtM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

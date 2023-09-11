@@ -1,0 +1,11 @@
+{
+  "GroupID": "tambora",
+  "ArtifactID": "tambora",
+  "Versions": [
+    {
+      "Version": "3.0-beta-1",
+      "SHA1": "JUNaZJAuPISDoT9j5jI/QyrSPWs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

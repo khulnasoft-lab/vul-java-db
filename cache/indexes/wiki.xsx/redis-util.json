@@ -1,0 +1,11 @@
+{
+  "GroupID": "wiki.xsx",
+  "ArtifactID": "redis-util",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "JEdztN3mWVBCMtJEv6o4rXmuIf4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "subshell",
+  "ArtifactID": "subpersistence",
+  "Versions": [
+    {
+      "Version": "0.8.2",
+      "SHA1": "uC2knfi3BfAeHzgny8GLMNQ70hY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

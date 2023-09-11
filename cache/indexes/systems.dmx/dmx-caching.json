@@ -1,0 +1,27 @@
+{
+  "GroupID": "systems.dmx",
+  "ArtifactID": "dmx-caching",
+  "Versions": [
+    {
+      "Version": "5.2",
+      "SHA1": "bSW4LxnHz/Di77vcG3U783XEbF8="
+    },
+    {
+      "Version": "5.2.1",
+      "SHA1": "NDoivKIDa/ap4CJmbCPZjNNA7qE="
+    },
+    {
+      "Version": "5.3",
+      "SHA1": "Z1zYfJcrc85oqx5H0QTjEA8/ZuM="
+    },
+    {
+      "Version": "5.3.1",
+      "SHA1": "kYXpFSsfVN8z2fWULkFB/qJCCJk="
+    },
+    {
+      "Version": "5.3.2",
+      "SHA1": "J7Re9zv3ayTcACyJMmUUY388B8w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

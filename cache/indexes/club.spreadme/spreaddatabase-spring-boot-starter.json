@@ -1,0 +1,27 @@
+{
+  "GroupID": "club.spreadme",
+  "ArtifactID": "spreaddatabase-spring-boot-starter",
+  "Versions": [
+    {
+      "Version": "1.0.1",
+      "SHA1": "HHyF/YsQhm6gSTiddFnjdSb75G0="
+    },
+    {
+      "Version": "1.1.0",
+      "SHA1": "6So0Ms/3Z0W6qdkyojdR1iQuHvo="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "WTBd91mEqUuw26ww3E1iXi7Od0g="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "nLb6RYHBV6X8MD5TW13A6hpC8bQ="
+    },
+    {
+      "Version": "1.1.12",
+      "SHA1": "tfEug5y0jHHnrR13alfPngAAis0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

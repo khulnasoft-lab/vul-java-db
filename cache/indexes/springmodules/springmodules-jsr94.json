@@ -1,0 +1,11 @@
+{
+  "GroupID": "springmodules",
+  "ArtifactID": "springmodules-jsr94",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "q/SqeaDnPAz57Fy8WRMtTyuFAmw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

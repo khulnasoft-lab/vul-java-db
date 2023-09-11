@@ -1,0 +1,55 @@
+{
+  "GroupID": "berkano",
+  "ArtifactID": "berkano-kisstags",
+  "Versions": [
+    {
+      "Version": "20050615.235013",
+      "SHA1": "RLITU2YJgp3XhIm2+9gTNZEfJE4="
+    },
+    {
+      "Version": "20050616.000824",
+      "SHA1": "HHxkPQyNQ5H6y2HCKTN79SvPv8Y="
+    },
+    {
+      "Version": "20050616.001914",
+      "SHA1": "Q61lQoY9ULp//i6Ntdm6mdoCGlM="
+    },
+    {
+      "Version": "20050616.003807",
+      "SHA1": "//GmzppD1mSpO6w3Injvc49vU0U="
+    },
+    {
+      "Version": "20050616.015650",
+      "SHA1": "57NLQoXziyrYLIB3qS05NXukg2A="
+    },
+    {
+      "Version": "20050809",
+      "SHA1": "LTsLgEUXM5dlmzSVxmj+AyD0i50="
+    },
+    {
+      "Version": "dev-20050722",
+      "SHA1": "MyM8abtcQ5ZHd6WLQvPLa6M4GuI="
+    },
+    {
+      "Version": "dev-20050723",
+      "SHA1": "RlW7+q48eaLBITWK2Ub44fWY0iU="
+    },
+    {
+      "Version": "20050725.114553",
+      "SHA1": "B9oM6Xy9HfjI9vetXxOynD7gMyw="
+    },
+    {
+      "Version": "20050901",
+      "SHA1": "Lj/7DvyXyRuIz4la6BDs1TswrHo="
+    },
+    {
+      "Version": "20050901-2",
+      "SHA1": "Izt6dHT6lz/NibPEQQz2nh+JQz0="
+    },
+    {
+      "Version": "20050805.043651",
+      "SHA1": "QwlU6eDJty1Qcd9HVKIdmmm64rQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

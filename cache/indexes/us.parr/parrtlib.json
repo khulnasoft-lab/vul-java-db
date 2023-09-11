@@ -1,0 +1,19 @@
+{
+  "GroupID": "us.parr",
+  "ArtifactID": "parrtlib",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "a/GkqH7Zr/H2a0oi69qx5hjEMns="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "X/LPyZZ+LScwfTdck4OqOq02UJg="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "4vcE2gf0tafmqqawpizaYGCSUfs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

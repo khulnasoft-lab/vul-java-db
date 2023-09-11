@@ -1,0 +1,11 @@
+{
+  "GroupID": "tv.kazu",
+  "ArtifactID": "elasticsearch-mapper-attachments",
+  "Versions": [
+    {
+      "Version": "3.0.4",
+      "SHA1": "th/otwCltAPpuDiWn0765ZBhRiI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

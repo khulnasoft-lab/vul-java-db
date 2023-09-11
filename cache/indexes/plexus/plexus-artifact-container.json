@@ -1,0 +1,11 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-artifact-container",
+  "Versions": [
+    {
+      "Version": "1.0-alpha-1",
+      "SHA1": "Ndd6uoQspt9RrBM2ZisvVSE43jA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

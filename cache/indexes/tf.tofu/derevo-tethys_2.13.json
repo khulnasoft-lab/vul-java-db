@@ -1,0 +1,47 @@
+{
+  "GroupID": "tf.tofu",
+  "ArtifactID": "derevo-tethys_2.13",
+  "Versions": [
+    {
+      "Version": "0.12.0",
+      "SHA1": "iJNRoMMld2HjSvWj7xFQcXMPJh4="
+    },
+    {
+      "Version": "0.12.1",
+      "SHA1": "PykFAqPlBd0OKePXCI89ndtvHB4="
+    },
+    {
+      "Version": "0.12.2",
+      "SHA1": "RjPKMjCDmOZKtFrAkdY2/hhRlCA="
+    },
+    {
+      "Version": "0.12.3",
+      "SHA1": "xbdxYqvjP72aBBHvWWugItPxy80="
+    },
+    {
+      "Version": "0.12.4",
+      "SHA1": "L/Tl/FvFFLAi9c69n8vzp1bQSmk="
+    },
+    {
+      "Version": "0.12.5",
+      "SHA1": "fOWsymoYpf6sG0pt/Lk8cgIBcMQ="
+    },
+    {
+      "Version": "0.12.6",
+      "SHA1": "9PbNGLwLMPzEJubQP1CveuJ0POI="
+    },
+    {
+      "Version": "0.12.7",
+      "SHA1": "BRaONxI9ecPrhXb0BqI4GI9TGns="
+    },
+    {
+      "Version": "0.12.8",
+      "SHA1": "OTTyqO/Vsycn3x+wKEBmoG2LVu0="
+    },
+    {
+      "Version": "0.13.0",
+      "SHA1": "9OLh2n3KvyA30LQtRATmUhrHbs4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

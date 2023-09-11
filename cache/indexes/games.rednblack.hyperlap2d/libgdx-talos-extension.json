@@ -1,0 +1,35 @@
+{
+  "GroupID": "games.rednblack.hyperlap2d",
+  "ArtifactID": "libgdx-talos-extension",
+  "Versions": [
+    {
+      "Version": "0.0.5",
+      "SHA1": "S1XZn4nsbORZUKyxNAHd0zxjmXw="
+    },
+    {
+      "Version": "0.0.6",
+      "SHA1": "Io8fd4tj6zyAAkhJ6Z5fcUow6ds="
+    },
+    {
+      "Version": "0.0.7",
+      "SHA1": "ZWThD1kkXF4sqhCif6xl8YMqD+0="
+    },
+    {
+      "Version": "0.0.8",
+      "SHA1": "Vak24NpIhrH5jyepGvk59S2gMLs="
+    },
+    {
+      "Version": "0.1.0",
+      "SHA1": "61tJZv+gw1hw8Wnt5RERF6dKYbk="
+    },
+    {
+      "Version": "0.1.1",
+      "SHA1": "7/IOfyXOGJLmszwk9icwvGFl5aM="
+    },
+    {
+      "Version": "0.1.2",
+      "SHA1": "sW0T2x7wE4RsbEZ3rGvVaphG/QU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

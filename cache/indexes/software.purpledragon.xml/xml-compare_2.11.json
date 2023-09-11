@@ -1,0 +1,31 @@
+{
+  "GroupID": "software.purpledragon.xml",
+  "ArtifactID": "xml-compare_2.11",
+  "Versions": [
+    {
+      "Version": "0.0.2",
+      "SHA1": "6v1ScEbxqePqYSsYyZqMjC480ME="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "97oLyQ+zXuSGv9WlUFRer7Itl5s="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "Zmui3cnjaMUm2oYQQUvHCEG6uU4="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "nNiqn+ITVkdYtaNw9nSod0pUdHs="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "3/35f9qbPn6x7l92hu3KtNHHhWU="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "z2blwLMCJhueCkAKM0nor021w8w="
+    }
+  ],
+  "ArchiveType": "jar"
+}

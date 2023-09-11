@@ -1,0 +1,19 @@
+{
+  "GroupID": "it.rebase",
+  "ArtifactID": "rebot-cache-service",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "xr8mYj3v1W9d07PvioxTauLYSeY="
+    },
+    {
+      "Version": "0.2",
+      "SHA1": "WPDaS2OdytsFirZp0H0/3xUTduM="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "wGh5REwOt3jqqDHNVYE+PO0rmh4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

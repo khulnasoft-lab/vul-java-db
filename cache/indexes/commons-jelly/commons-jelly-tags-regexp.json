@@ -1,0 +1,11 @@
+{
+  "GroupID": "commons-jelly",
+  "ArtifactID": "commons-jelly-tags-regexp",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "XDk81GoLSwyfh4iWNaZrWRgn78M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

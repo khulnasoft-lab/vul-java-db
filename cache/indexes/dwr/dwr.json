@@ -1,0 +1,11 @@
+{
+  "GroupID": "dwr",
+  "ArtifactID": "dwr",
+  "Versions": [
+    {
+      "Version": "1.1.3",
+      "SHA1": "eFvnwf5G2vtcN00GjTzwO0/HGaY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

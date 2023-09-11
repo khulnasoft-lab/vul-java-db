@@ -1,0 +1,15 @@
+{
+  "GroupID": "top.hequehua",
+  "ArtifactID": "jfinal-swagger",
+  "Versions": [
+    {
+      "Version": "0.1.5",
+      "SHA1": "+22LpbZmUbxvLuQwNOmMVXVI8fc="
+    },
+    {
+      "Version": "0.1.7",
+      "SHA1": "liExHa4x6MEnMnEcf/2jp2cor5c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

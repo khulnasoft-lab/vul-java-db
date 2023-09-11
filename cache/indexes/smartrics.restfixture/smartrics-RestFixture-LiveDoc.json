@@ -1,0 +1,27 @@
+{
+  "GroupID": "smartrics.restfixture",
+  "ArtifactID": "smartrics-RestFixture-LiveDoc",
+  "Versions": [
+    {
+      "Version": "4.0",
+      "SHA1": "/doDeZDlLHzETb5GXpA+SDiC/f8="
+    },
+    {
+      "Version": "4.1",
+      "SHA1": "JOA3TokO472XIUiwjLa5H+R46c8="
+    },
+    {
+      "Version": "4.2",
+      "SHA1": "QGlKiMURGA6S9lT7dSWE1eXqOUA="
+    },
+    {
+      "Version": "4.3",
+      "SHA1": "Hs4nxNRXvdXy6Jhqf8s2pyTKL0A="
+    },
+    {
+      "Version": "4.4",
+      "SHA1": "lpzbwNwc1+5seeFREWa5zc0KxE4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

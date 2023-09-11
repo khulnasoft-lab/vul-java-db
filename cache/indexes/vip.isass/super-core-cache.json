@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "super-core-cache",
+  "Versions": [
+    {
+      "Version": "super.3.0.3",
+      "SHA1": "IE/lvlmXwTWEmhKTuG+FrNWJHwY="
+    },
+    {
+      "Version": "super.3.0.3-release",
+      "SHA1": "AE+PoppA62egEWudBkEtITx+bXA="
+    },
+    {
+      "Version": "super.3.0.4-release",
+      "SHA1": "CEVsHmXck0CZmPNOrNTqKvelodA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

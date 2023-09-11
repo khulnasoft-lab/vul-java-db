@@ -1,0 +1,11 @@
+{
+  "GroupID": "to.lova.peers",
+  "ArtifactID": "peers-demo",
+  "Versions": [
+    {
+      "Version": "0.6.0",
+      "SHA1": "uLf83qwE45FSPQWOlKjNGZOWFLc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "it.espr",
+  "ArtifactID": "esprit-fusiontables",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "dTQdmXW07PoUIpuzbZQvTOTbf1M="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "Q4vq5dqRdhO50gaxz9JQL1TMhsY="
+    }
+  ],
+  "ArchiveType": "jar"
+}

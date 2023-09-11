@@ -1,0 +1,19 @@
+{
+  "GroupID": "vip.isass",
+  "ArtifactID": "super-core-database-mybatisplus-postgresql",
+  "Versions": [
+    {
+      "Version": "super.3.0.3",
+      "SHA1": "WZ0zvfgOZml4JmQ6WiqygkLCXQk="
+    },
+    {
+      "Version": "super.3.0.3-release",
+      "SHA1": "PasrG4neiSdDKOYkObkhJVMa5LI="
+    },
+    {
+      "Version": "super.3.0.4-release",
+      "SHA1": "M6gCglaXV6rEhqEt7Ke1HctV0Cg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

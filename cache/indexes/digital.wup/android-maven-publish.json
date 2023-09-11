@@ -1,0 +1,63 @@
+{
+  "GroupID": "digital.wup",
+  "ArtifactID": "android-maven-publish",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "yp3N1oHQBkHQA2cjLrQtD0rqHMg="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "+ct15d+YHKdyfAYJ6ldKYZ9zl3M="
+    },
+    {
+      "Version": "3.0.0",
+      "SHA1": "btrK3JMMXFXgOd4W1yyl0evKaTg="
+    },
+    {
+      "Version": "3.1.0",
+      "SHA1": "kjMYpSeCbUfO5N3DQojt4dcM8a0="
+    },
+    {
+      "Version": "3.1.1",
+      "SHA1": "gzkj7qU2pml3sqwkyGO7I2eXHr4="
+    },
+    {
+      "Version": "3.2.0",
+      "SHA1": "WOfo5Dyh5cYEsfywPJt1zCBmHfA="
+    },
+    {
+      "Version": "3.3.0",
+      "SHA1": "71EXw6SY9D6zWCEkoRcDIGVR2hc="
+    },
+    {
+      "Version": "3.4.0",
+      "SHA1": "ZWUYYbDevDO5EpuYPCgOp05aqGA="
+    },
+    {
+      "Version": "3.5.0",
+      "SHA1": "nAJw/HoKGjJq9x0E9B+KPV2lX28="
+    },
+    {
+      "Version": "3.5.1",
+      "SHA1": "o6r9ykv9rp5g0Wv0idph45LYIyo="
+    },
+    {
+      "Version": "3.6.0",
+      "SHA1": "CGRgdHEus6MyQW3qraR3v9chEaU="
+    },
+    {
+      "Version": "3.6.1",
+      "SHA1": "8hnZIzBkTFqJjC28VOi0rMIyBTE="
+    },
+    {
+      "Version": "3.6.2",
+      "SHA1": "R/o/Y+FWEfS1BJwAeyJQBVYvfuY="
+    },
+    {
+      "Version": "3.6.3",
+      "SHA1": "s9jidHCtBd+DvIfDWvb1QF5Ik/E="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "company.hnlz",
+  "ArtifactID": "sendmessage",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "02SxzYqqjsSf3Adc3WDTllviASo="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "controlhaus",
+  "ArtifactID": "beehive-netui-tags-databinding",
+  "Versions": [
+    {
+      "Version": "unofficial-1",
+      "SHA1": "YCV26KJDyGx1er3OIhT+7ZRNgs0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

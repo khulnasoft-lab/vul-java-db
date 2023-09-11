@@ -1,0 +1,15 @@
+{
+  "GroupID": "lgbt.princess",
+  "ArtifactID": "life-vest_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.0",
+      "SHA1": "yOa6vA1L9cwxmI0iTeqdyMFZZHw="
+    },
+    {
+      "Version": "0.2.0",
+      "SHA1": "niduBPgSFMN5r91H3LmWHASrrjs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

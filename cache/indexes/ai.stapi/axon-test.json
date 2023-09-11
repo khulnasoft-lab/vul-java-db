@@ -1,0 +1,91 @@
+{
+  "GroupID": "ai.stapi",
+  "ArtifactID": "axon-test",
+  "Versions": [
+    {
+      "Version": "0.0.10",
+      "SHA1": "eN7M03SrIqsCHHpKglghthEs4GM="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "VzGs+A0NAZKw43feW6nQd7mYg/8="
+    },
+    {
+      "Version": "0.0.12",
+      "SHA1": "dJ+SKEegcYx4TjpDm1lwV8aXHPk="
+    },
+    {
+      "Version": "0.0.13",
+      "SHA1": "+761ARDCkuSFJ5FEgbD5LM+q/qA="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "q40VSWiq9NHPklHujs+E6K5F3h4="
+    },
+    {
+      "Version": "0.0.15",
+      "SHA1": "cH2KsPMhdQG2xUT8nDbO5T8eRoQ="
+    },
+    {
+      "Version": "0.0.16",
+      "SHA1": "cXLqK+W2Qs/5iV7AS4nUMZBzGSA="
+    },
+    {
+      "Version": "0.0.17",
+      "SHA1": "dwN5DPxTKctsLuii9XB4cESDO8g="
+    },
+    {
+      "Version": "0.0.18",
+      "SHA1": "8XEazs3N6WWMBekndwP9L5JysAw="
+    },
+    {
+      "Version": "0.0.19",
+      "SHA1": "4exR3/JK0XxiLBjbs1gUawN8dKg="
+    },
+    {
+      "Version": "0.0.20",
+      "SHA1": "tbXqhLyoQur0KfzkA+NQQVgEAak="
+    },
+    {
+      "Version": "0.0.21",
+      "SHA1": "UPlQwFcjGAaA/C+qD2SlTwlxSWA="
+    },
+    {
+      "Version": "0.0.22",
+      "SHA1": "XjGl0E/Qppas3U5accxRhRh5Rog="
+    },
+    {
+      "Version": "0.0.23",
+      "SHA1": "T5YeBRy8wj7DLkediQ/yXamhiFs="
+    },
+    {
+      "Version": "0.0.24",
+      "SHA1": "bj3gr2pxSlz4m+xBk6vHAiLrzsg="
+    },
+    {
+      "Version": "0.0.25",
+      "SHA1": "GEsTEdbwaUk0vaOzsSsDk/c72NA="
+    },
+    {
+      "Version": "0.0.26",
+      "SHA1": "gI3j6qCuUPPZzJV6o0eTkUzeljk="
+    },
+    {
+      "Version": "0.0.27",
+      "SHA1": "tVzzlgtI8iriWXInHsCdEA+lL5A="
+    },
+    {
+      "Version": "0.2.1",
+      "SHA1": "S6b8aH62j/Wk5J8uacNGS8+F3SE="
+    },
+    {
+      "Version": "0.2.2",
+      "SHA1": "IpkF8gzFTzdfJqzWwCYrxVM2J7A="
+    },
+    {
+      "Version": "0.2.3",
+      "SHA1": "t3pVjtAe9ugl+n5MIDUueFWGNRI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

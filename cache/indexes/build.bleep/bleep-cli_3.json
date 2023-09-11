@@ -1,0 +1,47 @@
+{
+  "GroupID": "build.bleep",
+  "ArtifactID": "bleep-cli_3",
+  "Versions": [
+    {
+      "Version": "0.0.1-M20",
+      "SHA1": "yOa5x0ThBdV3KGOEwYBldPK0QwY="
+    },
+    {
+      "Version": "0.0.1-M21",
+      "SHA1": "/7keOHCTRfplimfVkIU4BIJeC4I="
+    },
+    {
+      "Version": "0.0.1-M22",
+      "SHA1": "5gv+f9z5lgDHkhbYomtO2pLESzo="
+    },
+    {
+      "Version": "0.0.1-M23",
+      "SHA1": "1SIvTFh4PcB7bk4BZkwzR54QZgc="
+    },
+    {
+      "Version": "0.0.1-M24",
+      "SHA1": "UigZWpA9t0M9O2OEjxRNX2I0AsI="
+    },
+    {
+      "Version": "0.0.1-M25",
+      "SHA1": "E032U3qbxHcariJYwPwpljfJ7qU="
+    },
+    {
+      "Version": "0.0.1-M26",
+      "SHA1": "6ktYnpUV2bM0hY+eGPUcANZLRIM="
+    },
+    {
+      "Version": "0.0.1-M27",
+      "SHA1": "/iUsfqoCSxBNmP+gj179McOjSv8="
+    },
+    {
+      "Version": "0.0.1",
+      "SHA1": "TrZc0Mo9lXNZCMd4vUJ5XggitGw="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "OmiH6SpysMV9hcgjAO14NMvpSuE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

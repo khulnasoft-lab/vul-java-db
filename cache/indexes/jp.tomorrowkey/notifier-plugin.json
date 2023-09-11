@@ -1,0 +1,11 @@
+{
+  "GroupID": "jp.tomorrowkey",
+  "ArtifactID": "notifier-plugin",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "QVcB5sWKc6JFOv9ZO2w+ddU6qqQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

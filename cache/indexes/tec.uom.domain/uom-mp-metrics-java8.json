@@ -1,0 +1,11 @@
+{
+  "GroupID": "tec.uom.domain",
+  "ArtifactID": "uom-mp-metrics-java8",
+  "Versions": [
+    {
+      "Version": "0.9",
+      "SHA1": "VqmdYtTeRGEmc8bwfo+vIpgygMA="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "us.springett",
+  "ArtifactID": "alpine-infra",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "Uk9xSn98UaZs1+QNedzWpYEnk3g="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "WC7YO/27817lCdPs2T7S7qlDxOc="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "kKQxLqfQGC23Yur0RHaBFavCvYY="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "Lo9EDUB+2i3iXA5LfSHLEg6nIgk="
+    },
+    {
+      "Version": "2.2.2",
+      "SHA1": "PuXsfst8X9hy1R5uT69EH1vd9As="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "pink.cozydev",
+  "ArtifactID": "snakecase_sjs1_3",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "GEmVWtaTnjQA0aWmMThSRF5XVpc="
+    },
+    {
+      "Version": "0.0.2",
+      "SHA1": "JeTRk+MD3+Q8MDjVAMJ2UzBRp0E="
+    },
+    {
+      "Version": "0.0.3",
+      "SHA1": "wByMLTIRtJnDYT109NESPI35Rno="
+    }
+  ],
+  "ArchiveType": "jar"
+}

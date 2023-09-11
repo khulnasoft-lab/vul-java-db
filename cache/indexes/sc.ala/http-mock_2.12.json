@@ -1,0 +1,11 @@
+{
+  "GroupID": "sc.ala",
+  "ArtifactID": "http-mock_2.12",
+  "Versions": [
+    {
+      "Version": "0.3.4",
+      "SHA1": "N1SU1XggtZ3f2gXNlQElHz8L0aQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

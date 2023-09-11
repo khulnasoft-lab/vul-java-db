@@ -1,0 +1,11 @@
+{
+  "GroupID": "tomcat",
+  "ArtifactID": "commons-daemon",
+  "Versions": [
+    {
+      "Version": "5.5.23",
+      "SHA1": "Y+Rj2DSHq7DTvGpqWSSW4fTvKTU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

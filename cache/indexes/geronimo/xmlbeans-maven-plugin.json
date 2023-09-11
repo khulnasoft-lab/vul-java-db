@@ -1,0 +1,11 @@
+{
+  "GroupID": "geronimo",
+  "ArtifactID": "xmlbeans-maven-plugin",
+  "Versions": [
+    {
+      "Version": "2.0.0-beta1",
+      "SHA1": "dV/GMimRUNd8lNAvUsLnNXK8dnE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

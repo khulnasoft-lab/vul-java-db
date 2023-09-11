@@ -1,0 +1,11 @@
+{
+  "GroupID": "ru.onlinesim",
+  "ArtifactID": "onlinesim-api",
+  "Versions": [
+    {
+      "Version": "1.0.3",
+      "SHA1": "MBH6ixqf95a8CyVJwM4gc1JwfBg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

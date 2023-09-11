@@ -1,0 +1,15 @@
+{
+  "GroupID": "myfaces",
+  "ArtifactID": "myfaces-extensions",
+  "Versions": [
+    {
+      "Version": "1.0.9rc3",
+      "SHA1": "abimgXQl77jN1ePbadpqXHV/0BE="
+    },
+    {
+      "Version": "1.0.9",
+      "SHA1": "XiPxJY27yWha4tTbrHIHZnMV30s="
+    }
+  ],
+  "ArchiveType": "jar"
+}

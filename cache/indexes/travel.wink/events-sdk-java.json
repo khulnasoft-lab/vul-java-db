@@ -1,0 +1,35 @@
+{
+  "GroupID": "travel.wink",
+  "ArtifactID": "events-sdk-java",
+  "Versions": [
+    {
+      "Version": "20.2.7",
+      "SHA1": "p2shBBJ6Y2TA7QbKUQVhnq9trkM="
+    },
+    {
+      "Version": "21.0.0",
+      "SHA1": "oGJGwMVz/p+2j3La6sLw+RtjsHo="
+    },
+    {
+      "Version": "21.0.1",
+      "SHA1": "VsTET1LcFEit/O/us3sX/uIFhcs="
+    },
+    {
+      "Version": "21.1.0",
+      "SHA1": "F1N4HuFHQ15UWqzula3WGfYr+dk="
+    },
+    {
+      "Version": "21.2.1",
+      "SHA1": "G5EkYyxEUXCKl0XcuV8CgoHdCQ8="
+    },
+    {
+      "Version": "21.3.0",
+      "SHA1": "o1oX6udA/Q8FYA7GzSIKeO8g/9k="
+    },
+    {
+      "Version": "21.15.1",
+      "SHA1": "yqKLotKxDLG0baq0kMN6VeJZNyU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

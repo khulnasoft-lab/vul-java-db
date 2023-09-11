@@ -1,0 +1,23 @@
+{
+  "GroupID": "ai.nextbillion",
+  "ArtifactID": "gradle",
+  "Versions": [
+    {
+      "Version": "0.1.3",
+      "SHA1": "iocawZdkUvYrT+bKyZ6b12Q1orc="
+    },
+    {
+      "Version": "0.1.4",
+      "SHA1": "MQeALuYOc5WZt40EWRJ6xOalh4w="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "lV8T4rbR7kKtrhXeU5sk+BSXFJw="
+    },
+    {
+      "Version": "0.1.6",
+      "SHA1": "M8+oMSl+E0gKMjhZdJmnw/I4Evk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

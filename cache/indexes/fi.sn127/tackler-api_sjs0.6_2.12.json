@@ -1,0 +1,15 @@
+{
+  "GroupID": "fi.sn127",
+  "ArtifactID": "tackler-api_sjs0.6_2.12",
+  "Versions": [
+    {
+      "Version": "0.9.0",
+      "SHA1": "Q1mN9/CAT3tlVTdRrxsPYWUeHB8="
+    },
+    {
+      "Version": "0.10.0",
+      "SHA1": "M+1DESSWb061F0Hmn96heBiOPVQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

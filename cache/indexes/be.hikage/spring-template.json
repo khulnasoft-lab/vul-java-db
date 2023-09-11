@@ -1,0 +1,15 @@
+{
+  "GroupID": "be.hikage",
+  "ArtifactID": "spring-template",
+  "Versions": [
+    {
+      "Version": "0.3",
+      "SHA1": "Mn/0Cs+C8YfUZbKe16jiMreVBaw="
+    },
+    {
+      "Version": "0.4",
+      "SHA1": "ITGXyxSni6oPtzgbnFYyPXSfrt0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

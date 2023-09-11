@@ -1,0 +1,23 @@
+{
+  "GroupID": "nl.pdok",
+  "ArtifactID": "geoserver-workspace-builder",
+  "Versions": [
+    {
+      "Version": "1.1",
+      "SHA1": "58/ubvgxzkkA2Sv+R9Osiow3ggE="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "LzVvjSibZ9VOCOC2xRtgYDmhVRw="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "51MjddZ/LIQtwy/YhWZvJVaxR6M="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "PElQ5G6crCTWgb9+YWBVQuegP2o="
+    }
+  ],
+  "ArchiveType": "jar"
+}

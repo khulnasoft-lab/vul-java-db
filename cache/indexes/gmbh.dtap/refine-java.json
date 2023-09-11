@@ -1,0 +1,11 @@
+{
+  "GroupID": "gmbh.dtap",
+  "ArtifactID": "refine-java",
+  "Versions": [
+    {
+      "Version": "0.2.2",
+      "SHA1": "sSowtdwAlH9qgj7zd2wKTjjbNDc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

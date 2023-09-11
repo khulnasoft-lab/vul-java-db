@@ -1,0 +1,11 @@
+{
+  "GroupID": "software.kes",
+  "ArtifactID": "enhanced-iterables",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "fkKIU0NYriZyWLMccPA5LOih25Q="
+    }
+  ],
+  "ArchiveType": "jar"
+}

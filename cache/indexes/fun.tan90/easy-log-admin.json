@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.tan90",
+  "ArtifactID": "easy-log-admin",
+  "Versions": [
+    {
+      "Version": "1.1.11",
+      "SHA1": "A6wwJIAqSYzwgXbLdwcRFPKzfkk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

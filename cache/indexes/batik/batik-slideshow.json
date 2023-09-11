@@ -1,0 +1,11 @@
+{
+  "GroupID": "batik",
+  "ArtifactID": "batik-slideshow",
+  "Versions": [
+    {
+      "Version": "1.6",
+      "SHA1": "qR+c3u4Hkf+CBIk6i+ZjrrWZrUM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

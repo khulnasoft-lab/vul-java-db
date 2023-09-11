@@ -1,0 +1,11 @@
+{
+  "GroupID": "activecluster",
+  "ArtifactID": "activecluster",
+  "Versions": [
+    {
+      "Version": "4.0.2",
+      "SHA1": "HFfL9tpSiBOsYLrtEQGEoMxw/3c="
+    }
+  ],
+  "ArchiveType": "jar"
+}

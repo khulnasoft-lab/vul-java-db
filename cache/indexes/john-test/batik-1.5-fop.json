@@ -1,0 +1,11 @@
+{
+  "GroupID": "john-test",
+  "ArtifactID": "batik-1.5-fop",
+  "Versions": [
+    {
+      "Version": "0.20-5",
+      "SHA1": "KmRccscOf9ndT1GAJbHAzrgn/wI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "pcj",
+  "ArtifactID": "pcj",
+  "Versions": [
+    {
+      "Version": "1.2",
+      "SHA1": "2JZA70CGxmkBkVb47OO6En7HBrg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

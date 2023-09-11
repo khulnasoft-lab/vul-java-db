@@ -1,0 +1,35 @@
+{
+  "GroupID": "plexus",
+  "ArtifactID": "plexus-velocity",
+  "Versions": [
+    {
+      "Version": "1.1.1",
+      "SHA1": "gv0pHbPL4GWuDtRmuBKJJDXvGGY="
+    },
+    {
+      "Version": "1.0",
+      "SHA1": "hiODGzro6LQtolUpHrkYh3+i0ow="
+    },
+    {
+      "Version": "1.0-alpha-2",
+      "SHA1": "S0eb+QCQNFlBM+bhXXT7JHtDYo4="
+    },
+    {
+      "Version": "1.0-alpha-5",
+      "SHA1": "4K7fRyU65jiD6PZ8Jood7wUk0ww="
+    },
+    {
+      "Version": "1.0-beta-1",
+      "SHA1": "GB0balWANb+C4pRGS2bXIpiBDjY="
+    },
+    {
+      "Version": "1.0-beta-3",
+      "SHA1": "DzK/tfGVIL8vQUDod75NWnZvrfs="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "z0EMlgVbpA4aelZd2t4XeBnMHm4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

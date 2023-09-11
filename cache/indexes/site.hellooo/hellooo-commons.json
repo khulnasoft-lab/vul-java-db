@@ -1,0 +1,15 @@
+{
+  "GroupID": "site.hellooo",
+  "ArtifactID": "hellooo-commons",
+  "Versions": [
+    {
+      "Version": "0.0.1-GA",
+      "SHA1": "zunBEjoGvFYTm94+Bpt04dc3X/s="
+    },
+    {
+      "Version": "0.0.2-GA",
+      "SHA1": "Ud6o+rcRjeFJd0nxhnWiu12TBoE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,43 @@
+{
+  "GroupID": "maven",
+  "ArtifactID": "maven-pmd-plugin",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "gT72wFZxr1b5F8LqcK8apaXgOjk="
+    },
+    {
+      "Version": "1.1",
+      "SHA1": "BhgPVllORDnVVhQ/Bo01CHnR6sA="
+    },
+    {
+      "Version": "1.2",
+      "SHA1": "cwE3kRqWjPB2u5AsRybNSP76SJ8="
+    },
+    {
+      "Version": "1.3",
+      "SHA1": "P0JzAZCTbvmYbzJJ7G9anf/In5s="
+    },
+    {
+      "Version": "1.4",
+      "SHA1": "JPt6lsREaYyLtvyBRbExTCeVI9A="
+    },
+    {
+      "Version": "1.5",
+      "SHA1": "ISH34P1ORwrCEWwB3bBZcEQWDTc="
+    },
+    {
+      "Version": "1.6",
+      "SHA1": "G2ZUw5m8f2jxup1j/dSbnrA0Wnk="
+    },
+    {
+      "Version": "1.7",
+      "SHA1": "PTQejXIuW6TniDhRYkjF9wy48C0="
+    },
+    {
+      "Version": "1.9",
+      "SHA1": "k1ycHQXq6FNYfhrSOXf8FW8LwVg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

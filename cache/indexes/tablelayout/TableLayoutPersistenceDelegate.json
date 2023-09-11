@@ -1,0 +1,11 @@
+{
+  "GroupID": "tablelayout",
+  "ArtifactID": "TableLayoutPersistenceDelegate",
+  "Versions": [
+    {
+      "Version": "20020517",
+      "SHA1": "Iyl1QtFH0W7a1hZu3NkmVMZ3r2k="
+    }
+  ],
+  "ArchiveType": "jar"
+}

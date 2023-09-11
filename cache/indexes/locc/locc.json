@@ -1,0 +1,11 @@
+{
+  "GroupID": "locc",
+  "ArtifactID": "locc",
+  "Versions": [
+    {
+      "Version": "4.2",
+      "SHA1": "sJN2xd1zdmxobJt1bxBGwYxrTLk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

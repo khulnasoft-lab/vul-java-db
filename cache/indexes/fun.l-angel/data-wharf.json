@@ -1,0 +1,11 @@
+{
+  "GroupID": "fun.l-angel",
+  "ArtifactID": "data-wharf",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "QfAulUnEjGBd4YUDjYFXt+su+0g="
+    }
+  ],
+  "ArchiveType": "jar"
+}

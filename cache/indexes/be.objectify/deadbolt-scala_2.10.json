@@ -1,0 +1,43 @@
+{
+  "GroupID": "be.objectify",
+  "ArtifactID": "deadbolt-scala_2.10",
+  "Versions": [
+    {
+      "Version": "2.2.0",
+      "SHA1": "QlH+yI334U3W6HfyxfYRsNYg6/s="
+    },
+    {
+      "Version": "2.3.2",
+      "SHA1": "OcP4lNT+PuXI59vgd218SuPIHw4="
+    },
+    {
+      "Version": "2.3.3",
+      "SHA1": "v3ilcltzAWoLo/fqWvYRmEah/Tw="
+    },
+    {
+      "Version": "2.4.0.2",
+      "SHA1": "ab4cUzp8KP7iTFCbtg2IMSzq+7c="
+    },
+    {
+      "Version": "2.4.1",
+      "SHA1": "v7DKZkKChPQqEmAzn/X9yylyKn4="
+    },
+    {
+      "Version": "2.4.1.1",
+      "SHA1": "56InTmbdoG030x8c+UYArILXTZg="
+    },
+    {
+      "Version": "2.4.2",
+      "SHA1": "TgN4w7fwHQd/n9DQK5mIMm6ru1A="
+    },
+    {
+      "Version": "2.4.3",
+      "SHA1": "AN/EWpLN2Se7B7iMqDUNjx4B9kk="
+    },
+    {
+      "Version": "2.4.4",
+      "SHA1": "SbH0Efjwnnj09SeJMPhaXqjnJpc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,27 @@
+{
+  "GroupID": "fun.qinghuan",
+  "ArtifactID": "ella-boot",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "SHA1": "Of+C7sQsIL0ABFde82sLm+As1K0="
+    },
+    {
+      "Version": "2.0.1.A",
+      "SHA1": "LzA1qIU16/5UPBrbLjhF+PknnDs="
+    },
+    {
+      "Version": "2.0.1.B",
+      "SHA1": "ckLEXFGFUOvY7Fj92WfySLX1ctA="
+    },
+    {
+      "Version": "2.0.1.C",
+      "SHA1": "YUMATvtxxj5+AscS2D9d90uXr64="
+    },
+    {
+      "Version": "2.0.1.E.SNAPSHOTS",
+      "SHA1": "wj4lK0PRBlFwAetp8SXD1g/iwj0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

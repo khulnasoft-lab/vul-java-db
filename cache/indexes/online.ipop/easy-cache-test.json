@@ -1,0 +1,11 @@
+{
+  "GroupID": "online.ipop",
+  "ArtifactID": "easy-cache-test",
+  "Versions": [
+    {
+      "Version": "0.0.1-RELEASE",
+      "SHA1": "GfgJf14nfc/VHcZ+st80R0kLink="
+    }
+  ],
+  "ArchiveType": "jar"
+}

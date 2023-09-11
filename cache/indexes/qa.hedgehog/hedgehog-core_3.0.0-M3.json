@@ -1,0 +1,19 @@
+{
+  "GroupID": "qa.hedgehog",
+  "ArtifactID": "hedgehog-core_3.0.0-M3",
+  "Versions": [
+    {
+      "Version": "0.6.2",
+      "SHA1": "4V0PPi9/xa88YL3CqttQcFrv4Bw="
+    },
+    {
+      "Version": "0.6.3",
+      "SHA1": "dkoWXBoe6y7OGpe/8GZM8BRUxUI="
+    },
+    {
+      "Version": "0.6.4",
+      "SHA1": "Fw9dRAA0VuNXSiROiOdHm9UdNE8="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "gg.pragma",
+  "ArtifactID": "jackson-datatype-protobuf",
+  "Versions": [
+    {
+      "Version": "0.9.13-LongsAsStrings",
+      "SHA1": "MKterlg08g+ZIlJfFp2Z7yFWnGw="
+    },
+    {
+      "Version": "0.9.14",
+      "SHA1": "npPM0wRtNtvBq94ac5nzswzo41A="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,15 @@
+{
+  "GroupID": "se.tada",
+  "ArtifactID": "tada-sax",
+  "Versions": [
+    {
+      "Version": "0.2.1",
+      "SHA1": "43xcDtrBZFNB+K5OwzxAciiFCJs="
+    },
+    {
+      "Version": "1.0.0",
+      "SHA1": "LVbX1A//XbCB15gZ5baEcgn1yw4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

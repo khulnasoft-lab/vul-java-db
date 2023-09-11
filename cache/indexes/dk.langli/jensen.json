@@ -1,0 +1,67 @@
+{
+  "GroupID": "dk.langli",
+  "ArtifactID": "jensen",
+  "Versions": [
+    {
+      "Version": "1.1.0",
+      "SHA1": "FtkxOvBYdAQwCokrunU5Cda5kvo="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "pvW2MjD6eLOc+pbSH+V5/g4h4mE="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "adNMYFwedsNV/QthYv8YxS6pfqo="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "6uBMmkyFq7GbGZ1dVVp4+65qnz0="
+    },
+    {
+      "Version": "1.1.4",
+      "SHA1": "qwUlAg4AJqa99o3Pup92lGhQ+4k="
+    },
+    {
+      "Version": "1.1.5",
+      "SHA1": "Y4hjWVUU58TBo4pKPzVKFeD11co="
+    },
+    {
+      "Version": "1.1.6",
+      "SHA1": "8/Vq5b76Csf3SpYKBjvXBmHXY/w="
+    },
+    {
+      "Version": "1.1.7",
+      "SHA1": "JUpWjga4XO3uSzF11zh6h1izUN4="
+    },
+    {
+      "Version": "1.1.8",
+      "SHA1": "q2xDhH1wbPzRvg1yYb2EQC6zMCA="
+    },
+    {
+      "Version": "1.1.9",
+      "SHA1": "yXFq8pDK+M6qGVAA64CsLXwmRuU="
+    },
+    {
+      "Version": "1.1.10",
+      "SHA1": "ZM4ndnJkOzjh3nf+SQiQgj+iFpg="
+    },
+    {
+      "Version": "1.1.11",
+      "SHA1": "SjuD4y2ZkTUpmXoJ7RHDV4DzXus="
+    },
+    {
+      "Version": "1.1.12",
+      "SHA1": "EkV/kcx6iFfw/xLPZa+o4hZfU9w="
+    },
+    {
+      "Version": "1.1.13",
+      "SHA1": "yIbJGkjx+ShC4SJsEvuh8CqtQXg="
+    },
+    {
+      "Version": "1.1.14",
+      "SHA1": "hgSasZpWy7kpLYZZZ2ZAudWxE9M="
+    }
+  ],
+  "ArchiveType": "jar"
+}

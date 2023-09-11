@@ -1,0 +1,11 @@
+{
+  "GroupID": "exo",
+  "ArtifactID": "exoplatform.services.portlet-container.impl",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "CRb1SRgS+nXEl/j7U2X2gUsUkzs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

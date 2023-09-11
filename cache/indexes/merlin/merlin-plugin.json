@@ -1,0 +1,11 @@
+{
+  "GroupID": "merlin",
+  "ArtifactID": "merlin-plugin",
+  "Versions": [
+    {
+      "Version": "3.3.0",
+      "SHA1": "1gEm2/5pxqeRJkKvNN2wFxuSKHM="
+    }
+  ],
+  "ArchiveType": "jar"
+}

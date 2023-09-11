@@ -1,0 +1,11 @@
+{
+  "GroupID": "charlotte",
+  "ArtifactID": "charlotte",
+  "Versions": [
+    {
+      "Version": "1.0-rc5",
+      "SHA1": "R39XItk3lnHbl5iSQlzPGtZtRl0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

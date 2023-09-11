@@ -1,0 +1,15 @@
+{
+  "GroupID": "vision.id",
+  "ArtifactID": "react-native-webview-slinky_sjs1_2.13",
+  "Versions": [
+    {
+      "Version": "0.1.4",
+      "SHA1": "GhwUsXOkjlwcVpyM0BUGQ7fyn4c="
+    },
+    {
+      "Version": "0.1.5",
+      "SHA1": "c+MPNJB/il6v72TA8lXMmlzCxsk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

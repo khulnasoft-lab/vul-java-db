@@ -1,0 +1,19 @@
+{
+  "GroupID": "ai.gams",
+  "ArtifactID": "gams",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "XxXvVzmJPrq/3KaPnGZG549jjM8="
+    },
+    {
+      "Version": "1.2.1",
+      "SHA1": "yWVlNIRxTXGpT7fPvmVyswD3hHo="
+    },
+    {
+      "Version": "1.2.2",
+      "SHA1": "6QySUB3f20u02soZXD6TywYVwG0="
+    }
+  ],
+  "ArchiveType": "jar"
+}

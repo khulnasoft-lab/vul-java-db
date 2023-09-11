@@ -1,0 +1,27 @@
+{
+  "GroupID": "app.microkit",
+  "ArtifactID": "microkit-java-server-sdk",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "KdJFhQgdC4D8rjA+AYMwz5Ldj+4="
+    },
+    {
+      "Version": "1.0.1",
+      "SHA1": "9o43PmHv8dQg8Q+4T0p7ZVEUcPY="
+    },
+    {
+      "Version": "1.0.2",
+      "SHA1": "E52jJAA9QcmAZeV1ggZygSs1r9k="
+    },
+    {
+      "Version": "1.0.3",
+      "SHA1": "xwwNQnJfJ0lw14oGbHee6OhBeUc="
+    },
+    {
+      "Version": "1.0.4",
+      "SHA1": "ILQxUqvuwOfu35UBtsjCneL8Pjg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

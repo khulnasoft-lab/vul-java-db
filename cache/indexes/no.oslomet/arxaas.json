@@ -1,0 +1,31 @@
+{
+  "GroupID": "no.oslomet",
+  "ArtifactID": "arxaas",
+  "Versions": [
+    {
+      "Version": "0.2.2-RELEASE",
+      "SHA1": "KrfV2s1/c60PD+2wJIsJYx/ZTxg="
+    },
+    {
+      "Version": "0.2.3-RELEASE",
+      "SHA1": "ejpc/RWw/0uwl/+vKY22FjwMgb4="
+    },
+    {
+      "Version": "0.3.0-RELEASE",
+      "SHA1": "NyhilvjpSYY+RcJBe5XCUNDwddE="
+    },
+    {
+      "Version": "0.3.1-RELEASE",
+      "SHA1": "G67JQldm6mNGnaRcYfb6NUtH8zY="
+    },
+    {
+      "Version": "0.3.2-RELEASE",
+      "SHA1": "JFtpDFb5AVWsyoZLpUK+RGGmJxw="
+    },
+    {
+      "Version": "0.3.3-RELEASE",
+      "SHA1": "vKsMk8v4+3pYf6ZwEoanJguYHXw="
+    }
+  ],
+  "ArchiveType": "jar"
+}

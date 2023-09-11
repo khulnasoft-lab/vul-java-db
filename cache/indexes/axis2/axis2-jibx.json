@@ -1,0 +1,11 @@
+{
+  "GroupID": "axis2",
+  "ArtifactID": "axis2-jibx",
+  "Versions": [
+    {
+      "Version": "1.0",
+      "SHA1": "2WBr4kyFAPmjPjnP5FtAFdKhsSE="
+    }
+  ],
+  "ArchiveType": "jar"
+}

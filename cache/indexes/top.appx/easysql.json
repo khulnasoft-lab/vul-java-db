@@ -1,0 +1,11 @@
+{
+  "GroupID": "top.appx",
+  "ArtifactID": "easysql",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "1T9E+RjxzmqZh0lTU64lCodmyDg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

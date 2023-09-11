@@ -1,0 +1,15 @@
+{
+  "GroupID": "sslext",
+  "ArtifactID": "sslext",
+  "Versions": [
+    {
+      "Version": "1.10-4",
+      "SHA1": "auUHviu4OSCs9QUvLIRGaUDLO5E="
+    },
+    {
+      "Version": "1.2-0",
+      "SHA1": "yGp9tKwLxFDmdfPUSz1kzck0Nhs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

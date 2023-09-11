@@ -1,0 +1,23 @@
+{
+  "GroupID": "top.bluesword",
+  "ArtifactID": "sword",
+  "Versions": [
+    {
+      "Version": "2.8.12",
+      "SHA1": "KOdgWzwhRs1IUoUgSyrHgFADQhM="
+    },
+    {
+      "Version": "2.8.13",
+      "SHA1": "b79UfqThFcAODzyde9y0b+Wicy8="
+    },
+    {
+      "Version": "2.8.15",
+      "SHA1": "0FC3TjmEXPH05Gjnz3oled3CMCc="
+    },
+    {
+      "Version": "3.0.9",
+      "SHA1": "/GTOEr6uqQbqZ3aVRnDKj0gmXbI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

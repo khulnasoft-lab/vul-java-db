@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.rlab",
+  "ArtifactID": "tehanu",
+  "Versions": [
+    {
+      "Version": "2.1.0",
+      "SHA1": "j2kyy/NURFpWG1bEcf1oNcnOc14="
+    }
+  ],
+  "ArchiveType": "jar"
+}

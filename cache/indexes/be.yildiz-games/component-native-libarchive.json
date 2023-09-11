@@ -1,0 +1,11 @@
+{
+  "GroupID": "be.yildiz-games",
+  "ArtifactID": "component-native-libarchive",
+  "Versions": [
+    {
+      "Version": "3.6.2.0",
+      "SHA1": "AaWRFpGAbfVUczvjHffr6lTwjTk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,19 @@
+{
+  "GroupID": "fr.diskmth",
+  "ArtifactID": "loggy",
+  "Versions": [
+    {
+      "Version": "1.3",
+      "SHA1": "aHAaUyuC2Yk7C6ijaXQK9OyLZDQ="
+    },
+    {
+      "Version": "1.4-8",
+      "SHA1": "H2yquK20/O7z6uBr4nKb6fSv3XM="
+    },
+    {
+      "Version": "1.4-17",
+      "SHA1": "+5wn82ylR8/oFMPolQXVeAY31qQ="
+    }
+  ],
+  "ArchiveType": "jar"
+}

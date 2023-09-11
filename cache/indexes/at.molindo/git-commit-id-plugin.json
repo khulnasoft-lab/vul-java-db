@@ -1,0 +1,11 @@
+{
+  "GroupID": "at.molindo",
+  "ArtifactID": "git-commit-id-plugin",
+  "Versions": [
+    {
+      "Version": "2.1.10-alpha-1",
+      "SHA1": "1NkXRxbb/MslBVWo316o8G7HJwI="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "kr.sparkweb",
+  "ArtifactID": "mobile-infrastructure-annotation",
+  "Versions": [
+    {
+      "Version": "0.7.0",
+      "SHA1": "NUh+B/sLQrqdrDoK60DgYNAwjn4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

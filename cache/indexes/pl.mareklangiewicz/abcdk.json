@@ -1,0 +1,31 @@
+{
+  "GroupID": "pl.mareklangiewicz",
+  "ArtifactID": "abcdk",
+  "Versions": [
+    {
+      "Version": "0.0.06",
+      "SHA1": "u9+9kOcqqArDnWbLmIPjniZS0Oo="
+    },
+    {
+      "Version": "0.0.07",
+      "SHA1": "OE83UTWlASFC48aKNVHvBz9BDrY="
+    },
+    {
+      "Version": "0.0.08",
+      "SHA1": "GEQFErw9BscwgHGlsBIsak7XeBs="
+    },
+    {
+      "Version": "0.0.09",
+      "SHA1": "0gIbYmpErfpr2H+gb/+i7OhRt3c="
+    },
+    {
+      "Version": "0.0.11",
+      "SHA1": "0gIbYmpErfpr2H+gb/+i7OhRt3c="
+    },
+    {
+      "Version": "0.0.14",
+      "SHA1": "apmYVpQjhZlFe/kXsWGVfb2vsCk="
+    }
+  ],
+  "ArchiveType": "jar"
+}

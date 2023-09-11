@@ -1,0 +1,31 @@
+{
+  "GroupID": "software.amazon.sns",
+  "ArtifactID": "sns-extended-client",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "W7E/XCQ/C2qnLeywV9PuZbkXm9M="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "mL/+gnwARjPPvqxWet8Dh2j7W/E="
+    },
+    {
+      "Version": "1.1.2",
+      "SHA1": "k3Cq9S29rfqWbuvlYwhUy1ZNHg0="
+    },
+    {
+      "Version": "1.1.3",
+      "SHA1": "34gvSExl5T1dYByYyu+iLxSOhW8="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "sw3KIDwZ3T+XbzwxqKYWfxHWtGk="
+    },
+    {
+      "Version": "2.0.1",
+      "SHA1": "sVNNbFVK1iuIPrMGM35ER86bL0U="
+    }
+  ],
+  "ArchiveType": "jar"
+}

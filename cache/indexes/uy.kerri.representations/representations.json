@@ -1,0 +1,39 @@
+{
+  "GroupID": "uy.kerri.representations",
+  "ArtifactID": "representations",
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "SHA1": "Y6T264/bw1N5IdfUaK6ieB0Jfa4="
+    },
+    {
+      "Version": "1.1.1",
+      "SHA1": "Kt2RiEyrq7jnzla276wNqRPLEQU="
+    },
+    {
+      "Version": "1.2.0",
+      "SHA1": "WoSmn6uAfrIxU82z0iBPvOd99OE="
+    },
+    {
+      "Version": "2.0.0",
+      "SHA1": "8wvwS9Mz8opuM/EmTBdn1yBOraM="
+    },
+    {
+      "Version": "2.1.0",
+      "SHA1": "sDZkqlHMTFrZATlJO8Ijoq0Euhs="
+    },
+    {
+      "Version": "2.1.1",
+      "SHA1": "TQfOGMyPR/0keu4Z01QOzpfSs9U="
+    },
+    {
+      "Version": "2.2.0",
+      "SHA1": "5XJg476xudN0fuGXdSCDerMOsWQ="
+    },
+    {
+      "Version": "2.2.1",
+      "SHA1": "d9eEG/8ktgWvWyyd50IXn1pJKPU="
+    }
+  ],
+  "ArchiveType": "jar"
+}

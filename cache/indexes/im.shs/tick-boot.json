@@ -1,0 +1,15 @@
+{
+  "GroupID": "im.shs",
+  "ArtifactID": "tick-boot",
+  "Versions": [
+    {
+      "Version": "3.0.0.0",
+      "SHA1": "wU3um+62mdmBGalTLnZaiFPc/2o="
+    },
+    {
+      "Version": "3.0.0.1",
+      "SHA1": "IS6l85GPNrpNXl9ipAP01pBD7Yc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

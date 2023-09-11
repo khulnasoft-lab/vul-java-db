@@ -1,0 +1,11 @@
+{
+  "GroupID": "ie.boboco",
+  "ArtifactID": "play-json-service-lib-2-4_2.11",
+  "Versions": [
+    {
+      "Version": "1.2.0",
+      "SHA1": "zTQlQyJxr/9rrTYkNlz82LYmaj4="
+    }
+  ],
+  "ArchiveType": "jar"
+}

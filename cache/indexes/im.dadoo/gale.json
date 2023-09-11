@@ -1,0 +1,19 @@
+{
+  "GroupID": "im.dadoo",
+  "ArtifactID": "gale",
+  "Versions": [
+    {
+      "Version": "0.1",
+      "SHA1": "l5dPzs3fVQ+4VmD6lt/2hKjkmFg="
+    },
+    {
+      "Version": "0.3",
+      "SHA1": "obSZhAS2hbt99DdmSUPdrK3NaEU="
+    },
+    {
+      "Version": "0.5",
+      "SHA1": "tOcRLj/GuEowcT3J+z7tryN16wg="
+    }
+  ],
+  "ArchiveType": "jar"
+}

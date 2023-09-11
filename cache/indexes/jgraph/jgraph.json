@@ -1,0 +1,19 @@
+{
+  "GroupID": "jgraph",
+  "ArtifactID": "jgraph",
+  "Versions": [
+    {
+      "Version": "1.0.6",
+      "SHA1": "9XXBrHQJ8mGgr20awylG78qDMBE="
+    },
+    {
+      "Version": "5.0.4",
+      "SHA1": "1SC75ev8QGhCINvGhnQN0Fs7Xgw="
+    },
+    {
+      "Version": "5.5.1",
+      "SHA1": "+K61OkJFRP0EIHezU5S8WOh3FPc="
+    }
+  ],
+  "ArchiveType": "jar"
+}

@@ -1,0 +1,11 @@
+{
+  "GroupID": "mule",
+  "ArtifactID": "mule-extras-tyrex",
+  "Versions": [
+    {
+      "Version": "1.0-rc3",
+      "SHA1": "10FJKWiSbuiE4WpxrkNcZIE+dbs="
+    }
+  ],
+  "ArchiveType": "jar"
+}

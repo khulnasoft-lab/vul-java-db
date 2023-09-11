@@ -1,0 +1,11 @@
+{
+  "GroupID": "cc.springworks",
+  "ArtifactID": "springworks-boot-starter",
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "SHA1": "S4zUg5q9Mbgq2wf9u49AfpLPGv0="
+    }
+  ],
+  "ArchiveType": "jar"
+}
